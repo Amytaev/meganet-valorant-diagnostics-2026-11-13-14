@@ -1,0 +1,194 @@
+{
+  "intervals": [
+    {
+      "id": "M001",
+      "source": "20261114-141126-ee9e460b",
+      "start_utc": "2026-11-14T09:14:08.511+00:00",
+      "end_utc": "2026-11-14T09:14:15.215+00:00",
+      "spike_presses": 2,
+      "button_span_seconds": 6.704
+    },
+    {
+      "id": "M002",
+      "source": "20261114-141126-ee9e460b",
+      "start_utc": "2026-11-14T09:15:38.130+00:00",
+      "end_utc": "2026-11-14T09:15:41.905+00:00",
+      "spike_presses": 1,
+      "button_span_seconds": 3.775
+    },
+    {
+      "id": "M003",
+      "source": "20261114-141126-ee9e460b",
+      "start_utc": "2026-11-14T09:15:47.842+00:00",
+      "end_utc": "2026-11-14T09:15:53.398+00:00",
+      "spike_presses": 1,
+      "button_span_seconds": 5.556
+    },
+    {
+      "id": "M004",
+      "source": "20261114-141126-ee9e460b",
+      "start_utc": "2026-11-14T09:18:24.786+00:00",
+      "end_utc": "2026-11-14T09:18:28.695+00:00",
+      "spike_presses": 1,
+      "button_span_seconds": 3.909
+    },
+    {
+      "id": "M005",
+      "source": "20261114-141126-ee9e460b",
+      "start_utc": "2026-11-14T09:18:30.538+00:00",
+      "end_utc": "2026-11-14T09:18:31.469+00:00",
+      "spike_presses": 1,
+      "button_span_seconds": 0.931
+    },
+    {
+      "id": "M006",
+      "source": "20261114-141126-ee9e460b",
+      "start_utc": "2026-11-14T09:18:33.737+00:00",
+      "end_utc": "2026-11-14T09:18:39.010+00:00",
+      "spike_presses": 1,
+      "button_span_seconds": 5.273
+    },
+    {
+      "id": "M007",
+      "source": "20261114-141126-ee9e460b",
+      "start_utc": "2026-11-14T09:19:15.263+00:00",
+      "end_utc": "2026-11-14T09:19:44.018+00:00",
+      "spike_presses": 24,
+      "button_span_seconds": 28.755
+    },
+    {
+      "id": "M008",
+      "source": "20261114-141126-ee9e460b",
+      "start_utc": "2026-11-14T09:19:46.550+00:00",
+      "end_utc": "2026-11-14T09:19:47.437+00:00",
+      "spike_presses": 1,
+      "button_span_seconds": 0.887
+    },
+    {
+      "id": "M009",
+      "source": "20261114-141126-ee9e460b",
+      "start_utc": "2026-11-14T09:19:48.123+00:00",
+      "end_utc": "2026-11-14T09:19:49.206+00:00",
+      "spike_presses": 1,
+      "button_span_seconds": 1.083
+    },
+    {
+      "id": "M010",
+      "source": "20261114-141126-ee9e460b",
+      "start_utc": "2026-11-14T09:19:50.437+00:00",
+      "end_utc": "2026-11-14T09:19:52.921+00:00",
+      "spike_presses": 3,
+      "button_span_seconds": 2.484
+    },
+    {
+      "id": "M011",
+      "source": "20261114-141126-ee9e460b",
+      "start_utc": "2026-11-14T09:20:02.542+00:00",
+      "end_utc": "2026-11-14T09:20:06.479+00:00",
+      "spike_presses": 5,
+      "button_span_seconds": 3.937
+    },
+    {
+      "id": "M012",
+      "source": "20261114-141126-ee9e460b",
+      "start_utc": "2026-11-14T09:20:07.794+00:00",
+      "end_utc": "2026-11-14T09:20:28.209+00:00",
+      "spike_presses": 27,
+      "button_span_seconds": 20.415
+    },
+    {
+      "id": "M013",
+      "source": "20261114-141126-ee9e460b",
+      "start_utc": "2026-11-14T09:21:17.755+00:00",
+      "end_utc": "2026-11-14T09:21:30.367+00:00",
+      "spike_presses": 11,
+      "button_span_seconds": 12.612
+    },
+    {
+      "id": "M014",
+      "source": "20261114-141126-ee9e460b",
+      "start_utc": "2026-11-14T09:21:38.719+00:00",
+      "end_utc": "2026-11-14T09:21:40.632+00:00",
+      "spike_presses": 1,
+      "button_span_seconds": 1.913
+    },
+    {
+      "id": "M015",
+      "source": "20261114-141126-ee9e460b",
+      "start_utc": "2026-11-14T09:21:41.553+00:00",
+      "end_utc": "2026-11-14T09:22:15.150+00:00",
+      "spike_presses": 12,
+      "button_span_seconds": 33.597
+    },
+    {
+      "id": "M016",
+      "source": "20261114-141126-ee9e460b",
+      "start_utc": "2026-11-14T09:24:57.865+00:00",
+      "end_utc": "2026-11-14T09:25:00.763+00:00",
+      "spike_presses": 2,
+      "button_span_seconds": 2.898
+    },
+    {
+      "id": "M017",
+      "source": "20261114-141126-ee9e460b",
+      "start_utc": "2026-11-14T09:25:12.754+00:00",
+      "end_utc": "2026-11-14T09:25:14.471+00:00",
+      "spike_presses": 1,
+      "button_span_seconds": 1.717
+    },
+    {
+      "id": "M018",
+      "source": "20261114-141126-ee9e460b",
+      "start_utc": "2026-11-14T09:25:25.336+00:00",
+      "end_utc": "2026-11-14T09:25:27.201+00:00",
+      "spike_presses": 2,
+      "button_span_seconds": 1.865
+    },
+    {
+      "id": "M019",
+      "source": "20261114-141126-ee9e460b",
+      "start_utc": "2026-11-14T09:27:50.587+00:00",
+      "end_utc": "2026-11-14T09:48:19.919+00:00",
+      "spike_presses": 9,
+      "button_span_seconds": 1229.332
+    },
+    {
+      "id": "M020",
+      "source": "20261114-141126-ee9e460b",
+      "start_utc": "2026-11-14T09:48:40.169+00:00",
+      "end_utc": null,
+      "spike_presses": 1,
+      "button_span_seconds": null
+    }
+  ],
+  "unpaired_recovery_markers": [
+    {
+      "source_run": "20261114-141126-ee9e460b",
+      "seq": 2212,
+      "time_utc": "2026-11-14T09:25:09.401+00:00",
+      "observed_utc": "2026-11-14T09:25:09.381+00:00",
+      "event": "recovery",
+      "source_kind": "RegisterHotKey",
+      "eligible": true
+    },
+    {
+      "source_run": "20261114-163240-f28706ce",
+      "seq": 78971,
+      "time_utc": "2026-11-14T20:09:22.349+00:00",
+      "observed_utc": "2026-11-14T20:09:22.333+00:00",
+      "event": "recovery",
+      "source_kind": "RegisterHotKey",
+      "eligible": true
+    },
+    {
+      "source_run": "20261114-163240-f28706ce",
+      "seq": 81937,
+      "time_utc": "2026-11-14T20:28:46.977+00:00",
+      "observed_utc": "2026-11-14T20:28:46.934+00:00",
+      "event": "recovery",
+      "source_kind": "RegisterHotKey",
+      "eligible": true
+    }
+  ],
+  "timing_limit": "Button-to-button duration is not the duration of a measured game RTT level."
+}

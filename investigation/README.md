@@ -1,5 +1,7 @@
 # VALORANT × Meganet — network investigation
 
+**RTT 90–180, 15 ноября:** [новый отдельный полный анализ](reports/VALORANT-RTT-90-180-ANALYSIS.md), все 263 числовых события, 6 графиков, контрольные/FPS/нагрузочные сопоставления и ограничения Beeline/Meganet. Новые локальные источники расширяют RRT.
+
 **Дополнение 15 ноября:** [RRT-анализ](reports/RIOT-RRT-LOG-ANALYSIS.md), числовые игровые события и контрольные окна, отдельные [Meganet](reports/MEGANET-RRT-BRIEF.md) / [Riot](reports/RIOT-SUPPORT-RRT-BRIEF.md) сводки. Исходники RRT и чувствительные поля не публикуются; конкретная причина не установлена.
 
 **Private-source follow-up (public data is a frozen snapshot):** a new user-started match is being monitored continuously from 16:32:40 (+05:00), 14 November; run `20261114-163240-f28706ce`. The previous daytime run below is finalized. A separate [Meganet engineer package](reports/meganet-package-2026-11-14/README.md) contains completed finite ping/tracert results and Anycast/SDR limitations.

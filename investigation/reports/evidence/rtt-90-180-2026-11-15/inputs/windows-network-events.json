@@ -1,0 +1,106 @@
+﻿{
+    "queried_utc":  "2026-11-14T22:26:12.2755103Z",
+    "method":  "read existing event logs; no rendered messages, computer/account names, SSID, MAC or GUID exported",
+    "groups":  [
+                   {
+                       "log":  "Microsoft-Windows-WLAN-AutoConfig/Operational",
+                       "start_utc":  "2026-11-12T19:00:00.0000000Z",
+                       "end_utc":  "2026-11-14T22:26:11.2221351Z",
+                       "enabled":  true,
+                       "state":  "events_found",
+                       "events":  [
+                                      {
+                                          "time_utc":  "2026-11-13T07:15:33.3728917Z",
+                                          "event_id":  8001,
+                                          "level":  4,
+                                          "provider":  "Microsoft-Windows-WLAN-AutoConfig",
+                                          "numeric_codes":  {
+
+                                                            }
+                                      },
+                                      {
+                                          "time_utc":  "2026-11-13T07:15:33.1299260Z",
+                                          "event_id":  11005,
+                                          "level":  4,
+                                          "provider":  "Microsoft-Windows-WLAN-AutoConfig",
+                                          "numeric_codes":  {
+
+                                                            }
+                                      },
+                                      {
+                                          "time_utc":  "2026-11-13T07:15:33.0874251Z",
+                                          "event_id":  11010,
+                                          "level":  4,
+                                          "provider":  "Microsoft-Windows-WLAN-AutoConfig",
+                                          "numeric_codes":  {
+
+                                                            }
+                                      },
+                                      {
+                                          "time_utc":  "2026-11-13T07:15:33.0874161Z",
+                                          "event_id":  11001,
+                                          "level":  4,
+                                          "provider":  "Microsoft-Windows-WLAN-AutoConfig",
+                                          "numeric_codes":  {
+
+                                                            }
+                                      },
+                                      {
+                                          "time_utc":  "2026-11-13T07:15:32.0972624Z",
+                                          "event_id":  11000,
+                                          "level":  4,
+                                          "provider":  "Microsoft-Windows-WLAN-AutoConfig",
+                                          "numeric_codes":  {
+
+                                                            }
+                                      },
+                                      {
+                                          "time_utc":  "2026-11-13T07:15:32.0325582Z",
+                                          "event_id":  8000,
+                                          "level":  4,
+                                          "provider":  "Microsoft-Windows-WLAN-AutoConfig",
+                                          "numeric_codes":  {
+
+                                                            }
+                                      },
+                                      {
+                                          "time_utc":  "2026-11-13T07:15:32.0040656Z",
+                                          "event_id":  8011,
+                                          "level":  4,
+                                          "provider":  "Microsoft-Windows-WLAN-AutoConfig",
+                                          "numeric_codes":  {
+
+                                                            }
+                                      },
+                                      {
+                                          "time_utc":  "2026-11-13T04:53:24.0743846Z",
+                                          "event_id":  8003,
+                                          "level":  4,
+                                          "provider":  "Microsoft-Windows-WLAN-AutoConfig",
+                                          "numeric_codes":  {
+                                                                "ReasonCode":  0
+                                                            }
+                                      },
+                                      {
+                                          "time_utc":  "2026-11-13T04:53:23.5890966Z",
+                                          "event_id":  11004,
+                                          "level":  4,
+                                          "provider":  "Microsoft-Windows-WLAN-AutoConfig",
+                                          "numeric_codes":  {
+
+                                                            }
+                                      }
+                                  ]
+                   },
+                   {
+                       "log":  "System",
+                       "start_utc":  "2026-11-12T19:00:00.0000000Z",
+                       "end_utc":  "2026-11-14T22:26:11.2221351Z",
+                       "enabled":  true,
+                       "state":  "no_matching_events",
+                       "events":  [
+
+                                  ]
+                   }
+               ]
+}

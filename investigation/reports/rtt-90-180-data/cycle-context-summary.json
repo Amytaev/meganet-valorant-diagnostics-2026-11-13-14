@@ -1,0 +1,21 @@
+{
+  "all_valid_five_target_cycles": 21961,
+  "cycles_during_logged_connections": 3542,
+  "event_adjacent_cycles": 223,
+  "other_connection_cycles": 3319,
+  "event_adjacent_classes": {
+    "all_controls_below_threshold": 207,
+    "gateway_control_anomaly": 6,
+    "retn_only_control_anomaly": 9,
+    "near_without_gateway_anomaly": 1
+  },
+  "other_connection_classes": {
+    "all_controls_below_threshold": 3261,
+    "retn_only_control_anomaly": 50,
+    "near_without_gateway_anomaly": 1,
+    "gateway_control_anomaly": 6,
+    "public_without_near_anomaly": 1
+  },
+  "not_a_causal_or_independent_statistical_test": true,
+  "comparison_limit": "Other cycles have unknown game RTT; they are not labelled normal. Adjacent windows are unioned, not counted repeatedly."
+}

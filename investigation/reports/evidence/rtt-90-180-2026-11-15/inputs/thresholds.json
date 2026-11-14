@@ -1,0 +1,38 @@
+{
+  "87.245.234.191": {
+    "threshold_ms": 100,
+    "median_ms": 85,
+    "p95_ms": 90,
+    "samples": 299
+  },
+  "192.168.123.1": {
+    "threshold_ms": 15,
+    "median_ms": 2,
+    "p95_ms": 5,
+    "samples": 299
+  },
+  "87.245.238.34": {
+    "threshold_ms": 109,
+    "median_ms": 93,
+    "p95_ms": 99,
+    "samples": 299
+  },
+  "89.38.164.205": {
+    "threshold_ms": 16,
+    "median_ms": 3,
+    "p95_ms": 6,
+    "samples": 299
+  },
+  "1.1.1.1": {
+    "threshold_ms": 38,
+    "median_ms": 23,
+    "p95_ms": 28,
+    "samples": 299
+  },
+  "87.245.233.166": {
+    "threshold_ms": 106,
+    "median_ms": 92,
+    "p95_ms": 96,
+    "samples": 149
+  }
+}

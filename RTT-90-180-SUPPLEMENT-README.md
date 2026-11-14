@@ -1,0 +1,13 @@
+# Полное дополнение: игровой RTT 90–180 мс, 13–15 ноября 2026
+
+[Полный отчёт с таблицей 263 точек](investigation/reports/VALORANT-RTT-90-180-ANALYSIS.md) · [HTML с шестью встроенными графиками](investigation/reports/VALORANT-RTT-90-180-ANALYSIS.html).
+
+Важное ограничение: числовые записи пороговые, 120,00–172,31 мс. Ни непрерывная серия 90–119,99, ни baseline/duration отдельных скачков не придуманы. 71 точка имеет полные ±4-секундные ICMP-окна: 58 QUIET и 13 с контрольными отклонениями. 192 не имеют достаточного покрытия. Beeline/Meganet парной числовой серии нет; конкретная причина различия пока не установлена.
+
+- [Inputs](investigation/reports/evidence/rtt-90-180-2026-11-15/inputs/): все 110495 просмотренных ICMP строк с eligibility flags, типизированные игровые записи, обезличенные Wi-Fi/счётчики, метки, Windows event metadata.
+- [Полные результаты](investigation/reports/rtt-90-180-data/): 263 контекста, CSV, последовательные точки, соединения, контрольные циклы и проверка чувствительности окон.
+- [Независимые проверки](investigation/reports/evidence/rtt-90-180-2026-11-15/VALIDATION.json), [публичный состав](RTT-90-180-PUBLIC-VALIDATION.json), [SHA-256 этого дополнения](RTT-90-180-SUPPLEMENT-SHA256SUMS.txt).
+
+Из каталога investigation: `python scripts/analyze_rtt_90_180.py analyze --inputs reports/evidence/rtt-90-180-2026-11-15/inputs --output <новый-каталог>`; это только офлайн-анализ. Исходный Python parser и тесты включены, сторонних пакетов не требуется. Скрипт чтения Windows events сам по себе не запускается и не нужен для replay.
+
+Raw RRT/ShooterGame, авторизация, player/account identifiers и личные сетевые идентификаторы не включены. Никаких обращений поддержке или новых сетевых тестов не выполнялось. Ранее запущенный монитор не останавливался. Часть ссылок Markdown на прежние материалы предполагает [полный публичный репозиторий](https://github.com/Amytaev/meganet-valorant-diagnostics-2026-11-13-14); HTML содержит прямые ссылки GitHub. Старые ping/tracert и ZIP остаются отдельными историческими срезами.

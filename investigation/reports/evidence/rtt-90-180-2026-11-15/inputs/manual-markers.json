@@ -1,0 +1,1217 @@
+[
+  {
+    "source_run": "20261114-004711-625146fb",
+    "seq": 2740,
+    "time_utc": "2026-11-13T20:04:59.009+00:00",
+    "observed_utc": "2026-11-13T20:04:58.948+00:00",
+    "event": "note",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 418,
+    "time_utc": "2026-11-14T09:14:08.558+00:00",
+    "observed_utc": "2026-11-14T09:14:08.511+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 429,
+    "time_utc": "2026-11-14T09:14:11.729+00:00",
+    "observed_utc": "2026-11-14T09:14:11.696+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 440,
+    "time_utc": "2026-11-14T09:14:15.219+00:00",
+    "observed_utc": "2026-11-14T09:14:15.215+00:00",
+    "event": "recovery",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 649,
+    "time_utc": "2026-11-14T09:15:38.175+00:00",
+    "observed_utc": "2026-11-14T09:15:38.130+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 660,
+    "time_utc": "2026-11-14T09:15:41.908+00:00",
+    "observed_utc": "2026-11-14T09:15:41.905+00:00",
+    "event": "recovery",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 676,
+    "time_utc": "2026-11-14T09:15:47.884+00:00",
+    "observed_utc": "2026-11-14T09:15:47.842+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 692,
+    "time_utc": "2026-11-14T09:15:53.421+00:00",
+    "observed_utc": "2026-11-14T09:15:53.398+00:00",
+    "event": "recovery",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1078,
+    "time_utc": "2026-11-14T09:18:24.811+00:00",
+    "observed_utc": "2026-11-14T09:18:24.786+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1089,
+    "time_utc": "2026-11-14T09:18:28.728+00:00",
+    "observed_utc": "2026-11-14T09:18:28.695+00:00",
+    "event": "recovery",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1094,
+    "time_utc": "2026-11-14T09:18:30.599+00:00",
+    "observed_utc": "2026-11-14T09:18:30.538+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1097,
+    "time_utc": "2026-11-14T09:18:31.531+00:00",
+    "observed_utc": "2026-11-14T09:18:31.469+00:00",
+    "event": "recovery",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1103,
+    "time_utc": "2026-11-14T09:18:33.768+00:00",
+    "observed_utc": "2026-11-14T09:18:33.737+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1119,
+    "time_utc": "2026-11-14T09:18:39.070+00:00",
+    "observed_utc": "2026-11-14T09:18:39.010+00:00",
+    "event": "recovery",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1211,
+    "time_utc": "2026-11-14T09:19:15.274+00:00",
+    "observed_utc": "2026-11-14T09:19:15.263+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1238,
+    "time_utc": "2026-11-14T09:19:25.590+00:00",
+    "observed_utc": "2026-11-14T09:19:25.532+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1244,
+    "time_utc": "2026-11-14T09:19:27.023+00:00",
+    "observed_utc": "2026-11-14T09:19:27.011+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1245,
+    "time_utc": "2026-11-14T09:19:27.709+00:00",
+    "observed_utc": "2026-11-14T09:19:27.662+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1246,
+    "time_utc": "2026-11-14T09:19:28.395+00:00",
+    "observed_utc": "2026-11-14T09:19:28.342+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1252,
+    "time_utc": "2026-11-14T09:19:29.081+00:00",
+    "observed_utc": "2026-11-14T09:19:29.077+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1254,
+    "time_utc": "2026-11-14T09:19:29.766+00:00",
+    "observed_utc": "2026-11-14T09:19:29.761+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1255,
+    "time_utc": "2026-11-14T09:19:30.513+00:00",
+    "observed_utc": "2026-11-14T09:19:30.476+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1261,
+    "time_utc": "2026-11-14T09:19:31.263+00:00",
+    "observed_utc": "2026-11-14T09:19:31.234+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1262,
+    "time_utc": "2026-11-14T09:19:32.010+00:00",
+    "observed_utc": "2026-11-14T09:19:31.955+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1268,
+    "time_utc": "2026-11-14T09:19:32.694+00:00",
+    "observed_utc": "2026-11-14T09:19:32.651+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1269,
+    "time_utc": "2026-11-14T09:19:33.446+00:00",
+    "observed_utc": "2026-11-14T09:19:33.384+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1270,
+    "time_utc": "2026-11-14T09:19:34.253+00:00",
+    "observed_utc": "2026-11-14T09:19:34.237+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1276,
+    "time_utc": "2026-11-14T09:19:35.064+00:00",
+    "observed_utc": "2026-11-14T09:19:35.007+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1277,
+    "time_utc": "2026-11-14T09:19:35.994+00:00",
+    "observed_utc": "2026-11-14T09:19:35.956+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1283,
+    "time_utc": "2026-11-14T09:19:36.679+00:00",
+    "observed_utc": "2026-11-14T09:19:36.650+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1284,
+    "time_utc": "2026-11-14T09:19:37.424+00:00",
+    "observed_utc": "2026-11-14T09:19:37.413+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1285,
+    "time_utc": "2026-11-14T09:19:38.104+00:00",
+    "observed_utc": "2026-11-14T09:19:38.100+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1291,
+    "time_utc": "2026-11-14T09:19:38.848+00:00",
+    "observed_utc": "2026-11-14T09:19:38.842+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1292,
+    "time_utc": "2026-11-14T09:19:39.473+00:00",
+    "observed_utc": "2026-11-14T09:19:39.469+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1293,
+    "time_utc": "2026-11-14T09:19:40.281+00:00",
+    "observed_utc": "2026-11-14T09:19:40.271+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1299,
+    "time_utc": "2026-11-14T09:19:41.034+00:00",
+    "observed_utc": "2026-11-14T09:19:40.988+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1300,
+    "time_utc": "2026-11-14T09:19:41.719+00:00",
+    "observed_utc": "2026-11-14T09:19:41.704+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1301,
+    "time_utc": "2026-11-14T09:19:42.469+00:00",
+    "observed_utc": "2026-11-14T09:19:42.413+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1307,
+    "time_utc": "2026-11-14T09:19:44.022+00:00",
+    "observed_utc": "2026-11-14T09:19:44.018+00:00",
+    "event": "recovery",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1316,
+    "time_utc": "2026-11-14T09:19:46.574+00:00",
+    "observed_utc": "2026-11-14T09:19:46.550+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1319,
+    "time_utc": "2026-11-14T09:19:47.444+00:00",
+    "observed_utc": "2026-11-14T09:19:47.437+00:00",
+    "event": "recovery",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1320,
+    "time_utc": "2026-11-14T09:19:48.131+00:00",
+    "observed_utc": "2026-11-14T09:19:48.123+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1326,
+    "time_utc": "2026-11-14T09:19:49.249+00:00",
+    "observed_utc": "2026-11-14T09:19:49.206+00:00",
+    "event": "recovery",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1327,
+    "time_utc": "2026-11-14T09:19:50.489+00:00",
+    "observed_utc": "2026-11-14T09:19:50.437+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1333,
+    "time_utc": "2026-11-14T09:19:51.112+00:00",
+    "observed_utc": "2026-11-14T09:19:51.107+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1334,
+    "time_utc": "2026-11-14T09:19:51.862+00:00",
+    "observed_utc": "2026-11-14T09:19:51.846+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1340,
+    "time_utc": "2026-11-14T09:19:52.975+00:00",
+    "observed_utc": "2026-11-14T09:19:52.921+00:00",
+    "event": "recovery",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1365,
+    "time_utc": "2026-11-14T09:20:02.582+00:00",
+    "observed_utc": "2026-11-14T09:20:02.542+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1368,
+    "time_utc": "2026-11-14T09:20:03.328+00:00",
+    "observed_utc": "2026-11-14T09:20:03.284+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1369,
+    "time_utc": "2026-11-14T09:20:04.076+00:00",
+    "observed_utc": "2026-11-14T09:20:04.027+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1375,
+    "time_utc": "2026-11-14T09:20:05.136+00:00",
+    "observed_utc": "2026-11-14T09:20:05.096+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1376,
+    "time_utc": "2026-11-14T09:20:05.882+00:00",
+    "observed_utc": "2026-11-14T09:20:05.868+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1377,
+    "time_utc": "2026-11-14T09:20:06.506+00:00",
+    "observed_utc": "2026-11-14T09:20:06.479+00:00",
+    "event": "recovery",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1383,
+    "time_utc": "2026-11-14T09:20:07.811+00:00",
+    "observed_utc": "2026-11-14T09:20:07.794+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1389,
+    "time_utc": "2026-11-14T09:20:08.994+00:00",
+    "observed_utc": "2026-11-14T09:20:08.969+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1390,
+    "time_utc": "2026-11-14T09:20:09.679+00:00",
+    "observed_utc": "2026-11-14T09:20:09.625+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1391,
+    "time_utc": "2026-11-14T09:20:10.360+00:00",
+    "observed_utc": "2026-11-14T09:20:10.344+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1397,
+    "time_utc": "2026-11-14T09:20:11.105+00:00",
+    "observed_utc": "2026-11-14T09:20:11.046+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1398,
+    "time_utc": "2026-11-14T09:20:11.855+00:00",
+    "observed_utc": "2026-11-14T09:20:11.807+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1402,
+    "time_utc": "2026-11-14T09:20:12.601+00:00",
+    "observed_utc": "2026-11-14T09:20:12.575+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1405,
+    "time_utc": "2026-11-14T09:20:13.351+00:00",
+    "observed_utc": "2026-11-14T09:20:13.310+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1406,
+    "time_utc": "2026-11-14T09:20:14.035+00:00",
+    "observed_utc": "2026-11-14T09:20:14.025+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1412,
+    "time_utc": "2026-11-14T09:20:14.783+00:00",
+    "observed_utc": "2026-11-14T09:20:14.737+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1413,
+    "time_utc": "2026-11-14T09:20:15.537+00:00",
+    "observed_utc": "2026-11-14T09:20:15.520+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1414,
+    "time_utc": "2026-11-14T09:20:16.337+00:00",
+    "observed_utc": "2026-11-14T09:20:16.306+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1420,
+    "time_utc": "2026-11-14T09:20:17.081+00:00",
+    "observed_utc": "2026-11-14T09:20:17.079+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1421,
+    "time_utc": "2026-11-14T09:20:17.889+00:00",
+    "observed_utc": "2026-11-14T09:20:17.867+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1427,
+    "time_utc": "2026-11-14T09:20:18.634+00:00",
+    "observed_utc": "2026-11-14T09:20:18.616+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1428,
+    "time_utc": "2026-11-14T09:20:19.376+00:00",
+    "observed_utc": "2026-11-14T09:20:19.371+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1429,
+    "time_utc": "2026-11-14T09:20:20.125+00:00",
+    "observed_utc": "2026-11-14T09:20:20.087+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1435,
+    "time_utc": "2026-11-14T09:20:20.812+00:00",
+    "observed_utc": "2026-11-14T09:20:20.808+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1436,
+    "time_utc": "2026-11-14T09:20:21.562+00:00",
+    "observed_utc": "2026-11-14T09:20:21.508+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1437,
+    "time_utc": "2026-11-14T09:20:22.184+00:00",
+    "observed_utc": "2026-11-14T09:20:22.181+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1443,
+    "time_utc": "2026-11-14T09:20:22.929+00:00",
+    "observed_utc": "2026-11-14T09:20:22.875+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1444,
+    "time_utc": "2026-11-14T09:20:23.613+00:00",
+    "observed_utc": "2026-11-14T09:20:23.558+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1445,
+    "time_utc": "2026-11-14T09:20:24.299+00:00",
+    "observed_utc": "2026-11-14T09:20:24.258+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1451,
+    "time_utc": "2026-11-14T09:20:24.982+00:00",
+    "observed_utc": "2026-11-14T09:20:24.933+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1452,
+    "time_utc": "2026-11-14T09:20:25.666+00:00",
+    "observed_utc": "2026-11-14T09:20:25.625+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1453,
+    "time_utc": "2026-11-14T09:20:26.422+00:00",
+    "observed_utc": "2026-11-14T09:20:26.374+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1459,
+    "time_utc": "2026-11-14T09:20:27.111+00:00",
+    "observed_utc": "2026-11-14T09:20:27.084+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1460,
+    "time_utc": "2026-11-14T09:20:28.223+00:00",
+    "observed_utc": "2026-11-14T09:20:28.209+00:00",
+    "event": "recovery",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1588,
+    "time_utc": "2026-11-14T09:21:17.787+00:00",
+    "observed_utc": "2026-11-14T09:21:17.755+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1595,
+    "time_utc": "2026-11-14T09:21:18.593+00:00",
+    "observed_utc": "2026-11-14T09:21:18.560+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1600,
+    "time_utc": "2026-11-14T09:21:19.337+00:00",
+    "observed_utc": "2026-11-14T09:21:19.280+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1601,
+    "time_utc": "2026-11-14T09:21:20.084+00:00",
+    "observed_utc": "2026-11-14T09:21:20.033+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1607,
+    "time_utc": "2026-11-14T09:21:20.892+00:00",
+    "observed_utc": "2026-11-14T09:21:20.852+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1608,
+    "time_utc": "2026-11-14T09:21:21.639+00:00",
+    "observed_utc": "2026-11-14T09:21:21.610+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1619,
+    "time_utc": "2026-11-14T09:21:25.096+00:00",
+    "observed_utc": "2026-11-14T09:21:25.033+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1620,
+    "time_utc": "2026-11-14T09:21:26.339+00:00",
+    "observed_utc": "2026-11-14T09:21:26.278+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1626,
+    "time_utc": "2026-11-14T09:21:27.330+00:00",
+    "observed_utc": "2026-11-14T09:21:27.276+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1627,
+    "time_utc": "2026-11-14T09:21:28.265+00:00",
+    "observed_utc": "2026-11-14T09:21:28.209+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1633,
+    "time_utc": "2026-11-14T09:21:29.134+00:00",
+    "observed_utc": "2026-11-14T09:21:29.094+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1635,
+    "time_utc": "2026-11-14T09:21:30.382+00:00",
+    "observed_utc": "2026-11-14T09:21:30.367+00:00",
+    "event": "recovery",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1661,
+    "time_utc": "2026-11-14T09:21:38.775+00:00",
+    "observed_utc": "2026-11-14T09:21:38.719+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1667,
+    "time_utc": "2026-11-14T09:21:40.641+00:00",
+    "observed_utc": "2026-11-14T09:21:40.632+00:00",
+    "event": "recovery",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1668,
+    "time_utc": "2026-11-14T09:21:41.572+00:00",
+    "observed_utc": "2026-11-14T09:21:41.553+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1669,
+    "time_utc": "2026-11-14T09:21:42.382+00:00",
+    "observed_utc": "2026-11-14T09:21:42.336+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1675,
+    "time_utc": "2026-11-14T09:21:43.193+00:00",
+    "observed_utc": "2026-11-14T09:21:43.160+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1676,
+    "time_utc": "2026-11-14T09:21:43.936+00:00",
+    "observed_utc": "2026-11-14T09:21:43.897+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1682,
+    "time_utc": "2026-11-14T09:21:44.743+00:00",
+    "observed_utc": "2026-11-14T09:21:44.695+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1683,
+    "time_utc": "2026-11-14T09:21:45.489+00:00",
+    "observed_utc": "2026-11-14T09:21:45.426+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1684,
+    "time_utc": "2026-11-14T09:21:46.172+00:00",
+    "observed_utc": "2026-11-14T09:21:46.155+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1690,
+    "time_utc": "2026-11-14T09:21:46.919+00:00",
+    "observed_utc": "2026-11-14T09:21:46.871+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1691,
+    "time_utc": "2026-11-14T09:21:47.662+00:00",
+    "observed_utc": "2026-11-14T09:21:47.652+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1692,
+    "time_utc": "2026-11-14T09:21:48.408+00:00",
+    "observed_utc": "2026-11-14T09:21:48.358+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1698,
+    "time_utc": "2026-11-14T09:21:49.150+00:00",
+    "observed_utc": "2026-11-14T09:21:49.103+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1699,
+    "time_utc": "2026-11-14T09:21:49.962+00:00",
+    "observed_utc": "2026-11-14T09:21:49.911+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 1766,
+    "time_utc": "2026-11-14T09:22:15.157+00:00",
+    "observed_utc": "2026-11-14T09:22:15.150+00:00",
+    "event": "recovery",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 2178,
+    "time_utc": "2026-11-14T09:24:57.884+00:00",
+    "observed_utc": "2026-11-14T09:24:57.865+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 2182,
+    "time_utc": "2026-11-14T09:24:58.571+00:00",
+    "observed_utc": "2026-11-14T09:24:58.526+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 2191,
+    "time_utc": "2026-11-14T09:25:00.813+00:00",
+    "observed_utc": "2026-11-14T09:25:00.763+00:00",
+    "event": "recovery",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 2212,
+    "time_utc": "2026-11-14T09:25:09.401+00:00",
+    "observed_utc": "2026-11-14T09:25:09.381+00:00",
+    "event": "recovery",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 2223,
+    "time_utc": "2026-11-14T09:25:12.765+00:00",
+    "observed_utc": "2026-11-14T09:25:12.754+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 2224,
+    "time_utc": "2026-11-14T09:25:14.510+00:00",
+    "observed_utc": "2026-11-14T09:25:14.471+00:00",
+    "event": "recovery",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 2255,
+    "time_utc": "2026-11-14T09:25:25.339+00:00",
+    "observed_utc": "2026-11-14T09:25:25.336+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 2256,
+    "time_utc": "2026-11-14T09:25:26.212+00:00",
+    "observed_utc": "2026-11-14T09:25:26.179+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 2262,
+    "time_utc": "2026-11-14T09:25:27.206+00:00",
+    "observed_utc": "2026-11-14T09:25:27.201+00:00",
+    "event": "recovery",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 2627,
+    "time_utc": "2026-11-14T09:27:50.601+00:00",
+    "observed_utc": "2026-11-14T09:27:50.587+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 2630,
+    "time_utc": "2026-11-14T09:27:51.406+00:00",
+    "observed_utc": "2026-11-14T09:27:51.358+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 2631,
+    "time_utc": "2026-11-14T09:27:52.155+00:00",
+    "observed_utc": "2026-11-14T09:27:52.134+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 2637,
+    "time_utc": "2026-11-14T09:27:53.086+00:00",
+    "observed_utc": "2026-11-14T09:27:53.065+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 2662,
+    "time_utc": "2026-11-14T09:28:02.611+00:00",
+    "observed_utc": "2026-11-14T09:28:02.564+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 2690,
+    "time_utc": "2026-11-14T09:28:12.755+00:00",
+    "observed_utc": "2026-11-14T09:28:12.731+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 3406,
+    "time_utc": "2026-11-14T09:32:53.437+00:00",
+    "observed_utc": "2026-11-14T09:32:53.416+00:00",
+    "event": "recovery",
+    "source_kind": "user_report_at_message_entry",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 5547,
+    "time_utc": "2026-11-14T09:46:53.486+00:00",
+    "observed_utc": "2026-11-14T09:46:53.433+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 5553,
+    "time_utc": "2026-11-14T09:46:54.782+00:00",
+    "observed_utc": "2026-11-14T09:46:54.736+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 5764,
+    "time_utc": "2026-11-14T09:48:17.078+00:00",
+    "observed_utc": "2026-11-14T09:48:17.067+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 5770,
+    "time_utc": "2026-11-14T09:48:19.940+00:00",
+    "observed_utc": "2026-11-14T09:48:19.919+00:00",
+    "event": "recovery",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-141126-ee9e460b",
+    "seq": 5823,
+    "time_utc": "2026-11-14T09:48:40.187+00:00",
+    "observed_utc": "2026-11-14T09:48:40.169+00:00",
+    "event": "spike",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-163240-f28706ce",
+    "seq": 774,
+    "time_utc": "2026-11-14T11:37:42.174+00:00",
+    "observed_utc": "2026-11-14T11:37:42.127+00:00",
+    "event": "note",
+    "source_kind": "other",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-163240-f28706ce",
+    "seq": 1250,
+    "time_utc": "2026-11-14T11:40:49.799+00:00",
+    "observed_utc": "2026-11-14T11:40:49.766+00:00",
+    "event": "note",
+    "source_kind": "other",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-163240-f28706ce",
+    "seq": 5144,
+    "time_utc": "2026-11-14T12:06:15.427+00:00",
+    "observed_utc": "2026-11-14T12:06:15.405+00:00",
+    "event": "note",
+    "source_kind": "other",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-163240-f28706ce",
+    "seq": 6988,
+    "time_utc": "2026-11-14T12:18:17.908+00:00",
+    "observed_utc": "2026-11-14T12:18:17.903+00:00",
+    "event": "note",
+    "source_kind": "other",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-163240-f28706ce",
+    "seq": 78971,
+    "time_utc": "2026-11-14T20:09:22.349+00:00",
+    "observed_utc": "2026-11-14T20:09:22.333+00:00",
+    "event": "recovery",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  },
+  {
+    "source_run": "20261114-163240-f28706ce",
+    "seq": 81937,
+    "time_utc": "2026-11-14T20:28:46.977+00:00",
+    "observed_utc": "2026-11-14T20:28:46.934+00:00",
+    "event": "recovery",
+    "source_kind": "RegisterHotKey",
+    "eligible": true
+  }
+]

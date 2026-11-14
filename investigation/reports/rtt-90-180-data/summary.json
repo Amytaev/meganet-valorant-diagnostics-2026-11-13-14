@@ -1,0 +1,158 @@
+{
+  "events": 263,
+  "bands": {
+    "120-<130": 214,
+    "130-<150": 40,
+    "150-180": 9
+  },
+  "by_file": {
+    "ShooterGame-backup-2026.11.13-11.18.28.log": {
+      "n": 135,
+      "min_ms": 120.0,
+      "max_ms": 161.09
+    },
+    "ShooterGame-backup-2026.11.13-20.08.16.log": {
+      "n": 67,
+      "min_ms": 120.25,
+      "max_ms": 172.31
+    },
+    "ShooterGame-backup-2026.11.14-09.30.10.log": {
+      "n": 26,
+      "min_ms": 120.36,
+      "max_ms": 134.65
+    },
+    "ShooterGame-backup-2026.11.14-11.51.12.log": {
+      "n": 29,
+      "min_ms": 120.57,
+      "max_ms": 132.2
+    },
+    "ShooterGame.log": {
+      "n": 6,
+      "min_ms": 120.02,
+      "max_ms": 155.46
+    }
+  },
+  "control_categories": {
+    "1": {
+      "uncovered_or_incomplete": 192,
+      "all_controls_below_threshold": 63,
+      "gateway_control_anomaly": 5,
+      "retn_only_control_anomaly": 3
+    },
+    "2": {
+      "uncovered_or_incomplete": 193,
+      "all_controls_below_threshold": 60,
+      "gateway_control_anomaly": 5,
+      "retn_only_control_anomaly": 4,
+      "near_without_gateway_anomaly": 1
+    },
+    "4": {
+      "uncovered_or_incomplete": 192,
+      "all_controls_below_threshold": 58,
+      "gateway_control_anomaly": 5,
+      "retn_only_control_anomaly": 7,
+      "near_without_gateway_anomaly": 1
+    },
+    "10": {
+      "uncovered_or_incomplete": 192,
+      "all_controls_below_threshold": 48,
+      "gateway_control_anomaly": 8,
+      "near_without_gateway_anomaly": 2,
+      "retn_only_control_anomaly": 13
+    }
+  },
+  "local_fps_overlap": {
+    "1": 2,
+    "4": 3,
+    "10": 12
+  },
+  "all_ping_events_in_scope": 291,
+  "ping_events_outside_90_180": 28,
+  "game_connections": 17,
+  "eligible_control_probes": 109805,
+  "all_control_rows": 110495,
+  "marker_counts": {
+    "20261114-004711-625146fb": {
+      "note": 1
+    },
+    "20261114-141126-ee9e460b": {
+      "spike": 107,
+      "recovery": 20
+    },
+    "20261114-163240-f28706ce": {
+      "recovery": 2
+    }
+  },
+  "max_control_time": "2026-11-14T22:18:52.080+00:00",
+  "duration_or_exact_baseline_available_events": 0,
+  "cycle_comparison": {
+    "all_valid_five_target_cycles": 21961,
+    "cycles_during_logged_connections": 3542,
+    "event_adjacent_cycles": 223,
+    "other_connection_cycles": 3319,
+    "event_adjacent_classes": {
+      "all_controls_below_threshold": 207,
+      "gateway_control_anomaly": 6,
+      "retn_only_control_anomaly": 9,
+      "near_without_gateway_anomaly": 1
+    },
+    "other_connection_classes": {
+      "all_controls_below_threshold": 3261,
+      "retn_only_control_anomaly": 50,
+      "near_without_gateway_anomaly": 1,
+      "gateway_control_anomaly": 6,
+      "public_without_near_anomaly": 1
+    },
+    "not_a_causal_or_independent_statistical_test": true,
+    "comparison_limit": "Other cycles have unknown game RTT; they are not labelled normal. Adjacent windows are unioned, not counted repeatedly."
+  },
+  "system_network_events": {
+    "available": true,
+    "counts": {
+      "Microsoft-Windows-WLAN-AutoConfig/Operational": 9,
+      "System": 0
+    },
+    "matched_within_30s": 0
+  },
+  "event_rate_context": {
+    "available": 71,
+    "max_rx_mbps": 1.21568,
+    "max_tx_mbps": 0.645699
+  },
+  "by_local_date": {
+    "2026-11-13": 183,
+    "2026-11-14": 74,
+    "2026-11-15": 6
+  },
+  "endpoint_evidence_counts": {
+    "travel_map_ready_association": 242,
+    "application_received_packet_in_connection": 21
+  },
+  "covered_events_without_fps_threshold_within_4s": 68,
+  "route_snapshot_context": {
+    "full_snapshots": 72,
+    "distinct_selected_route_signatures": 3,
+    "limit": "Windows routes to control targets, not per-packet Riot routes or BGP."
+  },
+  "wifi_context": {
+    "snapshots": 1548,
+    "disconnected_snapshots": 0,
+    "ap_aliases": [
+      "ap-01"
+    ],
+    "channels": [
+      36
+    ],
+    "event_snapshot_rssi_dbm": [
+      -65,
+      -53
+    ],
+    "rate_intervals": 1540,
+    "error_discard_delta_sums": {
+      "ReceivedDiscardedPackets": 0,
+      "OutboundDiscardedPackets": 0,
+      "ReceivedPacketErrors": 0,
+      "OutboundPacketErrors": 0
+    }
+  }
+}

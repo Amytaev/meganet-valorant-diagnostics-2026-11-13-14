@@ -24,11 +24,13 @@ foreach($spec in $specs){
             $axis.MajorGrid.LineColor=[Drawing.Color]::FromArgb(220,226,234)
             $axis.LineColor=[Drawing.Color]::SlateGray
         }
-        $area.AxisX.LabelStyle.Format='HH:mm:ss';$area.AxisX.Title=$spec.x_label
+        $area.AxisX.LabelStyle.Format=if($spec.x_format){[string]$spec.x_format}else{'HH:mm:ss'};$area.AxisX.Title=$spec.x_label
         $area.AxisX.IsMarginVisible=$false;$area.AxisY.Title=$spec.y_label
+        if($null -ne $spec.y_interval){$area.AxisY.Interval=[double]$spec.y_interval;$area.AxisY.LabelStyle.Interval=[double]$spec.y_interval}
         $area.AxisY.Minimum=[double]$spec.y_min
         if($null -ne $spec.y_max){$area.AxisY.Maximum=[double]$spec.y_max}
         if($spec.y2_label){$area.AxisY2.Title=$spec.y2_label;$area.AxisY2.Minimum=0;$area.AxisY2.MajorGrid.Enabled=$false;$area.AxisY2.LabelStyle.Font=New-Object Drawing.Font('Segoe UI',11)}
+        if($null -ne $spec.y2_max){$area.AxisY2.Maximum=[double]$spec.y2_max}
         $chart.ChartAreas.Add($area)
         $legend=New-Object System.Windows.Forms.DataVisualization.Charting.Legend('targets')
         $legend.Docking='Bottom';$legend.Alignment='Center';$legend.Font=New-Object Drawing.Font('Segoe UI',11)

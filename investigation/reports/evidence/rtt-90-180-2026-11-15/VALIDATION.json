@@ -1,0 +1,85 @@
+{
+  "schema": 1,
+  "date_local": "2026-11-15",
+  "scope": "Separate 90–180 analysis; actual numerical points are threshold-censored at 120 ms",
+  "rrt_archive_checks": [
+    {
+      "archive": "SystemLogs-2026-11-14.zip",
+      "sha256": "177b7a7b19428d1d86574c10a1cea8ee855851e8d58037fa22e1f85c895fd015",
+      "unchanged": true
+    },
+    {
+      "archive": "VAL-2026-11-14-1 of 2.zip",
+      "sha256": "e5bc76282feb04369d1b9bc87b1f7b6e4217aadb2fad2635cd7b53e9f4517f23",
+      "unchanged": true
+    },
+    {
+      "archive": "VAL-2026-11-14-2 of 2.zip",
+      "sha256": "e5bc76282feb04369d1b9bc87b1f7b6e4217aadb2fad2635cd7b53e9f4517f23",
+      "unchanged": true
+    }
+  ],
+  "original_local_log_prefixes_unchanged": 7,
+  "local_game_sources": 7,
+  "rrt_duplicate_local_sources": 4,
+  "new_local_sources_beyond_rrt": 3,
+  "selected_game_records": 263,
+  "independently_reparsed_original_game_lines": 263,
+  "full_markdown_table_rows": 263,
+  "events_with_known_true_baseline_or_duration": 0,
+  "control_input_rows": 110495,
+  "eligible_control_rows": 109805,
+  "independent_sql_event_windows_verified": 263,
+  "independent_sql_target_aggregates_verified": 355,
+  "fps_flags_independently_checked": 263,
+  "byte_identical_replayed_inputs": [
+    "control-probes.csv",
+    "game-events.json",
+    "game-sources.json",
+    "manual-markers.json",
+    "manual-numeric-observations.json",
+    "monitor-audit.json",
+    "netdriver-stats.json",
+    "system-snapshots.json",
+    "thresholds.json",
+    "windows-network-events.json"
+  ],
+  "byte_identical_replayed_results": [
+    "connections.json",
+    "consecutive-logged-points.json",
+    "control-cycles.csv",
+    "cycle-context-summary.json",
+    "events-90-180.csv",
+    "events-90-180.json",
+    "marker-intervals.json",
+    "summary.json",
+    "wifi-rate-intervals.json"
+  ],
+  "thematic_unit_tests_passed": 8,
+  "related_rrt_regression_tests_passed": 5,
+  "new_figures_visually_reviewed": 6,
+  "privacy_and_secret_findings": [],
+  "privacy_patterns_checked": [
+    "uuid",
+    "user_path",
+    "mac",
+    "jwt",
+    "auth_value"
+  ],
+  "original_personal_values_checked_without_disclosure": true,
+  "raw_game_or_rrt_logs_in_export": false,
+  "new_games_or_network_measurements_started": false,
+  "settings_changed": false,
+  "existing_monitor_stopped": false,
+  "support_messages_sent": false,
+  "beeline_numeric_comparison_series_available": false,
+  "limits": [
+    "No continuous game RTT below 120",
+    "192/263 lack complete qualified control windows",
+    "Historical ISP/region not independently known for every connection",
+    "Other cycles are not known-normal game RTT",
+    "Same IP/port does not prove stable physical server/route",
+    "Window/FPS associations do not establish cause"
+  ],
+  "warning_context_includes_remote_movement_time_index": true
+}

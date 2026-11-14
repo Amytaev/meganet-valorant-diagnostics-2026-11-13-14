@@ -1,0 +1,93 @@
+[
+  {
+    "source": "20261113-234606-Range-721321",
+    "line": 1,
+    "recorded_local": "2026-11-13T23:50:48.3482548+05:00",
+    "observed_local": null,
+    "numeric_fields": {
+      "reported_rtt_range_ms": [
+        100,
+        110
+      ],
+      "rtt_average_ms": null,
+      "rtt_max_ms": null,
+      "loss_in_pct": null,
+      "loss_out_pct": null
+    },
+    "timing_limit": "Manual/message/screenshot metadata, not a time-sampled game series"
+  },
+  {
+    "source": "20261113-235053-Unknown-fc7ee9",
+    "line": 1,
+    "recorded_local": "2026-11-13T23:53:17.1653042+05:00",
+    "observed_local": "2026-11-13T23:53:17.1653042+05:00",
+    "numeric_fields": {
+      "rtt_avg_ms": null,
+      "rtt_max_ms": null,
+      "loss_in_pct": null,
+      "loss_out_pct": null
+    },
+    "timing_limit": "Manual/message/screenshot metadata, not a time-sampled game series"
+  },
+  {
+    "source": "20261113-235320-Stockholm-unrated-af5126",
+    "line": 1,
+    "recorded_local": "2026-11-13T23:58:40.7498938+05:00",
+    "observed_local": null,
+    "numeric_fields": {
+      "reported_rtt_range_ms": [
+        90,
+        100
+      ],
+      "reported_recent_spike_ms": 110,
+      "rtt_average_ms": null,
+      "rtt_max_ms": null,
+      "loss_in_pct": null,
+      "loss_out_pct": null
+    },
+    "timing_limit": "Manual/message/screenshot metadata, not a time-sampled game series"
+  },
+  {
+    "source": "20261114-000610-Stockholm-unrated-ee0d94",
+    "line": 1,
+    "recorded_local": "2026-11-14T00:06:43.6096274+05:00",
+    "observed_local": null,
+    "numeric_fields": {
+      "average_network_rtt_ms": 185,
+      "maximum_network_rtt_ms": 189,
+      "current_total_loss_percent": 0,
+      "cumulative_lost_packets": 48
+    },
+    "timing_limit": "Manual/message/screenshot metadata, not a time-sampled game series"
+  },
+  {
+    "source": "20261114-000610-Stockholm-unrated-ee0d94",
+    "line": 2,
+    "recorded_local": "2026-11-14T00:07:57.1812932+05:00",
+    "observed_local": null,
+    "numeric_fields": {
+      "reported_rtt_range_ms": [
+        100,
+        160
+      ],
+      "loss_in_pct": null,
+      "loss_out_pct": null
+    },
+    "timing_limit": "Manual/message/screenshot metadata, not a time-sampled game series"
+  },
+  {
+    "source": "20261114-001022-Stockholm-unrated-c5ba53",
+    "line": 1,
+    "recorded_local": "2026-11-14T00:14:43.5121439+05:00",
+    "observed_local": null,
+    "numeric_fields": {
+      "reported_rtt_range_ms": [
+        91,
+        96
+      ],
+      "loss_in_pct": null,
+      "loss_out_pct": null
+    },
+    "timing_limit": "Manual/message/screenshot metadata, not a time-sampled game series"
+  }
+]

@@ -1,0 +1,209 @@
+{
+  "sources": [
+    {
+      "file_id": "local-game-01",
+      "file": "ShooterGame-backup-2026.11.13-04.25.29.log",
+      "bytes": 248821,
+      "sha256": "a1afc7cb440d7168b0a94acb68eb1ebf77618e32f12ffffb6273461d6c278771",
+      "mtime_utc": "2026-11-13T04:25:29+00:00",
+      "source_stable_during_read": true,
+      "rrt_duplicate_member": "archive-02-member-0805",
+      "scratch_write_utc": "2026-11-14T22:08:59.557810+00:00",
+      "current_file_is_frozen_prefix": false
+    },
+    {
+      "file_id": "local-game-02",
+      "file": "ShooterGame-backup-2026.11.13-11.18.28.log",
+      "bytes": 5380380,
+      "sha256": "2b1d19c2d20c98aba978b6a267ddbd69da545fb686d7db326abc57e6439f657d",
+      "mtime_utc": "2026-11-13T11:18:28+00:00",
+      "source_stable_during_read": true,
+      "rrt_duplicate_member": null,
+      "scratch_write_utc": "2026-11-14T22:08:59.632661+00:00",
+      "current_file_is_frozen_prefix": false
+    },
+    {
+      "file_id": "local-game-03",
+      "file": "ShooterGame-backup-2026.11.13-20.08.16.log",
+      "bytes": 12132681,
+      "sha256": "d3da527ca746182d2472238b023ef906ee8639f91a685038bf86e2d21e4104c2",
+      "mtime_utc": "2026-11-13T20:08:16+00:00",
+      "source_stable_during_read": true,
+      "rrt_duplicate_member": null,
+      "scratch_write_utc": "2026-11-14T22:09:00.944129+00:00",
+      "current_file_is_frozen_prefix": false
+    },
+    {
+      "file_id": "local-game-04",
+      "file": "ShooterGame-backup-2026.11.14-09.30.10.log",
+      "bytes": 1228936,
+      "sha256": "394100531772b766087f69c903cfb93dfbc3b7df5b0e626e70f1004a8f492c46",
+      "mtime_utc": "2026-11-14T09:30:10+00:00",
+      "source_stable_during_read": true,
+      "rrt_duplicate_member": "archive-02-member-0806",
+      "scratch_write_utc": "2026-11-14T22:09:03.986318+00:00",
+      "current_file_is_frozen_prefix": false
+    },
+    {
+      "file_id": "local-game-05",
+      "file": "ShooterGame-backup-2026.11.14-11.51.12.log",
+      "bytes": 2178707,
+      "sha256": "f34799f9fa1de5deb189c527bdb48e026286bcfde139e315f04ff20020503748",
+      "mtime_utc": "2026-11-14T11:51:12+00:00",
+      "source_stable_during_read": true,
+      "rrt_duplicate_member": "archive-02-member-0807",
+      "scratch_write_utc": "2026-11-14T22:09:04.346877+00:00",
+      "current_file_is_frozen_prefix": false
+    },
+    {
+      "file_id": "local-game-06",
+      "file": "ShooterGame-backup-2026.11.14-20.02.40.log",
+      "bytes": 212738,
+      "sha256": "e17b004354af087991c1b6ca3bc28f06dd82dbe0b9d5ca8bccb5a93b71db2862",
+      "mtime_utc": "2026-11-14T20:02:40+00:00",
+      "source_stable_during_read": true,
+      "rrt_duplicate_member": "archive-02-member-0808",
+      "scratch_write_utc": "2026-11-14T22:09:04.998139+00:00",
+      "current_file_is_frozen_prefix": false
+    },
+    {
+      "file_id": "local-game-07",
+      "file": "ShooterGame.log",
+      "bytes": 3287060,
+      "sha256": "3812c32bdcf35777ce90ea95bb0664cad7f8efd334f35ebf18c35690dd7b2d3c",
+      "mtime_utc": "2026-11-14T22:08:59.372358+00:00",
+      "source_stable_during_read": true,
+      "rrt_duplicate_member": null,
+      "scratch_write_utc": "2026-11-14T22:09:05.057211+00:00",
+      "current_file_is_frozen_prefix": true
+    }
+  ],
+  "coverage": [
+    {
+      "file_id": "local-game-01",
+      "file": "ShooterGame-backup-2026.11.13-04.25.29.log",
+      "lines": 2103,
+      "first": {
+        "time_utc": "2026-11-13T04:24:26.983+00:00",
+        "time_local": "2026-11-13T09:24:26.983+05:00"
+      },
+      "last": {
+        "time_utc": "2026-11-13T04:25:29.170+00:00",
+        "time_local": "2026-11-13T09:25:29.170+05:00"
+      },
+      "header_minus_first_stamp_seconds": 17999.017
+    },
+    {
+      "file_id": "local-game-02",
+      "file": "ShooterGame-backup-2026.11.13-11.18.28.log",
+      "lines": 38824,
+      "first": {
+        "time_utc": "2026-11-13T07:45:42.819+00:00",
+        "time_local": "2026-11-13T12:45:42.819+05:00"
+      },
+      "last": {
+        "time_utc": "2026-11-13T11:18:28.118+00:00",
+        "time_local": "2026-11-13T16:18:28.118+05:00"
+      },
+      "header_minus_first_stamp_seconds": 17999.181
+    },
+    {
+      "file_id": "local-game-03",
+      "file": "ShooterGame-backup-2026.11.13-20.08.16.log",
+      "lines": 105197,
+      "first": {
+        "time_utc": "2026-11-13T17:22:11.880+00:00",
+        "time_local": "2026-11-13T22:22:11.880+05:00"
+      },
+      "last": {
+        "time_utc": "2026-11-13T20:08:16.462+00:00",
+        "time_local": "2026-11-14T01:08:16.462+05:00"
+      },
+      "header_minus_first_stamp_seconds": 17999.12
+    },
+    {
+      "file_id": "local-game-04",
+      "file": "ShooterGame-backup-2026.11.14-09.30.10.log",
+      "lines": 9081,
+      "first": {
+        "time_utc": "2026-11-14T09:01:56.013+00:00",
+        "time_local": "2026-11-14T14:01:56.013+05:00"
+      },
+      "last": {
+        "time_utc": "2026-11-14T09:30:10.301+00:00",
+        "time_local": "2026-11-14T14:30:10.301+05:00"
+      },
+      "header_minus_first_stamp_seconds": 17998.987
+    },
+    {
+      "file_id": "local-game-05",
+      "file": "ShooterGame-backup-2026.11.14-11.51.12.log",
+      "lines": 15155,
+      "first": {
+        "time_utc": "2026-11-14T09:31:09.533+00:00",
+        "time_local": "2026-11-14T14:31:09.533+05:00"
+      },
+      "last": {
+        "time_utc": "2026-11-14T11:51:12.541+00:00",
+        "time_local": "2026-11-14T16:51:12.541+05:00"
+      },
+      "header_minus_first_stamp_seconds": 17999.467
+    },
+    {
+      "file_id": "local-game-06",
+      "file": "ShooterGame-backup-2026.11.14-20.02.40.log",
+      "lines": 1838,
+      "first": {
+        "time_utc": "2026-11-14T19:55:51.781+00:00",
+        "time_local": "2026-11-15T00:55:51.781+05:00"
+      },
+      "last": {
+        "time_utc": "2026-11-14T20:02:40.851+00:00",
+        "time_local": "2026-11-15T01:02:40.851+05:00"
+      },
+      "header_minus_first_stamp_seconds": 17999.219
+    },
+    {
+      "file_id": "local-game-07",
+      "file": "ShooterGame.log",
+      "lines": 20922,
+      "first": {
+        "time_utc": "2026-11-14T20:03:56.540+00:00",
+        "time_local": "2026-11-15T01:03:56.540+05:00"
+      },
+      "last": {
+        "time_utc": "2026-11-14T22:08:59.203+00:00",
+        "time_local": "2026-11-15T03:08:59.203+05:00"
+      },
+      "header_minus_first_stamp_seconds": 17999.46
+    }
+  ],
+  "rrt_archives": [
+    {
+      "archive": "SystemLogs-2026-11-14.zip",
+      "bytes": 30568,
+      "sha256": "177b7a7b19428d1d86574c10a1cea8ee855851e8d58037fa22e1f85c895fd015",
+      "mtime_utc": "2026-11-14T20:56:51.133968+00:00",
+      "duplicate_of": null,
+      "members": 3,
+      "expanded_bytes": 207319
+    },
+    {
+      "archive": "VAL-2026-11-14-1 of 2.zip",
+      "bytes": 14747059,
+      "sha256": "e5bc76282feb04369d1b9bc87b1f7b6e4217aadb2fad2635cd7b53e9f4517f23",
+      "mtime_utc": "2026-11-14T20:56:32.041062+00:00",
+      "duplicate_of": null,
+      "members": 808,
+      "expanded_bytes": 135919406
+    },
+    {
+      "archive": "VAL-2026-11-14-2 of 2.zip",
+      "bytes": 14747059,
+      "sha256": "e5bc76282feb04369d1b9bc87b1f7b6e4217aadb2fad2635cd7b53e9f4517f23",
+      "mtime_utc": "2026-11-14T20:56:33.997726+00:00",
+      "duplicate_of": "VAL-2026-11-14-1 of 2.zip"
+    }
+  ],
+  "scope": "Frozen local game logs for 13–15 November; identical RRT members deduplicated by SHA-256."
+}

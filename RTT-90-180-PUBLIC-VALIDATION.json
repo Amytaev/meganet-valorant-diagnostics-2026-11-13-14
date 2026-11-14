@@ -1,0 +1,40 @@
+{
+  "schema": 1,
+  "date_local": "2026-11-15",
+  "private_source_commit": "ad131138d5d14acb9a2673ca04b2aba75a7abd9a",
+  "scope": "Separate 90–180 investigation; full report is unabridged",
+  "raw_game_or_rrt_logs_published": false,
+  "game_source_files_reviewed": 7,
+  "numerical_game_points": 263,
+  "actual_numerical_range_ms": [
+    120,
+    172.31
+  ],
+  "threshold_censoring_below_120_explicit": true,
+  "complete_control_windows": 71,
+  "quiet_control_windows": 58,
+  "control_anomaly_windows": 13,
+  "uncovered_points": 192,
+  "control_input_rows": 110495,
+  "eligible_control_rows": 109805,
+  "new_figures": 6,
+  "thematic_tests_passed": 8,
+  "related_rrt_tests_passed": 5,
+  "independent_sql_windows_verified": 263,
+  "numeric_data_private_public_byte_equal": true,
+  "full_markdown_report_private_public_byte_equal": true,
+  "historical_packages_preserved": true,
+  "exclusions": [
+    "Raw sources and credentials/auth parameters",
+    "Player/account names and UUIDs",
+    "Raw WLAN text and Windows messages",
+    "SSID/MAC/GUID, source client LAN/WAN and user paths",
+    "Unrelated user files"
+  ],
+  "new_games_or_network_tests_started": false,
+  "settings_changed": false,
+  "monitor_stopped": false,
+  "support_messages_sent": false,
+  "missing_beeline_paired_series": true,
+  "availability_verification": "Performed after push; build-time manifest does not assume success"
+}
