@@ -1,0 +1,20 @@
+{
+  "ip": "162.249.72.1",
+  "kind": "ping",
+  "argv": [
+    "ping.exe",
+    "-n",
+    "100",
+    "162.249.72.1"
+  ],
+  "start_utc": "2026-11-14T11:18:39.533+00:00",
+  "start_local": "2026-11-14T16:18:39.533+05:00",
+  "end_utc": "2026-11-14T11:26:58.528+00:00",
+  "end_local": "2026-11-14T16:26:58.528+05:00",
+  "complete": true,
+  "exit_code": 1,
+  "watchdog_terminated": false,
+  "output_encoding": "cp866",
+  "raw_bytes": 4274,
+  "raw_sha256": "17e03a8c95e013b325521e66139bf561d6874c7dffd6464b7cd394b26664c607"
+}

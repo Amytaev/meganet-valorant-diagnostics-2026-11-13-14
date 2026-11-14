@@ -1,0 +1,152 @@
+[
+  {
+    "session": "N01-night-continuous",
+    "source_records": 3299,
+    "source_seq_contiguous": true,
+    "export_probe_rows": 3215,
+    "complete_cycles": 643,
+    "statuses": {
+      "Success": 3215
+    },
+    "system_snapshots_in_source": 43,
+    "source_audit": {
+      "duplicate_cycle_targets": 0,
+      "complete_five_target_cycles": 643,
+      "all_segments_closed": true,
+      "timestamp_errors": [],
+      "record_log_time_monotonic": true,
+      "max_clock_vs_monotonic_drift_ms": 0.997,
+      "launch_skew_max_ms": 32.0,
+      "intervals_seconds": {
+        "192.168.123.1": {
+          "n": 642,
+          "min": 1.9350259999999544,
+          "median": 1.9928244999999878,
+          "avg": 2.0,
+          "p95": 2.0541689999999946,
+          "p99": 2.058628000000026,
+          "max": 2.061884000000078
+        },
+        "89.38.164.205": {
+          "n": 642,
+          "min": 1.93498199999996,
+          "median": 1.9931179999999877,
+          "avg": 2.0,
+          "p95": 2.054072999999975,
+          "p99": 2.058624000000069,
+          "max": 2.061908999999985
+        },
+        "1.1.1.1": {
+          "n": 642,
+          "min": 1.9028539999999339,
+          "median": 1.992861000000019,
+          "avg": 2.0,
+          "p95": 2.0541310000000523,
+          "p99": 2.0587229999999983,
+          "max": 2.061935000000056
+        },
+        "87.245.238.34": {
+          "n": 642,
+          "min": 1.9351059999999125,
+          "median": 1.992889000000083,
+          "avg": 2.0,
+          "p95": 2.0540559999999823,
+          "p99": 2.0586599999999162,
+          "max": 2.0620500000000463
+        },
+        "87.245.233.166": {
+          "n": 642,
+          "min": 1.9350239999999759,
+          "median": 1.9929945000000007,
+          "avg": 2.0,
+          "p95": 2.05388499999998,
+          "p99": 2.05864599999995,
+          "max": 2.0620759999998843
+        }
+      },
+      "warnings": [
+        "segments.json first_seq is advisory: compare physical rows; original manifest is retained unchanged."
+      ]
+    },
+    "source_final_health": {
+      "dropped_memory_records": 0,
+      "buffered_records": 0,
+      "io_error": null
+    },
+    "note": "Sequence gaps in exported probe-only file reflect omitted non-probe records; original source sequence was verified before extraction."
+  },
+  {
+    "session": "D01-day-continuous",
+    "source_records": 5988,
+    "source_seq_contiguous": true,
+    "export_probe_rows": 5745,
+    "complete_cycles": 1149,
+    "statuses": {
+      "Success": 5745
+    },
+    "system_snapshots_in_source": 77,
+    "source_audit": {
+      "duplicate_cycle_targets": 0,
+      "complete_five_target_cycles": 1149,
+      "all_segments_closed": true,
+      "timestamp_errors": [],
+      "record_log_time_monotonic": true,
+      "max_clock_vs_monotonic_drift_ms": 0.902,
+      "launch_skew_max_ms": 9.0,
+      "intervals_seconds": {
+        "192.168.123.1": {
+          "n": 1148,
+          "min": 1.8656180000000169,
+          "median": 1.9923175000000046,
+          "avg": 2.0,
+          "p95": 2.0521990000000225,
+          "p99": 2.05654999999993,
+          "max": 2.145344000000041
+        },
+        "89.38.164.205": {
+          "n": 1148,
+          "min": 1.863784999999916,
+          "median": 1.9923129999999656,
+          "avg": 2.0,
+          "p95": 2.0522030000002123,
+          "p99": 2.056597999999998,
+          "max": 2.1471780000000726
+        },
+        "1.1.1.1": {
+          "n": 1148,
+          "min": 1.8656339999998455,
+          "median": 1.9923299999999726,
+          "avg": 2.0,
+          "p95": 2.0522779999999328,
+          "p99": 2.056597999999998,
+          "max": 2.145341000000015
+        },
+        "87.245.238.34": {
+          "n": 1148,
+          "min": 1.8655339999999851,
+          "median": 1.9923229999999894,
+          "avg": 2.0,
+          "p95": 2.052212999999989,
+          "p99": 2.0565829999999843,
+          "max": 2.145489999999991
+        },
+        "87.245.233.166": {
+          "n": 1148,
+          "min": 1.8636110000000334,
+          "median": 1.992342500000086,
+          "avg": 2.0,
+          "p95": 2.052232000000309,
+          "p99": 2.0568819999999834,
+          "max": 2.1474200000001584
+        }
+      },
+      "warnings": []
+    },
+    "source_final_health": {
+      "dropped_memory_records": 0,
+      "buffered_records": 0,
+      "io_error": null
+    },
+    "note": "Sequence gaps in exported probe-only file reflect omitted non-probe records; original source sequence was verified before extraction."
+  }
+]

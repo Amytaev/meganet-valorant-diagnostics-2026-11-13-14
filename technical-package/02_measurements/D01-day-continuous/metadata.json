@@ -1,0 +1,23 @@
+{
+  "schema": 3,
+  "start_utc": "2026-11-14T09:11:26.498+00:00",
+  "end_utc": "2026-11-14T09:49:44.196+00:00",
+  "context": "Unknown",
+  "targets": [
+    "192.168.123.1",
+    "89.38.164.205",
+    "1.1.1.1",
+    "87.245.238.34",
+    "87.245.233.166"
+  ],
+  "protocol": "ICMPv4",
+  "interval_seconds": 2,
+  "timeout_ms": 1500,
+  "payload_bytes": 32,
+  "cycles": 1149,
+  "stop_reason": "stop_file",
+  "failed": false,
+  "package_session": "D01-day-continuous",
+  "qualified_for_nonresponse_analysis": true,
+  "game_context": "Stockholm ranked, reported by player"
+}

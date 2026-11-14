@@ -1,0 +1,522 @@
+[
+  {
+    "target": "185.40.64.1",
+    "game_rtt_during_later_icmp": null,
+    "game_rtt_during_later_icmp_reason": "No simultaneous game observation; later outside-game test.",
+    "ping": {
+      "sent": 100,
+      "native_received": 0,
+      "native_lost": 100,
+      "native_nonresponse_pct": 100.0,
+      "echo_reply_lines": 0,
+      "rtt_ms": null
+    },
+    "tracert": {
+      "hops": [
+        {
+          "ttl": 1,
+          "addresses": [
+            "192.168.123.1"
+          ],
+          "rtt_tokens": [
+            "9 ms",
+            "     1 ms",
+            "     1 ms"
+          ],
+          "asterisks": 0
+        },
+        {
+          "ttl": 2,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 3,
+          "addresses": [
+            "10.0.0.229"
+          ],
+          "rtt_tokens": [
+            "3 ms",
+            "     3 ms",
+            "     3 ms"
+          ],
+          "asterisks": 0
+        },
+        {
+          "ttl": 4,
+          "addresses": [
+            "89.38.164.205"
+          ],
+          "rtt_tokens": [
+            "3 ms",
+            "     2 ms",
+            "     3 ms"
+          ],
+          "asterisks": 0
+        },
+        {
+          "ttl": 5,
+          "addresses": [
+            "172.16.1.0"
+          ],
+          "rtt_tokens": [
+            "       26 ms"
+          ],
+          "asterisks": 2
+        },
+        {
+          "ttl": 6,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 7,
+          "addresses": [
+            "89.38.167.209"
+          ],
+          "rtt_tokens": [
+            "39 ms",
+            "    39 ms",
+            "    38 ms"
+          ],
+          "asterisks": 0
+        },
+        {
+          "ttl": 8,
+          "addresses": [
+            "87.245.238.34"
+          ],
+          "rtt_tokens": [
+            "       39 ms",
+            "    38 ms"
+          ],
+          "asterisks": 1
+        },
+        {
+          "ttl": 9,
+          "addresses": [
+            "87.245.233.166"
+          ],
+          "rtt_tokens": [
+            "71 ms",
+            "    71 ms",
+            "    70 ms"
+          ],
+          "asterisks": 0
+        },
+        {
+          "ttl": 10,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 11,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 12,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 13,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 14,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 15,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 16,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 17,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 18,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 19,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 20,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 21,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 22,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 23,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 24,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 25,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 26,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 27,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 28,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 29,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 30,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 31,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 32,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        }
+      ],
+      "last_responding_hop": {
+        "ttl": 9,
+        "addresses": [
+          "87.245.233.166"
+        ],
+        "rtt_tokens": [
+          "71 ms",
+          "    71 ms",
+          "    70 ms"
+        ],
+        "asterisks": 0
+      },
+      "destination_responded": false
+    },
+    "limitation": "ICMP nonresponse and traceroute asterisks are not evidence of game UDP loss or the responsible network."
+  },
+  {
+    "target": "162.249.72.1",
+    "game_rtt_during_later_icmp": null,
+    "game_rtt_during_later_icmp_reason": "No simultaneous game observation; later outside-game test.",
+    "ping": {
+      "sent": 100,
+      "native_received": 0,
+      "native_lost": 100,
+      "native_nonresponse_pct": 100.0,
+      "echo_reply_lines": 0,
+      "rtt_ms": null
+    },
+    "tracert": {
+      "hops": [
+        {
+          "ttl": 1,
+          "addresses": [
+            "192.168.123.1"
+          ],
+          "rtt_tokens": [
+            "1 ms",
+            "     1 ms",
+            "     1 ms"
+          ],
+          "asterisks": 0
+        },
+        {
+          "ttl": 2,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 3,
+          "addresses": [
+            "10.0.0.229"
+          ],
+          "rtt_tokens": [
+            "3 ms",
+            "     3 ms",
+            "     3 ms"
+          ],
+          "asterisks": 0
+        },
+        {
+          "ttl": 4,
+          "addresses": [
+            "89.38.164.205"
+          ],
+          "rtt_tokens": [
+            "3 ms",
+            "     3 ms",
+            "     2 ms"
+          ],
+          "asterisks": 0
+        },
+        {
+          "ttl": 5,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 6,
+          "addresses": [
+            "85.29.131.24"
+          ],
+          "rtt_tokens": [
+            "       42 ms",
+            "    42 ms"
+          ],
+          "asterisks": 1
+        },
+        {
+          "ttl": 7,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 8,
+          "addresses": [
+            "87.245.238.34"
+          ],
+          "rtt_tokens": [
+            "39 ms",
+            "    39 ms",
+            "    40 ms"
+          ],
+          "asterisks": 0
+        },
+        {
+          "ttl": 9,
+          "addresses": [
+            "87.245.234.191"
+          ],
+          "rtt_tokens": [
+            "74 ms",
+            "    75 ms",
+            "    74 ms"
+          ],
+          "asterisks": 0
+        },
+        {
+          "ttl": 10,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 11,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 12,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 13,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 14,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 15,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 16,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 17,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 18,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 19,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 20,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 21,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 22,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 23,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 24,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 25,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 26,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 27,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 28,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 29,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 30,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 31,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        },
+        {
+          "ttl": 32,
+          "addresses": [],
+          "rtt_tokens": [],
+          "asterisks": 3
+        }
+      ],
+      "last_responding_hop": {
+        "ttl": 9,
+        "addresses": [
+          "87.245.234.191"
+        ],
+        "rtt_tokens": [
+          "74 ms",
+          "    75 ms",
+          "    74 ms"
+        ],
+        "asterisks": 0
+      },
+      "destination_responded": false
+    },
+    "limitation": "ICMP nonresponse and traceroute asterisks are not evidence of game UDP loss or the responsible network."
+  }
+]

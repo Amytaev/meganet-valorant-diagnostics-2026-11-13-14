@@ -1,0 +1,21 @@
+{
+  "ip": "185.40.64.1",
+  "kind": "tracert",
+  "argv": [
+    "tracert.exe",
+    "-d",
+    "-h",
+    "32",
+    "185.40.64.1"
+  ],
+  "start_utc": "2026-11-14T11:13:20.466+00:00",
+  "start_local": "2026-11-14T16:13:20.466+05:00",
+  "end_utc": "2026-11-14T11:18:39.526+00:00",
+  "end_local": "2026-11-14T16:18:39.526+05:00",
+  "complete": true,
+  "exit_code": 0,
+  "watchdog_terminated": false,
+  "output_encoding": "cp866",
+  "raw_bytes": 2255,
+  "raw_sha256": "5191d7c324cbca44838c83e67455c5fbf4eeca8825f6d530866cb1e524f50468"
+}

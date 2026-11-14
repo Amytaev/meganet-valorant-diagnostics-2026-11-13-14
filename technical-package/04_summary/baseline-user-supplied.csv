@@ -1,0 +1,7 @@
+﻿target,n,min_ms,avg_ms,max_ms,icmp_nonresponse,role,provenance
+192.168.123.1,102,1,1,6,0,Домашний шлюз,"User-supplied summary, exact timestamps and original per-probe outputs unavailable"
+89.38.164.205,100,2,3,6,0,Ближний ISP,"User-supplied summary, exact timestamps and original per-probe outputs unavailable"
+1.1.1.1,30,22,23,25,0,Cloudflare,"User-supplied summary, exact timestamps and original per-probe outputs unavailable"
+87.245.238.34,100,92,93,115,0,RETN,"User-supplied summary, exact timestamps and original per-probe outputs unavailable"
+87.245.234.191,100,84,85,99,0,"RETN, прежний второй контроль","User-supplied summary, exact timestamps and original per-probe outputs unavailable"
+162.249.72.1,30,,,,30,Нет ICMP-ответов; не игровая потеря,"User-supplied summary, exact timestamps and original per-probe outputs unavailable"

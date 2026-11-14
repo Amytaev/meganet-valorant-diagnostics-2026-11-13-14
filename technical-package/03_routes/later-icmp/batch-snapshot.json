@@ -1,0 +1,89 @@
+{
+  "package_cutoff_local": "2026-11-14T16:31:16+05:00",
+  "source_batch_complete_at_snapshot": true,
+  "included_jobs": [
+    {
+      "ip": "185.40.64.1",
+      "kind": "tracert",
+      "argv": [
+        "tracert.exe",
+        "-d",
+        "-h",
+        "32",
+        "185.40.64.1"
+      ],
+      "start_utc": "2026-11-14T11:13:20.466+00:00",
+      "start_local": "2026-11-14T16:13:20.466+05:00",
+      "end_utc": "2026-11-14T11:18:39.526+00:00",
+      "end_local": "2026-11-14T16:18:39.526+05:00",
+      "complete": true,
+      "exit_code": 0,
+      "watchdog_terminated": false,
+      "output_encoding": "cp866",
+      "raw_bytes": 2255,
+      "raw_sha256": "5191d7c324cbca44838c83e67455c5fbf4eeca8825f6d530866cb1e524f50468"
+    },
+    {
+      "ip": "185.40.64.1",
+      "kind": "ping",
+      "argv": [
+        "ping.exe",
+        "-n",
+        "100",
+        "185.40.64.1"
+      ],
+      "start_utc": "2026-11-14T11:13:20.466+00:00",
+      "start_local": "2026-11-14T16:13:20.466+05:00",
+      "end_utc": "2026-11-14T11:21:39.012+00:00",
+      "end_local": "2026-11-14T16:21:39.012+05:00",
+      "complete": true,
+      "exit_code": 1,
+      "watchdog_terminated": false,
+      "output_encoding": "cp866",
+      "raw_bytes": 4272,
+      "raw_sha256": "aa622aa7fd2277215c26ae80220414da7d4a08f3e8f0831144d71da6bb55376d"
+    },
+    {
+      "ip": "162.249.72.1",
+      "kind": "ping",
+      "argv": [
+        "ping.exe",
+        "-n",
+        "100",
+        "162.249.72.1"
+      ],
+      "start_utc": "2026-11-14T11:18:39.533+00:00",
+      "start_local": "2026-11-14T16:18:39.533+05:00",
+      "end_utc": "2026-11-14T11:26:58.528+00:00",
+      "end_local": "2026-11-14T16:26:58.528+05:00",
+      "complete": true,
+      "exit_code": 1,
+      "watchdog_terminated": false,
+      "output_encoding": "cp866",
+      "raw_bytes": 4274,
+      "raw_sha256": "17e03a8c95e013b325521e66139bf561d6874c7dffd6464b7cd394b26664c607"
+    },
+    {
+      "ip": "162.249.72.1",
+      "kind": "tracert",
+      "argv": [
+        "tracert.exe",
+        "-d",
+        "-h",
+        "32",
+        "162.249.72.1"
+      ],
+      "start_utc": "2026-11-14T11:21:39.015+00:00",
+      "start_local": "2026-11-14T16:21:39.015+05:00",
+      "end_utc": "2026-11-14T11:27:01.012+00:00",
+      "end_local": "2026-11-14T16:27:01.012+05:00",
+      "complete": true,
+      "exit_code": 0,
+      "watchdog_terminated": false,
+      "output_encoding": "cp866",
+      "raw_bytes": 2283,
+      "raw_sha256": "f0f27cc0e5d7b863329e6e5abf316424b127c5748c2b06468efeb0c15845de8f"
+    }
+  ],
+  "note": "Only fully completed Valorant jobs available at package cutoff. Other pending jobs and all CS2 material excluded. These are later outside-game measurements, not the 14:29 incident. No new probes were started by this packaging task."
+}

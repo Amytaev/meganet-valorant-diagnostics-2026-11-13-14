@@ -1,0 +1,27 @@
+{
+  "schema": 1,
+  "start_utc": "2026-11-13T18:42:32.6414199Z",
+  "start_local": "2026-11-13T23:42:32.6414199+05:00",
+  "end_utc": "2026-11-13T18:44:49.7848730Z",
+  "end_local": "2026-11-13T23:44:49.7823544+05:00",
+  "context": "Range",
+  "targets": [
+    "192.168.123.1",
+    "89.38.164.205",
+    "1.1.1.1",
+    "87.245.238.34",
+    "87.245.234.191"
+  ],
+  "protocol": "ICMPv4",
+  "interval_seconds": 2,
+  "timeout_ms": 800,
+  "payload_bytes": 32,
+  "cycles": 67,
+  "stop_reason": "stop_file",
+  "failed": false,
+  "elapsed_seconds": 137.0577466,
+  "game_endpoint_verified": false,
+  "package_session": "H01-early-quality-only",
+  "qualified_for_nonresponse_analysis": false,
+  "privacy": "Only measurement parameters; host/user/interface identifiers omitted."
+}

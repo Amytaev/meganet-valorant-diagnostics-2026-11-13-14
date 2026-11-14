@@ -1,0 +1,391 @@
+{
+  "package_cutoff_local": "2026-11-14T16:31:16+05:00",
+  "sources": [
+    {
+      "source_relative_path": "reports/evidence/final-history/20261113-234232-Range-1fbb0d/pings.csv",
+      "source_bytes": 46505,
+      "source_sha256": "f1b567f1ec65b1088b990297a04a35f62f6418aaf192c37a6327dcf7ff444e5d",
+      "package_path": "02_measurements/H01-early-quality-only/pings.csv",
+      "transformation": "byte-for-byte; selected non-personal technical file"
+    },
+    {
+      "source_relative_path": "reports/evidence/final-history/20261113-234232-Range-1fbb0d/metadata.json",
+      "source_bytes": 1165,
+      "source_sha256": "aa8bd8c4851b16fe1c41634fad3fe15254ee250e823107187cff156a57fea241",
+      "package_path": "02_measurements/H01-early-quality-only/metadata.json",
+      "transformation": "allowlisted measurement metadata; no local paths or process identifiers"
+    },
+    {
+      "source_relative_path": "reports/evidence/20261113-234606-Range-721321/pings.csv",
+      "source_bytes": 107273,
+      "source_sha256": "fca43f2cd546452d03eedf857941445e7d5bf779675b24d4e9a7a93c3f5e6b7a",
+      "package_path": "02_measurements/H02-range/pings.csv",
+      "transformation": "byte-for-byte; selected non-personal technical file"
+    },
+    {
+      "source_relative_path": "reports/evidence/20261113-234606-Range-721321/metadata.json",
+      "source_bytes": 1166,
+      "source_sha256": "e76f6d4dbdc465ffc887541893face701c8d8d86d2c3953b160a40a3a6f802ba",
+      "package_path": "02_measurements/H02-range/metadata.json",
+      "transformation": "allowlisted measurement metadata; no local paths or process identifiers"
+    },
+    {
+      "source_relative_path": "reports/evidence/20261113-234606-Range-721321/game-markers.jsonl",
+      "source_bytes": 392,
+      "source_sha256": "038671841e7b86239190643e32d832be5d63dabc66d35b2fa195ca072771f707",
+      "package_path": "05_timeline/manual-markers.json",
+      "transformation": "measurement/time/context allowlist; source screenshot identifier omitted"
+    },
+    {
+      "source_relative_path": "reports/evidence/final-history/20261113-235053-Unknown-fc7ee9/pings.csv",
+      "source_bytes": 54938,
+      "source_sha256": "ac87f945f554c73d91bdb5c2ceb7ec41eec2ef1162b61c640fad5ddba59177d5",
+      "package_path": "02_measurements/H03-transition/pings.csv",
+      "transformation": "byte-for-byte; selected non-personal technical file"
+    },
+    {
+      "source_relative_path": "reports/evidence/final-history/20261113-235053-Unknown-fc7ee9/metadata.json",
+      "source_bytes": 1170,
+      "source_sha256": "df44316e6f141427cde0a4a5773ef1c811b7da7448b4d87a65fc82e17bcc2b73",
+      "package_path": "02_measurements/H03-transition/metadata.json",
+      "transformation": "allowlisted measurement metadata; no local paths or process identifiers"
+    },
+    {
+      "source_relative_path": "reports/evidence/final-history/20261113-235053-Unknown-fc7ee9/game-markers.jsonl",
+      "source_bytes": 323,
+      "source_sha256": "daa66509494126ba7186858a4a32f78a8c47d472aea9ef5d4a6e8baa5c2e67a4",
+      "package_path": "05_timeline/manual-markers.json",
+      "transformation": "measurement/time/context allowlist; source screenshot identifier omitted"
+    },
+    {
+      "source_relative_path": "reports/evidence/20261113-235320-Stockholm-unrated-af5126/pings.csv",
+      "source_bytes": 247849,
+      "source_sha256": "3cc40f8c8bf5c0edee68efcfa25cfbf8c399b25d9f11643df4f9c9bf932fda89",
+      "package_path": "02_measurements/H04-stockholm-unrated/pings.csv",
+      "transformation": "byte-for-byte; selected non-personal technical file"
+    },
+    {
+      "source_relative_path": "reports/evidence/20261113-235320-Stockholm-unrated-af5126/metadata.json",
+      "source_bytes": 1190,
+      "source_sha256": "debe9753a909e7f458dcbb8a243b063196193ec783d46a17c55774df7e6851e5",
+      "package_path": "02_measurements/H04-stockholm-unrated/metadata.json",
+      "transformation": "allowlisted measurement metadata; no local paths or process identifiers"
+    },
+    {
+      "source_relative_path": "reports/evidence/20261113-235320-Stockholm-unrated-af5126/game-markers.jsonl",
+      "source_bytes": 435,
+      "source_sha256": "0359c142471cb4cfffd511b5449dc1905108ce39072f150fed388b8e0976996a",
+      "package_path": "05_timeline/manual-markers.json",
+      "transformation": "measurement/time/context allowlist; source screenshot identifier omitted"
+    },
+    {
+      "source_relative_path": "reports/evidence/20261114-000610-Stockholm-unrated-ee0d94/pings.csv",
+      "source_bytes": 101563,
+      "source_sha256": "4fe141527abbaa865095184cf0618d30b3e863e78ebccdb49671e377980ae11a",
+      "package_path": "02_measurements/H05-stockholm-incident/pings.csv",
+      "transformation": "byte-for-byte; selected non-personal technical file"
+    },
+    {
+      "source_relative_path": "reports/evidence/20261114-000610-Stockholm-unrated-ee0d94/metadata.json",
+      "source_bytes": 1291,
+      "source_sha256": "fb73c8d798677fdcae43e7be416d7daf007637ee91aa63ac8c050b7f032a73c8",
+      "package_path": "02_measurements/H05-stockholm-incident/metadata.json",
+      "transformation": "allowlisted measurement metadata; no local paths or process identifiers"
+    },
+    {
+      "source_relative_path": "reports/evidence/20261114-000610-Stockholm-unrated-ee0d94/game-markers.jsonl",
+      "source_bytes": 1132,
+      "source_sha256": "c75d527cd2720dd14a207438f123bb2c419f966c23768ccb5851357af484e2a1",
+      "package_path": "05_timeline/manual-markers.json",
+      "transformation": "measurement/time/context allowlist; source screenshot identifier omitted"
+    },
+    {
+      "source_relative_path": "reports/evidence/20261114-001022-Stockholm-unrated-c5ba53/pings.csv",
+      "source_bytes": 123168,
+      "source_sha256": "93d9e95a002588dbedb7081ac132647e82ab533049c291a1b94902ef1e788dba",
+      "package_path": "02_measurements/H06-stockholm-recovery/pings.csv",
+      "transformation": "byte-for-byte; selected non-personal technical file"
+    },
+    {
+      "source_relative_path": "reports/evidence/20261114-001022-Stockholm-unrated-c5ba53/metadata.json",
+      "source_bytes": 1284,
+      "source_sha256": "ec6bd97e7e58ad8c99336276be9896609d095ad3c45d391464c491523c4818a3",
+      "package_path": "02_measurements/H06-stockholm-recovery/metadata.json",
+      "transformation": "allowlisted measurement metadata; no local paths or process identifiers"
+    },
+    {
+      "source_relative_path": "reports/evidence/20261114-001022-Stockholm-unrated-c5ba53/game-markers.jsonl",
+      "source_bytes": 293,
+      "source_sha256": "b1e82c25474dec421d63df362184625660164df674705210ba3753664c8200ce",
+      "package_path": "05_timeline/manual-markers.json",
+      "transformation": "measurement/time/context allowlist; source screenshot identifier omitted"
+    },
+    {
+      "source_relative_path": "reports/evidence/final-2026-11-14/telemetry-00000001.jsonl",
+      "source_bytes": 1175795,
+      "source_sha256": "478c5ff6a697491320ddf059215a404aeb678c6008e05a223ea5e45d9f279543",
+      "package_path": "02_measurements/N01-night-continuous/probes.jsonl",
+      "transformation": "Only probe rows and allowlisted numeric/status/time fields; original seq retained; non-probe rows omitted"
+    },
+    {
+      "source_relative_path": "reports/evidence/final-2026-11-14/telemetry-00000002.jsonl",
+      "source_bytes": 505183,
+      "source_sha256": "78c6317a504e54357d0f2f1b242abc176951d78616b640795f8628ceffb35a20",
+      "package_path": "02_measurements/N01-night-continuous/probes.jsonl",
+      "transformation": "Only probe rows and allowlisted numeric/status/time fields; original seq retained; non-probe rows omitted"
+    },
+    {
+      "source_relative_path": "reports/evidence/final-2026-11-14/metadata.json",
+      "source_bytes": 1710,
+      "source_sha256": "e186a5ac9c105adf5259821b28d81863629e1ba712187528597790fb5d5c8d4b",
+      "package_path": "02_measurements/N01-night-continuous/metadata.json",
+      "transformation": "measurement metadata allowlist"
+    },
+    {
+      "source_relative_path": "reports/final-data/paired-cycles.csv",
+      "source_bytes": 44496,
+      "source_sha256": "6cb5ad7517f765bc6ccb3c1fcbbdd50534e43c2c9efaf47897a5300c2bc8e5d5",
+      "package_path": "04_summary/N01-night-continuous-paired-cycles.csv",
+      "transformation": "byte-for-byte; selected non-personal technical file"
+    },
+    {
+      "source_relative_path": "reports/evidence/day-2026-11-14/telemetry-00000001.jsonl",
+      "source_bytes": 1200489,
+      "source_sha256": "822057e827b31caf70652980f27ae9589155b9874d32ed0a7a2a6a00659bc9a3",
+      "package_path": "02_measurements/D01-day-continuous/probes.jsonl",
+      "transformation": "Only probe rows and allowlisted numeric/status/time fields; original seq retained; non-probe rows omitted"
+    },
+    {
+      "source_relative_path": "reports/evidence/day-2026-11-14/telemetry-00000002.jsonl",
+      "source_bytes": 1177217,
+      "source_sha256": "e57a701f823bd2ff73693db07a4168748c5d2a5546f137ec0a80584b22ad128f",
+      "package_path": "02_measurements/D01-day-continuous/probes.jsonl",
+      "transformation": "Only probe rows and allowlisted numeric/status/time fields; original seq retained; non-probe rows omitted"
+    },
+    {
+      "source_relative_path": "reports/evidence/day-2026-11-14/telemetry-00000003.jsonl",
+      "source_bytes": 638253,
+      "source_sha256": "6066bb88b2c73b250c13cf9b3ad46c20487f5527e4fcaf4b0c576b21a816589c",
+      "package_path": "02_measurements/D01-day-continuous/probes.jsonl",
+      "transformation": "Only probe rows and allowlisted numeric/status/time fields; original seq retained; non-probe rows omitted"
+    },
+    {
+      "source_relative_path": "reports/evidence/day-2026-11-14/metadata.json",
+      "source_bytes": 1702,
+      "source_sha256": "e3aef00f5ba60cd6db03244a75d9a9c29930d3ef516bffd7996e095ddf7f03f5",
+      "package_path": "02_measurements/D01-day-continuous/metadata.json",
+      "transformation": "measurement metadata allowlist"
+    },
+    {
+      "source_relative_path": "reports/day-data/paired-cycles.csv",
+      "source_bytes": 79579,
+      "source_sha256": "880311a04b186e60d1e9bdb756e3e79f24b63f1fe57af17313465c603308cb55",
+      "package_path": "04_summary/D01-day-continuous-paired-cycles.csv",
+      "transformation": "byte-for-byte; selected non-personal technical file"
+    },
+    {
+      "source_relative_path": "reports/evidence/probe-quality-control/sequential-validation.csv",
+      "source_bytes": 2318,
+      "source_sha256": "fd4df8a05fee099e1ec356ecdd496d88ba1fbf26df539c269741f863c981c28c",
+      "package_path": "02_measurements/quality-control/sequential-validation.csv",
+      "transformation": "byte-for-byte; selected non-personal technical file"
+    },
+    {
+      "source_relative_path": "reports/evidence/probe-quality-control/native-ping-validation.txt",
+      "source_bytes": 848,
+      "source_sha256": "16bb799fd4fa0de393bc3155bd2496af2143b8e577e279f19ec7be34ed4682e3",
+      "package_path": "02_measurements/quality-control/native-ping-validation.txt",
+      "transformation": "byte-for-byte; selected non-personal technical file"
+    },
+    {
+      "source_relative_path": "reports/evidence/probe-quality-control/candidate-icmp-check.json",
+      "source_bytes": 316,
+      "source_sha256": "bd1f5828db77d1fc519bbb0a216691f5fd9195db1c0698f27c7700a4f9189c41",
+      "package_path": "02_measurements/quality-control/candidate-icmp-check.json",
+      "transformation": "byte-for-byte; selected non-personal technical file"
+    },
+    {
+      "source_relative_path": "reports/meganet-package-2026-11-14/valorant-address-inventory.json",
+      "source_bytes": 40705,
+      "source_sha256": "295f38a0a72c3be40392273536617919ee326b547868fc419474cf65cd1abd79",
+      "package_path": "06_destinations/valorant-endpoints.json",
+      "transformation": "endpoint/time/category allowlist; original game file names and source locators omitted"
+    },
+    {
+      "source_relative_path": "reports/evidence/day-2026-11-14/reconnect-comparison.json",
+      "source_bytes": 2780,
+      "source_sha256": "1aa156c00e27abfd6b6df0ee09f30cf39a622425812bbfef2fae29781a86585f",
+      "package_path": "06_destinations/reconnect-comparison.json",
+      "transformation": "safe endpoint/time/category extract; no full game log"
+    },
+    {
+      "source_relative_path": "reports/evidence/20261114-000610-Stockholm-unrated-ee0d94/candidate-ttl-trace.jsonl",
+      "source_bytes": 6028,
+      "source_sha256": "a44c4c51ef0ed0191e582133878215cf28174fe3f3edff535b4b970cc072d023",
+      "package_path": "03_routes/185.40.64.1-2026-11-14-0007-ttl-original.jsonl",
+      "transformation": "byte-for-byte; selected non-personal technical file"
+    },
+    {
+      "source_relative_path": "reports/meganet-package-2026-11-14/measurements/185.40.64.1-tracert.raw.txt",
+      "source_bytes": 2255,
+      "source_sha256": "5191d7c324cbca44838c83e67455c5fbf4eeca8825f6d530866cb1e524f50468",
+      "package_path": "03_routes/later-icmp/185.40.64.1-tracert.raw.txt",
+      "transformation": "byte-for-byte; selected non-personal technical file"
+    },
+    {
+      "source_relative_path": "reports/meganet-package-2026-11-14/measurements/185.40.64.1-tracert.utf8.txt",
+      "source_bytes": 3134,
+      "source_sha256": "38a5537d56a4abbeaada85f2123bda29ff12dce01a62669d49f308698441d057",
+      "package_path": "03_routes/later-icmp/185.40.64.1-tracert.utf8.txt",
+      "transformation": "byte-for-byte; selected non-personal technical file"
+    },
+    {
+      "source_relative_path": "reports/meganet-package-2026-11-14/measurements/185.40.64.1-ping.raw.txt",
+      "source_bytes": 4272,
+      "source_sha256": "aa622aa7fd2277215c26ae80220414da7d4a08f3e8f0831144d71da6bb55376d",
+      "package_path": "03_routes/later-icmp/185.40.64.1-ping.raw.txt",
+      "transformation": "byte-for-byte; selected non-personal technical file"
+    },
+    {
+      "source_relative_path": "reports/meganet-package-2026-11-14/measurements/185.40.64.1-ping.utf8.txt",
+      "source_bytes": 7648,
+      "source_sha256": "75d940e64ef7d0a771b8d44913113f72f2fb62daa18306c56b433542930220aa",
+      "package_path": "03_routes/later-icmp/185.40.64.1-ping.utf8.txt",
+      "transformation": "byte-for-byte; selected non-personal technical file"
+    },
+    {
+      "source_relative_path": "reports/meganet-package-2026-11-14/measurements/162.249.72.1-ping.raw.txt",
+      "source_bytes": 4274,
+      "source_sha256": "17e03a8c95e013b325521e66139bf561d6874c7dffd6464b7cd394b26664c607",
+      "package_path": "03_routes/later-icmp/162.249.72.1-ping.raw.txt",
+      "transformation": "byte-for-byte; selected non-personal technical file"
+    },
+    {
+      "source_relative_path": "reports/meganet-package-2026-11-14/measurements/162.249.72.1-ping.utf8.txt",
+      "source_bytes": 7650,
+      "source_sha256": "d5af2039978342357121da657e3b249d74e4abf02e360677a29fcc361e473ea6",
+      "package_path": "03_routes/later-icmp/162.249.72.1-ping.utf8.txt",
+      "transformation": "byte-for-byte; selected non-personal technical file"
+    },
+    {
+      "source_relative_path": "reports/meganet-package-2026-11-14/measurements/162.249.72.1-tracert.raw.txt",
+      "source_bytes": 2283,
+      "source_sha256": "f0f27cc0e5d7b863329e6e5abf316424b127c5748c2b06468efeb0c15845de8f",
+      "package_path": "03_routes/later-icmp/162.249.72.1-tracert.raw.txt",
+      "transformation": "byte-for-byte; selected non-personal technical file"
+    },
+    {
+      "source_relative_path": "reports/meganet-package-2026-11-14/measurements/162.249.72.1-tracert.utf8.txt",
+      "source_bytes": 3196,
+      "source_sha256": "3eab77eeb5202aad1c6824649518850d117b8300fffba42d18510c5f5eac2215",
+      "package_path": "03_routes/later-icmp/162.249.72.1-tracert.utf8.txt",
+      "transformation": "byte-for-byte; selected non-personal technical file"
+    },
+    {
+      "source_relative_path": "reports/figures/rtt-overview.png",
+      "source_bytes": 83064,
+      "source_sha256": "52139424ab26f644cd96d339ea8051a2c5b753561f5d322d40a08066ac82e47a",
+      "package_path": "07_figures/night/rtt-overview.png",
+      "transformation": "byte-for-byte; selected non-personal technical file"
+    },
+    {
+      "source_relative_path": "reports/figures/rtt-local-zoom.png",
+      "source_bytes": 62813,
+      "source_sha256": "4e6878484ff94c655e750fc436a86bc2bd590ac279e5f5bdde29685fc0e67039",
+      "package_path": "07_figures/night/rtt-local-zoom.png",
+      "transformation": "byte-for-byte; selected non-personal technical file"
+    },
+    {
+      "source_relative_path": "reports/figures/traffic.png",
+      "source_bytes": 39067,
+      "source_sha256": "5e75d01e2dd4405da4c5ee5ad237c173b70a63a264954b6ef15b4029aef4a7bb",
+      "package_path": "07_figures/night/traffic.png",
+      "transformation": "byte-for-byte; selected non-personal technical file"
+    },
+    {
+      "source_relative_path": "reports/figures/wifi.png",
+      "source_bytes": 45054,
+      "source_sha256": "bb5388174a302695ab3fa8e2abb0d21e57c3d02efeadffef4aa151aa1d1ac58a",
+      "package_path": "07_figures/night/wifi.png",
+      "transformation": "byte-for-byte; selected non-personal technical file"
+    },
+    {
+      "source_relative_path": "reports/figures/day-2026-11-14/rtt-overview.png",
+      "source_bytes": 87967,
+      "source_sha256": "dd2ff31a04d9c37342daa22f275e74d9da724f193b59d8e235e12640be9e98d4",
+      "package_path": "07_figures/day/rtt-overview.png",
+      "transformation": "byte-for-byte; selected non-personal technical file"
+    },
+    {
+      "source_relative_path": "reports/figures/day-2026-11-14/rtt-local-zoom.png",
+      "source_bytes": 59301,
+      "source_sha256": "9bb2661341ad422b418f1b796a80c632a5d9a9b2056675fe0eaab9d2fd1e497c",
+      "package_path": "07_figures/day/rtt-local-zoom.png",
+      "transformation": "byte-for-byte; selected non-personal technical file"
+    },
+    {
+      "source_relative_path": "reports/figures/day-2026-11-14/traffic.png",
+      "source_bytes": 41406,
+      "source_sha256": "1430e930c8cc4bc219ee3024fa6cb5fa8a0c422f89bf0a1ae798d9bf58c5a1dc",
+      "package_path": "07_figures/day/traffic.png",
+      "transformation": "byte-for-byte; selected non-personal technical file"
+    },
+    {
+      "source_relative_path": "reports/figures/day-2026-11-14/wifi.png",
+      "source_bytes": 35844,
+      "source_sha256": "d26fa6ce6de91aaa24ede84c4750ad71138d06012eb5d40e6c140e2ab03d2354",
+      "package_path": "07_figures/day/wifi.png",
+      "transformation": "byte-for-byte; selected non-personal technical file"
+    },
+    {
+      "source_relative_path": "reports/INVESTIGATION-RESULTS.md",
+      "source_bytes": 33386,
+      "source_sha256": "635a67612c6b494ac83d9461eee17db6d92078e4640a36c1c14efd5377afecc4",
+      "package_path": "01_reports/",
+      "transformation": "Synthesis and cross-check; source file not included because it contains extra system identifiers or implementation detail"
+    },
+    {
+      "source_relative_path": "reports/DAY-MATCH-RESULTS-2026-11-14.md",
+      "source_bytes": 19251,
+      "source_sha256": "068e8bb8929649490aa315b792dae8577ef1cdf260693fb2d3a4438a4e8665ef",
+      "package_path": "01_reports/",
+      "transformation": "Synthesis and cross-check; source file not included because it contains extra system identifiers or implementation detail"
+    },
+    {
+      "source_relative_path": "reports/INCIDENT-2026-11-14.md",
+      "source_bytes": 11570,
+      "source_sha256": "eec098bb11ffbc29f0c282e4e7e2afd2368e90438328413a13f62e9bb66b7a43",
+      "package_path": "01_reports/",
+      "transformation": "Synthesis and cross-check; source file not included because it contains extra system identifiers or implementation detail"
+    },
+    {
+      "source_relative_path": "reports/INCIDENT-2026-11-14-DAY-300-400.md",
+      "source_bytes": 8332,
+      "source_sha256": "dbf48a4151b96037bb8e4de412e886186910ae91c2cbcb50ce7ddd844d6a92bf",
+      "package_path": "01_reports/",
+      "transformation": "Synthesis and cross-check; source file not included because it contains extra system identifiers or implementation detail"
+    },
+    {
+      "source_relative_path": "docs/BASELINE-2026-11-13.md",
+      "source_bytes": 3815,
+      "source_sha256": "f5b28b2123896f1f2cf96248142f98a81347b6c42e3895b7f1e4a8c1dbe10384",
+      "package_path": "01_reports/",
+      "transformation": "Synthesis and cross-check; source file not included because it contains extra system identifiers or implementation detail"
+    },
+    {
+      "source_relative_path": "reports/final-data/final-analysis.json",
+      "source_bytes": 324173,
+      "source_sha256": "83da83cb441a4ca2896de4c67de21a3ad498d35fa94ae11be2afbf1196032204",
+      "package_path": "01_reports/",
+      "transformation": "Synthesis and cross-check; source file not included because it contains extra system identifiers or implementation detail"
+    },
+    {
+      "source_relative_path": "reports/day-data/analysis.json",
+      "source_bytes": 603381,
+      "source_sha256": "ee3e3eb045be58de143e1357a39d4aae2bf8fcedbaa4b35cc98ff6ae1b33aa35",
+      "package_path": "01_reports/",
+      "transformation": "Synthesis and cross-check; source file not included because it contains extra system identifiers or implementation detail"
+    }
+  ],
+  "note": "Source hashes refer to local original bytes; derived exports have separate package hashes. No source absolute filesystem paths are distributed."
+}

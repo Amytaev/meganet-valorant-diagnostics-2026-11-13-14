@@ -1,0 +1,517 @@
+{
+  "scope": "Bounded reviewed extraction from saved game-log evidence; not exhaustive or independent live UDP verification.",
+  "physical_region_verified": false,
+  "endpoints": [
+    {
+      "endpoint": "162.249.72.1:7004",
+      "ip": "162.249.72.1",
+      "port": 7004,
+      "association": "confirmed_application_log_association",
+      "evidence_strength": "GameNetDriver RemoteAddr also recorded",
+      "first_log_time": "[2026.11.14-09.31.45:206]",
+      "last_log_time": "[2026.11.14-09.49.20:962]",
+      "log_timezone": "unverified; +05 conversion only if UTC is independently established",
+      "unique_events": 5,
+      "active_udp_peer_verified": false,
+      "events": [
+        {
+          "log_time": "[2026.11.14-09.31.45:206]",
+          "category": "LogTravelManager:",
+          "context_terms": [
+            "Travel"
+          ]
+        },
+        {
+          "log_time": "[2026.11.14-09.31.48:987]",
+          "category": "LogNet:",
+          "context_terms": [
+            "GameNetDriver",
+            "NetConnection",
+            "RemoteAddr"
+          ]
+        },
+        {
+          "log_time": "[2026.11.14-09.31.49:217]",
+          "category": "LogMapLoadModel:",
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.14-09.31.50:008]",
+          "category": "LogMapLoadModel:",
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.14-09.49.20:962]",
+          "category": "LogMapLoadModel:",
+          "context_terms": []
+        }
+      ]
+    },
+    {
+      "endpoint": "185.40.64.1:7004",
+      "ip": "185.40.64.1",
+      "port": 7004,
+      "association": "confirmed_application_log_association",
+      "evidence_strength": "Travel/map-load records; do not infer verified live UDP peer or handshake success",
+      "first_log_time": "[2026.11.14-09.08.49:238]",
+      "last_log_time": "[2026.11.14-09.09.04:314]",
+      "log_timezone": "unverified; +05 conversion only if UTC is independently established",
+      "unique_events": 4,
+      "active_udp_peer_verified": false,
+      "events": [
+        {
+          "log_time": "[2026.11.14-09.08.49:238]",
+          "category": "LogTravelManager:",
+          "context_terms": [
+            "Travel"
+          ]
+        },
+        {
+          "log_time": "[2026.11.14-09.08.54:918]",
+          "category": "LogMapLoadModel:",
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.14-09.09.03:679]",
+          "category": "LogMapLoadModel:",
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.14-09.09.04:314]",
+          "category": "LogMapLoadModel:",
+          "context_terms": []
+        }
+      ]
+    },
+    {
+      "endpoint": "185.40.64.1:7039",
+      "ip": "185.40.64.1",
+      "port": 7039,
+      "association": "confirmed_application_log_association",
+      "evidence_strength": "Travel/map-load records; do not infer verified live UDP peer or handshake success",
+      "first_log_time": "[2026.11.13-18.51.55:749]",
+      "last_log_time": "[2026.11.13-19.29.44:555]",
+      "log_timezone": "unverified; +05 conversion only if UTC is independently established",
+      "unique_events": 5,
+      "active_udp_peer_verified": false,
+      "events": [
+        {
+          "log_time": "[2026.11.13-18.51.55:749]",
+          "category": "LogTravelManager:",
+          "context_terms": [
+            "Travel"
+          ]
+        },
+        {
+          "log_time": "[2026.11.13-18.52.01:576]",
+          "category": "LogMapLoadModel:",
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-18.52.10:316]",
+          "category": "LogMapLoadModel:",
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-18.52.10:837]",
+          "category": "LogMapLoadModel:",
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-19.29.44:555]",
+          "category": "LogMapLoadModel:",
+          "context_terms": []
+        }
+      ]
+    },
+    {
+      "endpoint": "185.40.64.1:7048",
+      "ip": "185.40.64.1",
+      "port": 7048,
+      "association": "confirmed_application_log_association",
+      "evidence_strength": "Travel/map-load records; do not infer verified live UDP peer or handshake success",
+      "first_log_time": "[2026.11.13-18.11.34:945]",
+      "last_log_time": "[2026.11.13-18.11.47:125]",
+      "log_timezone": "unverified; +05 conversion only if UTC is independently established",
+      "unique_events": 4,
+      "active_udp_peer_verified": false,
+      "events": [
+        {
+          "log_time": "[2026.11.13-18.11.34:945]",
+          "category": "LogTravelManager:",
+          "context_terms": [
+            "Travel"
+          ]
+        },
+        {
+          "log_time": "[2026.11.13-18.11.38:537]",
+          "category": "LogMapLoadModel:",
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-18.11.47:101]",
+          "category": "LogMapLoadModel:",
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-18.11.47:125]",
+          "category": "LogMapLoadModel:",
+          "context_terms": []
+        }
+      ]
+    },
+    {
+      "endpoint": "185.40.64.1:7125",
+      "ip": "185.40.64.1",
+      "port": 7125,
+      "association": "confirmed_application_log_association",
+      "evidence_strength": "Travel/map-load records; do not infer verified live UDP peer or handshake success",
+      "first_log_time": "[2026.11.13-17.25.45:729]",
+      "last_log_time": "[2026.11.13-17.51.15:352]",
+      "log_timezone": "unverified; +05 conversion only if UTC is independently established",
+      "unique_events": 5,
+      "active_udp_peer_verified": false,
+      "events": [
+        {
+          "log_time": "[2026.11.13-17.25.45:729]",
+          "category": "LogTravelManager:",
+          "context_terms": [
+            "Travel"
+          ]
+        },
+        {
+          "log_time": "[2026.11.13-17.25.50:404]",
+          "category": "LogMapLoadModel:",
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-17.25.59:115]",
+          "category": "LogMapLoadModel:",
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-17.25.59:556]",
+          "category": "LogMapLoadModel:",
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-17.51.15:352]",
+          "category": "LogMapLoadModel:",
+          "context_terms": []
+        }
+      ]
+    },
+    {
+      "endpoint": "185.40.64.1:7149",
+      "ip": "185.40.64.1",
+      "port": 7149,
+      "association": "confirmed_application_log_association",
+      "evidence_strength": "Travel/map-load records; do not infer verified live UDP peer or handshake success",
+      "first_log_time": "[2026.11.13-10.23.01:919]",
+      "last_log_time": "[2026.11.13-11.05.07:022]",
+      "log_timezone": "unverified; +05 conversion only if UTC is independently established",
+      "unique_events": 5,
+      "active_udp_peer_verified": false,
+      "events": [
+        {
+          "log_time": "[2026.11.13-10.23.01:919]",
+          "category": "LogTravelManager:",
+          "context_terms": [
+            "Travel"
+          ]
+        },
+        {
+          "log_time": "[2026.11.13-10.23.07:989]",
+          "category": "LogMapLoadModel:",
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-10.23.16:673]",
+          "category": "LogMapLoadModel:",
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-10.23.17:183]",
+          "category": "LogMapLoadModel:",
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-11.05.07:022]",
+          "category": "LogMapLoadModel:",
+          "context_terms": []
+        }
+      ]
+    },
+    {
+      "endpoint": "185.40.64.1:7329",
+      "ip": "185.40.64.1",
+      "port": 7329,
+      "association": "confirmed_application_log_association",
+      "evidence_strength": "GameNetDriver RemoteAddr also recorded",
+      "first_log_time": "[2026.11.13-19.30.35:124]",
+      "last_log_time": "[2026.11.13-19.37.35:147]",
+      "log_timezone": "unverified; +05 conversion only if UTC is independently established",
+      "unique_events": 4,
+      "active_udp_peer_verified": false,
+      "events": [
+        {
+          "log_time": "[2026.11.13-19.30.35:124]",
+          "category": "LogTravelManager:",
+          "context_terms": [
+            "Travel"
+          ]
+        },
+        {
+          "log_time": "[2026.11.13-19.30.38:159]",
+          "category": "LogNet:",
+          "context_terms": [
+            "GameNetDriver",
+            "NetConnection",
+            "RemoteAddr"
+          ]
+        },
+        {
+          "log_time": "[2026.11.13-19.30.38:186]",
+          "category": "LogMapLoadModel:",
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-19.37.35:147]",
+          "category": "LogMapLoadModel:",
+          "context_terms": []
+        }
+      ]
+    },
+    {
+      "endpoint": "185.40.64.1:7354",
+      "ip": "185.40.64.1",
+      "port": 7354,
+      "association": "confirmed_application_log_association",
+      "evidence_strength": "Travel/map-load records; do not infer verified live UDP peer or handshake success",
+      "first_log_time": "[2026.11.13-19.53.41:234]",
+      "last_log_time": "[2026.11.13-20.06.22:615]",
+      "log_timezone": "unverified; +05 conversion only if UTC is independently established",
+      "unique_events": 5,
+      "active_udp_peer_verified": false,
+      "events": [
+        {
+          "log_time": "[2026.11.13-19.53.41:234]",
+          "category": "LogTravelManager:",
+          "context_terms": [
+            "Travel"
+          ]
+        },
+        {
+          "log_time": "[2026.11.13-19.53.47:213]",
+          "category": "LogMapLoadModel:",
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-19.53.56:016]",
+          "category": "LogMapLoadModel:",
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-19.53.56:535]",
+          "category": "LogMapLoadModel:",
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-20.06.22:615]",
+          "category": "LogMapLoadModel:",
+          "context_terms": []
+        }
+      ]
+    },
+    {
+      "endpoint": "185.40.64.1:7382",
+      "ip": "185.40.64.1",
+      "port": 7382,
+      "association": "confirmed_application_log_association",
+      "evidence_strength": "Travel/map-load records; do not infer verified live UDP peer or handshake success",
+      "first_log_time": "[2026.11.13-19.46.47:123]",
+      "last_log_time": "[2026.11.13-19.52.00:261]",
+      "log_timezone": "unverified; +05 conversion only if UTC is independently established",
+      "unique_events": 5,
+      "active_udp_peer_verified": false,
+      "events": [
+        {
+          "log_time": "[2026.11.13-19.46.47:123]",
+          "category": "LogTravelManager:",
+          "context_terms": [
+            "Travel"
+          ]
+        },
+        {
+          "log_time": "[2026.11.13-19.46.50:092]",
+          "category": "LogMapLoadModel:",
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-19.46.52:401]",
+          "category": "LogMapLoadModel:",
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-19.46.52:704]",
+          "category": "LogMapLoadModel:",
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-19.52.00:261]",
+          "category": "LogMapLoadModel:",
+          "context_terms": []
+        }
+      ]
+    },
+    {
+      "endpoint": "185.40.64.1:7394",
+      "ip": "185.40.64.1",
+      "port": 7394,
+      "association": "confirmed_application_log_association",
+      "evidence_strength": "Travel/map-load records; do not infer verified live UDP peer or handshake success",
+      "first_log_time": "[2026.11.13-08.09.08:764]",
+      "last_log_time": "[2026.11.13-08.44.25:391]",
+      "log_timezone": "unverified; +05 conversion only if UTC is independently established",
+      "unique_events": 5,
+      "active_udp_peer_verified": false,
+      "events": [
+        {
+          "log_time": "[2026.11.13-08.09.08:764]",
+          "category": "LogTravelManager:",
+          "context_terms": [
+            "Travel"
+          ]
+        },
+        {
+          "log_time": "[2026.11.13-08.09.14:592]",
+          "category": "LogMapLoadModel:",
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-08.09.23:439]",
+          "category": "LogMapLoadModel:",
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-08.09.23:919]",
+          "category": "LogMapLoadModel:",
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-08.44.25:391]",
+          "category": "LogMapLoadModel:",
+          "context_terms": []
+        }
+      ]
+    },
+    {
+      "endpoint": "185.40.64.1:7415",
+      "ip": "185.40.64.1",
+      "port": 7415,
+      "association": "confirmed_application_log_association",
+      "evidence_strength": "Travel/map-load records; do not infer verified live UDP peer or handshake success",
+      "first_log_time": "[2026.11.13-19.38.26:070]",
+      "last_log_time": "[2026.11.13-19.45.53:649]",
+      "log_timezone": "unverified; +05 conversion only if UTC is independently established",
+      "unique_events": 5,
+      "active_udp_peer_verified": false,
+      "events": [
+        {
+          "log_time": "[2026.11.13-19.38.26:070]",
+          "category": "LogTravelManager:",
+          "context_terms": [
+            "Travel"
+          ]
+        },
+        {
+          "log_time": "[2026.11.13-19.38.28:772]",
+          "category": "LogMapLoadModel:",
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-19.38.32:316]",
+          "category": "LogMapLoadModel:",
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-19.38.32:658]",
+          "category": "LogMapLoadModel:",
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-19.45.53:649]",
+          "category": "LogMapLoadModel:",
+          "context_terms": []
+        }
+      ]
+    },
+    {
+      "endpoint": "185.40.64.1:7496",
+      "ip": "185.40.64.1",
+      "port": 7496,
+      "association": "confirmed_application_log_association",
+      "evidence_strength": "Travel/map-load records; do not infer verified live UDP peer or handshake success",
+      "first_log_time": "[2026.11.13-18.05.04:371]",
+      "last_log_time": "[2026.11.13-18.11.01:798]",
+      "log_timezone": "unverified; +05 conversion only if UTC is independently established",
+      "unique_events": 5,
+      "active_udp_peer_verified": false,
+      "events": [
+        {
+          "log_time": "[2026.11.13-18.05.04:371]",
+          "category": "LogTravelManager:",
+          "context_terms": [
+            "Travel"
+          ]
+        },
+        {
+          "log_time": "[2026.11.13-18.05.07:480]",
+          "category": "LogMapLoadModel:",
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-18.05.11:478]",
+          "category": "LogMapLoadModel:",
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-18.05.11:709]",
+          "category": "LogMapLoadModel:",
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-18.11.01:798]",
+          "category": "LogMapLoadModel:",
+          "context_terms": []
+        }
+      ]
+    },
+    {
+      "endpoint": "185.40.64.1:7499",
+      "ip": "185.40.64.1",
+      "port": 7499,
+      "association": "confirmed_application_log_association",
+      "evidence_strength": "Travel/map-load records; do not infer verified live UDP peer or handshake success",
+      "first_log_time": "[2026.11.13-17.58.54:355]",
+      "last_log_time": "[2026.11.13-17.58.57:464]",
+      "log_timezone": "unverified; +05 conversion only if UTC is independently established",
+      "unique_events": 2,
+      "active_udp_peer_verified": false,
+      "events": [
+        {
+          "log_time": "[2026.11.13-17.58.54:355]",
+          "category": "LogTravelManager:",
+          "context_terms": [
+            "Travel"
+          ]
+        },
+        {
+          "log_time": "[2026.11.13-17.58.57:464]",
+          "category": "LogMapLoadModel:",
+          "context_terms": []
+        }
+      ]
+    }
+  ]
+}

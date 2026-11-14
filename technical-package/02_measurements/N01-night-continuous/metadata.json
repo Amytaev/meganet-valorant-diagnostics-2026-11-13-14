@@ -1,0 +1,23 @@
+{
+  "schema": 3,
+  "start_utc": "2026-11-13T19:47:11.922+00:00",
+  "end_utc": "2026-11-13T20:08:36.533+00:00",
+  "context": "Unknown",
+  "targets": [
+    "192.168.123.1",
+    "89.38.164.205",
+    "1.1.1.1",
+    "87.245.238.34",
+    "87.245.233.166"
+  ],
+  "protocol": "ICMPv4",
+  "interval_seconds": 2.0,
+  "timeout_ms": 1500,
+  "payload_bytes": 32,
+  "cycles": 643,
+  "stop_reason": "stop_file",
+  "failed": false,
+  "package_session": "N01-night-continuous",
+  "qualified_for_nonresponse_analysis": true,
+  "game_context": "Unknown; process existence does not establish game mode"
+}

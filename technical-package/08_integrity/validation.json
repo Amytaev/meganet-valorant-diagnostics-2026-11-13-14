@@ -1,0 +1,22 @@
+{
+  "validated_at_local": "2026-11-14T16:31:19+05:00",
+  "main_attempts": 13205,
+  "qualified_success_probes": 12870,
+  "early_quality_attempts": 335,
+  "night_continuous_probes": 3215,
+  "day_continuous_probes": 5745,
+  "day_hotkey_spike": 107,
+  "day_hotkey_recovery": 20,
+  "incident_samples_per_target": 24,
+  "derived_stats_match_saved_analysis": true,
+  "continuous_source_sequences_verified": true,
+  "package_privacy_pattern_findings": [],
+  "broken_html_local_links": [],
+  "privacy_method": "Strict field allowlist plus text scan; plots contain only telemetry and were visually reviewed. Full game logs and system snapshots not distributed.",
+  "included_later_valorant_jobs": 4,
+  "file_index_excludes": [
+    "08_integrity/file-index.csv",
+    "08_integrity/validation.json",
+    "SHA256SUMS.txt"
+  ]
+}

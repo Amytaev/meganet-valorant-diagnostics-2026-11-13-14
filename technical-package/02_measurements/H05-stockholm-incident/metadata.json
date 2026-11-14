@@ -1,0 +1,27 @@
+{
+  "schema": 2,
+  "start_utc": "2026-11-13T19:06:10.6984143Z",
+  "start_local": "2026-11-14T00:06:10.6984143+05:00",
+  "end_utc": "2026-11-13T19:10:18.4963024Z",
+  "end_local": "2026-11-14T00:10:18.4942795+05:00",
+  "context": "Stockholm-unrated",
+  "targets": [
+    "192.168.123.1",
+    "89.38.164.205",
+    "1.1.1.1",
+    "87.245.238.34",
+    "87.245.234.191"
+  ],
+  "protocol": "ICMPv4",
+  "interval_seconds": 2,
+  "timeout_ms": 1500,
+  "payload_bytes": 32,
+  "cycles": 123,
+  "stop_reason": "stop_file",
+  "failed": false,
+  "elapsed_seconds": 247.75249789999998,
+  "game_endpoint_verified": false,
+  "package_session": "H05-stockholm-incident",
+  "qualified_for_nonresponse_analysis": true,
+  "privacy": "Only measurement parameters; host/user/interface identifiers omitted."
+}

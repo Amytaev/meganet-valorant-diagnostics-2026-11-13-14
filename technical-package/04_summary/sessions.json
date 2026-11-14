@@ -1,0 +1,90 @@
+[
+  {
+    "session": "H01-early-quality-only",
+    "start_local": "2026-11-13T23:42:36.0222035+05:00",
+    "end_local": "2026-11-13T23:44:48.1259419+05:00",
+    "rows": 335,
+    "cycles": 67,
+    "qualified_for_nonresponse": false,
+    "context": "Range",
+    "timeout_ms": 800,
+    "file": "02_measurements/H01-early-quality-only/pings.csv"
+  },
+  {
+    "session": "H02-range",
+    "start_local": "2026-11-13T23:46:10.2352884+05:00",
+    "end_local": "2026-11-13T23:50:48.2290034+05:00",
+    "rows": 700,
+    "cycles": 140,
+    "qualified_for_nonresponse": true,
+    "context": "Range",
+    "timeout_ms": 1500,
+    "file": "02_measurements/H02-range/pings.csv"
+  },
+  {
+    "session": "H03-transition",
+    "start_local": "2026-11-13T23:50:55.9545789+05:00",
+    "end_local": "2026-11-13T23:53:15.9988663+05:00",
+    "rows": 355,
+    "cycles": 71,
+    "qualified_for_nonresponse": true,
+    "context": "Unknown",
+    "timeout_ms": 1500,
+    "file": "02_measurements/H03-transition/pings.csv"
+  },
+  {
+    "session": "H04-stockholm-unrated",
+    "start_local": "2026-11-13T23:53:24.6167092+05:00",
+    "end_local": "2026-11-14T00:03:20.7418197+05:00",
+    "rows": 1495,
+    "cycles": 299,
+    "qualified_for_nonresponse": true,
+    "context": "Stockholm-unrated",
+    "timeout_ms": 1500,
+    "file": "02_measurements/H04-stockholm-unrated/pings.csv"
+  },
+  {
+    "session": "H05-stockholm-incident",
+    "start_local": "2026-11-14T00:06:13.6965930+05:00",
+    "end_local": "2026-11-14T00:10:17.7858644+05:00",
+    "rows": 615,
+    "cycles": 123,
+    "qualified_for_nonresponse": true,
+    "context": "Stockholm-unrated",
+    "timeout_ms": 1500,
+    "file": "02_measurements/H05-stockholm-incident/pings.csv"
+  },
+  {
+    "session": "H06-stockholm-recovery",
+    "start_local": "2026-11-14T00:10:25.3300008+05:00",
+    "end_local": "2026-11-14T00:15:21.3577941+05:00",
+    "rows": 745,
+    "cycles": 149,
+    "qualified_for_nonresponse": true,
+    "context": "Stockholm-unrated",
+    "timeout_ms": 1500,
+    "file": "02_measurements/H06-stockholm-recovery/pings.csv"
+  },
+  {
+    "session": "N01-night-continuous",
+    "start_local": "2026-11-14T00:47:11.940+05:00",
+    "end_local": "2026-11-14T01:08:35.970+05:00",
+    "rows": 3215,
+    "cycles": 643,
+    "qualified_for_nonresponse": true,
+    "context": "Unknown; process existence does not establish game mode",
+    "timeout_ms": 1500,
+    "file": "02_measurements/N01-night-continuous/probes.csv"
+  },
+  {
+    "session": "D01-day-continuous",
+    "start_local": "2026-11-14T14:11:26.516+05:00",
+    "end_local": "2026-11-14T14:49:42.547+05:00",
+    "rows": 5745,
+    "cycles": 1149,
+    "qualified_for_nonresponse": true,
+    "context": "Stockholm ranked, reported by player",
+    "timeout_ms": 1500,
+    "file": "02_measurements/D01-day-continuous/probes.csv"
+  }
+]
