@@ -1,0 +1,9 @@
+{
+  "source": "user_response_after_capture",
+  "event_seq": 2740,
+  "observed_utc": "2026-11-13T20:04:58.948+00:00",
+  "user_reply": "Проверка кнопки или другое событие",
+  "classification": "test_or_other_not_validated_network_event",
+  "game_rtt_ms": null,
+  "game_loss_pct": null
+}

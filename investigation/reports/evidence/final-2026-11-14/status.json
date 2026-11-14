@@ -1,0 +1,61 @@
+{
+  "schema": 3,
+  "run_id": "625146fb9ba34394affe537101b3db0b",
+  "pid": 9936,
+  "start_utc": "2026-11-13T19:47:11.922+00:00",
+  "context": "Unknown",
+  "targets": [
+    "192.168.123.1",
+    "89.38.164.205",
+    "1.1.1.1",
+    "87.245.238.34",
+    "87.245.233.166"
+  ],
+  "protocol": "ICMPv4",
+  "payload_bytes": 32,
+  "interval_seconds": 2.0,
+  "timeout_ms": 1500,
+  "duration_requested_seconds": 0.0,
+  "continuous": true,
+  "process_in_job": true,
+  "desktop": {
+    "session_id": 2,
+    "window_station": "WinSta0",
+    "desktop": "Default"
+  },
+  "parent_pid": 31200,
+  "launch_method": "wmi-broker",
+  "admin_token": false,
+  "rotation_seconds": 900.0,
+  "rotation_bytes": 4194304,
+  "soft_budget_mib": 512.0,
+  "retention": "preserve incidents; soft budget",
+  "timezone": [
+    "Кызылорда (зима)",
+    "Кызылорда (лето)"
+  ],
+  "game_network_telemetry": "unavailable: no verified supported live RTT/loss source; manual markers only",
+  "source_sha256": {
+    "continuous_monitor.py": "80517ab1b7a01bcc05cc86a8955f91344313e134717744bc794dfd47eaf7a0fe",
+    "monitor_storage.py": "6d0a1ee09670a8205f0cc2a1ecc4a8ada9ced3b46186eef19998b772c1ecc6bb",
+    "monitor_windows.py": "2a580928cbd6f341297b2e8d1ca543740023993637f3af7467711b379a7b3ac7"
+  },
+  "end_utc": "2026-11-13T20:08:36.533+00:00",
+  "stop_reason": "stop_file",
+  "failed": false,
+  "cycles": 643,
+  "final_health": {
+    "last_seq": 3299,
+    "committed_seq": 3299,
+    "buffered_records": 0,
+    "dropped_memory_records": 0,
+    "io_error": null,
+    "storage_pressure": false,
+    "retained_bytes": 1680978,
+    "soft_budget_bytes": 536870912.0,
+    "free_disk_bytes": 72919801856
+  },
+  "unfinished_probes": [],
+  "state": "stopped",
+  "heartbeat_utc": "2026-11-13T20:08:36.534+00:00"
+}

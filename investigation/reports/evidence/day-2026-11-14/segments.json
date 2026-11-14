@@ -1,0 +1,41 @@
+{
+  "schema": 3,
+  "segments": [
+    {
+      "name": "telemetry-00000001.jsonl",
+      "first_seq": 1,
+      "last_seq": 2409,
+      "pinned": true,
+      "start_utc": "2026-11-14T09:11:26.506+00:00",
+      "closed": true,
+      "bytes": 1200123,
+      "end_utc": "2026-11-14T09:26:26.593+00:00",
+      "original_source_bytes": 1200489
+    },
+    {
+      "name": "telemetry-00000002.jsonl",
+      "first_seq": 2410,
+      "last_seq": 4714,
+      "pinned": true,
+      "start_utc": "2026-11-14T09:26:26.594+00:00",
+      "closed": true,
+      "bytes": 1176851,
+      "end_utc": "2026-11-14T09:41:26.649+00:00",
+      "original_source_bytes": 1177217
+    },
+    {
+      "name": "telemetry-00000003.jsonl",
+      "first_seq": 4715,
+      "last_seq": 5988,
+      "pinned": true,
+      "start_utc": "2026-11-14T09:41:26.649+00:00",
+      "closed": true,
+      "bytes": 638032,
+      "end_utc": "2026-11-14T09:49:44.195+00:00",
+      "original_source_bytes": 638253
+    }
+  ],
+  "deleted": [],
+  "retention": "soft budget; pinned incidents and last two segments never automatically removed",
+  "public_derivative_note": "Only personal labels/paths are pseudonymized. Original source byte sizes retained in original_source_bytes. Probe values, times, sequences and original first_seq boundary anomaly are unchanged."
+}

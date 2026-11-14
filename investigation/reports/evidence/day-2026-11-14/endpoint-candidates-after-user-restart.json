@@ -1,0 +1,38 @@
+{
+  "observed_local": "2026-11-14T14:32:08.7226370+05:00",
+  "source_bytes": 222334,
+  "source_last_write": "2026-11-14T14:32:07.8440603+05:00",
+  "scan_limit_lines": 100000,
+  "log_timezone": "unverified",
+  "candidates": [
+    {
+      "observed_local": "2026-11-14T14:32:08.7226370+05:00",
+      "log_time": "[2026.11.14-09.31.45:206]",
+      "category": "LogTravelManager:",
+      "endpoint": "162.249.72.1:7004",
+      "active_game_udp_verified": false
+    },
+    {
+      "observed_local": "2026-11-14T14:32:08.7226370+05:00",
+      "log_time": "[2026.11.14-09.31.48:987]",
+      "category": "LogNet:",
+      "endpoint": "162.249.72.1:7004",
+      "active_game_udp_verified": false
+    },
+    {
+      "observed_local": "2026-11-14T14:32:08.7226370+05:00",
+      "log_time": "[2026.11.14-09.31.49:217]",
+      "category": "LogMapLoadModel:",
+      "endpoint": "162.249.72.1:7004",
+      "active_game_udp_verified": false
+    },
+    {
+      "observed_local": "2026-11-14T14:32:08.7226370+05:00",
+      "log_time": "[2026.11.14-09.31.50:008]",
+      "category": "LogMapLoadModel:",
+      "endpoint": "162.249.72.1:7004",
+      "active_game_udp_verified": false
+    }
+  ],
+  "note": "Allowlisted extraction only. No candidate is proof of currently active game peer, transport or server region."
+}

@@ -1,0 +1,18 @@
+{
+  "source": "user_report_after_native_batch_completed",
+  "recorded_utc": "2026-11-14T11:33:49.655+00:00",
+  "log_candidate": "185.40.64.1:7158",
+  "user_reported_typical_game_rtt_ms": [
+    96,
+    105
+  ],
+  "user_reported_small_rise_ms": [
+    100,
+    110
+  ],
+  "hotkey_recorded": false,
+  "reason": "Previous continuous run stopped at 14:49 after game ended; new run started only after this message at 16:32:40.",
+  "new_monitor_run": "20261114-163240-f28706ce",
+  "new_game_region_verified": false,
+  "limitation": "No synchronous control probes exist at the reported past hotkey. Native Riot IP probes preceded the new game-log travel; the final CS2 ping may overlap initial new-match loading if game log times are UTC. Game clock format is not independently verified. No packet loss values supplied."
+}

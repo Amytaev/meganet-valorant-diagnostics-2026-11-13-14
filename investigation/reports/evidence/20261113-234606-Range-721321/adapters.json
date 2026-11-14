@@ -1,0 +1,42 @@
+﻿[
+    {
+        "Name":  "Radmin VPN",
+        "InterfaceDescription":  "Famatech Radmin VPN Ethernet Adapter",
+        "ifIndex":  16,
+        "Status":  "Up",
+        "LinkSpeed":  "100 Mbps",
+        "DriverInformation":  "Driver Date 2022-08-11 Version 15.39.54.8 NDIS 6.0",
+        "DriverVersion":  "15.39.54.8",
+        "DriverDate":  "2022-08-11"
+    },
+    {
+        "Name":  "Ethernet",
+        "InterfaceDescription":  "Realtek PCIe GbE Family Controller",
+        "ifIndex":  12,
+        "Status":  "Disconnected",
+        "LinkSpeed":  "0 bps",
+        "DriverInformation":  "Driver Date 2024-11-28 Version 10.74.1128.2024 NDIS 6.40",
+        "DriverVersion":  "10.74.1128.2024",
+        "DriverDate":  "2024-11-28"
+    },
+    {
+        "Name":  "Ethernet 2",
+        "InterfaceDescription":  "VirtualBox Host-Only Ethernet Adapter",
+        "ifIndex":  10,
+        "Status":  "Up",
+        "LinkSpeed":  "1 Gbps",
+        "DriverInformation":  "Driver Date 2026-01-30 Version 7.2.6.22322 NDIS 6.30",
+        "DriverVersion":  "7.2.6.22322",
+        "DriverDate":  "2026-01-30"
+    },
+    {
+        "Name":  "Беспроводная сеть",
+        "InterfaceDescription":  "Realtek 8852BE Wireless LAN WiFi 6 PCI-E NIC",
+        "ifIndex":  7,
+        "Status":  "Up",
+        "LinkSpeed":  "960.5 Mbps",
+        "DriverInformation":  "Driver Date 2026-07-13 Version 6001.15.165.3 NDIS 6.70",
+        "DriverVersion":  "6001.15.165.3",
+        "DriverDate":  "2026-07-13"
+    }
+]

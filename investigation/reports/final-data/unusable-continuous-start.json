@@ -1,0 +1,62 @@
+{
+  "reason": "Native payload buffer mismatch; ProbeError records, not network losses",
+  "metadata": {
+    "schema": 3,
+    "run_id": "2aa43789c73a4f989775a1f34fbb576e",
+    "pid": 7712,
+    "start_utc": "2026-11-13T19:44:49.279+00:00",
+    "context": "Unknown",
+    "targets": [
+      "192.168.123.1",
+      "89.38.164.205",
+      "1.1.1.1",
+      "87.245.238.34",
+      "87.245.233.166"
+    ],
+    "protocol": "ICMPv4",
+    "payload_bytes": 32,
+    "interval_seconds": 2.0,
+    "timeout_ms": 1500,
+    "duration_requested_seconds": 0.0,
+    "continuous": true,
+    "process_in_job": true,
+    "desktop": {
+      "session_id": 2,
+      "window_station": "WinSta0",
+      "desktop": "Default"
+    },
+    "parent_pid": 31200,
+    "launch_method": "wmi-broker",
+    "admin_token": false,
+    "rotation_seconds": 900.0,
+    "rotation_bytes": 4194304,
+    "soft_budget_mib": 512.0,
+    "retention": "preserve incidents; soft budget",
+    "timezone": [
+      "РљС‹Р·С‹Р»РѕСЂРґР° (Р·РёРјР°)",
+      "РљС‹Р·С‹Р»РѕСЂРґР° (Р»РµС‚Рѕ)"
+    ],
+    "game_network_telemetry": "unavailable: no verified supported live RTT/loss source; manual markers only",
+    "source_sha256": {
+      "continuous_monitor.py": "47fd7401e5e8ab081c27fc6f7441f45dae941dad0f5c61875a291c02fe27b40b",
+      "monitor_storage.py": "6d0a1ee09670a8205f0cc2a1ecc4a8ada9ced3b46186eef19998b772c1ecc6bb",
+      "monitor_windows.py": "4bfdf6782344011735398c022b0b19944f2b00d265f71edabe920a1a9a697829"
+    },
+    "end_utc": "2026-11-13T19:47:10.363+00:00",
+    "stop_reason": "stop_file",
+    "failed": false,
+    "cycles": 71,
+    "final_health": {
+      "last_seq": 717,
+      "committed_seq": 717,
+      "buffered_records": 0,
+      "dropped_memory_records": 0,
+      "io_error": null,
+      "storage_pressure": false,
+      "retained_bytes": 299163,
+      "soft_budget_bytes": 536870912.0,
+      "free_disk_bytes": 73206046720
+    },
+    "unfinished_probes": []
+  }
+}

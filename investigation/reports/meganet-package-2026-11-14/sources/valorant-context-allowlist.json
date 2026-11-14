@@ -1,0 +1,697 @@
+{
+  "extracted_utc": "2026-11-14T11:14:35.974+00:00",
+  "files_bounded": [
+    "ShooterGame.log",
+    "ShooterGame-backup-2026.11.14-09.30.10.log",
+    "ShooterGame-backup-2026.11.13-20.08.16.log",
+    "ShooterGame-backup-2026.11.13-11.18.28.log",
+    "ShooterGame-backup-2026.11.13-04.25.29.log"
+  ],
+  "bytes_read": 20336874,
+  "note": "Only timestamp/category/IP:port and fixed context terms from game-network categories, not HTTP. Archives modified 13-14 November only. No raw log, query string, ticket, user name or IDs. Log timezone unverified.",
+  "records": [
+    {
+      "source_basename": "ShooterGame.log",
+      "source_line": 1446,
+      "source_bytes": 1346056,
+      "category": "LogTravelManager:",
+      "log_time": "[2026.11.14-09.31.45:206]",
+      "endpoints": [
+        "162.249.72.1:7004"
+      ],
+      "context_terms": [
+        "Travel"
+      ]
+    },
+    {
+      "source_basename": "ShooterGame.log",
+      "source_line": 1626,
+      "source_bytes": 1346056,
+      "category": "LogNet:",
+      "log_time": "[2026.11.14-09.31.48:987]",
+      "endpoints": [
+        "162.249.72.1:7004"
+      ],
+      "context_terms": [
+        "NetConnection",
+        "RemoteAddr",
+        "GameNetDriver"
+      ]
+    },
+    {
+      "source_basename": "ShooterGame.log",
+      "source_line": 1679,
+      "source_bytes": 1346056,
+      "category": "LogMapLoadModel:",
+      "log_time": "[2026.11.14-09.31.49:217]",
+      "endpoints": [
+        "162.249.72.1:7004"
+      ],
+      "context_terms": []
+    },
+    {
+      "source_basename": "ShooterGame.log",
+      "source_line": 1732,
+      "source_bytes": 1346056,
+      "category": "LogMapLoadModel:",
+      "log_time": "[2026.11.14-09.31.50:008]",
+      "endpoints": [
+        "162.249.72.1:7004"
+      ],
+      "context_terms": []
+    },
+    {
+      "source_basename": "ShooterGame.log",
+      "source_line": 7476,
+      "source_bytes": 1346056,
+      "category": "LogMapLoadModel:",
+      "log_time": "[2026.11.14-09.49.20:962]",
+      "endpoints": [
+        "162.249.72.1:7004"
+      ],
+      "context_terms": []
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.14-09.30.10.log",
+      "source_line": 2379,
+      "source_bytes": 1228936,
+      "category": "LogTravelManager:",
+      "log_time": "[2026.11.14-09.08.49:238]",
+      "endpoints": [
+        "185.40.64.1:7004"
+      ],
+      "context_terms": [
+        "Travel"
+      ]
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.14-09.30.10.log",
+      "source_line": 2539,
+      "source_bytes": 1228936,
+      "category": "LogMapLoadModel:",
+      "log_time": "[2026.11.14-09.08.54:918]",
+      "endpoints": [
+        "185.40.64.1:7004"
+      ],
+      "context_terms": []
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.14-09.30.10.log",
+      "source_line": 2595,
+      "source_bytes": 1228936,
+      "category": "LogMapLoadModel:",
+      "log_time": "[2026.11.14-09.09.03:679]",
+      "endpoints": [
+        "185.40.64.1:7004"
+      ],
+      "context_terms": []
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.14-09.30.10.log",
+      "source_line": 2683,
+      "source_bytes": 1228936,
+      "category": "LogMapLoadModel:",
+      "log_time": "[2026.11.14-09.09.04:314]",
+      "endpoints": [
+        "185.40.64.1:7004"
+      ],
+      "context_terms": []
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-20.08.16.log",
+      "source_line": 2453,
+      "source_bytes": 12132681,
+      "category": "LogTravelManager:",
+      "log_time": "[2026.11.13-17.25.45:729]",
+      "endpoints": [
+        "185.40.64.1:7125"
+      ],
+      "context_terms": [
+        "Travel"
+      ]
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-20.08.16.log",
+      "source_line": 2727,
+      "source_bytes": 12132681,
+      "category": "LogMapLoadModel:",
+      "log_time": "[2026.11.13-17.25.50:404]",
+      "endpoints": [
+        "185.40.64.1:7125"
+      ],
+      "context_terms": []
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-20.08.16.log",
+      "source_line": 2806,
+      "source_bytes": 12132681,
+      "category": "LogMapLoadModel:",
+      "log_time": "[2026.11.13-17.25.59:115]",
+      "endpoints": [
+        "185.40.64.1:7125"
+      ],
+      "context_terms": []
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-20.08.16.log",
+      "source_line": 2903,
+      "source_bytes": 12132681,
+      "category": "LogMapLoadModel:",
+      "log_time": "[2026.11.13-17.25.59:556]",
+      "endpoints": [
+        "185.40.64.1:7125"
+      ],
+      "context_terms": []
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-20.08.16.log",
+      "source_line": 10449,
+      "source_bytes": 12132681,
+      "category": "LogMapLoadModel:",
+      "log_time": "[2026.11.13-17.51.15:352]",
+      "endpoints": [
+        "185.40.64.1:7125"
+      ],
+      "context_terms": []
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-20.08.16.log",
+      "source_line": 13223,
+      "source_bytes": 12132681,
+      "category": "LogTravelManager:",
+      "log_time": "[2026.11.13-17.58.54:355]",
+      "endpoints": [
+        "185.40.64.1:7499"
+      ],
+      "context_terms": [
+        "Travel"
+      ]
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-20.08.16.log",
+      "source_line": 13664,
+      "source_bytes": 12132681,
+      "category": "LogMapLoadModel:",
+      "log_time": "[2026.11.13-17.58.57:464]",
+      "endpoints": [
+        "185.40.64.1:7499"
+      ],
+      "context_terms": []
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-20.08.16.log",
+      "source_line": 17328,
+      "source_bytes": 12132681,
+      "category": "LogTravelManager:",
+      "log_time": "[2026.11.13-18.05.04:371]",
+      "endpoints": [
+        "185.40.64.1:7496"
+      ],
+      "context_terms": [
+        "Travel"
+      ]
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-20.08.16.log",
+      "source_line": 17912,
+      "source_bytes": 12132681,
+      "category": "LogMapLoadModel:",
+      "log_time": "[2026.11.13-18.05.07:480]",
+      "endpoints": [
+        "185.40.64.1:7496"
+      ],
+      "context_terms": []
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-20.08.16.log",
+      "source_line": 18018,
+      "source_bytes": 12132681,
+      "category": "LogMapLoadModel:",
+      "log_time": "[2026.11.13-18.05.11:478]",
+      "endpoints": [
+        "185.40.64.1:7496"
+      ],
+      "context_terms": []
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-20.08.16.log",
+      "source_line": 18106,
+      "source_bytes": 12132681,
+      "category": "LogMapLoadModel:",
+      "log_time": "[2026.11.13-18.05.11:709]",
+      "endpoints": [
+        "185.40.64.1:7496"
+      ],
+      "context_terms": []
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-20.08.16.log",
+      "source_line": 21432,
+      "source_bytes": 12132681,
+      "category": "LogMapLoadModel:",
+      "log_time": "[2026.11.13-18.11.01:798]",
+      "endpoints": [
+        "185.40.64.1:7496"
+      ],
+      "context_terms": []
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-20.08.16.log",
+      "source_line": 22508,
+      "source_bytes": 12132681,
+      "category": "LogTravelManager:",
+      "log_time": "[2026.11.13-18.11.34:945]",
+      "endpoints": [
+        "185.40.64.1:7048"
+      ],
+      "context_terms": [
+        "Travel"
+      ]
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-20.08.16.log",
+      "source_line": 22896,
+      "source_bytes": 12132681,
+      "category": "LogMapLoadModel:",
+      "log_time": "[2026.11.13-18.11.38:537]",
+      "endpoints": [
+        "185.40.64.1:7048"
+      ],
+      "context_terms": []
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-20.08.16.log",
+      "source_line": 22963,
+      "source_bytes": 12132681,
+      "category": "LogMapLoadModel:",
+      "log_time": "[2026.11.13-18.11.47:101]",
+      "endpoints": [
+        "185.40.64.1:7048"
+      ],
+      "context_terms": []
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-20.08.16.log",
+      "source_line": 22975,
+      "source_bytes": 12132681,
+      "category": "LogMapLoadModel:",
+      "log_time": "[2026.11.13-18.11.47:125]",
+      "endpoints": [
+        "185.40.64.1:7048"
+      ],
+      "context_terms": []
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-20.08.16.log",
+      "source_line": 55150,
+      "source_bytes": 12132681,
+      "category": "LogTravelManager:",
+      "log_time": "[2026.11.13-18.51.55:749]",
+      "endpoints": [
+        "185.40.64.1:7039"
+      ],
+      "context_terms": [
+        "Travel"
+      ]
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-20.08.16.log",
+      "source_line": 55631,
+      "source_bytes": 12132681,
+      "category": "LogMapLoadModel:",
+      "log_time": "[2026.11.13-18.52.01:576]",
+      "endpoints": [
+        "185.40.64.1:7039"
+      ],
+      "context_terms": []
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-20.08.16.log",
+      "source_line": 55690,
+      "source_bytes": 12132681,
+      "category": "LogMapLoadModel:",
+      "log_time": "[2026.11.13-18.52.10:316]",
+      "endpoints": [
+        "185.40.64.1:7039"
+      ],
+      "context_terms": []
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-20.08.16.log",
+      "source_line": 55764,
+      "source_bytes": 12132681,
+      "category": "LogMapLoadModel:",
+      "log_time": "[2026.11.13-18.52.10:837]",
+      "endpoints": [
+        "185.40.64.1:7039"
+      ],
+      "context_terms": []
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-20.08.16.log",
+      "source_line": 78872,
+      "source_bytes": 12132681,
+      "category": "LogMapLoadModel:",
+      "log_time": "[2026.11.13-19.29.44:555]",
+      "endpoints": [
+        "185.40.64.1:7039"
+      ],
+      "context_terms": []
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-20.08.16.log",
+      "source_line": 79958,
+      "source_bytes": 12132681,
+      "category": "LogTravelManager:",
+      "log_time": "[2026.11.13-19.30.35:124]",
+      "endpoints": [
+        "185.40.64.1:7329"
+      ],
+      "context_terms": [
+        "Travel"
+      ]
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-20.08.16.log",
+      "source_line": 80934,
+      "source_bytes": 12132681,
+      "category": "LogNet:",
+      "log_time": "[2026.11.13-19.30.38:159]",
+      "endpoints": [
+        "185.40.64.1:7329"
+      ],
+      "context_terms": [
+        "NetConnection",
+        "RemoteAddr",
+        "GameNetDriver"
+      ]
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-20.08.16.log",
+      "source_line": 80951,
+      "source_bytes": 12132681,
+      "category": "LogMapLoadModel:",
+      "log_time": "[2026.11.13-19.30.38:186]",
+      "endpoints": [
+        "185.40.64.1:7329"
+      ],
+      "context_terms": []
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-20.08.16.log",
+      "source_line": 85039,
+      "source_bytes": 12132681,
+      "category": "LogMapLoadModel:",
+      "log_time": "[2026.11.13-19.37.35:147]",
+      "endpoints": [
+        "185.40.64.1:7329"
+      ],
+      "context_terms": []
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-20.08.16.log",
+      "source_line": 86168,
+      "source_bytes": 12132681,
+      "category": "LogTravelManager:",
+      "log_time": "[2026.11.13-19.38.26:070]",
+      "endpoints": [
+        "185.40.64.1:7415"
+      ],
+      "context_terms": [
+        "Travel"
+      ]
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-20.08.16.log",
+      "source_line": 87021,
+      "source_bytes": 12132681,
+      "category": "LogMapLoadModel:",
+      "log_time": "[2026.11.13-19.38.28:772]",
+      "endpoints": [
+        "185.40.64.1:7415"
+      ],
+      "context_terms": []
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-20.08.16.log",
+      "source_line": 87152,
+      "source_bytes": 12132681,
+      "category": "LogMapLoadModel:",
+      "log_time": "[2026.11.13-19.38.32:316]",
+      "endpoints": [
+        "185.40.64.1:7415"
+      ],
+      "context_terms": []
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-20.08.16.log",
+      "source_line": 87232,
+      "source_bytes": 12132681,
+      "category": "LogMapLoadModel:",
+      "log_time": "[2026.11.13-19.38.32:658]",
+      "endpoints": [
+        "185.40.64.1:7415"
+      ],
+      "context_terms": []
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-20.08.16.log",
+      "source_line": 92125,
+      "source_bytes": 12132681,
+      "category": "LogMapLoadModel:",
+      "log_time": "[2026.11.13-19.45.53:649]",
+      "endpoints": [
+        "185.40.64.1:7415"
+      ],
+      "context_terms": []
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-20.08.16.log",
+      "source_line": 93136,
+      "source_bytes": 12132681,
+      "category": "LogTravelManager:",
+      "log_time": "[2026.11.13-19.46.47:123]",
+      "endpoints": [
+        "185.40.64.1:7382"
+      ],
+      "context_terms": [
+        "Travel"
+      ]
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-20.08.16.log",
+      "source_line": 94053,
+      "source_bytes": 12132681,
+      "category": "LogMapLoadModel:",
+      "log_time": "[2026.11.13-19.46.50:092]",
+      "endpoints": [
+        "185.40.64.1:7382"
+      ],
+      "context_terms": []
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-20.08.16.log",
+      "source_line": 94119,
+      "source_bytes": 12132681,
+      "category": "LogMapLoadModel:",
+      "log_time": "[2026.11.13-19.46.52:401]",
+      "endpoints": [
+        "185.40.64.1:7382"
+      ],
+      "context_terms": []
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-20.08.16.log",
+      "source_line": 94203,
+      "source_bytes": 12132681,
+      "category": "LogMapLoadModel:",
+      "log_time": "[2026.11.13-19.46.52:704]",
+      "endpoints": [
+        "185.40.64.1:7382"
+      ],
+      "context_terms": []
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-20.08.16.log",
+      "source_line": 97701,
+      "source_bytes": 12132681,
+      "category": "LogMapLoadModel:",
+      "log_time": "[2026.11.13-19.52.00:261]",
+      "endpoints": [
+        "185.40.64.1:7382"
+      ],
+      "context_terms": []
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-20.08.16.log",
+      "source_line": 99255,
+      "source_bytes": 12132681,
+      "category": "LogTravelManager:",
+      "log_time": "[2026.11.13-19.53.41:234]",
+      "endpoints": [
+        "185.40.64.1:7354"
+      ],
+      "context_terms": [
+        "Travel"
+      ]
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-20.08.16.log",
+      "source_line": 100239,
+      "source_bytes": 12132681,
+      "category": "LogMapLoadModel:",
+      "log_time": "[2026.11.13-19.53.47:213]",
+      "endpoints": [
+        "185.40.64.1:7354"
+      ],
+      "context_terms": []
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-20.08.16.log",
+      "source_line": 100308,
+      "source_bytes": 12132681,
+      "category": "LogMapLoadModel:",
+      "log_time": "[2026.11.13-19.53.56:016]",
+      "endpoints": [
+        "185.40.64.1:7354"
+      ],
+      "context_terms": []
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-20.08.16.log",
+      "source_line": 100398,
+      "source_bytes": 12132681,
+      "category": "LogMapLoadModel:",
+      "log_time": "[2026.11.13-19.53.56:535]",
+      "endpoints": [
+        "185.40.64.1:7354"
+      ],
+      "context_terms": []
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-20.08.16.log",
+      "source_line": 103990,
+      "source_bytes": 12132681,
+      "category": "LogMapLoadModel:",
+      "log_time": "[2026.11.13-20.06.22:615]",
+      "endpoints": [
+        "185.40.64.1:7354"
+      ],
+      "context_terms": []
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-11.18.28.log",
+      "source_line": 2869,
+      "source_bytes": 5380380,
+      "category": "LogTravelManager:",
+      "log_time": "[2026.11.13-08.09.08:764]",
+      "endpoints": [
+        "185.40.64.1:7394"
+      ],
+      "context_terms": [
+        "Travel"
+      ]
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-11.18.28.log",
+      "source_line": 3117,
+      "source_bytes": 5380380,
+      "category": "LogMapLoadModel:",
+      "log_time": "[2026.11.13-08.09.14:592]",
+      "endpoints": [
+        "185.40.64.1:7394"
+      ],
+      "context_terms": []
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-11.18.28.log",
+      "source_line": 3192,
+      "source_bytes": 5380380,
+      "category": "LogMapLoadModel:",
+      "log_time": "[2026.11.13-08.09.23:439]",
+      "endpoints": [
+        "185.40.64.1:7394"
+      ],
+      "context_terms": []
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-11.18.28.log",
+      "source_line": 3293,
+      "source_bytes": 5380380,
+      "category": "LogMapLoadModel:",
+      "log_time": "[2026.11.13-08.09.23:919]",
+      "endpoints": [
+        "185.40.64.1:7394"
+      ],
+      "context_terms": []
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-11.18.28.log",
+      "source_line": 19958,
+      "source_bytes": 5380380,
+      "category": "LogMapLoadModel:",
+      "log_time": "[2026.11.13-08.44.25:391]",
+      "endpoints": [
+        "185.40.64.1:7394"
+      ],
+      "context_terms": []
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-11.18.28.log",
+      "source_line": 22990,
+      "source_bytes": 5380380,
+      "category": "LogTravelManager:",
+      "log_time": "[2026.11.13-10.23.01:919]",
+      "endpoints": [
+        "185.40.64.1:7149"
+      ],
+      "context_terms": [
+        "Travel"
+      ]
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-11.18.28.log",
+      "source_line": 23611,
+      "source_bytes": 5380380,
+      "category": "LogMapLoadModel:",
+      "log_time": "[2026.11.13-10.23.07:989]",
+      "endpoints": [
+        "185.40.64.1:7149"
+      ],
+      "context_terms": []
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-11.18.28.log",
+      "source_line": 23702,
+      "source_bytes": 5380380,
+      "category": "LogMapLoadModel:",
+      "log_time": "[2026.11.13-10.23.16:673]",
+      "endpoints": [
+        "185.40.64.1:7149"
+      ],
+      "context_terms": []
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-11.18.28.log",
+      "source_line": 23796,
+      "source_bytes": 5380380,
+      "category": "LogMapLoadModel:",
+      "log_time": "[2026.11.13-10.23.17:183]",
+      "endpoints": [
+        "185.40.64.1:7149"
+      ],
+      "context_terms": []
+    },
+    {
+      "source_basename": "ShooterGame-backup-2026.11.13-11.18.28.log",
+      "source_line": 37313,
+      "source_bytes": 5380380,
+      "category": "LogMapLoadModel:",
+      "log_time": "[2026.11.13-11.05.07:022]",
+      "endpoints": [
+        "185.40.64.1:7149"
+      ],
+      "context_terms": []
+    }
+  ]
+}

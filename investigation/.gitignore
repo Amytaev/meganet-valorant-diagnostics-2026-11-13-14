@@ -1,0 +1,15 @@
+# High-volume raw captures remain local by default, even in this private repo.
+# Commit curated technical metrics and reviewed reports in docs/ or reports/ as needed.
+logs/
+raw/
+captures/
+*.pcap
+*.pcapng
+*.etl
+*.evtx
+*.har
+*.dmp
+*.dump
+*.trace
+.env
+.env.*

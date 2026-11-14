@@ -1,0 +1,22 @@
+{
+  "ip": "162.254.198.41",
+  "kind": "ping",
+  "argv": [
+    "ping.exe",
+    "-n",
+    "100",
+    "162.254.198.41"
+  ],
+  "timeout_seconds": 600,
+  "start_utc": "2026-11-14T11:26:58.531+00:00",
+  "complete": true,
+  "output_encoding": "cp866",
+  "start_local": "2026-11-14T16:26:58.531+05:00",
+  "exit_code": 0,
+  "watchdog_terminated": false,
+  "end_utc": "2026-11-14T11:28:38.783+00:00",
+  "end_local": "2026-11-14T16:28:38.783+05:00",
+  "raw_file": "162.254.198.41-ping.raw.txt",
+  "raw_bytes": 6090,
+  "raw_sha256": "e9e0941616286f1b46077c402f3c59209c05b2d348dd074dd5639b58e77e7cd3"
+}

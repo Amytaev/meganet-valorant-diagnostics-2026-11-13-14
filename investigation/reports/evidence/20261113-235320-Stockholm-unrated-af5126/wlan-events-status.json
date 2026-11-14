@@ -1,0 +1,8 @@
+{
+  "observed_local": "2026-11-13T23:54:17.6241119+05:00",
+  "window_start": "2026-11-13T22:54:17.6197737+05:00",
+  "max_events": 100,
+  "enabled": true,
+  "query_status": "no_matching_events",
+  "events": []
+}

@@ -1,0 +1,81 @@
+[
+  {
+    "name": "20261113-234606-Range-721321",
+    "rows": 700,
+    "expected_rows": 700,
+    "duplicate_pairs": 0,
+    "cycles_contiguous": true,
+    "complete_target_cycles": true,
+    "timestamp_errors": 0,
+    "statuses": {
+      "Success": 700
+    },
+    "pings_sha256": "fca43f2cd546452d03eedf857941445e7d5bf779675b24d4e9a7a93c3f5e6b7a"
+  },
+  {
+    "name": "20261113-235320-Stockholm-unrated-af5126",
+    "rows": 1495,
+    "expected_rows": 1495,
+    "duplicate_pairs": 0,
+    "cycles_contiguous": true,
+    "complete_target_cycles": true,
+    "timestamp_errors": 0,
+    "statuses": {
+      "Success": 1495
+    },
+    "pings_sha256": "3cc40f8c8bf5c0edee68efcfa25cfbf8c399b25d9f11643df4f9c9bf932fda89"
+  },
+  {
+    "name": "20261114-000610-Stockholm-unrated-ee0d94",
+    "rows": 615,
+    "expected_rows": 615,
+    "duplicate_pairs": 0,
+    "cycles_contiguous": true,
+    "complete_target_cycles": true,
+    "timestamp_errors": 0,
+    "statuses": {
+      "Success": 615
+    },
+    "pings_sha256": "4fe141527abbaa865095184cf0618d30b3e863e78ebccdb49671e377980ae11a"
+  },
+  {
+    "name": "20261114-001022-Stockholm-unrated-c5ba53",
+    "rows": 745,
+    "expected_rows": 745,
+    "duplicate_pairs": 0,
+    "cycles_contiguous": true,
+    "complete_target_cycles": true,
+    "timestamp_errors": 0,
+    "statuses": {
+      "Success": 745
+    },
+    "pings_sha256": "93d9e95a002588dbedb7081ac132647e82ab533049c291a1b94902ef1e788dba"
+  },
+  {
+    "name": "20261113-234232-Range-1fbb0d",
+    "rows": 335,
+    "expected_rows": 335,
+    "duplicate_pairs": 0,
+    "cycles_contiguous": true,
+    "complete_target_cycles": true,
+    "timestamp_errors": 0,
+    "statuses": {
+      "Success": 286,
+      "TimedOut": 49
+    },
+    "pings_sha256": "f1b567f1ec65b1088b990297a04a35f62f6418aaf192c37a6327dcf7ff444e5d"
+  },
+  {
+    "name": "20261113-235053-Unknown-fc7ee9",
+    "rows": 355,
+    "expected_rows": 355,
+    "duplicate_pairs": 0,
+    "cycles_contiguous": true,
+    "complete_target_cycles": true,
+    "timestamp_errors": 0,
+    "statuses": {
+      "Success": 355
+    },
+    "pings_sha256": "ac87f945f554c73d91bdb5c2ceb7ec41eec2ef1162b61c640fad5ddba59177d5"
+  }
+]

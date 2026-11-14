@@ -1,0 +1,239 @@
+{
+  "metadata": {
+    "schema": 2,
+    "start_local": "2026-11-14T00:10:22.8271592+05:00",
+    "start_utc": "2026-11-13T19:10:22.8271592Z",
+    "timezone": "Qyzylorda Standard Time",
+    "context": "Stockholm-unrated",
+    "targets": [
+      "192.168.123.1",
+      "89.38.164.205",
+      "1.1.1.1",
+      "87.245.238.34",
+      "87.245.233.166"
+    ],
+    "protocol": "ICMPv4",
+    "interval_seconds": 2,
+    "timeout_ms": 1500,
+    "payload_bytes": 32,
+    "duration_requested_seconds": 300,
+    "admin_token": false,
+    "pid": 33424,
+    "powershell": "5.1.26100.9818",
+    "session_path": "USERPROFILE\\Documents\\Codex\\2026-11-13\\meganet-valorant-amytaev-amir-workspace-codex\\work\\amir-workspace\\valorant-network-investigation\\raw\\20261114-001022-Stockholm-unrated-c5ba53",
+    "collector_sha256": "D7EB83DABC343130D2BCB554351DF8A719F3D23062930C33B34FA08D6C48FF26",
+    "snapshot_skipped": false,
+    "game_endpoint_verified": false,
+    "end_local": "2026-11-14T00:15:22.9166113+05:00",
+    "end_utc": "2026-11-13T19:15:22.9186143Z",
+    "elapsed_seconds": 300.0571711,
+    "cycles": 149,
+    "stop_reason": "duration",
+    "failed": false
+  },
+  "complete": true,
+  "metrics": [
+    {
+      "target": "192.168.123.1",
+      "protocol": "ICMPv4",
+      "rows": 149,
+      "requests_without_local_error": 149,
+      "success": 149,
+      "status_counts": {
+        "Success": 149
+      },
+      "recorded_nonresponse_pct": 0.0,
+      "nonresponse_pct": 0.0,
+      "early_timeout_count": 0,
+      "loss_measurement_qualified": true,
+      "min_ms": 1.0,
+      "avg_ms": 2.081,
+      "max_ms": 10.0,
+      "p95_ms": 4.0,
+      "mean_abs_consecutive_rtt_delta_ms": 0.804,
+      "first_local": "2026-11-14T00:10:25.3300008+05:00",
+      "last_local": "2026-11-14T00:15:21.3577941+05:00"
+    },
+    {
+      "target": "89.38.164.205",
+      "protocol": "ICMPv4",
+      "rows": 149,
+      "requests_without_local_error": 149,
+      "success": 149,
+      "status_counts": {
+        "Success": 149
+      },
+      "recorded_nonresponse_pct": 0.0,
+      "nonresponse_pct": 0.0,
+      "early_timeout_count": 0,
+      "loss_measurement_qualified": true,
+      "min_ms": 2.0,
+      "avg_ms": 3.262,
+      "max_ms": 12.0,
+      "p95_ms": 6.0,
+      "mean_abs_consecutive_rtt_delta_ms": 1.027,
+      "first_local": "2026-11-14T00:10:25.3300008+05:00",
+      "last_local": "2026-11-14T00:15:21.3577941+05:00"
+    },
+    {
+      "target": "1.1.1.1",
+      "protocol": "ICMPv4",
+      "rows": 149,
+      "requests_without_local_error": 149,
+      "success": 149,
+      "status_counts": {
+        "Success": 149
+      },
+      "recorded_nonresponse_pct": 0.0,
+      "nonresponse_pct": 0.0,
+      "early_timeout_count": 0,
+      "loss_measurement_qualified": true,
+      "min_ms": 22.0,
+      "avg_ms": 23.678,
+      "max_ms": 32.0,
+      "p95_ms": 27.0,
+      "mean_abs_consecutive_rtt_delta_ms": 1.297,
+      "first_local": "2026-11-14T00:10:25.3300008+05:00",
+      "last_local": "2026-11-14T00:15:21.3577941+05:00"
+    },
+    {
+      "target": "87.245.238.34",
+      "protocol": "ICMPv4",
+      "rows": 149,
+      "requests_without_local_error": 149,
+      "success": 149,
+      "status_counts": {
+        "Success": 149
+      },
+      "recorded_nonresponse_pct": 0.0,
+      "nonresponse_pct": 0.0,
+      "early_timeout_count": 0,
+      "loss_measurement_qualified": true,
+      "min_ms": 92.0,
+      "avg_ms": 93.913,
+      "max_ms": 103.0,
+      "p95_ms": 99.0,
+      "mean_abs_consecutive_rtt_delta_ms": 2.081,
+      "first_local": "2026-11-14T00:10:25.3300008+05:00",
+      "last_local": "2026-11-14T00:15:21.3577941+05:00"
+    },
+    {
+      "target": "87.245.233.166",
+      "protocol": "ICMPv4",
+      "rows": 149,
+      "requests_without_local_error": 149,
+      "success": 149,
+      "status_counts": {
+        "Success": 149
+      },
+      "recorded_nonresponse_pct": 0.0,
+      "nonresponse_pct": 0.0,
+      "early_timeout_count": 0,
+      "loss_measurement_qualified": true,
+      "min_ms": 91.0,
+      "avg_ms": 92.322,
+      "max_ms": 99.0,
+      "p95_ms": 96.0,
+      "mean_abs_consecutive_rtt_delta_ms": 1.284,
+      "first_local": "2026-11-14T00:10:25.3300008+05:00",
+      "last_local": "2026-11-14T00:15:21.3577941+05:00"
+    }
+  ],
+  "actual_probe_interval_seconds": {
+    "min": 1.825,
+    "mean": 2.000175675675676,
+    "max": 2.194
+  },
+  "interface_rate_summary": [
+    {
+      "name": "Ethernet",
+      "max_interval_rx_mbps": 0.0,
+      "max_interval_tx_mbps": 0.0
+    },
+    {
+      "name": "Ethernet 2",
+      "max_interval_rx_mbps": 0.0,
+      "max_interval_tx_mbps": 0.0
+    },
+    {
+      "name": "Беспроводная сеть",
+      "max_interval_rx_mbps": 1.8762073441222378,
+      "max_interval_tx_mbps": 0.665379080056766
+    }
+  ],
+  "interface_counter_deltas": [
+    {
+      "name": "Ethernet",
+      "samples": 26,
+      "deltas": {
+        "rx_discards": 0,
+        "tx_discards": 0,
+        "rx_errors": 0,
+        "tx_errors": 0
+      },
+      "counter_reset_suspected": false
+    },
+    {
+      "name": "Ethernet 2",
+      "samples": 26,
+      "deltas": {
+        "rx_discards": 0,
+        "tx_discards": 0,
+        "rx_errors": 0,
+        "tx_errors": 0
+      },
+      "counter_reset_suspected": false
+    },
+    {
+      "name": "Беспроводная сеть",
+      "samples": 26,
+      "deltas": {
+        "rx_discards": 0,
+        "tx_discards": 0,
+        "rx_errors": 0,
+        "tx_errors": 0
+      },
+      "counter_reset_suspected": false
+    }
+  ],
+  "gateway_spikes_ge_10_ms": [
+    {
+      "cycle": 110,
+      "time": "2026-11-14T00:14:03.3311826+05:00",
+      "rtt_ms_or_status": {
+        "192.168.123.1": 10.0,
+        "89.38.164.205": 12.0,
+        "1.1.1.1": 32.0,
+        "87.245.238.34": 101.0,
+        "87.245.233.166": 99.0
+      }
+    }
+  ],
+  "wlan_summary": {
+    "snapshots": 10,
+    "rssi_min_dbm": -63,
+    "rssi_max_dbm": -60
+  },
+  "game_markers": [
+    {
+      "recorded_local": "2026-11-14T00:14:43.5121439+05:00",
+      "source": "user_chat",
+      "context": "Stockholm-unrated",
+      "reported_rtt_range_ms": [
+        91,
+        96
+      ],
+      "event": "Recovery reported",
+      "timing_precision": "Current range at chat reply; exact onset of recovery not provided",
+      "loss_in_pct": null,
+      "loss_out_pct": null
+    }
+  ],
+  "errors": [],
+  "limitations": [
+    "ICMP timeout/non-success is not game UDP loss.",
+    "RTT statistics use successful replies only; nearest-rank p95.",
+    "NIC rates are interval averages, not process traffic or proof of bufferbloat.",
+    "Matched cycles are observations, not causal proof. No server region is independently verified."
+  ]
+}

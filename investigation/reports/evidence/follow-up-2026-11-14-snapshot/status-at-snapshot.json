@@ -1,0 +1,109 @@
+{
+  "schema": 3,
+  "run_id": "f28706ce754249c58d44a81f6868da4b",
+  "pid": 39272,
+  "state": "running",
+  "heartbeat_utc": "2026-11-14T12:07:51.001+00:00",
+  "elapsed_seconds": 2110.956,
+  "cycles": 1056,
+  "targets": [
+    "192.168.123.1",
+    "89.38.164.205",
+    "1.1.1.1",
+    "87.245.238.34",
+    "87.245.233.166"
+  ],
+  "hotkeys": {
+    "spike": true,
+    "recovery": true,
+    "note": true,
+    "stop": true
+  },
+  "baselines": {
+    "87.245.234.191": {
+      "samples": 299,
+      "median_ms": 85,
+      "mad_ms": 0,
+      "p95_ms": 90,
+      "threshold_ms": 100,
+      "source": "reports\\evidence\\20261113-235320-Stockholm-unrated-af5126\\pings.csv",
+      "context": "Historical successful ICMP reference, not game UDP",
+      "interval_seconds": 2,
+      "timeout_ms": 1500
+    },
+    "192.168.123.1": {
+      "samples": 299,
+      "median_ms": 2,
+      "mad_ms": 0,
+      "p95_ms": 5,
+      "threshold_ms": 15,
+      "source": "reports\\evidence\\20261113-235320-Stockholm-unrated-af5126\\pings.csv",
+      "context": "Historical successful ICMP reference, not game UDP",
+      "interval_seconds": 2,
+      "timeout_ms": 1500
+    },
+    "87.245.238.34": {
+      "samples": 299,
+      "median_ms": 93,
+      "mad_ms": 1,
+      "p95_ms": 99,
+      "threshold_ms": 109,
+      "source": "reports\\evidence\\20261113-235320-Stockholm-unrated-af5126\\pings.csv",
+      "context": "Historical successful ICMP reference, not game UDP",
+      "interval_seconds": 2,
+      "timeout_ms": 1500
+    },
+    "89.38.164.205": {
+      "samples": 299,
+      "median_ms": 3,
+      "mad_ms": 0,
+      "p95_ms": 6,
+      "threshold_ms": 16,
+      "source": "reports\\evidence\\20261113-235320-Stockholm-unrated-af5126\\pings.csv",
+      "context": "Historical successful ICMP reference, not game UDP",
+      "interval_seconds": 2,
+      "timeout_ms": 1500
+    },
+    "1.1.1.1": {
+      "samples": 299,
+      "median_ms": 23,
+      "mad_ms": 0,
+      "p95_ms": 28,
+      "threshold_ms": 38,
+      "source": "reports\\evidence\\20261113-235320-Stockholm-unrated-af5126\\pings.csv",
+      "context": "Historical successful ICMP reference, not game UDP",
+      "interval_seconds": 2,
+      "timeout_ms": 1500
+    },
+    "87.245.233.166": {
+      "samples": 149,
+      "median_ms": 92,
+      "mad_ms": 0,
+      "p95_ms": 96,
+      "threshold_ms": 106,
+      "source": "reports\\evidence\\20261114-001022-Stockholm-unrated-c5ba53\\pings.csv",
+      "context": "Historical successful ICMP reference, not game UDP",
+      "interval_seconds": 2,
+      "timeout_ms": 1500
+    }
+  },
+  "probe_status_counts": {
+    "Success": 5280
+  },
+  "valid_probe_targets": [
+    "1.1.1.1",
+    "192.168.123.1",
+    "87.245.233.166",
+    "87.245.238.34",
+    "89.38.164.205"
+  ],
+  "last_seq": 5389,
+  "committed_seq": 5389,
+  "buffered_records": 0,
+  "dropped_memory_records": 0,
+  "io_error": null,
+  "storage_pressure": false,
+  "retained_bytes": 2734670,
+  "soft_budget_bytes": 536870912,
+  "free_disk_bytes": 72979353600
+}

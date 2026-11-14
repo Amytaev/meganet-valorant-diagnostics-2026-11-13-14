@@ -1,0 +1,300 @@
+{
+  "source": "sources/stockholm-sdr-relays.json",
+  "revision": 1794268433,
+  "rows": [
+    {
+      "ip": "162.254.198.41",
+      "pop": "sto",
+      "region_label": "Stockholm - Kista (Sweden)",
+      "udp_port_range_published": [
+        27015,
+        27060
+      ],
+      "active_client_relay_verified": false,
+      "physical_game_server_verified": false,
+      "selected_for_current_measurement": true,
+      "ping_command": "ping -n 100 162.254.198.41",
+      "tracert_command": "tracert -d -h 32 162.254.198.41"
+    },
+    {
+      "ip": "162.254.198.42",
+      "pop": "sto",
+      "region_label": "Stockholm - Kista (Sweden)",
+      "udp_port_range_published": [
+        27015,
+        27060
+      ],
+      "active_client_relay_verified": false,
+      "physical_game_server_verified": false,
+      "selected_for_current_measurement": false,
+      "ping_command": "ping -n 100 162.254.198.42",
+      "tracert_command": "tracert -d -h 32 162.254.198.42"
+    },
+    {
+      "ip": "162.254.198.43",
+      "pop": "sto",
+      "region_label": "Stockholm - Kista (Sweden)",
+      "udp_port_range_published": [
+        27015,
+        27060
+      ],
+      "active_client_relay_verified": false,
+      "physical_game_server_verified": false,
+      "selected_for_current_measurement": false,
+      "ping_command": "ping -n 100 162.254.198.43",
+      "tracert_command": "tracert -d -h 32 162.254.198.43"
+    },
+    {
+      "ip": "162.254.198.47",
+      "pop": "sto",
+      "region_label": "Stockholm - Kista (Sweden)",
+      "udp_port_range_published": [
+        27015,
+        27060
+      ],
+      "active_client_relay_verified": false,
+      "physical_game_server_verified": false,
+      "selected_for_current_measurement": false,
+      "ping_command": "ping -n 100 162.254.198.47",
+      "tracert_command": "tracert -d -h 32 162.254.198.47"
+    },
+    {
+      "ip": "162.254.198.49",
+      "pop": "sto",
+      "region_label": "Stockholm - Kista (Sweden)",
+      "udp_port_range_published": [
+        27015,
+        27060
+      ],
+      "active_client_relay_verified": false,
+      "physical_game_server_verified": false,
+      "selected_for_current_measurement": false,
+      "ping_command": "ping -n 100 162.254.198.49",
+      "tracert_command": "tracert -d -h 32 162.254.198.49"
+    },
+    {
+      "ip": "162.254.198.50",
+      "pop": "sto",
+      "region_label": "Stockholm - Kista (Sweden)",
+      "udp_port_range_published": [
+        27015,
+        27060
+      ],
+      "active_client_relay_verified": false,
+      "physical_game_server_verified": false,
+      "selected_for_current_measurement": false,
+      "ping_command": "ping -n 100 162.254.198.50",
+      "tracert_command": "tracert -d -h 32 162.254.198.50"
+    },
+    {
+      "ip": "162.254.198.51",
+      "pop": "sto",
+      "region_label": "Stockholm - Kista (Sweden)",
+      "udp_port_range_published": [
+        27015,
+        27060
+      ],
+      "active_client_relay_verified": false,
+      "physical_game_server_verified": false,
+      "selected_for_current_measurement": false,
+      "ping_command": "ping -n 100 162.254.198.51",
+      "tracert_command": "tracert -d -h 32 162.254.198.51"
+    },
+    {
+      "ip": "162.254.198.101",
+      "pop": "sto",
+      "region_label": "Stockholm - Kista (Sweden)",
+      "udp_port_range_published": [
+        27015,
+        27060
+      ],
+      "active_client_relay_verified": false,
+      "physical_game_server_verified": false,
+      "selected_for_current_measurement": false,
+      "ping_command": "ping -n 100 162.254.198.101",
+      "tracert_command": "tracert -d -h 32 162.254.198.101"
+    },
+    {
+      "ip": "162.254.198.102",
+      "pop": "sto",
+      "region_label": "Stockholm - Kista (Sweden)",
+      "udp_port_range_published": [
+        27015,
+        27060
+      ],
+      "active_client_relay_verified": false,
+      "physical_game_server_verified": false,
+      "selected_for_current_measurement": false,
+      "ping_command": "ping -n 100 162.254.198.102",
+      "tracert_command": "tracert -d -h 32 162.254.198.102"
+    },
+    {
+      "ip": "162.254.198.103",
+      "pop": "sto",
+      "region_label": "Stockholm - Kista (Sweden)",
+      "udp_port_range_published": [
+        27015,
+        27060
+      ],
+      "active_client_relay_verified": false,
+      "physical_game_server_verified": false,
+      "selected_for_current_measurement": false,
+      "ping_command": "ping -n 100 162.254.198.103",
+      "tracert_command": "tracert -d -h 32 162.254.198.103"
+    },
+    {
+      "ip": "162.254.198.156",
+      "pop": "sto",
+      "region_label": "Stockholm - Kista (Sweden)",
+      "udp_port_range_published": [
+        27015,
+        27140
+      ],
+      "active_client_relay_verified": false,
+      "physical_game_server_verified": false,
+      "selected_for_current_measurement": false,
+      "ping_command": "ping -n 100 162.254.198.156",
+      "tracert_command": "tracert -d -h 32 162.254.198.156"
+    },
+    {
+      "ip": "155.133.252.37",
+      "pop": "sto2",
+      "region_label": "Stockholm - Bromma (Sweden)",
+      "udp_port_range_published": [
+        27015,
+        27060
+      ],
+      "active_client_relay_verified": false,
+      "physical_game_server_verified": false,
+      "selected_for_current_measurement": true,
+      "ping_command": "ping -n 100 155.133.252.37",
+      "tracert_command": "tracert -d -h 32 155.133.252.37"
+    },
+    {
+      "ip": "155.133.252.38",
+      "pop": "sto2",
+      "region_label": "Stockholm - Bromma (Sweden)",
+      "udp_port_range_published": [
+        27015,
+        27060
+      ],
+      "active_client_relay_verified": false,
+      "physical_game_server_verified": false,
+      "selected_for_current_measurement": false,
+      "ping_command": "ping -n 100 155.133.252.38",
+      "tracert_command": "tracert -d -h 32 155.133.252.38"
+    },
+    {
+      "ip": "155.133.252.52",
+      "pop": "sto2",
+      "region_label": "Stockholm - Bromma (Sweden)",
+      "udp_port_range_published": [
+        27015,
+        27060
+      ],
+      "active_client_relay_verified": false,
+      "physical_game_server_verified": false,
+      "selected_for_current_measurement": false,
+      "ping_command": "ping -n 100 155.133.252.52",
+      "tracert_command": "tracert -d -h 32 155.133.252.52"
+    },
+    {
+      "ip": "155.133.252.53",
+      "pop": "sto2",
+      "region_label": "Stockholm - Bromma (Sweden)",
+      "udp_port_range_published": [
+        27015,
+        27060
+      ],
+      "active_client_relay_verified": false,
+      "physical_game_server_verified": false,
+      "selected_for_current_measurement": false,
+      "ping_command": "ping -n 100 155.133.252.53",
+      "tracert_command": "tracert -d -h 32 155.133.252.53"
+    },
+    {
+      "ip": "155.133.252.84",
+      "pop": "sto2",
+      "region_label": "Stockholm - Bromma (Sweden)",
+      "udp_port_range_published": [
+        27015,
+        27060
+      ],
+      "active_client_relay_verified": false,
+      "physical_game_server_verified": false,
+      "selected_for_current_measurement": false,
+      "ping_command": "ping -n 100 155.133.252.84",
+      "tracert_command": "tracert -d -h 32 155.133.252.84"
+    },
+    {
+      "ip": "155.133.252.85",
+      "pop": "sto2",
+      "region_label": "Stockholm - Bromma (Sweden)",
+      "udp_port_range_published": [
+        27015,
+        27060
+      ],
+      "active_client_relay_verified": false,
+      "physical_game_server_verified": false,
+      "selected_for_current_measurement": false,
+      "ping_command": "ping -n 100 155.133.252.85",
+      "tracert_command": "tracert -d -h 32 155.133.252.85"
+    },
+    {
+      "ip": "155.133.252.86",
+      "pop": "sto2",
+      "region_label": "Stockholm - Bromma (Sweden)",
+      "udp_port_range_published": [
+        27015,
+        27060
+      ],
+      "active_client_relay_verified": false,
+      "physical_game_server_verified": false,
+      "selected_for_current_measurement": false,
+      "ping_command": "ping -n 100 155.133.252.86",
+      "tracert_command": "tracert -d -h 32 155.133.252.86"
+    },
+    {
+      "ip": "155.133.252.87",
+      "pop": "sto2",
+      "region_label": "Stockholm - Bromma (Sweden)",
+      "udp_port_range_published": [
+        27015,
+        27060
+      ],
+      "active_client_relay_verified": false,
+      "physical_game_server_verified": false,
+      "selected_for_current_measurement": false,
+      "ping_command": "ping -n 100 155.133.252.87",
+      "tracert_command": "tracert -d -h 32 155.133.252.87"
+    },
+    {
+      "ip": "155.133.252.88",
+      "pop": "sto2",
+      "region_label": "Stockholm - Bromma (Sweden)",
+      "udp_port_range_published": [
+        27015,
+        27060
+      ],
+      "active_client_relay_verified": false,
+      "physical_game_server_verified": false,
+      "selected_for_current_measurement": false,
+      "ping_command": "ping -n 100 155.133.252.88",
+      "tracert_command": "tracert -d -h 32 155.133.252.88"
+    },
+    {
+      "ip": "155.133.252.89",
+      "pop": "sto2",
+      "region_label": "Stockholm - Bromma (Sweden)",
+      "udp_port_range_published": [
+        27015,
+        27060
+      ],
+      "active_client_relay_verified": false,
+      "physical_game_server_verified": false,
+      "selected_for_current_measurement": false,
+      "ping_command": "ping -n 100 155.133.252.89",
+      "tracert_command": "tracert -d -h 32 155.133.252.89"
+    }
+  ]
+}

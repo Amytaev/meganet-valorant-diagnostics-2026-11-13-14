@@ -1,0 +1,35 @@
+{
+  "checked_date_local": "2026-11-14",
+  "sources": [
+    {
+      "title": "Riot Direct: Leveling Up Networking For A Multi-game Future",
+      "url": "https://www.riotgames.com/en/news/leveling-networking-multi-game-future",
+      "supports": "General Riot anycast ingress, multiple anycast options, NAT/private game server addresses; not a per-IP region map."
+    },
+    {
+      "title": "Valve Steam Datagram Relay",
+      "url": "https://partner.steamgames.com/doc/features/multiplayer/steamdatagramrelay",
+      "supports": "SDR relays conceal physical server IP; FakeIP is not a routable measurement target."
+    },
+    {
+      "title": "Valve SteamNetworkingUtils",
+      "url": "https://partner.steamgames.com/doc/api/ISteamNetworkingUtils",
+      "supports": "Direct POP ping and routed data-center ping differ; SDK reference, not a supported CS2 console command or permission to inject."
+    },
+    {
+      "title": "Valve public SDR config appid 730",
+      "url": "https://api.steampowered.com/ISteamApps/GetSDRConfig/v1/?appid=730",
+      "supports": "Current published sto/sto2 relay addresses and descriptions; not actual selection by this client."
+    },
+    {
+      "title": "Microsoft Windows ping",
+      "url": "https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/ping",
+      "supports": "Native ping count, payload and timeout defaults."
+    },
+    {
+      "title": "Microsoft Windows tracert",
+      "url": "https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/tracert",
+      "supports": "ICMP TTL trace and -d/-h meanings; missing responses do not show forwarding loss."
+    }
+  ]
+}

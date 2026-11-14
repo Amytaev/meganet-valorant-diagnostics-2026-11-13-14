@@ -1,0 +1,51 @@
+{
+  "methodology_source": "Meganet Word instructions transcribed by user; ping count changed to 100 at explicit user request",
+  "ping_argv": [
+    "ping.exe",
+    "-n",
+    "100",
+    "<IP>"
+  ],
+  "tracert_argv": [
+    "tracert.exe",
+    "-d",
+    "-h",
+    "32",
+    "<IP>"
+  ],
+  "measurement_targets": [
+    {
+      "ip": "185.40.64.1",
+      "game": "Valorant",
+      "role": "application-logged game connection address; not a proven physical server",
+      "region": "Stockholm selected by user in observed matches; IP/ingress geography unverified",
+      "evidence": "../evidence/day-2026-11-14/endpoint-candidates-incident-300-400.json",
+      "historical_game_rtt_ms": "Daytime :7004: user-reported 95 -> 120 -> 180 -> 120, later 300-400 for about five minutes. Nighttime :7039 Stockholm context: 90-100 and screenshot 185/189 avg/max, without exact event-to-UDP mapping."
+    },
+    {
+      "ip": "162.249.72.1",
+      "game": "Valorant",
+      "role": "application-logged game connection address after reconnect; not a proven physical server",
+      "region": "Stockholm match context reported by user; IP/ingress geography unverified",
+      "evidence": "../evidence/day-2026-11-14/endpoint-candidates-after-match.json",
+      "historical_game_rtt_ms": "~100 then 100-110 after reconnect; late 120-130; user-reported"
+    },
+    {
+      "ip": "162.254.198.41",
+      "game": "CS2",
+      "role": "published SDR relay diagnostic candidate; not observed selected peer; not physical game server",
+      "region": "Valve config sto: Stockholm - Kista (Sweden)",
+      "evidence": "sources/stockholm-sdr-relays.json",
+      "historical_game_rtt_ms": null
+    },
+    {
+      "ip": "155.133.252.37",
+      "game": "CS2",
+      "role": "published SDR relay diagnostic candidate; not observed selected peer; not physical game server",
+      "region": "Valve config sto2: Stockholm - Bromma (Sweden)",
+      "evidence": "sources/stockholm-sdr-relays.json",
+      "historical_game_rtt_ms": null
+    }
+  ],
+  "relay_sampling": "One representative IPv4 per Stockholm PoP. Other published relays are catalogued, not automatically probed."
+}

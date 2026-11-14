@@ -1,0 +1,12 @@
+{
+  "snapshot_generated_utc": "2026-11-14T12:07:51.935+00:00",
+  "source_run": "20261114-163240-f28706ce",
+  "watermark": 5389,
+  "records": 5389,
+  "complete": false,
+  "source_state_at_snapshot": "running",
+  "first_time_utc": "2026-11-14T11:32:40.059+00:00",
+  "last_time_utc": "2026-11-14T12:07:50.192+00:00",
+  "probes": 5280,
+  "note": "Frozen committed prefix while source monitor continues. No DONE or complete claim. Full records only; original source log files were not modified."
+}

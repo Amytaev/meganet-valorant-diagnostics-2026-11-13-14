@@ -1,0 +1,23 @@
+{
+  "ip": "162.254.198.41",
+  "kind": "tracert",
+  "argv": [
+    "tracert.exe",
+    "-d",
+    "-h",
+    "32",
+    "162.254.198.41"
+  ],
+  "timeout_seconds": 450,
+  "start_utc": "2026-11-14T11:27:01.016+00:00",
+  "complete": true,
+  "output_encoding": "cp866",
+  "start_local": "2026-11-14T16:27:01.016+05:00",
+  "exit_code": 0,
+  "watchdog_terminated": false,
+  "end_utc": "2026-11-14T11:28:17.400+00:00",
+  "end_local": "2026-11-14T16:28:17.400+05:00",
+  "raw_file": "162.254.198.41-tracert.raw.txt",
+  "raw_bytes": 900,
+  "raw_sha256": "85505a6f4314131f35415f063c1238a91ec35571e67457fee6746eaf5eb10687"
+}

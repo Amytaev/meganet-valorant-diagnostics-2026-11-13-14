@@ -1,2 +1,5 @@
 # Preserve evidence bytes and published SHA-256 hashes.
 * -text
+
+# Source/data exports preserve evidence bytes and tolerate native CRLF.
+investigation/** whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol

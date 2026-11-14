@@ -1,0 +1,18 @@
+{
+  "source": "user_retrospective_clarification",
+  "reported_date_local": "2026-11-14",
+  "event_order_before_300_400_ms": [
+    95,
+    120,
+    180,
+    120
+  ],
+  "later_reported_rtt_range_ms": [
+    300,
+    400
+  ],
+  "pattern": "Repeated game RTT fluctuations with periodic partial recovery, followed later by a more severe sustained episode.",
+  "exact_event_timestamps": null,
+  "per_marker_numeric_assignment": null,
+  "timing_limit": "The order is user-reported. Stored F8/F9 establish button-processing times, not exact timestamps for each RTT value. Existing telemetry and original marker records are unchanged."
+}

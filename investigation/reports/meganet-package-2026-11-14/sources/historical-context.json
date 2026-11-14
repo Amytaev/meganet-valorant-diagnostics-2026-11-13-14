@@ -1,0 +1,80 @@
+{
+  "date_local": "2026-11-14",
+  "timezone": "UTC+05:00",
+  "daytime": {
+    "collector_start": "2026-11-14T14:11:26.498+05:00",
+    "collector_stop": "2026-11-14T14:49:44.196+05:00",
+    "user_selected_region": "Stockholm",
+    "game_mode": "ranked per user",
+    "rtt_order_user_report_ms": [
+      95,
+      120,
+      180,
+      120
+    ],
+    "later_rtt_user_report_ms": [
+      300,
+      400
+    ],
+    "severity_duration_user_estimate_minutes": 5,
+    "value_event_seconds": null,
+    "dense_marker_bracket": [
+      "14:19:15.263",
+      "14:22:15.150"
+    ],
+    "high_rtt_message_entry": "14:29:10.353",
+    "before_restart_log_candidate": "185.40.64.1:7004",
+    "after_restart_log_candidate": "162.249.72.1:7004",
+    "post_restart_user_rtt_ms": [
+      100,
+      110
+    ],
+    "late_user_rtt_ms": [
+      120,
+      130
+    ],
+    "numeric_game_packet_loss": "not supplied",
+    "paired_control_window": {
+      "start": "14:29:10.353",
+      "end": "14:29:58.079",
+      "samples_each": 24,
+      "order": [
+        "192.168.123.1",
+        "89.38.164.205",
+        "1.1.1.1",
+        "87.245.238.34",
+        "87.245.233.166"
+      ],
+      "median_ms": [
+        2,
+        3,
+        24,
+        93,
+        92
+      ],
+      "max_ms": [
+        3,
+        5,
+        25,
+        95,
+        93
+      ]
+    }
+  },
+  "nighttime": {
+    "date_local": "2026-11-13/14",
+    "user_selected_region": "Stockholm in observed unrated match",
+    "candidate": "185.40.64.1:7039",
+    "early_user_rtt_ms": [
+      90,
+      100
+    ],
+    "screenshot_network_rtt_avg_max_ms": [
+      185,
+      189
+    ],
+    "screenshot_current_loss_pct": 0,
+    "screenshot_cumulative_lost_counter": 48,
+    "limits": "Clock not shown in screenshot, recorded attachment time 00:04:27 local; peak falls into historical sampling gap. Cumulative count cannot locate losses in time."
+  }
+}

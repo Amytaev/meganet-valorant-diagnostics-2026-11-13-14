@@ -1,0 +1,269 @@
+{
+  "observed_local": "2026-11-14T01:17:56.9897711+05:00",
+  "source_bytes": 12132681,
+  "source_last_write": "2026-11-14T01:08:16.4715828+05:00",
+  "scan_limit_lines": 100000,
+  "log_timezone": "unverified",
+  "candidates": [
+    {
+      "observed_local": "2026-11-14T01:17:56.9897711+05:00",
+      "log_time": "[2026.11.13-17.51.15:352]",
+      "category": "LogMapLoadModel:",
+      "endpoint": "185.40.64.1:7125",
+      "active_game_udp_verified": false
+    },
+    {
+      "observed_local": "2026-11-14T01:17:56.9897711+05:00",
+      "log_time": "[2026.11.13-17.58.54:355]",
+      "category": "LogTravelManager:",
+      "endpoint": "185.40.64.1:7499",
+      "active_game_udp_verified": false
+    },
+    {
+      "observed_local": "2026-11-14T01:17:56.9897711+05:00",
+      "log_time": "[2026.11.13-17.58.57:464]",
+      "category": "LogMapLoadModel:",
+      "endpoint": "185.40.64.1:7499",
+      "active_game_udp_verified": false
+    },
+    {
+      "observed_local": "2026-11-14T01:17:56.9897711+05:00",
+      "log_time": "[2026.11.13-18.05.04:371]",
+      "category": "LogTravelManager:",
+      "endpoint": "185.40.64.1:7496",
+      "active_game_udp_verified": false
+    },
+    {
+      "observed_local": "2026-11-14T01:17:56.9897711+05:00",
+      "log_time": "[2026.11.13-18.05.07:480]",
+      "category": "LogMapLoadModel:",
+      "endpoint": "185.40.64.1:7496",
+      "active_game_udp_verified": false
+    },
+    {
+      "observed_local": "2026-11-14T01:17:56.9897711+05:00",
+      "log_time": "[2026.11.13-18.05.11:478]",
+      "category": "LogMapLoadModel:",
+      "endpoint": "185.40.64.1:7496",
+      "active_game_udp_verified": false
+    },
+    {
+      "observed_local": "2026-11-14T01:17:56.9897711+05:00",
+      "log_time": "[2026.11.13-18.05.11:709]",
+      "category": "LogMapLoadModel:",
+      "endpoint": "185.40.64.1:7496",
+      "active_game_udp_verified": false
+    },
+    {
+      "observed_local": "2026-11-14T01:17:56.9897711+05:00",
+      "log_time": "[2026.11.13-18.11.01:798]",
+      "category": "LogMapLoadModel:",
+      "endpoint": "185.40.64.1:7496",
+      "active_game_udp_verified": false
+    },
+    {
+      "observed_local": "2026-11-14T01:17:56.9897711+05:00",
+      "log_time": "[2026.11.13-18.11.34:945]",
+      "category": "LogTravelManager:",
+      "endpoint": "185.40.64.1:7048",
+      "active_game_udp_verified": false
+    },
+    {
+      "observed_local": "2026-11-14T01:17:56.9897711+05:00",
+      "log_time": "[2026.11.13-18.11.38:537]",
+      "category": "LogMapLoadModel:",
+      "endpoint": "185.40.64.1:7048",
+      "active_game_udp_verified": false
+    },
+    {
+      "observed_local": "2026-11-14T01:17:56.9897711+05:00",
+      "log_time": "[2026.11.13-18.11.47:101]",
+      "category": "LogMapLoadModel:",
+      "endpoint": "185.40.64.1:7048",
+      "active_game_udp_verified": false
+    },
+    {
+      "observed_local": "2026-11-14T01:17:56.9897711+05:00",
+      "log_time": "[2026.11.13-18.11.47:125]",
+      "category": "LogMapLoadModel:",
+      "endpoint": "185.40.64.1:7048",
+      "active_game_udp_verified": false
+    },
+    {
+      "observed_local": "2026-11-14T01:17:56.9897711+05:00",
+      "log_time": "[2026.11.13-18.51.55:749]",
+      "category": "LogTravelManager:",
+      "endpoint": "185.40.64.1:7039",
+      "active_game_udp_verified": false
+    },
+    {
+      "observed_local": "2026-11-14T01:17:56.9897711+05:00",
+      "log_time": "[2026.11.13-18.52.01:576]",
+      "category": "LogMapLoadModel:",
+      "endpoint": "185.40.64.1:7039",
+      "active_game_udp_verified": false
+    },
+    {
+      "observed_local": "2026-11-14T01:17:56.9897711+05:00",
+      "log_time": "[2026.11.13-18.52.10:316]",
+      "category": "LogMapLoadModel:",
+      "endpoint": "185.40.64.1:7039",
+      "active_game_udp_verified": false
+    },
+    {
+      "observed_local": "2026-11-14T01:17:56.9897711+05:00",
+      "log_time": "[2026.11.13-18.52.10:837]",
+      "category": "LogMapLoadModel:",
+      "endpoint": "185.40.64.1:7039",
+      "active_game_udp_verified": false
+    },
+    {
+      "observed_local": "2026-11-14T01:17:56.9897711+05:00",
+      "log_time": "[2026.11.13-18.55.48:210]",
+      "category": "LogHttp:",
+      "endpoint": "104.16.56.40:443",
+      "active_game_udp_verified": false
+    },
+    {
+      "observed_local": "2026-11-14T01:17:56.9897711+05:00",
+      "log_time": "[2026.11.13-19.29.44:555]",
+      "category": "LogMapLoadModel:",
+      "endpoint": "185.40.64.1:7039",
+      "active_game_udp_verified": false
+    },
+    {
+      "observed_local": "2026-11-14T01:17:56.9897711+05:00",
+      "log_time": "[2026.11.13-19.30.35:124]",
+      "category": "LogTravelManager:",
+      "endpoint": "185.40.64.1:7329",
+      "active_game_udp_verified": false
+    },
+    {
+      "observed_local": "2026-11-14T01:17:56.9897711+05:00",
+      "log_time": "[2026.11.13-19.30.38:159]",
+      "category": "LogNet:",
+      "endpoint": "185.40.64.1:7329",
+      "active_game_udp_verified": false
+    },
+    {
+      "observed_local": "2026-11-14T01:17:56.9897711+05:00",
+      "log_time": "[2026.11.13-19.30.38:186]",
+      "category": "LogMapLoadModel:",
+      "endpoint": "185.40.64.1:7329",
+      "active_game_udp_verified": false
+    },
+    {
+      "observed_local": "2026-11-14T01:17:56.9897711+05:00",
+      "log_time": "[2026.11.13-19.37.35:147]",
+      "category": "LogMapLoadModel:",
+      "endpoint": "185.40.64.1:7329",
+      "active_game_udp_verified": false
+    },
+    {
+      "observed_local": "2026-11-14T01:17:56.9897711+05:00",
+      "log_time": "[2026.11.13-19.38.26:070]",
+      "category": "LogTravelManager:",
+      "endpoint": "185.40.64.1:7415",
+      "active_game_udp_verified": false
+    },
+    {
+      "observed_local": "2026-11-14T01:17:56.9897711+05:00",
+      "log_time": "[2026.11.13-19.38.28:772]",
+      "category": "LogMapLoadModel:",
+      "endpoint": "185.40.64.1:7415",
+      "active_game_udp_verified": false
+    },
+    {
+      "observed_local": "2026-11-14T01:17:56.9897711+05:00",
+      "log_time": "[2026.11.13-19.38.32:316]",
+      "category": "LogMapLoadModel:",
+      "endpoint": "185.40.64.1:7415",
+      "active_game_udp_verified": false
+    },
+    {
+      "observed_local": "2026-11-14T01:17:56.9897711+05:00",
+      "log_time": "[2026.11.13-19.38.32:658]",
+      "category": "LogMapLoadModel:",
+      "endpoint": "185.40.64.1:7415",
+      "active_game_udp_verified": false
+    },
+    {
+      "observed_local": "2026-11-14T01:17:56.9897711+05:00",
+      "log_time": "[2026.11.13-19.45.53:649]",
+      "category": "LogMapLoadModel:",
+      "endpoint": "185.40.64.1:7415",
+      "active_game_udp_verified": false
+    },
+    {
+      "observed_local": "2026-11-14T01:17:56.9897711+05:00",
+      "log_time": "[2026.11.13-19.46.47:123]",
+      "category": "LogTravelManager:",
+      "endpoint": "185.40.64.1:7382",
+      "active_game_udp_verified": false
+    },
+    {
+      "observed_local": "2026-11-14T01:17:56.9897711+05:00",
+      "log_time": "[2026.11.13-19.46.50:092]",
+      "category": "LogMapLoadModel:",
+      "endpoint": "185.40.64.1:7382",
+      "active_game_udp_verified": false
+    },
+    {
+      "observed_local": "2026-11-14T01:17:56.9897711+05:00",
+      "log_time": "[2026.11.13-19.46.52:401]",
+      "category": "LogMapLoadModel:",
+      "endpoint": "185.40.64.1:7382",
+      "active_game_udp_verified": false
+    },
+    {
+      "observed_local": "2026-11-14T01:17:56.9897711+05:00",
+      "log_time": "[2026.11.13-19.46.52:704]",
+      "category": "LogMapLoadModel:",
+      "endpoint": "185.40.64.1:7382",
+      "active_game_udp_verified": false
+    },
+    {
+      "observed_local": "2026-11-14T01:17:56.9897711+05:00",
+      "log_time": "[2026.11.13-19.52.00:261]",
+      "category": "LogMapLoadModel:",
+      "endpoint": "185.40.64.1:7382",
+      "active_game_udp_verified": false
+    },
+    {
+      "observed_local": "2026-11-14T01:17:56.9897711+05:00",
+      "log_time": "[2026.11.13-19.53.41:234]",
+      "category": "LogTravelManager:",
+      "endpoint": "185.40.64.1:7354",
+      "active_game_udp_verified": false
+    },
+    {
+      "observed_local": "2026-11-14T01:17:56.9897711+05:00",
+      "log_time": "[2026.11.13-19.53.47:213]",
+      "category": "LogMapLoadModel:",
+      "endpoint": "185.40.64.1:7354",
+      "active_game_udp_verified": false
+    },
+    {
+      "observed_local": "2026-11-14T01:17:56.9897711+05:00",
+      "log_time": "[2026.11.13-19.53.56:016]",
+      "category": "LogMapLoadModel:",
+      "endpoint": "185.40.64.1:7354",
+      "active_game_udp_verified": false
+    },
+    {
+      "observed_local": "2026-11-14T01:17:56.9897711+05:00",
+      "log_time": "[2026.11.13-19.53.56:535]",
+      "category": "LogMapLoadModel:",
+      "endpoint": "185.40.64.1:7354",
+      "active_game_udp_verified": false
+    },
+    {
+      "observed_local": "2026-11-14T01:17:56.9897711+05:00",
+      "log_time": "[2026.11.13-20.06.22:615]",
+      "category": "LogMapLoadModel:",
+      "endpoint": "185.40.64.1:7354",
+      "active_game_udp_verified": false
+    }
+  ],
+  "note": "Allowlisted extraction only. No candidate is proof of currently active game peer, transport or server region."
+}

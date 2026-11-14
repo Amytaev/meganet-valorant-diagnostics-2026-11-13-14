@@ -1,0 +1,98 @@
+{
+  "observed_local": "2026-11-14T16:24:31.780+05:00",
+  "method": "Read-only Find-NetRoute; snapshot during batch, not at every individual probe",
+  "selected_routes": [
+    {
+      "target": "185.40.64.1",
+      "selection": [
+        {
+          "IPAddress": "CLIENT_LAN_IP_01",
+          "InterfaceAlias": "Беспроводная сеть",
+          "InterfaceIndex": 7,
+          "DestinationPrefix": null,
+          "NextHop": null,
+          "RouteMetric": null,
+          "InterfaceMetric": null
+        },
+        {
+          "IPAddress": null,
+          "InterfaceAlias": "Беспроводная сеть",
+          "InterfaceIndex": 7,
+          "DestinationPrefix": "0.0.0.0/0",
+          "NextHop": "192.168.123.1",
+          "RouteMetric": 0,
+          "InterfaceMetric": 30
+        }
+      ]
+    },
+    {
+      "target": "162.249.72.1",
+      "selection": [
+        {
+          "IPAddress": "CLIENT_LAN_IP_01",
+          "InterfaceAlias": "Беспроводная сеть",
+          "InterfaceIndex": 7,
+          "DestinationPrefix": null,
+          "NextHop": null,
+          "RouteMetric": null,
+          "InterfaceMetric": null
+        },
+        {
+          "IPAddress": null,
+          "InterfaceAlias": "Беспроводная сеть",
+          "InterfaceIndex": 7,
+          "DestinationPrefix": "0.0.0.0/0",
+          "NextHop": "192.168.123.1",
+          "RouteMetric": 0,
+          "InterfaceMetric": 30
+        }
+      ]
+    },
+    {
+      "target": "162.254.198.41",
+      "selection": [
+        {
+          "IPAddress": "CLIENT_LAN_IP_01",
+          "InterfaceAlias": "Беспроводная сеть",
+          "InterfaceIndex": 7,
+          "DestinationPrefix": null,
+          "NextHop": null,
+          "RouteMetric": null,
+          "InterfaceMetric": null
+        },
+        {
+          "IPAddress": null,
+          "InterfaceAlias": "Беспроводная сеть",
+          "InterfaceIndex": 7,
+          "DestinationPrefix": "0.0.0.0/0",
+          "NextHop": "192.168.123.1",
+          "RouteMetric": 0,
+          "InterfaceMetric": 30
+        }
+      ]
+    },
+    {
+      "target": "155.133.252.37",
+      "selection": [
+        {
+          "IPAddress": "CLIENT_LAN_IP_01",
+          "InterfaceAlias": "Беспроводная сеть",
+          "InterfaceIndex": 7,
+          "DestinationPrefix": null,
+          "NextHop": null,
+          "RouteMetric": null,
+          "InterfaceMetric": null
+        },
+        {
+          "IPAddress": null,
+          "InterfaceAlias": "Беспроводная сеть",
+          "InterfaceIndex": 7,
+          "DestinationPrefix": "0.0.0.0/0",
+          "NextHop": "192.168.123.1",
+          "RouteMetric": 0,
+          "InterfaceMetric": 30
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+﻿[
+    {
+        "InterfaceAlias":  "Radmin VPN",
+        "InterfaceIndex":  16,
+        "AddressFamily":  23,
+        "InterfaceMetric":  35,
+        "ConnectionState":  1,
+        "NlMtu":  1500
+    },
+    {
+        "InterfaceAlias":  "Ethernet 2",
+        "InterfaceIndex":  10,
+        "AddressFamily":  23,
+        "InterfaceMetric":  25,
+        "ConnectionState":  1,
+        "NlMtu":  1500
+    },
+    {
+        "InterfaceAlias":  "Подключение по локальной сети* 10",
+        "InterfaceIndex":  15,
+        "AddressFamily":  23,
+        "InterfaceMetric":  25,
+        "ConnectionState":  0,
+        "NlMtu":  1500
+    },
+    {
+        "InterfaceAlias":  "Ethernet",
+        "InterfaceIndex":  12,
+        "AddressFamily":  23,
+        "InterfaceMetric":  5,
+        "ConnectionState":  0,
+        "NlMtu":  1500
+    },
+    {
+        "InterfaceAlias":  "Подключение по локальной сети* 1",
+        "InterfaceIndex":  6,
+        "AddressFamily":  23,
+        "InterfaceMetric":  25,
+        "ConnectionState":  0,
+        "NlMtu":  1500
+    },
+    {
+        "InterfaceAlias":  "Беспроводная сеть",
+        "InterfaceIndex":  7,
+        "AddressFamily":  23,
+        "InterfaceMetric":  35,
+        "ConnectionState":  1,
+        "NlMtu":  1500
+    },
+    {
+        "InterfaceAlias":  "Teredo Tunneling Pseudo-Interface",
+        "InterfaceIndex":  13,
+        "AddressFamily":  23,
+        "InterfaceMetric":  75,
+        "ConnectionState":  1,
+        "NlMtu":  1280
+    },
+    {
+        "InterfaceAlias":  "Loopback Pseudo-Interface 1",
+        "InterfaceIndex":  1,
+        "AddressFamily":  23,
+        "InterfaceMetric":  75,
+        "ConnectionState":  1,
+        "NlMtu":  4294967295
+    },
+    {
+        "InterfaceAlias":  "Radmin VPN",
+        "InterfaceIndex":  16,
+        "AddressFamily":  2,
+        "InterfaceMetric":  1,
+        "ConnectionState":  1,
+        "NlMtu":  1500
+    },
+    {
+        "InterfaceAlias":  "Ethernet 2",
+        "InterfaceIndex":  10,
+        "AddressFamily":  2,
+        "InterfaceMetric":  25,
+        "ConnectionState":  1,
+        "NlMtu":  1500
+    },
+    {
+        "InterfaceAlias":  "Подключение по локальной сети* 10",
+        "InterfaceIndex":  15,
+        "AddressFamily":  2,
+        "InterfaceMetric":  25,
+        "ConnectionState":  0,
+        "NlMtu":  1500
+    },
+    {
+        "InterfaceAlias":  "Ethernet",
+        "InterfaceIndex":  12,
+        "AddressFamily":  2,
+        "InterfaceMetric":  5,
+        "ConnectionState":  0,
+        "NlMtu":  1500
+    },
+    {
+        "InterfaceAlias":  "Подключение по локальной сети* 1",
+        "InterfaceIndex":  6,
+        "AddressFamily":  2,
+        "InterfaceMetric":  25,
+        "ConnectionState":  0,
+        "NlMtu":  1500
+    },
+    {
+        "InterfaceAlias":  "Беспроводная сеть",
+        "InterfaceIndex":  7,
+        "AddressFamily":  2,
+        "InterfaceMetric":  35,
+        "ConnectionState":  1,
+        "NlMtu":  1500
+    },
+    {
+        "InterfaceAlias":  "Loopback Pseudo-Interface 1",
+        "InterfaceIndex":  1,
+        "AddressFamily":  2,
+        "InterfaceMetric":  75,
+        "ConnectionState":  1,
+        "NlMtu":  4294967295
+    }
+]

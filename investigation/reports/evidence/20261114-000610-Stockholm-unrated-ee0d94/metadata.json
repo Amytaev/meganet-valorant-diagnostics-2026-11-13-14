@@ -1,0 +1,32 @@
+{
+  "schema": 2,
+  "start_local": "2026-11-14T00:06:10.6984143+05:00",
+  "start_utc": "2026-11-13T19:06:10.6984143Z",
+  "timezone": "Qyzylorda Standard Time",
+  "context": "Stockholm-unrated",
+  "targets": [
+    "192.168.123.1",
+    "89.38.164.205",
+    "1.1.1.1",
+    "87.245.238.34",
+    "87.245.234.191"
+  ],
+  "protocol": "ICMPv4",
+  "interval_seconds": 2,
+  "timeout_ms": 1500,
+  "payload_bytes": 32,
+  "duration_requested_seconds": 600,
+  "admin_token": false,
+  "pid": 3624,
+  "powershell": "5.1.26100.9818",
+  "session_path": "USERPROFILE\\Documents\\Codex\\2026-11-13\\meganet-valorant-amytaev-amir-workspace-codex\\work\\amir-workspace\\valorant-network-investigation\\raw\\20261114-000610-Stockholm-unrated-ee0d94",
+  "collector_sha256": "7CCCCB8C916C2F3037774494AF84F604C7A9315075E33984A27A28B50325C9FF",
+  "snapshot_skipped": false,
+  "game_endpoint_verified": false,
+  "end_local": "2026-11-14T00:10:18.4942795+05:00",
+  "end_utc": "2026-11-13T19:10:18.4963024Z",
+  "elapsed_seconds": 247.75249789999998,
+  "cycles": 123,
+  "stop_reason": "stop_file",
+  "failed": false
+}

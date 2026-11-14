@@ -1,0 +1,452 @@
+[
+  {
+    "InterfaceAlias": "Подключение по локальной сети* 10",
+    "InterfaceIndex": 15,
+    "AddressFamily": 2,
+    "DestinationPrefix": "255.255.255.255/32",
+    "NextHop": "0.0.0.0",
+    "RouteMetric": 256,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Подключение по локальной сети* 1",
+    "InterfaceIndex": 6,
+    "AddressFamily": 2,
+    "DestinationPrefix": "255.255.255.255/32",
+    "NextHop": "0.0.0.0",
+    "RouteMetric": 256,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Radmin VPN",
+    "InterfaceIndex": 16,
+    "AddressFamily": 2,
+    "DestinationPrefix": "255.255.255.255/32",
+    "NextHop": "0.0.0.0",
+    "RouteMetric": 256,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Беспроводная сеть",
+    "InterfaceIndex": 7,
+    "AddressFamily": 2,
+    "DestinationPrefix": "255.255.255.255/32",
+    "NextHop": "0.0.0.0",
+    "RouteMetric": 256,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Ethernet",
+    "InterfaceIndex": 12,
+    "AddressFamily": 2,
+    "DestinationPrefix": "255.255.255.255/32",
+    "NextHop": "0.0.0.0",
+    "RouteMetric": 256,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Ethernet 2",
+    "InterfaceIndex": 10,
+    "AddressFamily": 2,
+    "DestinationPrefix": "255.255.255.255/32",
+    "NextHop": "0.0.0.0",
+    "RouteMetric": 256,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Loopback Pseudo-Interface 1",
+    "InterfaceIndex": 1,
+    "AddressFamily": 2,
+    "DestinationPrefix": "255.255.255.255/32",
+    "NextHop": "0.0.0.0",
+    "RouteMetric": 256,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Подключение по локальной сети* 10",
+    "InterfaceIndex": 15,
+    "AddressFamily": 2,
+    "DestinationPrefix": "224.0.0.0/4",
+    "NextHop": "0.0.0.0",
+    "RouteMetric": 256,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Подключение по локальной сети* 1",
+    "InterfaceIndex": 6,
+    "AddressFamily": 2,
+    "DestinationPrefix": "224.0.0.0/4",
+    "NextHop": "0.0.0.0",
+    "RouteMetric": 256,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Radmin VPN",
+    "InterfaceIndex": 16,
+    "AddressFamily": 2,
+    "DestinationPrefix": "224.0.0.0/4",
+    "NextHop": "0.0.0.0",
+    "RouteMetric": 256,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Беспроводная сеть",
+    "InterfaceIndex": 7,
+    "AddressFamily": 2,
+    "DestinationPrefix": "224.0.0.0/4",
+    "NextHop": "0.0.0.0",
+    "RouteMetric": 256,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Ethernet",
+    "InterfaceIndex": 12,
+    "AddressFamily": 2,
+    "DestinationPrefix": "224.0.0.0/4",
+    "NextHop": "0.0.0.0",
+    "RouteMetric": 256,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Ethernet 2",
+    "InterfaceIndex": 10,
+    "AddressFamily": 2,
+    "DestinationPrefix": "224.0.0.0/4",
+    "NextHop": "0.0.0.0",
+    "RouteMetric": 256,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Loopback Pseudo-Interface 1",
+    "InterfaceIndex": 1,
+    "AddressFamily": 2,
+    "DestinationPrefix": "224.0.0.0/4",
+    "NextHop": "0.0.0.0",
+    "RouteMetric": 256,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Беспроводная сеть",
+    "InterfaceIndex": 7,
+    "AddressFamily": 2,
+    "DestinationPrefix": "192.168.123.255/32",
+    "NextHop": "0.0.0.0",
+    "RouteMetric": 256,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Беспроводная сеть",
+    "InterfaceIndex": 7,
+    "AddressFamily": 2,
+    "DestinationPrefix": "CLIENT_LAN_IP_01/32",
+    "NextHop": "0.0.0.0",
+    "RouteMetric": 256,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Беспроводная сеть",
+    "InterfaceIndex": 7,
+    "AddressFamily": 2,
+    "DestinationPrefix": "192.168.123.0/24",
+    "NextHop": "0.0.0.0",
+    "RouteMetric": 256,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Ethernet 2",
+    "InterfaceIndex": 10,
+    "AddressFamily": 2,
+    "DestinationPrefix": "192.168.56.255/32",
+    "NextHop": "0.0.0.0",
+    "RouteMetric": 256,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Ethernet 2",
+    "InterfaceIndex": 10,
+    "AddressFamily": 2,
+    "DestinationPrefix": "192.168.56.1/32",
+    "NextHop": "0.0.0.0",
+    "RouteMetric": 256,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Ethernet 2",
+    "InterfaceIndex": 10,
+    "AddressFamily": 2,
+    "DestinationPrefix": "192.168.56.0/24",
+    "NextHop": "0.0.0.0",
+    "RouteMetric": 256,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Loopback Pseudo-Interface 1",
+    "InterfaceIndex": 1,
+    "AddressFamily": 2,
+    "DestinationPrefix": "127.255.255.255/32",
+    "NextHop": "0.0.0.0",
+    "RouteMetric": 256,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Loopback Pseudo-Interface 1",
+    "InterfaceIndex": 1,
+    "AddressFamily": 2,
+    "DestinationPrefix": "127.0.0.1/32",
+    "NextHop": "0.0.0.0",
+    "RouteMetric": 256,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Loopback Pseudo-Interface 1",
+    "InterfaceIndex": 1,
+    "AddressFamily": 2,
+    "DestinationPrefix": "127.0.0.0/8",
+    "NextHop": "0.0.0.0",
+    "RouteMetric": 256,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Radmin VPN",
+    "InterfaceIndex": 16,
+    "AddressFamily": 2,
+    "DestinationPrefix": "26.255.255.255/32",
+    "NextHop": "0.0.0.0",
+    "RouteMetric": 256,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Radmin VPN",
+    "InterfaceIndex": 16,
+    "AddressFamily": 2,
+    "DestinationPrefix": "26.58.125.155/32",
+    "NextHop": "0.0.0.0",
+    "RouteMetric": 256,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Radmin VPN",
+    "InterfaceIndex": 16,
+    "AddressFamily": 2,
+    "DestinationPrefix": "26.0.0.0/8",
+    "NextHop": "0.0.0.0",
+    "RouteMetric": 256,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Беспроводная сеть",
+    "InterfaceIndex": 7,
+    "AddressFamily": 2,
+    "DestinationPrefix": "0.0.0.0/0",
+    "NextHop": "192.168.123.1",
+    "RouteMetric": 0,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Radmin VPN",
+    "InterfaceIndex": 16,
+    "AddressFamily": 2,
+    "DestinationPrefix": "0.0.0.0/0",
+    "NextHop": "26.0.0.1",
+    "RouteMetric": 9256,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Подключение по локальной сети* 10",
+    "InterfaceIndex": 15,
+    "AddressFamily": 23,
+    "DestinationPrefix": "ff00::/8",
+    "NextHop": "::",
+    "RouteMetric": 256,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Подключение по локальной сети* 1",
+    "InterfaceIndex": 6,
+    "AddressFamily": 23,
+    "DestinationPrefix": "ff00::/8",
+    "NextHop": "::",
+    "RouteMetric": 256,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Radmin VPN",
+    "InterfaceIndex": 16,
+    "AddressFamily": 23,
+    "DestinationPrefix": "ff00::/8",
+    "NextHop": "::",
+    "RouteMetric": 256,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Беспроводная сеть",
+    "InterfaceIndex": 7,
+    "AddressFamily": 23,
+    "DestinationPrefix": "ff00::/8",
+    "NextHop": "::",
+    "RouteMetric": 256,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Ethernet",
+    "InterfaceIndex": 12,
+    "AddressFamily": 23,
+    "DestinationPrefix": "ff00::/8",
+    "NextHop": "::",
+    "RouteMetric": 256,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Ethernet 2",
+    "InterfaceIndex": 10,
+    "AddressFamily": 23,
+    "DestinationPrefix": "ff00::/8",
+    "NextHop": "::",
+    "RouteMetric": 256,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Loopback Pseudo-Interface 1",
+    "InterfaceIndex": 1,
+    "AddressFamily": 23,
+    "DestinationPrefix": "ff00::/8",
+    "NextHop": "::",
+    "RouteMetric": 256,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Ethernet 2",
+    "InterfaceIndex": 10,
+    "AddressFamily": 23,
+    "DestinationPrefix": "fe80::c6bb:3528:3bc9:b331/128",
+    "NextHop": "::",
+    "RouteMetric": 256,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Подключение по локальной сети* 1",
+    "InterfaceIndex": 6,
+    "AddressFamily": 23,
+    "DestinationPrefix": "fe80::a335:11d3:ce56:283a/128",
+    "NextHop": "::",
+    "RouteMetric": 256,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Беспроводная сеть",
+    "InterfaceIndex": 7,
+    "AddressFamily": 23,
+    "DestinationPrefix": "fe80::62a4:6af9:3af4:d19e/128",
+    "NextHop": "::",
+    "RouteMetric": 256,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Подключение по локальной сети* 10",
+    "InterfaceIndex": 15,
+    "AddressFamily": 23,
+    "DestinationPrefix": "fe80::5780:547:627:a2bd/128",
+    "NextHop": "::",
+    "RouteMetric": 256,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Ethernet",
+    "InterfaceIndex": 12,
+    "AddressFamily": 23,
+    "DestinationPrefix": "fe80::f96:fa67:a19b:f4a8/128",
+    "NextHop": "::",
+    "RouteMetric": 256,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Radmin VPN",
+    "InterfaceIndex": 16,
+    "AddressFamily": 23,
+    "DestinationPrefix": "fe80::f15:f6fa:bbfa:f8eb/128",
+    "NextHop": "::",
+    "RouteMetric": 256,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Подключение по локальной сети* 10",
+    "InterfaceIndex": 15,
+    "AddressFamily": 23,
+    "DestinationPrefix": "fe80::/64",
+    "NextHop": "::",
+    "RouteMetric": 256,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Подключение по локальной сети* 1",
+    "InterfaceIndex": 6,
+    "AddressFamily": 23,
+    "DestinationPrefix": "fe80::/64",
+    "NextHop": "::",
+    "RouteMetric": 256,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Radmin VPN",
+    "InterfaceIndex": 16,
+    "AddressFamily": 23,
+    "DestinationPrefix": "fe80::/64",
+    "NextHop": "::",
+    "RouteMetric": 256,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Беспроводная сеть",
+    "InterfaceIndex": 7,
+    "AddressFamily": 23,
+    "DestinationPrefix": "fe80::/64",
+    "NextHop": "::",
+    "RouteMetric": 256,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Ethernet",
+    "InterfaceIndex": 12,
+    "AddressFamily": 23,
+    "DestinationPrefix": "fe80::/64",
+    "NextHop": "::",
+    "RouteMetric": 256,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Ethernet 2",
+    "InterfaceIndex": 10,
+    "AddressFamily": 23,
+    "DestinationPrefix": "fe80::/64",
+    "NextHop": "::",
+    "RouteMetric": 256,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Radmin VPN",
+    "InterfaceIndex": 16,
+    "AddressFamily": 23,
+    "DestinationPrefix": "fdfd::1a3a:7d9b/128",
+    "NextHop": "::",
+    "RouteMetric": 256,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Radmin VPN",
+    "InterfaceIndex": 16,
+    "AddressFamily": 23,
+    "DestinationPrefix": "fdfd::/64",
+    "NextHop": "::",
+    "RouteMetric": 256,
+    "State": 0
+  },
+  {
+    "InterfaceAlias": "Loopback Pseudo-Interface 1",
+    "InterfaceIndex": 1,
+    "AddressFamily": 23,
+    "DestinationPrefix": "::1/128",
+    "NextHop": "::",
+    "RouteMetric": 256,
+    "State": 0
+  }
+]

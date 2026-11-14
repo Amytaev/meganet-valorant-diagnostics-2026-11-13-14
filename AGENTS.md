@@ -1,0 +1,3 @@
+# Public diagnostics mirror
+
+This repository is public. Keep private originals in amir-workspace. Never publish credentials, full raw game logs, player names, personal SSID/MAC/BSSID/GUID, user-specific paths or subscriber WAN IP. Preserve diagnostic target/router IPs, ports, numerical samples, timestamps, quality flags and full native ping/tracert output. Use stable pseudonyms for personal interface identifiers. Active collection stays in the private workspace; do not start another collector merely to publish files. Read PUBLICATION-NOTES.md and investigation/AGENTS.md; verify privacy, secrets, checksums and numerical invariants before every publication. Preserve existing technical-package/ files and their original ZIP.

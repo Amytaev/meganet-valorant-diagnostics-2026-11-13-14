@@ -1,0 +1,10 @@
+#!/bin/sh
+if command -v python3 >/dev/null 2>&1 && python3 -c 'import sys; sys.exit(sys.version_info < (3, 12))' >/dev/null 2>&1; then
+    exec python3 scripts/check_secrets.py --pre-push "$1"
+elif command -v python >/dev/null 2>&1 && python -c 'import sys; sys.exit(sys.version_info < (3, 12))' >/dev/null 2>&1; then
+    exec python scripts/check_secrets.py --pre-push "$1"
+elif command -v py >/dev/null 2>&1 && py -3 -c 'import sys; sys.exit(sys.version_info < (3, 12))' >/dev/null 2>&1; then
+    exec py -3 scripts/check_secrets.py --pre-push "$1"
+fi
+echo 'Python 3.12+ is required for the security check (python3, python or py -3).' >&2
+exit 2

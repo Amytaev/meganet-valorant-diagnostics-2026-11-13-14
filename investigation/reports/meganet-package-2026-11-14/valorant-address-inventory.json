@@ -1,0 +1,921 @@
+{
+  "scope": "Reviewed saved endpoint extracts plus allowlisted local archived game logs modified 13-14 November; bounded and not guaranteed exhaustive. Duplicate extracts collapsed by endpoint, raw log time and category.",
+  "classification": "Confirmed means address appears in game travel and map-load records; not proof of active UDP, physical server, region or causal failure. Candidate refers to weaker unrelated/unbound sources.",
+  "endpoints": [
+    {
+      "endpoint": "162.249.72.1:7004",
+      "ip": "162.249.72.1",
+      "port": 7004,
+      "association": "confirmed_application_log_association",
+      "evidence_strength": "GameNetDriver RemoteAddr also recorded",
+      "region": "User-selected Stockholm context only for observed :7039 and daytime :7004 sessions; all physical IP geography unverified",
+      "first_log_time": "[2026.11.14-09.31.45:206]",
+      "last_log_time": "[2026.11.14-09.49.20:962]",
+      "log_timezone": "unverified; +05 conversion only if UTC is independently established",
+      "unique_events": 5,
+      "active_udp_peer_verified": false,
+      "events": [
+        {
+          "log_time": "[2026.11.14-09.31.45:206]",
+          "category": "LogTravelManager:",
+          "sources": [
+            "evidence/day-2026-11-14/endpoint-candidates-after-match.json",
+            "evidence/day-2026-11-14/endpoint-candidates-after-user-restart.json",
+            "sources/valorant-context-allowlist.json#ShooterGame.log:1446"
+          ],
+          "context_terms": [
+            "Travel"
+          ]
+        },
+        {
+          "log_time": "[2026.11.14-09.31.48:987]",
+          "category": "LogNet:",
+          "sources": [
+            "evidence/day-2026-11-14/endpoint-candidates-after-match.json",
+            "evidence/day-2026-11-14/endpoint-candidates-after-user-restart.json",
+            "sources/valorant-context-allowlist.json#ShooterGame.log:1626"
+          ],
+          "context_terms": [
+            "GameNetDriver",
+            "NetConnection",
+            "RemoteAddr"
+          ]
+        },
+        {
+          "log_time": "[2026.11.14-09.31.49:217]",
+          "category": "LogMapLoadModel:",
+          "sources": [
+            "evidence/day-2026-11-14/endpoint-candidates-after-match.json",
+            "evidence/day-2026-11-14/endpoint-candidates-after-user-restart.json",
+            "sources/valorant-context-allowlist.json#ShooterGame.log:1679"
+          ],
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.14-09.31.50:008]",
+          "category": "LogMapLoadModel:",
+          "sources": [
+            "evidence/day-2026-11-14/endpoint-candidates-after-match.json",
+            "evidence/day-2026-11-14/endpoint-candidates-after-user-restart.json",
+            "sources/valorant-context-allowlist.json#ShooterGame.log:1732"
+          ],
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.14-09.49.20:962]",
+          "category": "LogMapLoadModel:",
+          "sources": [
+            "evidence/day-2026-11-14/endpoint-candidates-after-match.json",
+            "sources/valorant-context-allowlist.json#ShooterGame.log:7476"
+          ],
+          "context_terms": []
+        }
+      ]
+    },
+    {
+      "endpoint": "185.40.64.1:7004",
+      "ip": "185.40.64.1",
+      "port": 7004,
+      "association": "confirmed_application_log_association",
+      "evidence_strength": "Travel/map-load records; do not infer verified live UDP peer or handshake success",
+      "region": "User-selected Stockholm context only for observed :7039 and daytime :7004 sessions; all physical IP geography unverified",
+      "first_log_time": "[2026.11.14-09.08.49:238]",
+      "last_log_time": "[2026.11.14-09.09.04:314]",
+      "log_timezone": "unverified; +05 conversion only if UTC is independently established",
+      "unique_events": 4,
+      "active_udp_peer_verified": false,
+      "events": [
+        {
+          "log_time": "[2026.11.14-09.08.49:238]",
+          "category": "LogTravelManager:",
+          "sources": [
+            "evidence/day-2026-11-14/endpoint-candidates-incident-300-400.json",
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.14-09.30.10.log:2379"
+          ],
+          "context_terms": [
+            "Travel"
+          ]
+        },
+        {
+          "log_time": "[2026.11.14-09.08.54:918]",
+          "category": "LogMapLoadModel:",
+          "sources": [
+            "evidence/day-2026-11-14/endpoint-candidates-incident-300-400.json",
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.14-09.30.10.log:2539"
+          ],
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.14-09.09.03:679]",
+          "category": "LogMapLoadModel:",
+          "sources": [
+            "evidence/day-2026-11-14/endpoint-candidates-incident-300-400.json",
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.14-09.30.10.log:2595"
+          ],
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.14-09.09.04:314]",
+          "category": "LogMapLoadModel:",
+          "sources": [
+            "evidence/day-2026-11-14/endpoint-candidates-incident-300-400.json",
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.14-09.30.10.log:2683"
+          ],
+          "context_terms": []
+        }
+      ]
+    },
+    {
+      "endpoint": "185.40.64.1:7039",
+      "ip": "185.40.64.1",
+      "port": 7039,
+      "association": "confirmed_application_log_association",
+      "evidence_strength": "Travel/map-load records; do not infer verified live UDP peer or handshake success",
+      "region": "User-selected Stockholm context only for observed :7039 and daytime :7004 sessions; all physical IP geography unverified",
+      "first_log_time": "[2026.11.13-18.51.55:749]",
+      "last_log_time": "[2026.11.13-19.29.44:555]",
+      "log_timezone": "unverified; +05 conversion only if UTC is independently established",
+      "unique_events": 5,
+      "active_udp_peer_verified": false,
+      "events": [
+        {
+          "log_time": "[2026.11.13-18.51.55:749]",
+          "category": "LogTravelManager:",
+          "sources": [
+            "evidence/20261113-235320-Stockholm-unrated-af5126/endpoint-candidates-final.json",
+            "evidence/20261113-235320-Stockholm-unrated-af5126/endpoint-candidates.json",
+            "evidence/final-history/20261113-235053-Unknown-fc7ee9/endpoint-candidates.json",
+            "evidence/probe-quality-control/endpoint-candidates.json",
+            "final-data/game-endpoint-candidates-final.json",
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-20.08.16.log:55150"
+          ],
+          "context_terms": [
+            "Travel"
+          ]
+        },
+        {
+          "log_time": "[2026.11.13-18.52.01:576]",
+          "category": "LogMapLoadModel:",
+          "sources": [
+            "evidence/20261113-235320-Stockholm-unrated-af5126/endpoint-candidates-final.json",
+            "evidence/20261113-235320-Stockholm-unrated-af5126/endpoint-candidates.json",
+            "evidence/final-history/20261113-235053-Unknown-fc7ee9/endpoint-candidates.json",
+            "evidence/probe-quality-control/endpoint-candidates.json",
+            "final-data/game-endpoint-candidates-final.json",
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-20.08.16.log:55631"
+          ],
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-18.52.10:316]",
+          "category": "LogMapLoadModel:",
+          "sources": [
+            "evidence/20261113-235320-Stockholm-unrated-af5126/endpoint-candidates-final.json",
+            "evidence/20261113-235320-Stockholm-unrated-af5126/endpoint-candidates.json",
+            "evidence/final-history/20261113-235053-Unknown-fc7ee9/endpoint-candidates.json",
+            "evidence/probe-quality-control/endpoint-candidates.json",
+            "final-data/game-endpoint-candidates-final.json",
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-20.08.16.log:55690"
+          ],
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-18.52.10:837]",
+          "category": "LogMapLoadModel:",
+          "sources": [
+            "evidence/20261113-235320-Stockholm-unrated-af5126/endpoint-candidates-final.json",
+            "evidence/20261113-235320-Stockholm-unrated-af5126/endpoint-candidates.json",
+            "evidence/final-history/20261113-235053-Unknown-fc7ee9/endpoint-candidates.json",
+            "evidence/probe-quality-control/endpoint-candidates.json",
+            "final-data/game-endpoint-candidates-final.json",
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-20.08.16.log:55764"
+          ],
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-19.29.44:555]",
+          "category": "LogMapLoadModel:",
+          "sources": [
+            "final-data/game-endpoint-candidates-final.json",
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-20.08.16.log:78872"
+          ],
+          "context_terms": []
+        }
+      ]
+    },
+    {
+      "endpoint": "185.40.64.1:7048",
+      "ip": "185.40.64.1",
+      "port": 7048,
+      "association": "confirmed_application_log_association",
+      "evidence_strength": "Travel/map-load records; do not infer verified live UDP peer or handshake success",
+      "region": "User-selected Stockholm context only for observed :7039 and daytime :7004 sessions; all physical IP geography unverified",
+      "first_log_time": "[2026.11.13-18.11.34:945]",
+      "last_log_time": "[2026.11.13-18.11.47:125]",
+      "log_timezone": "unverified; +05 conversion only if UTC is independently established",
+      "unique_events": 4,
+      "active_udp_peer_verified": false,
+      "events": [
+        {
+          "log_time": "[2026.11.13-18.11.34:945]",
+          "category": "LogTravelManager:",
+          "sources": [
+            "evidence/20261113-235320-Stockholm-unrated-af5126/endpoint-candidates-final.json",
+            "evidence/20261113-235320-Stockholm-unrated-af5126/endpoint-candidates.json",
+            "evidence/final-history/20261113-234232-Range-1fbb0d/endpoint-candidates.json",
+            "evidence/final-history/20261113-235053-Unknown-fc7ee9/endpoint-candidates.json",
+            "evidence/probe-quality-control/endpoint-candidates.json",
+            "evidence/probe-quality-control/historical-endpoint-candidates.json",
+            "final-data/game-endpoint-candidates-final.json",
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-20.08.16.log:22508"
+          ],
+          "context_terms": [
+            "Travel"
+          ]
+        },
+        {
+          "log_time": "[2026.11.13-18.11.38:537]",
+          "category": "LogMapLoadModel:",
+          "sources": [
+            "evidence/20261113-235320-Stockholm-unrated-af5126/endpoint-candidates-final.json",
+            "evidence/20261113-235320-Stockholm-unrated-af5126/endpoint-candidates.json",
+            "evidence/final-history/20261113-234232-Range-1fbb0d/endpoint-candidates.json",
+            "evidence/final-history/20261113-235053-Unknown-fc7ee9/endpoint-candidates.json",
+            "evidence/probe-quality-control/endpoint-candidates.json",
+            "evidence/probe-quality-control/historical-endpoint-candidates.json",
+            "final-data/game-endpoint-candidates-final.json",
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-20.08.16.log:22896"
+          ],
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-18.11.47:101]",
+          "category": "LogMapLoadModel:",
+          "sources": [
+            "evidence/20261113-235320-Stockholm-unrated-af5126/endpoint-candidates-final.json",
+            "evidence/20261113-235320-Stockholm-unrated-af5126/endpoint-candidates.json",
+            "evidence/final-history/20261113-234232-Range-1fbb0d/endpoint-candidates.json",
+            "evidence/final-history/20261113-235053-Unknown-fc7ee9/endpoint-candidates.json",
+            "evidence/probe-quality-control/endpoint-candidates.json",
+            "evidence/probe-quality-control/historical-endpoint-candidates.json",
+            "final-data/game-endpoint-candidates-final.json",
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-20.08.16.log:22963"
+          ],
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-18.11.47:125]",
+          "category": "LogMapLoadModel:",
+          "sources": [
+            "evidence/20261113-235320-Stockholm-unrated-af5126/endpoint-candidates-final.json",
+            "evidence/20261113-235320-Stockholm-unrated-af5126/endpoint-candidates.json",
+            "evidence/final-history/20261113-234232-Range-1fbb0d/endpoint-candidates.json",
+            "evidence/final-history/20261113-235053-Unknown-fc7ee9/endpoint-candidates.json",
+            "evidence/probe-quality-control/endpoint-candidates.json",
+            "evidence/probe-quality-control/historical-endpoint-candidates.json",
+            "final-data/game-endpoint-candidates-final.json",
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-20.08.16.log:22975"
+          ],
+          "context_terms": []
+        }
+      ]
+    },
+    {
+      "endpoint": "185.40.64.1:7125",
+      "ip": "185.40.64.1",
+      "port": 7125,
+      "association": "confirmed_application_log_association",
+      "evidence_strength": "Travel/map-load records; do not infer verified live UDP peer or handshake success",
+      "region": "User-selected Stockholm context only for observed :7039 and daytime :7004 sessions; all physical IP geography unverified",
+      "first_log_time": "[2026.11.13-17.25.45:729]",
+      "last_log_time": "[2026.11.13-17.51.15:352]",
+      "log_timezone": "unverified; +05 conversion only if UTC is independently established",
+      "unique_events": 5,
+      "active_udp_peer_verified": false,
+      "events": [
+        {
+          "log_time": "[2026.11.13-17.25.45:729]",
+          "category": "LogTravelManager:",
+          "sources": [
+            "evidence/20261113-235320-Stockholm-unrated-af5126/endpoint-candidates-final.json",
+            "evidence/20261113-235320-Stockholm-unrated-af5126/endpoint-candidates.json",
+            "evidence/final-history/20261113-234232-Range-1fbb0d/endpoint-candidates.json",
+            "evidence/final-history/20261113-235053-Unknown-fc7ee9/endpoint-candidates.json",
+            "evidence/probe-quality-control/endpoint-candidates.json",
+            "evidence/probe-quality-control/historical-endpoint-candidates.json",
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-20.08.16.log:2453"
+          ],
+          "context_terms": [
+            "Travel"
+          ]
+        },
+        {
+          "log_time": "[2026.11.13-17.25.50:404]",
+          "category": "LogMapLoadModel:",
+          "sources": [
+            "evidence/20261113-235320-Stockholm-unrated-af5126/endpoint-candidates-final.json",
+            "evidence/20261113-235320-Stockholm-unrated-af5126/endpoint-candidates.json",
+            "evidence/final-history/20261113-234232-Range-1fbb0d/endpoint-candidates.json",
+            "evidence/final-history/20261113-235053-Unknown-fc7ee9/endpoint-candidates.json",
+            "evidence/probe-quality-control/endpoint-candidates.json",
+            "evidence/probe-quality-control/historical-endpoint-candidates.json",
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-20.08.16.log:2727"
+          ],
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-17.25.59:115]",
+          "category": "LogMapLoadModel:",
+          "sources": [
+            "evidence/20261113-235320-Stockholm-unrated-af5126/endpoint-candidates-final.json",
+            "evidence/20261113-235320-Stockholm-unrated-af5126/endpoint-candidates.json",
+            "evidence/final-history/20261113-234232-Range-1fbb0d/endpoint-candidates.json",
+            "evidence/final-history/20261113-235053-Unknown-fc7ee9/endpoint-candidates.json",
+            "evidence/probe-quality-control/endpoint-candidates.json",
+            "evidence/probe-quality-control/historical-endpoint-candidates.json",
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-20.08.16.log:2806"
+          ],
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-17.25.59:556]",
+          "category": "LogMapLoadModel:",
+          "sources": [
+            "evidence/20261113-235320-Stockholm-unrated-af5126/endpoint-candidates-final.json",
+            "evidence/20261113-235320-Stockholm-unrated-af5126/endpoint-candidates.json",
+            "evidence/final-history/20261113-234232-Range-1fbb0d/endpoint-candidates.json",
+            "evidence/final-history/20261113-235053-Unknown-fc7ee9/endpoint-candidates.json",
+            "evidence/probe-quality-control/endpoint-candidates.json",
+            "evidence/probe-quality-control/historical-endpoint-candidates.json",
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-20.08.16.log:2903"
+          ],
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-17.51.15:352]",
+          "category": "LogMapLoadModel:",
+          "sources": [
+            "evidence/20261113-235320-Stockholm-unrated-af5126/endpoint-candidates-final.json",
+            "evidence/20261113-235320-Stockholm-unrated-af5126/endpoint-candidates.json",
+            "evidence/final-history/20261113-234232-Range-1fbb0d/endpoint-candidates.json",
+            "evidence/final-history/20261113-235053-Unknown-fc7ee9/endpoint-candidates.json",
+            "evidence/probe-quality-control/endpoint-candidates.json",
+            "evidence/probe-quality-control/historical-endpoint-candidates.json",
+            "final-data/game-endpoint-candidates-final.json",
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-20.08.16.log:10449"
+          ],
+          "context_terms": []
+        }
+      ]
+    },
+    {
+      "endpoint": "185.40.64.1:7149",
+      "ip": "185.40.64.1",
+      "port": 7149,
+      "association": "confirmed_application_log_association",
+      "evidence_strength": "Travel/map-load records; do not infer verified live UDP peer or handshake success",
+      "region": "User-selected Stockholm context only for observed :7039 and daytime :7004 sessions; all physical IP geography unverified",
+      "first_log_time": "[2026.11.13-10.23.01:919]",
+      "last_log_time": "[2026.11.13-11.05.07:022]",
+      "log_timezone": "unverified; +05 conversion only if UTC is independently established",
+      "unique_events": 5,
+      "active_udp_peer_verified": false,
+      "events": [
+        {
+          "log_time": "[2026.11.13-10.23.01:919]",
+          "category": "LogTravelManager:",
+          "sources": [
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-11.18.28.log:22990"
+          ],
+          "context_terms": [
+            "Travel"
+          ]
+        },
+        {
+          "log_time": "[2026.11.13-10.23.07:989]",
+          "category": "LogMapLoadModel:",
+          "sources": [
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-11.18.28.log:23611"
+          ],
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-10.23.16:673]",
+          "category": "LogMapLoadModel:",
+          "sources": [
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-11.18.28.log:23702"
+          ],
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-10.23.17:183]",
+          "category": "LogMapLoadModel:",
+          "sources": [
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-11.18.28.log:23796"
+          ],
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-11.05.07:022]",
+          "category": "LogMapLoadModel:",
+          "sources": [
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-11.18.28.log:37313"
+          ],
+          "context_terms": []
+        }
+      ]
+    },
+    {
+      "endpoint": "185.40.64.1:7158",
+      "ip": "185.40.64.1",
+      "port": 7158,
+      "association": "confirmed_application_log_association",
+      "evidence_strength": "Travel/map-load records; active UDP peer not independently verified",
+      "region": "New match reported by user; selected region and physical geography not verified for this match",
+      "first_log_time": "[2026.11.14-11.29.32:496]",
+      "last_log_time": "[2026.11.14-11.29.47:082]",
+      "log_timezone": "unverified",
+      "unique_events": 4,
+      "active_udp_peer_verified": false,
+      "events": [
+        {
+          "log_time": "[2026.11.14-11.29.32:496]",
+          "category": "LogTravelManager:",
+          "sources": [
+            "sources/valorant-new-match-endpoints.json"
+          ],
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.14-11.29.38:088]",
+          "category": "LogMapLoadModel:",
+          "sources": [
+            "sources/valorant-new-match-endpoints.json"
+          ],
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.14-11.29.46:520]",
+          "category": "LogMapLoadModel:",
+          "sources": [
+            "sources/valorant-new-match-endpoints.json"
+          ],
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.14-11.29.47:082]",
+          "category": "LogMapLoadModel:",
+          "sources": [
+            "sources/valorant-new-match-endpoints.json"
+          ],
+          "context_terms": []
+        }
+      ]
+    },
+    {
+      "endpoint": "185.40.64.1:7329",
+      "ip": "185.40.64.1",
+      "port": 7329,
+      "association": "confirmed_application_log_association",
+      "evidence_strength": "GameNetDriver RemoteAddr also recorded",
+      "region": "User-selected Stockholm context only for observed :7039 and daytime :7004 sessions; all physical IP geography unverified",
+      "first_log_time": "[2026.11.13-19.30.35:124]",
+      "last_log_time": "[2026.11.13-19.37.35:147]",
+      "log_timezone": "unverified; +05 conversion only if UTC is independently established",
+      "unique_events": 4,
+      "active_udp_peer_verified": false,
+      "events": [
+        {
+          "log_time": "[2026.11.13-19.30.35:124]",
+          "category": "LogTravelManager:",
+          "sources": [
+            "final-data/game-endpoint-candidates-final.json",
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-20.08.16.log:79958"
+          ],
+          "context_terms": [
+            "Travel"
+          ]
+        },
+        {
+          "log_time": "[2026.11.13-19.30.38:159]",
+          "category": "LogNet:",
+          "sources": [
+            "final-data/game-endpoint-candidates-final.json",
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-20.08.16.log:80934"
+          ],
+          "context_terms": [
+            "GameNetDriver",
+            "NetConnection",
+            "RemoteAddr"
+          ]
+        },
+        {
+          "log_time": "[2026.11.13-19.30.38:186]",
+          "category": "LogMapLoadModel:",
+          "sources": [
+            "final-data/game-endpoint-candidates-final.json",
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-20.08.16.log:80951"
+          ],
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-19.37.35:147]",
+          "category": "LogMapLoadModel:",
+          "sources": [
+            "final-data/game-endpoint-candidates-final.json",
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-20.08.16.log:85039"
+          ],
+          "context_terms": []
+        }
+      ]
+    },
+    {
+      "endpoint": "185.40.64.1:7354",
+      "ip": "185.40.64.1",
+      "port": 7354,
+      "association": "confirmed_application_log_association",
+      "evidence_strength": "Travel/map-load records; do not infer verified live UDP peer or handshake success",
+      "region": "User-selected Stockholm context only for observed :7039 and daytime :7004 sessions; all physical IP geography unverified",
+      "first_log_time": "[2026.11.13-19.53.41:234]",
+      "last_log_time": "[2026.11.13-20.06.22:615]",
+      "log_timezone": "unverified; +05 conversion only if UTC is independently established",
+      "unique_events": 5,
+      "active_udp_peer_verified": false,
+      "events": [
+        {
+          "log_time": "[2026.11.13-19.53.41:234]",
+          "category": "LogTravelManager:",
+          "sources": [
+            "final-data/game-endpoint-candidates-final.json",
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-20.08.16.log:99255"
+          ],
+          "context_terms": [
+            "Travel"
+          ]
+        },
+        {
+          "log_time": "[2026.11.13-19.53.47:213]",
+          "category": "LogMapLoadModel:",
+          "sources": [
+            "final-data/game-endpoint-candidates-final.json",
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-20.08.16.log:100239"
+          ],
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-19.53.56:016]",
+          "category": "LogMapLoadModel:",
+          "sources": [
+            "final-data/game-endpoint-candidates-final.json",
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-20.08.16.log:100308"
+          ],
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-19.53.56:535]",
+          "category": "LogMapLoadModel:",
+          "sources": [
+            "final-data/game-endpoint-candidates-final.json",
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-20.08.16.log:100398"
+          ],
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-20.06.22:615]",
+          "category": "LogMapLoadModel:",
+          "sources": [
+            "final-data/game-endpoint-candidates-final.json",
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-20.08.16.log:103990"
+          ],
+          "context_terms": []
+        }
+      ]
+    },
+    {
+      "endpoint": "185.40.64.1:7382",
+      "ip": "185.40.64.1",
+      "port": 7382,
+      "association": "confirmed_application_log_association",
+      "evidence_strength": "Travel/map-load records; do not infer verified live UDP peer or handshake success",
+      "region": "User-selected Stockholm context only for observed :7039 and daytime :7004 sessions; all physical IP geography unverified",
+      "first_log_time": "[2026.11.13-19.46.47:123]",
+      "last_log_time": "[2026.11.13-19.52.00:261]",
+      "log_timezone": "unverified; +05 conversion only if UTC is independently established",
+      "unique_events": 5,
+      "active_udp_peer_verified": false,
+      "events": [
+        {
+          "log_time": "[2026.11.13-19.46.47:123]",
+          "category": "LogTravelManager:",
+          "sources": [
+            "final-data/game-endpoint-candidates-final.json",
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-20.08.16.log:93136"
+          ],
+          "context_terms": [
+            "Travel"
+          ]
+        },
+        {
+          "log_time": "[2026.11.13-19.46.50:092]",
+          "category": "LogMapLoadModel:",
+          "sources": [
+            "final-data/game-endpoint-candidates-final.json",
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-20.08.16.log:94053"
+          ],
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-19.46.52:401]",
+          "category": "LogMapLoadModel:",
+          "sources": [
+            "final-data/game-endpoint-candidates-final.json",
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-20.08.16.log:94119"
+          ],
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-19.46.52:704]",
+          "category": "LogMapLoadModel:",
+          "sources": [
+            "final-data/game-endpoint-candidates-final.json",
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-20.08.16.log:94203"
+          ],
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-19.52.00:261]",
+          "category": "LogMapLoadModel:",
+          "sources": [
+            "final-data/game-endpoint-candidates-final.json",
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-20.08.16.log:97701"
+          ],
+          "context_terms": []
+        }
+      ]
+    },
+    {
+      "endpoint": "185.40.64.1:7394",
+      "ip": "185.40.64.1",
+      "port": 7394,
+      "association": "confirmed_application_log_association",
+      "evidence_strength": "Travel/map-load records; do not infer verified live UDP peer or handshake success",
+      "region": "User-selected Stockholm context only for observed :7039 and daytime :7004 sessions; all physical IP geography unverified",
+      "first_log_time": "[2026.11.13-08.09.08:764]",
+      "last_log_time": "[2026.11.13-08.44.25:391]",
+      "log_timezone": "unverified; +05 conversion only if UTC is independently established",
+      "unique_events": 5,
+      "active_udp_peer_verified": false,
+      "events": [
+        {
+          "log_time": "[2026.11.13-08.09.08:764]",
+          "category": "LogTravelManager:",
+          "sources": [
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-11.18.28.log:2869"
+          ],
+          "context_terms": [
+            "Travel"
+          ]
+        },
+        {
+          "log_time": "[2026.11.13-08.09.14:592]",
+          "category": "LogMapLoadModel:",
+          "sources": [
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-11.18.28.log:3117"
+          ],
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-08.09.23:439]",
+          "category": "LogMapLoadModel:",
+          "sources": [
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-11.18.28.log:3192"
+          ],
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-08.09.23:919]",
+          "category": "LogMapLoadModel:",
+          "sources": [
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-11.18.28.log:3293"
+          ],
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-08.44.25:391]",
+          "category": "LogMapLoadModel:",
+          "sources": [
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-11.18.28.log:19958"
+          ],
+          "context_terms": []
+        }
+      ]
+    },
+    {
+      "endpoint": "185.40.64.1:7415",
+      "ip": "185.40.64.1",
+      "port": 7415,
+      "association": "confirmed_application_log_association",
+      "evidence_strength": "Travel/map-load records; do not infer verified live UDP peer or handshake success",
+      "region": "User-selected Stockholm context only for observed :7039 and daytime :7004 sessions; all physical IP geography unverified",
+      "first_log_time": "[2026.11.13-19.38.26:070]",
+      "last_log_time": "[2026.11.13-19.45.53:649]",
+      "log_timezone": "unverified; +05 conversion only if UTC is independently established",
+      "unique_events": 5,
+      "active_udp_peer_verified": false,
+      "events": [
+        {
+          "log_time": "[2026.11.13-19.38.26:070]",
+          "category": "LogTravelManager:",
+          "sources": [
+            "final-data/game-endpoint-candidates-final.json",
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-20.08.16.log:86168"
+          ],
+          "context_terms": [
+            "Travel"
+          ]
+        },
+        {
+          "log_time": "[2026.11.13-19.38.28:772]",
+          "category": "LogMapLoadModel:",
+          "sources": [
+            "final-data/game-endpoint-candidates-final.json",
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-20.08.16.log:87021"
+          ],
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-19.38.32:316]",
+          "category": "LogMapLoadModel:",
+          "sources": [
+            "final-data/game-endpoint-candidates-final.json",
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-20.08.16.log:87152"
+          ],
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-19.38.32:658]",
+          "category": "LogMapLoadModel:",
+          "sources": [
+            "final-data/game-endpoint-candidates-final.json",
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-20.08.16.log:87232"
+          ],
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-19.45.53:649]",
+          "category": "LogMapLoadModel:",
+          "sources": [
+            "final-data/game-endpoint-candidates-final.json",
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-20.08.16.log:92125"
+          ],
+          "context_terms": []
+        }
+      ]
+    },
+    {
+      "endpoint": "185.40.64.1:7496",
+      "ip": "185.40.64.1",
+      "port": 7496,
+      "association": "confirmed_application_log_association",
+      "evidence_strength": "Travel/map-load records; do not infer verified live UDP peer or handshake success",
+      "region": "User-selected Stockholm context only for observed :7039 and daytime :7004 sessions; all physical IP geography unverified",
+      "first_log_time": "[2026.11.13-18.05.04:371]",
+      "last_log_time": "[2026.11.13-18.11.01:798]",
+      "log_timezone": "unverified; +05 conversion only if UTC is independently established",
+      "unique_events": 5,
+      "active_udp_peer_verified": false,
+      "events": [
+        {
+          "log_time": "[2026.11.13-18.05.04:371]",
+          "category": "LogTravelManager:",
+          "sources": [
+            "evidence/20261113-235320-Stockholm-unrated-af5126/endpoint-candidates-final.json",
+            "evidence/20261113-235320-Stockholm-unrated-af5126/endpoint-candidates.json",
+            "evidence/final-history/20261113-234232-Range-1fbb0d/endpoint-candidates.json",
+            "evidence/final-history/20261113-235053-Unknown-fc7ee9/endpoint-candidates.json",
+            "evidence/probe-quality-control/endpoint-candidates.json",
+            "evidence/probe-quality-control/historical-endpoint-candidates.json",
+            "final-data/game-endpoint-candidates-final.json",
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-20.08.16.log:17328"
+          ],
+          "context_terms": [
+            "Travel"
+          ]
+        },
+        {
+          "log_time": "[2026.11.13-18.05.07:480]",
+          "category": "LogMapLoadModel:",
+          "sources": [
+            "evidence/20261113-235320-Stockholm-unrated-af5126/endpoint-candidates-final.json",
+            "evidence/20261113-235320-Stockholm-unrated-af5126/endpoint-candidates.json",
+            "evidence/final-history/20261113-234232-Range-1fbb0d/endpoint-candidates.json",
+            "evidence/final-history/20261113-235053-Unknown-fc7ee9/endpoint-candidates.json",
+            "evidence/probe-quality-control/endpoint-candidates.json",
+            "evidence/probe-quality-control/historical-endpoint-candidates.json",
+            "final-data/game-endpoint-candidates-final.json",
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-20.08.16.log:17912"
+          ],
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-18.05.11:478]",
+          "category": "LogMapLoadModel:",
+          "sources": [
+            "evidence/20261113-235320-Stockholm-unrated-af5126/endpoint-candidates-final.json",
+            "evidence/20261113-235320-Stockholm-unrated-af5126/endpoint-candidates.json",
+            "evidence/final-history/20261113-234232-Range-1fbb0d/endpoint-candidates.json",
+            "evidence/final-history/20261113-235053-Unknown-fc7ee9/endpoint-candidates.json",
+            "evidence/probe-quality-control/endpoint-candidates.json",
+            "evidence/probe-quality-control/historical-endpoint-candidates.json",
+            "final-data/game-endpoint-candidates-final.json",
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-20.08.16.log:18018"
+          ],
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-18.05.11:709]",
+          "category": "LogMapLoadModel:",
+          "sources": [
+            "evidence/20261113-235320-Stockholm-unrated-af5126/endpoint-candidates-final.json",
+            "evidence/20261113-235320-Stockholm-unrated-af5126/endpoint-candidates.json",
+            "evidence/final-history/20261113-234232-Range-1fbb0d/endpoint-candidates.json",
+            "evidence/final-history/20261113-235053-Unknown-fc7ee9/endpoint-candidates.json",
+            "evidence/probe-quality-control/endpoint-candidates.json",
+            "evidence/probe-quality-control/historical-endpoint-candidates.json",
+            "final-data/game-endpoint-candidates-final.json",
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-20.08.16.log:18106"
+          ],
+          "context_terms": []
+        },
+        {
+          "log_time": "[2026.11.13-18.11.01:798]",
+          "category": "LogMapLoadModel:",
+          "sources": [
+            "evidence/20261113-235320-Stockholm-unrated-af5126/endpoint-candidates-final.json",
+            "evidence/20261113-235320-Stockholm-unrated-af5126/endpoint-candidates.json",
+            "evidence/final-history/20261113-234232-Range-1fbb0d/endpoint-candidates.json",
+            "evidence/final-history/20261113-235053-Unknown-fc7ee9/endpoint-candidates.json",
+            "evidence/probe-quality-control/endpoint-candidates.json",
+            "evidence/probe-quality-control/historical-endpoint-candidates.json",
+            "final-data/game-endpoint-candidates-final.json",
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-20.08.16.log:21432"
+          ],
+          "context_terms": []
+        }
+      ]
+    },
+    {
+      "endpoint": "185.40.64.1:7499",
+      "ip": "185.40.64.1",
+      "port": 7499,
+      "association": "confirmed_application_log_association",
+      "evidence_strength": "Travel/map-load records; do not infer verified live UDP peer or handshake success",
+      "region": "User-selected Stockholm context only for observed :7039 and daytime :7004 sessions; all physical IP geography unverified",
+      "first_log_time": "[2026.11.13-17.58.54:355]",
+      "last_log_time": "[2026.11.13-17.58.57:464]",
+      "log_timezone": "unverified; +05 conversion only if UTC is independently established",
+      "unique_events": 2,
+      "active_udp_peer_verified": false,
+      "events": [
+        {
+          "log_time": "[2026.11.13-17.58.54:355]",
+          "category": "LogTravelManager:",
+          "sources": [
+            "evidence/20261113-235320-Stockholm-unrated-af5126/endpoint-candidates-final.json",
+            "evidence/20261113-235320-Stockholm-unrated-af5126/endpoint-candidates.json",
+            "evidence/final-history/20261113-234232-Range-1fbb0d/endpoint-candidates.json",
+            "evidence/final-history/20261113-235053-Unknown-fc7ee9/endpoint-candidates.json",
+            "evidence/probe-quality-control/endpoint-candidates.json",
+            "evidence/probe-quality-control/historical-endpoint-candidates.json",
+            "final-data/game-endpoint-candidates-final.json",
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-20.08.16.log:13223"
+          ],
+          "context_terms": [
+            "Travel"
+          ]
+        },
+        {
+          "log_time": "[2026.11.13-17.58.57:464]",
+          "category": "LogMapLoadModel:",
+          "sources": [
+            "evidence/20261113-235320-Stockholm-unrated-af5126/endpoint-candidates-final.json",
+            "evidence/20261113-235320-Stockholm-unrated-af5126/endpoint-candidates.json",
+            "evidence/final-history/20261113-234232-Range-1fbb0d/endpoint-candidates.json",
+            "evidence/final-history/20261113-235053-Unknown-fc7ee9/endpoint-candidates.json",
+            "evidence/probe-quality-control/endpoint-candidates.json",
+            "evidence/probe-quality-control/historical-endpoint-candidates.json",
+            "final-data/game-endpoint-candidates-final.json",
+            "sources/valorant-context-allowlist.json#ShooterGame-backup-2026.11.13-20.08.16.log:13664"
+          ],
+          "context_terms": []
+        }
+      ]
+    }
+  ],
+  "excluded_non_game": [
+    {
+      "endpoint": "104.16.56.40:443",
+      "category": "LogHttp:"
+    }
+  ]
+}

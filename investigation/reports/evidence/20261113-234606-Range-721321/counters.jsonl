@@ -1,0 +1,75 @@
+﻿{"time":"2026-11-13T23:46:10.3508831+05:00","elapsed_ms":3517,"name":"Ethernet","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:46:10.3508831+05:00","elapsed_ms":3534,"name":"Ethernet 2","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:46:10.3508831+05:00","elapsed_ms":3536,"name":"Беспроводная сеть","rx_bytes":3630703599,"tx_bytes":1163637889,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:46:20.4445553+05:00","elapsed_ms":13592,"name":"Ethernet","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:46:20.4445553+05:00","elapsed_ms":13594,"name":"Ethernet 2","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:46:20.4445553+05:00","elapsed_ms":13595,"name":"Беспроводная сеть","rx_bytes":3631288892,"tx_bytes":1164548922,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:46:32.4081057+05:00","elapsed_ms":25555,"name":"Ethernet","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:46:32.4081057+05:00","elapsed_ms":25556,"name":"Ethernet 2","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:46:32.4081057+05:00","elapsed_ms":25557,"name":"Беспроводная сеть","rx_bytes":3632040829,"tx_bytes":1164983731,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:46:44.3547662+05:00","elapsed_ms":37503,"name":"Ethernet","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:46:44.3547662+05:00","elapsed_ms":37505,"name":"Ethernet 2","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:46:44.3547662+05:00","elapsed_ms":37506,"name":"Беспроводная сеть","rx_bytes":3632773456,"tx_bytes":1165360794,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:46:56.3573709+05:00","elapsed_ms":49511,"name":"Ethernet","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:46:56.3573709+05:00","elapsed_ms":49513,"name":"Ethernet 2","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:46:56.3573709+05:00","elapsed_ms":49515,"name":"Беспроводная сеть","rx_bytes":3633423746,"tx_bytes":1165828028,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:47:06.5250193+05:00","elapsed_ms":59674,"name":"Ethernet","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:47:06.5250193+05:00","elapsed_ms":59676,"name":"Ethernet 2","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:47:06.5250193+05:00","elapsed_ms":59677,"name":"Беспроводная сеть","rx_bytes":3634000613,"tx_bytes":1166266171,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:47:18.5183536+05:00","elapsed_ms":71671,"name":"Ethernet","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:47:18.5183536+05:00","elapsed_ms":71673,"name":"Ethernet 2","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:47:18.5183536+05:00","elapsed_ms":71674,"name":"Беспроводная сеть","rx_bytes":3634728715,"tx_bytes":1167083775,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:47:30.4726949+05:00","elapsed_ms":83626,"name":"Ethernet","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:47:30.4726949+05:00","elapsed_ms":83627,"name":"Ethernet 2","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:47:30.4726949+05:00","elapsed_ms":83629,"name":"Беспроводная сеть","rx_bytes":3635448168,"tx_bytes":1167650621,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:47:42.3853545+05:00","elapsed_ms":95543,"name":"Ethernet","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:47:42.3853545+05:00","elapsed_ms":95545,"name":"Ethernet 2","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:47:42.3853545+05:00","elapsed_ms":95546,"name":"Беспроводная сеть","rx_bytes":3636153656,"tx_bytes":1168113777,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:47:52.4492480+05:00","elapsed_ms":105609,"name":"Ethernet","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:47:52.4492480+05:00","elapsed_ms":105611,"name":"Ethernet 2","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:47:52.4492480+05:00","elapsed_ms":105613,"name":"Беспроводная сеть","rx_bytes":3637377187,"tx_bytes":1168556914,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:48:04.4141944+05:00","elapsed_ms":117570,"name":"Ethernet","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:48:04.4141944+05:00","elapsed_ms":117572,"name":"Ethernet 2","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:48:04.4141944+05:00","elapsed_ms":117574,"name":"Беспроводная сеть","rx_bytes":3638010655,"tx_bytes":1169048093,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:48:16.3920716+05:00","elapsed_ms":129540,"name":"Ethernet","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:48:16.3920716+05:00","elapsed_ms":129541,"name":"Ethernet 2","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:48:16.3920716+05:00","elapsed_ms":129542,"name":"Беспроводная сеть","rx_bytes":3638687462,"tx_bytes":1170025028,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:48:28.4670305+05:00","elapsed_ms":141617,"name":"Ethernet","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:48:28.4670305+05:00","elapsed_ms":141618,"name":"Ethernet 2","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:48:28.4670305+05:00","elapsed_ms":141621,"name":"Беспроводная сеть","rx_bytes":3639364539,"tx_bytes":1170511879,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:48:40.4570538+05:00","elapsed_ms":153605,"name":"Ethernet","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:48:40.4570538+05:00","elapsed_ms":153607,"name":"Ethernet 2","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:48:40.4570538+05:00","elapsed_ms":153608,"name":"Беспроводная сеть","rx_bytes":3640075541,"tx_bytes":1171009006,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:48:52.3704201+05:00","elapsed_ms":165519,"name":"Ethernet","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:48:52.3704201+05:00","elapsed_ms":165521,"name":"Ethernet 2","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:48:52.3704201+05:00","elapsed_ms":165522,"name":"Беспроводная сеть","rx_bytes":3640855262,"tx_bytes":1171488934,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:49:04.5110165+05:00","elapsed_ms":177659,"name":"Ethernet","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:49:04.5110165+05:00","elapsed_ms":177660,"name":"Ethernet 2","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:49:04.5110165+05:00","elapsed_ms":177661,"name":"Беспроводная сеть","rx_bytes":3641926934,"tx_bytes":1171922971,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:49:16.4029172+05:00","elapsed_ms":189553,"name":"Ethernet","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:49:16.4029172+05:00","elapsed_ms":189554,"name":"Ethernet 2","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:49:16.4029172+05:00","elapsed_ms":189556,"name":"Беспроводная сеть","rx_bytes":3643088174,"tx_bytes":1172575560,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:49:28.4871285+05:00","elapsed_ms":201635,"name":"Ethernet","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:49:28.4871285+05:00","elapsed_ms":201637,"name":"Ethernet 2","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:49:28.4871285+05:00","elapsed_ms":201638,"name":"Беспроводная сеть","rx_bytes":3644298080,"tx_bytes":1173068710,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:49:40.4019484+05:00","elapsed_ms":213550,"name":"Ethernet","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:49:40.4019484+05:00","elapsed_ms":213551,"name":"Ethernet 2","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:49:40.4019484+05:00","elapsed_ms":213552,"name":"Беспроводная сеть","rx_bytes":3645572611,"tx_bytes":1173589192,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:49:50.4716800+05:00","elapsed_ms":223625,"name":"Ethernet","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:49:50.4716800+05:00","elapsed_ms":223627,"name":"Ethernet 2","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:49:50.4716800+05:00","elapsed_ms":223628,"name":"Беспроводная сеть","rx_bytes":3646625951,"tx_bytes":1174021237,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:50:02.5272824+05:00","elapsed_ms":235678,"name":"Ethernet","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:50:02.5272824+05:00","elapsed_ms":235680,"name":"Ethernet 2","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:50:02.5272824+05:00","elapsed_ms":235681,"name":"Беспроводная сеть","rx_bytes":3647555228,"tx_bytes":1174397879,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:50:14.3581443+05:00","elapsed_ms":247513,"name":"Ethernet","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:50:14.3581443+05:00","elapsed_ms":247515,"name":"Ethernet 2","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:50:14.3581443+05:00","elapsed_ms":247516,"name":"Беспроводная сеть","rx_bytes":3647878908,"tx_bytes":1175051919,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:50:24.4250617+05:00","elapsed_ms":257586,"name":"Ethernet","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:50:24.4250617+05:00","elapsed_ms":257588,"name":"Ethernet 2","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:50:24.4250617+05:00","elapsed_ms":257589,"name":"Беспроводная сеть","rx_bytes":3648375788,"tx_bytes":1175372995,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:50:36.3737559+05:00","elapsed_ms":269515,"name":"Ethernet","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:50:36.3737559+05:00","elapsed_ms":269516,"name":"Ethernet 2","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:50:36.3737559+05:00","elapsed_ms":269516,"name":"Беспроводная сеть","rx_bytes":3649197006,"tx_bytes":1175553950,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:50:48.3272740+05:00","elapsed_ms":281481,"name":"Ethernet","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:50:48.3272740+05:00","elapsed_ms":281484,"name":"Ethernet 2","rx_bytes":0,"tx_bytes":0,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}
+{"time":"2026-11-13T23:50:48.3272740+05:00","elapsed_ms":281486,"name":"Беспроводная сеть","rx_bytes":3670018850,"tx_bytes":1175894707,"rx_discards":0,"tx_discards":0,"rx_errors":0,"tx_errors":0}

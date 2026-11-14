@@ -1,0 +1,158 @@
+{
+  "rows": [
+    {
+      "address": "162.249.72.1",
+      "port_context": 7004,
+      "kind": "Valorant logged game-connection address",
+      "connection_evidence": "GameNetDriver RemoteAddr also recorded",
+      "region_assessment": "Stockholm selected by player in this session context; physical ingress/server unverified",
+      "ping_command": "ping -n 100 162.249.72.1",
+      "tracert_command": "tracert -d -h 32 162.249.72.1",
+      "measurement_deduplication": "One result per IP, reused for historical ports; ICMP does not select a game UDP port.",
+      "historical_game_rtt": "Daytime after reconnect: ~100, then 100-110, late 120-130 ms; user report, not numeric per-marker RTT."
+    },
+    {
+      "address": "185.40.64.1",
+      "port_context": 7004,
+      "kind": "Valorant logged game-connection address",
+      "connection_evidence": "Travel/map-load records; do not infer verified live UDP peer or handshake success",
+      "region_assessment": "Stockholm selected by player in this session context; physical ingress/server unverified",
+      "ping_command": "ping -n 100 185.40.64.1",
+      "tracert_command": "tracert -d -h 32 185.40.64.1",
+      "measurement_deduplication": "One result per IP, reused for historical ports; ICMP does not select a game UDP port.",
+      "historical_game_rtt": "Daytime before reconnect: 95 -> 120 -> 180 -> 120; later 300-400 ms, about five minutes; exact phase boundaries unknown."
+    },
+    {
+      "address": "185.40.64.1",
+      "port_context": 7039,
+      "kind": "Valorant logged game-connection address",
+      "connection_evidence": "Travel/map-load records; do not infer verified live UDP peer or handshake success",
+      "region_assessment": "Stockholm selected by player in this session context; physical ingress/server unverified",
+      "ping_command": "ping -n 100 185.40.64.1",
+      "tracert_command": "tracert -d -h 32 185.40.64.1",
+      "measurement_deduplication": "One result per IP, reused for historical ports; ICMP does not select a game UDP port.",
+      "historical_game_rtt": "Nighttime Stockholm context 90-100 and screenshot 185/189 ms; exact peer/instant not independently verified."
+    },
+    {
+      "address": "185.40.64.1",
+      "port_context": 7048,
+      "kind": "Valorant logged game-connection address",
+      "connection_evidence": "Travel/map-load records; do not infer verified live UDP peer or handshake success",
+      "region_assessment": "Unknown for this historical port/session",
+      "ping_command": "ping -n 100 185.40.64.1",
+      "tracert_command": "tracert -d -h 32 185.40.64.1",
+      "measurement_deduplication": "One result per IP, reused for historical ports; ICMP does not select a game UDP port.",
+      "historical_game_rtt": null
+    },
+    {
+      "address": "185.40.64.1",
+      "port_context": 7125,
+      "kind": "Valorant logged game-connection address",
+      "connection_evidence": "Travel/map-load records; do not infer verified live UDP peer or handshake success",
+      "region_assessment": "Unknown for this historical port/session",
+      "ping_command": "ping -n 100 185.40.64.1",
+      "tracert_command": "tracert -d -h 32 185.40.64.1",
+      "measurement_deduplication": "One result per IP, reused for historical ports; ICMP does not select a game UDP port.",
+      "historical_game_rtt": null
+    },
+    {
+      "address": "185.40.64.1",
+      "port_context": 7149,
+      "kind": "Valorant logged game-connection address",
+      "connection_evidence": "Travel/map-load records; do not infer verified live UDP peer or handshake success",
+      "region_assessment": "Unknown for this historical port/session",
+      "ping_command": "ping -n 100 185.40.64.1",
+      "tracert_command": "tracert -d -h 32 185.40.64.1",
+      "measurement_deduplication": "One result per IP, reused for historical ports; ICMP does not select a game UDP port.",
+      "historical_game_rtt": null
+    },
+    {
+      "address": "185.40.64.1",
+      "port_context": 7329,
+      "kind": "Valorant logged game-connection address",
+      "connection_evidence": "GameNetDriver RemoteAddr also recorded",
+      "region_assessment": "Unknown for this historical port/session",
+      "ping_command": "ping -n 100 185.40.64.1",
+      "tracert_command": "tracert -d -h 32 185.40.64.1",
+      "measurement_deduplication": "One result per IP, reused for historical ports; ICMP does not select a game UDP port.",
+      "historical_game_rtt": null
+    },
+    {
+      "address": "185.40.64.1",
+      "port_context": 7354,
+      "kind": "Valorant logged game-connection address",
+      "connection_evidence": "Travel/map-load records; do not infer verified live UDP peer or handshake success",
+      "region_assessment": "Unknown for this historical port/session",
+      "ping_command": "ping -n 100 185.40.64.1",
+      "tracert_command": "tracert -d -h 32 185.40.64.1",
+      "measurement_deduplication": "One result per IP, reused for historical ports; ICMP does not select a game UDP port.",
+      "historical_game_rtt": null
+    },
+    {
+      "address": "185.40.64.1",
+      "port_context": 7382,
+      "kind": "Valorant logged game-connection address",
+      "connection_evidence": "Travel/map-load records; do not infer verified live UDP peer or handshake success",
+      "region_assessment": "Unknown for this historical port/session",
+      "ping_command": "ping -n 100 185.40.64.1",
+      "tracert_command": "tracert -d -h 32 185.40.64.1",
+      "measurement_deduplication": "One result per IP, reused for historical ports; ICMP does not select a game UDP port.",
+      "historical_game_rtt": null
+    },
+    {
+      "address": "185.40.64.1",
+      "port_context": 7394,
+      "kind": "Valorant logged game-connection address",
+      "connection_evidence": "Travel/map-load records; do not infer verified live UDP peer or handshake success",
+      "region_assessment": "Unknown for this historical port/session",
+      "ping_command": "ping -n 100 185.40.64.1",
+      "tracert_command": "tracert -d -h 32 185.40.64.1",
+      "measurement_deduplication": "One result per IP, reused for historical ports; ICMP does not select a game UDP port.",
+      "historical_game_rtt": null
+    },
+    {
+      "address": "185.40.64.1",
+      "port_context": 7415,
+      "kind": "Valorant logged game-connection address",
+      "connection_evidence": "Travel/map-load records; do not infer verified live UDP peer or handshake success",
+      "region_assessment": "Unknown for this historical port/session",
+      "ping_command": "ping -n 100 185.40.64.1",
+      "tracert_command": "tracert -d -h 32 185.40.64.1",
+      "measurement_deduplication": "One result per IP, reused for historical ports; ICMP does not select a game UDP port.",
+      "historical_game_rtt": null
+    },
+    {
+      "address": "185.40.64.1",
+      "port_context": 7496,
+      "kind": "Valorant logged game-connection address",
+      "connection_evidence": "Travel/map-load records; do not infer verified live UDP peer or handshake success",
+      "region_assessment": "Unknown for this historical port/session",
+      "ping_command": "ping -n 100 185.40.64.1",
+      "tracert_command": "tracert -d -h 32 185.40.64.1",
+      "measurement_deduplication": "One result per IP, reused for historical ports; ICMP does not select a game UDP port.",
+      "historical_game_rtt": null
+    },
+    {
+      "address": "185.40.64.1",
+      "port_context": 7499,
+      "kind": "Valorant logged game-connection address",
+      "connection_evidence": "Travel/map-load records; do not infer verified live UDP peer or handshake success",
+      "region_assessment": "Unknown for this historical port/session",
+      "ping_command": "ping -n 100 185.40.64.1",
+      "tracert_command": "tracert -d -h 32 185.40.64.1",
+      "measurement_deduplication": "One result per IP, reused for historical ports; ICMP does not select a game UDP port.",
+      "historical_game_rtt": null
+    },
+    {
+      "address": "185.40.64.1",
+      "port_context": 7158,
+      "kind": "Valorant logged game-connection address in a newly user-started match",
+      "connection_evidence": "Travel and map-load records",
+      "region_assessment": "Current selected region unverified",
+      "ping_command": "ping -n 100 185.40.64.1",
+      "tracert_command": "tracert -d -h 32 185.40.64.1",
+      "measurement_deduplication": "Existing IP-level measurements precede this new match and do not diagnose its particular UDP session. No new long native batch started during this match.",
+      "historical_game_rtt": "User reports current typical 96-105 ms and a rise from 100 to 110; exact hotkey time unrecorded because previous collector was stopped."
+    }
+  ]
+}

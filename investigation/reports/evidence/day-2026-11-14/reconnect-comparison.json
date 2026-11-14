@@ -1,0 +1,71 @@
+{
+  "recorded_utc": "2026-11-14T09:32:53.416+00:00",
+  "user_report": "User reports game ping now about 100 ms after user-initiated game restart/reconnect. Approximate scalar, not a verified average or automatic game reading. Recovery time is message-entry time, exact transition unknown.",
+  "before_candidates": [
+    {
+      "observed_local": "2026-11-14T14:29:52.4877547+05:00",
+      "log_time": "[2026.11.14-09.08.49:238]",
+      "category": "LogTravelManager:",
+      "endpoint": "185.40.64.1:7004",
+      "active_game_udp_verified": false
+    },
+    {
+      "observed_local": "2026-11-14T14:29:52.4877547+05:00",
+      "log_time": "[2026.11.14-09.08.54:918]",
+      "category": "LogMapLoadModel:",
+      "endpoint": "185.40.64.1:7004",
+      "active_game_udp_verified": false
+    },
+    {
+      "observed_local": "2026-11-14T14:29:52.4877547+05:00",
+      "log_time": "[2026.11.14-09.09.03:679]",
+      "category": "LogMapLoadModel:",
+      "endpoint": "185.40.64.1:7004",
+      "active_game_udp_verified": false
+    },
+    {
+      "observed_local": "2026-11-14T14:29:52.4877547+05:00",
+      "log_time": "[2026.11.14-09.09.04:314]",
+      "category": "LogMapLoadModel:",
+      "endpoint": "185.40.64.1:7004",
+      "active_game_udp_verified": false
+    }
+  ],
+  "after_candidates": [
+    {
+      "observed_local": "2026-11-14T14:32:08.7226370+05:00",
+      "log_time": "[2026.11.14-09.31.45:206]",
+      "category": "LogTravelManager:",
+      "endpoint": "162.249.72.1:7004",
+      "active_game_udp_verified": false
+    },
+    {
+      "observed_local": "2026-11-14T14:32:08.7226370+05:00",
+      "log_time": "[2026.11.14-09.31.48:987]",
+      "category": "LogNet:",
+      "endpoint": "162.249.72.1:7004",
+      "active_game_udp_verified": false
+    },
+    {
+      "observed_local": "2026-11-14T14:32:08.7226370+05:00",
+      "log_time": "[2026.11.14-09.31.49:217]",
+      "category": "LogMapLoadModel:",
+      "endpoint": "162.249.72.1:7004",
+      "active_game_udp_verified": false
+    },
+    {
+      "observed_local": "2026-11-14T14:32:08.7226370+05:00",
+      "log_time": "[2026.11.14-09.31.50:008]",
+      "category": "LogMapLoadModel:",
+      "endpoint": "162.249.72.1:7004",
+      "active_game_udp_verified": false
+    }
+  ],
+  "observation": "Game-log connection candidate changed from 185.40.64.1:7004 to 162.249.72.1:7004 across user restart; user reports recovery to about 100 ms.",
+  "limits": [
+    "Remote UDP peer not independently verified.",
+    "Change of IP is not proof of change of physical server, datacenter, provider route or the cause.",
+    "Client state changed concurrently with reconnect.",
+    "No active ICMP/UDP tests added for these IPs; packet capture not used."
+  ]
+}

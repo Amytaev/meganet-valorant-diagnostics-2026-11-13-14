@@ -1,0 +1,12 @@
+{
+  "time": "2026-11-14T00:12:36.3378228+05:00",
+  "target": "87.245.233.166",
+  "records": [
+    {
+      "Name": "166.233.245.87.in-addr.arpa",
+      "Type": 12,
+      "NameHost": "ae6-6.rt.tc1.sto.se.retn.net"
+    }
+  ],
+  "note": "PTR naming only; not proof of physical geography, routing or ownership"
+}

@@ -1,0 +1,10 @@
+{
+  "source": "user_post_match_report",
+  "scope": "late F8 around 14:46:53, 14:48:17, 14:48:40 local UTC+05",
+  "reported_rtt_range_ms": [
+    120,
+    130
+  ],
+  "loss": "not supplied",
+  "not_individual_numeric_samples": true
+}

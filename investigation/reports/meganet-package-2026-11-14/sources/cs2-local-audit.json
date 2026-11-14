@@ -1,0 +1,12 @@
+{
+  "observed_date_local": "2026-11-14",
+  "method": "Read Steam registry install path and libraryfolders.vdf paths; check appmanifest_730.acf and named console/network logs only; no game started.",
+  "libraries_checked": [
+    "C:/Program Files (x86)/Steam",
+    "D:/SteamLibrary"
+  ],
+  "appmanifest_730_found": false,
+  "cs2_game_log_found": false,
+  "active_relay_known": false,
+  "limitation": "Not found in two configured libraries; not a universal proof that CS2 is absent elsewhere. Steam connection_log is not proof of CS2 game relay and was not substituted."
+}

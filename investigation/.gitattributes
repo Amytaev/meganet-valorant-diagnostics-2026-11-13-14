@@ -1,0 +1,5 @@
+# Preserve reviewed evidence bytes, including BOM and line endings, for SHA-256 verification.
+reports/evidence/** -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
+reports/meganet-package-*/** -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
+# Native CLI output includes trailing spaces; preserve them in both raw and readable copies.
+reports/meganet-package-*/measurements/*.txt -text whitespace=-blank-at-eol,-blank-at-eof,-space-before-tab,cr-at-eol

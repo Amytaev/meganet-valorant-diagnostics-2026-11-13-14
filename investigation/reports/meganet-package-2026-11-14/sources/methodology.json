@@ -1,0 +1,19 @@
+{
+  "source": "Meganet Word instruction as transcribed by user; original DOCX not attached or inspected",
+  "tracert": [
+    "tracert",
+    "-d",
+    "-h",
+    "32",
+    "<IP>"
+  ],
+  "ping": [
+    "ping",
+    "-n",
+    "100",
+    "<IP>"
+  ],
+  "ping_count_origin": "User explicitly increased count to 100",
+  "unspecified_options": "Windows defaults: ping payload 32 bytes and response timeout 4000 ms; traceroute response timeout 4000 ms. No -w override.",
+  "limits": "Current probes are out of the historic match and cannot retrospectively localize the 300-400 ms episode."
+}

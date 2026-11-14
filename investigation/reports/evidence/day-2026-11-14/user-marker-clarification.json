@@ -1,0 +1,21 @@
+{
+  "recorded_utc": "2026-11-14T09:28:28.680+00:00",
+  "source": "user_retrospective_report",
+  "game_context": "Stockholm-ranked",
+  "game_rtt_ranges_ms": [
+    [
+      90,
+      110
+    ],
+    [
+      110,
+      180
+    ]
+  ],
+  "dense_F8_cluster_game_range_ms": [
+    120,
+    180
+  ],
+  "repeated_F8_meaning": "Repeated manual presses during fluctuations 120 -> 180 -> 120 -> 180 ms; not a held key according to the user description.",
+  "limitations": "No exact numeric value assigned to each marker; no numeric loss reported; message entry time is not the incident time."
+}
