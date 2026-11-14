@@ -1,0 +1,86 @@
+[
+  {
+    "file_id": "archive-02-member-0803",
+    "file": "ShooterGame-backup-2026.11.12-11.53.59.log",
+    "lines": 3995,
+    "first": {
+      "time_utc": "2026-11-12T10:30:23.772+00:00",
+      "time_local": "2026-11-12T15:30:23.772+05:00"
+    },
+    "last": {
+      "time_utc": "2026-11-12T11:53:59.725+00:00",
+      "time_local": "2026-11-12T16:53:59.725+05:00"
+    },
+    "header_minus_first_stamp_seconds": 17999.228
+  },
+  {
+    "file_id": "archive-02-member-0804",
+    "file": "ShooterGame-backup-2026.11.12-18.19.43.log",
+    "lines": 5538,
+    "first": {
+      "time_utc": "2026-11-12T18:09:22.714+00:00",
+      "time_local": "2026-11-12T23:09:22.714+05:00"
+    },
+    "last": {
+      "time_utc": "2026-11-12T18:19:43.015+00:00",
+      "time_local": "2026-11-12T23:19:43.015+05:00"
+    },
+    "header_minus_first_stamp_seconds": 17999.286
+  },
+  {
+    "file_id": "archive-02-member-0805",
+    "file": "ShooterGame-backup-2026.11.13-04.25.29.log",
+    "lines": 2103,
+    "first": {
+      "time_utc": "2026-11-13T04:24:26.983+00:00",
+      "time_local": "2026-11-13T09:24:26.983+05:00"
+    },
+    "last": {
+      "time_utc": "2026-11-13T04:25:29.170+00:00",
+      "time_local": "2026-11-13T09:25:29.170+05:00"
+    },
+    "header_minus_first_stamp_seconds": 17999.017
+  },
+  {
+    "file_id": "archive-02-member-0806",
+    "file": "ShooterGame-backup-2026.11.14-09.30.10.log",
+    "lines": 9081,
+    "first": {
+      "time_utc": "2026-11-14T09:01:56.013+00:00",
+      "time_local": "2026-11-14T14:01:56.013+05:00"
+    },
+    "last": {
+      "time_utc": "2026-11-14T09:30:10.301+00:00",
+      "time_local": "2026-11-14T14:30:10.301+05:00"
+    },
+    "header_minus_first_stamp_seconds": 17998.987
+  },
+  {
+    "file_id": "archive-02-member-0807",
+    "file": "ShooterGame-backup-2026.11.14-11.51.12.log",
+    "lines": 15155,
+    "first": {
+      "time_utc": "2026-11-14T09:31:09.533+00:00",
+      "time_local": "2026-11-14T14:31:09.533+05:00"
+    },
+    "last": {
+      "time_utc": "2026-11-14T11:51:12.541+00:00",
+      "time_local": "2026-11-14T16:51:12.541+05:00"
+    },
+    "header_minus_first_stamp_seconds": 17999.467
+  },
+  {
+    "file_id": "archive-02-member-0808",
+    "file": "ShooterGame-backup-2026.11.14-20.02.40.log",
+    "lines": 1838,
+    "first": {
+      "time_utc": "2026-11-14T19:55:51.781+00:00",
+      "time_local": "2026-11-15T00:55:51.781+05:00"
+    },
+    "last": {
+      "time_utc": "2026-11-14T20:02:40.851+00:00",
+      "time_local": "2026-11-15T01:02:40.851+05:00"
+    },
+    "header_minus_first_stamp_seconds": 17999.219
+  }
+]

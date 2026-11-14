@@ -38,6 +38,7 @@ foreach($spec in $specs){
         foreach($item in $spec.series){
             $series=New-Object System.Windows.Forms.DataVisualization.Charting.Series([string]$item.name)
             $series.ChartType='Line';$series.BorderWidth=2;$series.Color=[Drawing.ColorTranslator]::FromHtml($item.color)
+            if($item.chart_type){$series.ChartType=[string]$item.chart_type;$series.MarkerStyle='Circle';$series.MarkerSize=7}
             $series.XValueType='DateTime';$series.ChartArea='data';$series.Legend='targets'
             if($spec.name -eq 'rtt-local-zoom.png'){
                 $series.MarkerStyle='Circle';$series.MarkerSize=4

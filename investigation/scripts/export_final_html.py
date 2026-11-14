@@ -6,6 +6,7 @@ import html
 import re
 from pathlib import Path
 
+REPOSITORY_BASE = 'https://github.com/Amytaev/amir-workspace/blob/codex/valorant-network-investigation/valorant-network-investigation'
 
 def inline(text,source,project):
     text=html.escape(text,quote=False)
@@ -17,8 +18,8 @@ def inline(text,source,project):
             resolved=(source.parent/target).resolve()
             try:
                 relative=resolved.relative_to(project).as_posix()
-                kind='tree' if resolved.is_dir() else 'blob'
-                target=f'https://github.com/Amytaev/meganet-valorant-diagnostics-2026-11-13-14/{kind}/main/investigation/{relative}'
+                base=REPOSITORY_BASE.replace('/blob/','/tree/') if resolved.is_dir() else REPOSITORY_BASE
+                target=f'{base}/{relative}'
             except ValueError:
                 target='#'
         return '<a href="'+html.escape(target,quote=True)+'">'+label+'</a>'
@@ -69,9 +70,12 @@ def render(source):
     end_list()
     style='''body{font:16px/1.6 "Segoe UI",Arial,sans-serif;color:#20314a;background:#f1f5f9;margin:0}main{max-width:1140px;margin:28px auto;padding:38px 46px;background:white;border-top:6px solid #1768ac}h1{font-size:30px;line-height:1.25;color:#102941}h2{font-size:23px;margin-top:38px;border-bottom:1px solid #dbe4ed;padding-bottom:7px}p{margin:15px 0}a{color:#1768ac}code{font:14px Consolas,monospace;background:#edf2f7;padding:2px 5px;border-radius:3px}pre{background:#edf2f7;padding:18px;white-space:pre-wrap}.table{overflow-x:auto}table{border-collapse:collapse;width:100%;font-size:14px}th,td{border:1px solid #dbe4ed;padding:9px 10px;text-align:left;vertical-align:top}th{background:#e8f1fa}tr:nth-child(even){background:#f8fafc}figure{margin:25px 0}figure img{width:100%;height:auto;border:1px solid #e4e9ef}figcaption{color:#58677a;font-size:13px}li{margin-bottom:9px}footer{font-size:12px;color:#68778a;margin-top:36px;word-break:break-all}@media(max-width:700px){main{padding:20px;margin:0}h1{font-size:25px}}@media print{body{background:white}main{margin:0;padding:0;border:0}figure,table{break-inside:avoid}a{color:inherit}h2{break-after:avoid}}'''
     digest=hashlib.sha256(source.read_bytes()).hexdigest()
-    return '<!doctype html><html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Meganet × Valorant — итог расследования</title><style>'+style+'</style></head><body><main>'+''.join(output)+'<footer>Источник: публичная обезличенная копия диагностики; приватные оригиналы хранятся отдельно. SHA-256 Markdown: '+digest+'. Все четыре графика встроены; внешних ресурсов и скриптов нет.</footer></main></body></html>'
+    title=html.escape(next((line[2:] for line in lines if line.startswith('# ')),source.stem))
+    image_count=len(re.findall(r'<figure>', ''.join(output)))
+    return '<!doctype html><html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>'+title+'</title><style>'+style+'</style></head><body><main>'+''.join(output)+'<footer>SHA-256 Markdown: '+digest+'. Встроено графиков: '+str(image_count)+'. Внешних ресурсов и скриптов нет.</footer></main></body></html>'
 
 
 if __name__=='__main__':
     parser=argparse.ArgumentParser(description=__doc__); parser.add_argument('source',type=Path); parser.add_argument('output',type=Path)
-    args=parser.parse_args(); args.output.write_text(render(args.source),encoding='utf-8'); print(args.output)
+    parser.add_argument('--repository-base',default=REPOSITORY_BASE,help='GitHub blob URL for the project root; used for relative document links')
+    args=parser.parse_args(); REPOSITORY_BASE=args.repository_base.rstrip('/'); args.output.write_text(render(args.source),encoding='utf-8'); print(args.output)

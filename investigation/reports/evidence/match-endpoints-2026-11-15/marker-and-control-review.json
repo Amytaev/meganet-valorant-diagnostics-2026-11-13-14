@@ -1,0 +1,264 @@
+{
+  "complete": false,
+  "snapshot_watermark": 82974,
+  "source_run": "20261114-163240-f28706ce",
+  "markers": [
+    {
+      "schema": 3,
+      "run_id": "f28706ce754249c58d44a81f6868da4b",
+      "seq": 78971,
+      "kind": "game_marker",
+      "time_utc": "2026-11-14T20:09:22.349+00:00",
+      "time_local": "2026-11-15T01:09:22.349+05:00",
+      "event": "recovery",
+      "source": "RegisterHotKey",
+      "observed_utc": "2026-11-14T20:09:22.333+00:00"
+    },
+    {
+      "schema": 3,
+      "run_id": "f28706ce754249c58d44a81f6868da4b",
+      "seq": 81937,
+      "kind": "game_marker",
+      "time_utc": "2026-11-14T20:28:46.977+00:00",
+      "time_local": "2026-11-15T01:28:46.977+05:00",
+      "event": "recovery",
+      "source": "RegisterHotKey",
+      "observed_utc": "2026-11-14T20:28:46.934+00:00"
+    }
+  ],
+  "user_reported_rtt_range_ms": [
+    85,
+    93
+  ],
+  "range_scope": "User supplied this range in reply to the question about the two hotkey events; no numeric per-marker RTT or packet loss supplied.",
+  "game_log_timezone": "unverified; UTC interpretation aligns the two match transitions with local markers",
+  "matches": [
+    {
+      "marker_local": "2026-11-15T01:09:22.333+05:00",
+      "event_in_collector": "recovery",
+      "source": "RegisterHotKey",
+      "game_log_endpoint": "185.40.64.1:7216",
+      "active_remote_udp_peer_independently_verified": false,
+      "control_window_seconds_plus_minus": 4,
+      "control_metrics": {
+        "192.168.123.1": {
+          "n": 4,
+          "statuses": {
+            "Success": 4
+          },
+          "min_ms": 2,
+          "median_ms": 2.5,
+          "max_ms": 3
+        },
+        "89.38.164.205": {
+          "n": 4,
+          "statuses": {
+            "Success": 4
+          },
+          "min_ms": 3,
+          "median_ms": 3.5,
+          "max_ms": 6
+        },
+        "1.1.1.1": {
+          "n": 4,
+          "statuses": {
+            "Success": 4
+          },
+          "min_ms": 25,
+          "median_ms": 26.5,
+          "max_ms": 28
+        },
+        "87.245.238.34": {
+          "n": 4,
+          "statuses": {
+            "Success": 4
+          },
+          "min_ms": 93,
+          "median_ms": 93.5,
+          "max_ms": 95
+        },
+        "87.245.233.166": {
+          "n": 4,
+          "statuses": {
+            "Success": 4
+          },
+          "min_ms": 92,
+          "median_ms": 93.0,
+          "max_ms": 94
+        }
+      },
+      "nearby_local_udp_snapshots": [
+        {
+          "observed_local": "2026-11-15T01:09:12.3958702+05:00",
+          "game_pids": [
+            16692
+          ],
+          "udp_bindings": [
+            {
+              "LocalAddress": "0.0.0.0",
+              "LocalPort": 61560,
+              "OwningProcess": 16692
+            },
+            {
+              "LocalAddress": "0.0.0.0",
+              "LocalPort": 56728,
+              "OwningProcess": 16692
+            }
+          ]
+        },
+        {
+          "observed_local": "2026-11-15T01:09:42.3979642+05:00",
+          "game_pids": [
+            16692
+          ],
+          "udp_bindings": [
+            {
+              "LocalAddress": "0.0.0.0",
+              "LocalPort": 61560,
+              "OwningProcess": 16692
+            },
+            {
+              "LocalAddress": "0.0.0.0",
+              "LocalPort": 56728,
+              "OwningProcess": 16692
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "marker_local": "2026-11-15T01:28:46.934+05:00",
+      "event_in_collector": "recovery",
+      "source": "RegisterHotKey",
+      "game_log_endpoint": "185.40.64.1:7102",
+      "active_remote_udp_peer_independently_verified": false,
+      "control_window_seconds_plus_minus": 4,
+      "control_metrics": {
+        "192.168.123.1": {
+          "n": 4,
+          "statuses": {
+            "Success": 4
+          },
+          "min_ms": 1,
+          "median_ms": 1.0,
+          "max_ms": 2
+        },
+        "89.38.164.205": {
+          "n": 4,
+          "statuses": {
+            "Success": 4
+          },
+          "min_ms": 3,
+          "median_ms": 3.0,
+          "max_ms": 3
+        },
+        "1.1.1.1": {
+          "n": 4,
+          "statuses": {
+            "Success": 4
+          },
+          "min_ms": 25,
+          "median_ms": 25.5,
+          "max_ms": 26
+        },
+        "87.245.238.34": {
+          "n": 4,
+          "statuses": {
+            "Success": 4
+          },
+          "min_ms": 92,
+          "median_ms": 92.0,
+          "max_ms": 93
+        },
+        "87.245.233.166": {
+          "n": 4,
+          "statuses": {
+            "Success": 4
+          },
+          "min_ms": 91,
+          "median_ms": 92.0,
+          "max_ms": 93
+        }
+      },
+      "nearby_local_udp_snapshots": [
+        {
+          "observed_local": "2026-11-15T01:28:13.6650536+05:00",
+          "game_pids": [
+            16692
+          ],
+          "udp_bindings": [
+            {
+              "LocalAddress": "0.0.0.0",
+              "LocalPort": 59340,
+              "OwningProcess": 16692
+            },
+            {
+              "LocalAddress": "0.0.0.0",
+              "LocalPort": 56084,
+              "OwningProcess": 16692
+            },
+            {
+              "LocalAddress": "0.0.0.0",
+              "LocalPort": 55727,
+              "OwningProcess": 16692
+            }
+          ]
+        },
+        {
+          "observed_local": "2026-11-15T01:28:43.7054397+05:00",
+          "game_pids": [
+            16692
+          ],
+          "udp_bindings": [
+            {
+              "LocalAddress": "0.0.0.0",
+              "LocalPort": 59340,
+              "OwningProcess": 16692
+            },
+            {
+              "LocalAddress": "0.0.0.0",
+              "LocalPort": 56084,
+              "OwningProcess": 16692
+            },
+            {
+              "LocalAddress": "0.0.0.0",
+              "LocalPort": 55727,
+              "OwningProcess": 16692
+            }
+          ]
+        },
+        {
+          "observed_local": "2026-11-15T01:29:13.7007405+05:00",
+          "game_pids": [
+            16692
+          ],
+          "udp_bindings": [
+            {
+              "LocalAddress": "0.0.0.0",
+              "LocalPort": 59340,
+              "OwningProcess": 16692
+            },
+            {
+              "LocalAddress": "0.0.0.0",
+              "LocalPort": 56084,
+              "OwningProcess": 16692
+            },
+            {
+              "LocalAddress": "0.0.0.0",
+              "LocalPort": 55727,
+              "OwningProcess": 16692
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "clock_alignment_check": {
+    "last_raw_log_time": "2026.11.14-20.36.50:934",
+    "parsed_as_utc": "2026-11-14T20:36:50.934+00:00",
+    "file_last_write_utc": "2026-11-14T20:36:50.995+00:00",
+    "difference_seconds": 0.061,
+    "interpretation": "Tail timestamp agrees with filesystem UTC if difference is small; supports UTC-to-local alignment in this file, without proving every historical entry independently."
+  },
+  "report_scope": "Two stored recovery hotkeys, not captured F8 spikes; RTT 85-93 ms supplied by user as a shared retrospective range."
+}

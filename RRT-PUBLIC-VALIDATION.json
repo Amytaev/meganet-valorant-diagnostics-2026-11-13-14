@@ -1,0 +1,36 @@
+{
+  "schema": 1,
+  "date_local": "2026-11-15",
+  "private_source_commit": "bff56f2f48bb82da9aac1d62885e1ffca3d0a2a4",
+  "raw_rrt_archives_published": false,
+  "raw_extracted_game_logs_published": false,
+  "reports_unabridged": true,
+  "typed_game_events": 1286,
+  "critical_game_ping_events": 8,
+  "private_public_numerical_files_byte_equal": 11,
+  "unit_tests": "5 passed",
+  "embedded_png_figures": 2,
+  "original_source_zip_hashes_unchanged": true,
+  "personal_original_values_checked_without_disclosure": true,
+  "secrets_checks": "Passed working tree and staged hook; no bypass",
+  "excluded": [
+    "Raw RRT archives and extracted raw logs",
+    "Credentials, auth headers, URL query payloads, account UUIDs, player names and chat",
+    "User paths, SSID/MAC/BSSID, client LAN IP and subscriber WAN IP",
+    "Historical crash dumps/stacks and 20 unrelated historical crash detail records"
+  ],
+  "preserved": [
+    "Game and router target IPs/ports",
+    "Numeric game ping events and packet/queue counters",
+    "UTC/UTC+05 timestamps and source line references",
+    "ICMP values/statuses/windows and F8/F9 record-vs-observed timing",
+    "Source hashes and duplicate/coverage limitations",
+    "All detailed reports, two new figures and offline parser/tests"
+  ],
+  "existing_technical_package_unchanged": true,
+  "previous_download_zips_unchanged": true,
+  "new_network_tests_started": false,
+  "existing_monitor_stopped": false,
+  "support_messages_sent": false,
+  "availability_verification": "Performed after push; results reported in chat, not assumed by this build-time manifest"
+}

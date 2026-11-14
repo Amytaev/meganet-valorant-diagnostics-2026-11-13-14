@@ -1,0 +1,100 @@
+{
+  "network_info_encoding": "Mixed: OEM CP866 ipconfig/ping and UTF-8 netsh sections; decoded per line, not whole-file guessed UTF-16.",
+  "snapshot_time_local": "2026-11-15T01:56:19+05:00",
+  "time_source": "DxDiag header; NetworkInfo subcommands have no individual timestamps",
+  "wifi_adapter": "Realtek 8852BE Wireless LAN WiFi 6 PCI-E NIC",
+  "wifi_driver_file": "rtwlane601.sys",
+  "wifi_driver_version": "6001.15.0165.0003",
+  "wifi_driver_date_as_printed": "7/15/2026 01:08:14",
+  "interfaces_present": [
+    "Wi-Fi",
+    "Ethernet (disconnected)",
+    "Radmin VPN",
+    "VirtualBox Host-Only Ethernet Adapter",
+    "Wi-Fi Direct virtual adapters"
+  ],
+  "wifi_default_gateway": "192.168.123.1",
+  "radmin_ipconfig_gateway": "26.0.0.1",
+  "route_table_in_rrt": false,
+  "wireless_snapshot": {
+    "mtu": 1500,
+    "media_sense_state": 1,
+    "received_bytes": 51132297218,
+    "sent_bytes": 11917504992,
+    "line": 198
+  },
+  "rrt_google_ping": {
+    "target": "142.251.157.119",
+    "host": "www.google.com",
+    "sent": 4,
+    "received": 4,
+    "lost": 0,
+    "rtt_samples_ms": [
+      100,
+      100,
+      99,
+      100
+    ],
+    "printed_min_ms": 99,
+    "printed_avg_ms": 99,
+    "printed_max_ms": 100,
+    "individual_timestamps": null,
+    "lines": [
+      102,
+      112
+    ]
+  },
+  "mib_ip_cumulative_not_game_specific": {
+    "Всего входящих пакетов получено": {
+      "value": 41041602,
+      "line": 209
+    },
+    "Ошибок в заголовках входящих пакетов": {
+      "value": 0,
+      "line": 210
+    },
+    "Ошибок в адресах входящих пакетов": {
+      "value": 137,
+      "line": 211
+    },
+    "Входящих пакетов с неизвестным протоколом": {
+      "value": 51,
+      "line": 213
+    },
+    "Входящих пакетов отброшено": {
+      "value": 236201,
+      "line": 214
+    },
+    "Входящих пакетов доставлено": {
+      "value": 41598208,
+      "line": 215
+    },
+    "Исходящих запросов": {
+      "value": 29107160,
+      "line": 216
+    },
+    "Маршрутизаций отменено": {
+      "value": 0,
+      "line": 217
+    },
+    "Исходящих отменено": {
+      "value": 3826,
+      "line": 218
+    },
+    "Исходящих без маршрута": {
+      "value": 476,
+      "line": 219
+    },
+    "Таймаутов повторной сборки пакетов": {
+      "value": 60,
+      "line": 220
+    }
+  },
+  "event_logs_or_packet_capture_in_inventory": false,
+  "diagnostic_limits": [
+    "No time deltas or per-process attribution for cumulative counters",
+    "No contemporaneous RF retry/DPC/ISR trace",
+    "Snapshot is hours after the daytime severe event",
+    "Radmin gateway presence is not route selection proof"
+  ]
+}

@@ -1,5 +1,7 @@
 # VALORANT × Meganet — network investigation
 
+**Дополнение 15 ноября:** [RRT-анализ](reports/RIOT-RRT-LOG-ANALYSIS.md), числовые игровые события и контрольные окна, отдельные [Meganet](reports/MEGANET-RRT-BRIEF.md) / [Riot](reports/RIOT-SUPPORT-RRT-BRIEF.md) сводки. Исходники RRT и чувствительные поля не публикуются; конкретная причина не установлена.
+
 **Private-source follow-up (public data is a frozen snapshot):** a new user-started match is being monitored continuously from 16:32:40 (+05:00), 14 November; run `20261114-163240-f28706ce`. The previous daytime run below is finalized. A separate [Meganet engineer package](reports/meganet-package-2026-11-14/README.md) contains completed finite ping/tracert results and Anycast/SDR limitations.
 
 **Status:** first local investigation stage completed on 13–14 November 2026. Quiet collectors, reviewed evidence and reproducible analysis are available. An in-game 185/189 ms RTT episode is confirmed; root cause remains unverified. See [incident](reports/INCIDENT-2026-11-14.md), [collector runbook](docs/COLLECTOR-RUNBOOK.md), [tasks](TASKS.md) and [investigation results](reports/INVESTIGATION-RESULTS.md).

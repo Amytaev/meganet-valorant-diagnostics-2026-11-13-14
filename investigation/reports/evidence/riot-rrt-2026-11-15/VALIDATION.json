@@ -1,0 +1,85 @@
+{
+  "schema": 1,
+  "offline_only": true,
+  "original_archive_checks": [
+    {
+      "archive": "SystemLogs-2026-11-14.zip",
+      "sha256": "177b7a7b19428d1d86574c10a1cea8ee855851e8d58037fa22e1f85c895fd015",
+      "unchanged": true
+    },
+    {
+      "archive": "VAL-2026-11-14-1 of 2.zip",
+      "sha256": "e5bc76282feb04369d1b9bc87b1f7b6e4217aadb2fad2635cd7b53e9f4517f23",
+      "unchanged": true
+    },
+    {
+      "archive": "VAL-2026-11-14-2 of 2.zip",
+      "sha256": "e5bc76282feb04369d1b9bc87b1f7b6e4217aadb2fad2635cd7b53e9f4517f23",
+      "unchanged": true
+    }
+  ],
+  "unique_archives": 2,
+  "selected_text_files": 65,
+  "game_logs": 6,
+  "typed_game_events": 1286,
+  "critical_ping_events": 8,
+  "critical_values_ms": [
+    348.0,
+    383.31,
+    343.94,
+    343.94,
+    374.19,
+    369.33,
+    328.12,
+    334.44
+  ],
+  "input_replication_stops_in_severe_session": 26,
+  "input_queue_active_inactive_pairs": 26,
+  "critical_span_successful_controls_per_target": 67,
+  "control_targets": 5,
+  "hotkey_F8": 107,
+  "hotkey_F9": 20,
+  "additional_user_message_recovery_records": 1,
+  "timezone_equality_checked_events": 1286,
+  "deterministic_replay_byte_equal_files": [
+    "inventory.json",
+    "game-coverage.json",
+    "game-events.json",
+    "netdriver-lifetime-stats.json",
+    "auxiliary-summary.json",
+    "day-correlations.json",
+    "day-manual-markers.json",
+    "day-window-statistics.json",
+    "chart-specs.json"
+  ],
+  "privacy_patterns_checked": [
+    "account_or_adapter_uuid",
+    "personal_path",
+    "mac",
+    "jwt",
+    "authorization_value",
+    "raw_player_field"
+  ],
+  "privacy_findings": [],
+  "secret_guard_findings": [],
+  "raw_archives_or_raw_game_logs_in_export": false,
+  "unit_tests": "5 passed; archive safety/dedup, field-only export, metric separation, committed-prefix read",
+  "figure_review": "2 PNG rendered with Windows .NET Charting and visually inspected; game events are points, no interpolation",
+  "source_originals_modified": false,
+  "network_settings_changed": false,
+  "new_network_measurements_started": false,
+  "existing_monitor_stopped": false,
+  "limitations": [
+    "Field allowlists are defense in depth, not a guarantee for arbitrary unseen formats",
+    "System summary is a manually reviewed technical extraction",
+    "Full current game log for later 15 November matches is absent from RRT",
+    "Live-prefix correlation records its own committed watermark; reruns of that field differ"
+  ],
+  "public_export": {
+    "raw_rrt_excluded": true,
+    "historical_crash_detail_records_excluded": 20,
+    "game_events_correlations_and_stats_equal_private": true,
+    "deterministic_replay_note": "Replay byte-equality above describes the private reviewed derivative; public auxiliary-summary omits unrelated historical crash details.",
+    "all_reports_unabridged": true
+  }
+}

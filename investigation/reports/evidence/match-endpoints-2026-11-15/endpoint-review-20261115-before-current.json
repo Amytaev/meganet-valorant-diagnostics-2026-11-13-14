@@ -1,0 +1,9 @@
+{
+  "observed_local": "2026-11-15T01:34:26.6552357+05:00",
+  "source_bytes": 212738,
+  "source_last_write": "2026-11-15T01:02:40.0000000+05:00",
+  "scan_limit_lines": 100000,
+  "log_timezone": "unverified",
+  "candidates": [],
+  "note": "Allowlisted extraction only. No candidate is proof of currently active game peer, transport or server region."
+}

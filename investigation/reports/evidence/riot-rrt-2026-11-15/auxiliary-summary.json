@@ -1,0 +1,5940 @@
+[
+  {
+    "file_id": "archive-02-member-0003",
+    "kind": "client_or_cef",
+    "lines": 52,
+    "bootstrap_already_running": true,
+    "cef_network_histograms": [],
+    "explicit_browser_error_counts": {
+      "ERR_CONNECTION_RESET": 0,
+      "ERR_CONNECTION_TIMED_OUT": 0,
+      "ERR_NAME_NOT_RESOLVED": 0,
+      "ERR_INTERNET_DISCONNECTED": 0
+    },
+    "has_internal_2026_11_14": false,
+    "has_internal_2026_11_15": false
+  },
+  {
+    "file_id": "archive-02-member-0004",
+    "kind": "client_or_cef",
+    "lines": 52,
+    "bootstrap_already_running": true,
+    "cef_network_histograms": [],
+    "explicit_browser_error_counts": {
+      "ERR_CONNECTION_RESET": 0,
+      "ERR_CONNECTION_TIMED_OUT": 0,
+      "ERR_NAME_NOT_RESOLVED": 0,
+      "ERR_INTERNET_DISCONNECTED": 0
+    },
+    "has_internal_2026_11_14": false,
+    "has_internal_2026_11_15": false
+  },
+  {
+    "file_id": "archive-02-member-0005",
+    "kind": "client_or_cef",
+    "lines": 2958,
+    "bootstrap_already_running": false,
+    "cef_network_histograms": [],
+    "explicit_browser_error_counts": {
+      "ERR_CONNECTION_RESET": 0,
+      "ERR_CONNECTION_TIMED_OUT": 0,
+      "ERR_NAME_NOT_RESOLVED": 0,
+      "ERR_INTERNET_DISCONNECTED": 0
+    },
+    "has_internal_2026_11_14": false,
+    "has_internal_2026_11_15": false
+  },
+  {
+    "file_id": "archive-02-member-0006",
+    "kind": "client_or_cef",
+    "lines": 2147,
+    "bootstrap_already_running": false,
+    "cef_network_histograms": [],
+    "explicit_browser_error_counts": {
+      "ERR_CONNECTION_RESET": 0,
+      "ERR_CONNECTION_TIMED_OUT": 0,
+      "ERR_NAME_NOT_RESOLVED": 0,
+      "ERR_INTERNET_DISCONNECTED": 0
+    },
+    "has_internal_2026_11_14": false,
+    "has_internal_2026_11_15": false
+  },
+  {
+    "file_id": "archive-02-member-0007",
+    "kind": "client_or_cef",
+    "lines": 10946,
+    "bootstrap_already_running": false,
+    "cef_network_histograms": [],
+    "explicit_browser_error_counts": {
+      "ERR_CONNECTION_RESET": 0,
+      "ERR_CONNECTION_TIMED_OUT": 0,
+      "ERR_NAME_NOT_RESOLVED": 0,
+      "ERR_INTERNET_DISCONNECTED": 0
+    },
+    "has_internal_2026_11_14": false,
+    "has_internal_2026_11_15": false
+  },
+  {
+    "file_id": "archive-02-member-0008",
+    "kind": "client_or_cef",
+    "lines": 52,
+    "bootstrap_already_running": true,
+    "cef_network_histograms": [],
+    "explicit_browser_error_counts": {
+      "ERR_CONNECTION_RESET": 0,
+      "ERR_CONNECTION_TIMED_OUT": 0,
+      "ERR_NAME_NOT_RESOLVED": 0,
+      "ERR_INTERNET_DISCONNECTED": 0
+    },
+    "has_internal_2026_11_14": false,
+    "has_internal_2026_11_15": false
+  },
+  {
+    "file_id": "archive-02-member-0009",
+    "kind": "client_or_cef",
+    "lines": 52,
+    "bootstrap_already_running": true,
+    "cef_network_histograms": [],
+    "explicit_browser_error_counts": {
+      "ERR_CONNECTION_RESET": 0,
+      "ERR_CONNECTION_TIMED_OUT": 0,
+      "ERR_NAME_NOT_RESOLVED": 0,
+      "ERR_INTERNET_DISCONNECTED": 0
+    },
+    "has_internal_2026_11_14": false,
+    "has_internal_2026_11_15": false
+  },
+  {
+    "file_id": "archive-02-member-0010",
+    "kind": "client_or_cef",
+    "lines": 9719,
+    "bootstrap_already_running": false,
+    "cef_network_histograms": [],
+    "explicit_browser_error_counts": {
+      "ERR_CONNECTION_RESET": 0,
+      "ERR_CONNECTION_TIMED_OUT": 0,
+      "ERR_NAME_NOT_RESOLVED": 0,
+      "ERR_INTERNET_DISCONNECTED": 0
+    },
+    "has_internal_2026_11_14": false,
+    "has_internal_2026_11_15": false
+  },
+  {
+    "file_id": "archive-02-member-0011",
+    "kind": "client_or_cef",
+    "lines": 52,
+    "bootstrap_already_running": true,
+    "cef_network_histograms": [],
+    "explicit_browser_error_counts": {
+      "ERR_CONNECTION_RESET": 0,
+      "ERR_CONNECTION_TIMED_OUT": 0,
+      "ERR_NAME_NOT_RESOLVED": 0,
+      "ERR_INTERNET_DISCONNECTED": 0
+    },
+    "has_internal_2026_11_14": false,
+    "has_internal_2026_11_15": false
+  },
+  {
+    "file_id": "archive-02-member-0012",
+    "kind": "client_or_cef",
+    "lines": 52,
+    "bootstrap_already_running": true,
+    "cef_network_histograms": [],
+    "explicit_browser_error_counts": {
+      "ERR_CONNECTION_RESET": 0,
+      "ERR_CONNECTION_TIMED_OUT": 0,
+      "ERR_NAME_NOT_RESOLVED": 0,
+      "ERR_INTERNET_DISCONNECTED": 0
+    },
+    "has_internal_2026_11_14": false,
+    "has_internal_2026_11_15": false
+  },
+  {
+    "file_id": "archive-02-member-0013",
+    "kind": "client_or_cef",
+    "lines": 7536,
+    "bootstrap_already_running": false,
+    "cef_network_histograms": [],
+    "explicit_browser_error_counts": {
+      "ERR_CONNECTION_RESET": 0,
+      "ERR_CONNECTION_TIMED_OUT": 0,
+      "ERR_NAME_NOT_RESOLVED": 0,
+      "ERR_INTERNET_DISCONNECTED": 0
+    },
+    "has_internal_2026_11_14": false,
+    "has_internal_2026_11_15": false
+  },
+  {
+    "file_id": "archive-02-member-0014",
+    "kind": "client_or_cef",
+    "lines": 52,
+    "bootstrap_already_running": true,
+    "cef_network_histograms": [],
+    "explicit_browser_error_counts": {
+      "ERR_CONNECTION_RESET": 0,
+      "ERR_CONNECTION_TIMED_OUT": 0,
+      "ERR_NAME_NOT_RESOLVED": 0,
+      "ERR_INTERNET_DISCONNECTED": 0
+    },
+    "has_internal_2026_11_14": false,
+    "has_internal_2026_11_15": false
+  },
+  {
+    "file_id": "archive-02-member-0015",
+    "kind": "client_or_cef",
+    "lines": 331,
+    "bootstrap_already_running": false,
+    "cef_network_histograms": [],
+    "explicit_browser_error_counts": {
+      "ERR_CONNECTION_RESET": 0,
+      "ERR_CONNECTION_TIMED_OUT": 0,
+      "ERR_NAME_NOT_RESOLVED": 0,
+      "ERR_INTERNET_DISCONNECTED": 0
+    },
+    "has_internal_2026_11_14": false,
+    "has_internal_2026_11_15": false
+  },
+  {
+    "file_id": "archive-02-member-0016",
+    "kind": "client_or_cef",
+    "lines": 52,
+    "bootstrap_already_running": true,
+    "cef_network_histograms": [],
+    "explicit_browser_error_counts": {
+      "ERR_CONNECTION_RESET": 0,
+      "ERR_CONNECTION_TIMED_OUT": 0,
+      "ERR_NAME_NOT_RESOLVED": 0,
+      "ERR_INTERNET_DISCONNECTED": 0
+    },
+    "has_internal_2026_11_14": false,
+    "has_internal_2026_11_15": false
+  },
+  {
+    "file_id": "archive-02-member-0017",
+    "kind": "client_or_cef",
+    "lines": 52,
+    "bootstrap_already_running": true,
+    "cef_network_histograms": [],
+    "explicit_browser_error_counts": {
+      "ERR_CONNECTION_RESET": 0,
+      "ERR_CONNECTION_TIMED_OUT": 0,
+      "ERR_NAME_NOT_RESOLVED": 0,
+      "ERR_INTERNET_DISCONNECTED": 0
+    },
+    "has_internal_2026_11_14": true,
+    "has_internal_2026_11_15": false
+  },
+  {
+    "file_id": "archive-02-member-0611",
+    "kind": "ui_stat_configuration_not_measurements",
+    "values": {
+      "EAresIntSettingName::PlayerPerfShowPacketLossPercentage": 1
+    }
+  },
+  {
+    "file_id": "archive-02-member-0613",
+    "kind": "ui_stat_configuration_not_measurements",
+    "values": {}
+  },
+  {
+    "file_id": "archive-02-member-0614",
+    "kind": "ui_stat_configuration_not_measurements",
+    "values": {}
+  },
+  {
+    "file_id": "archive-02-member-0616",
+    "kind": "ui_stat_configuration_not_measurements",
+    "values": {}
+  },
+  {
+    "file_id": "archive-02-member-0617",
+    "kind": "ui_stat_configuration_not_measurements",
+    "values": {
+      "EAresIntSettingName::PlayerPerfShowNetworkRtt": 3,
+      "EAresIntSettingName::PlayerPerfShowPacketLossPercentage": 3,
+      "EAresIntSettingName::PlayerPerfShowPacketsLostTotal": 1
+    }
+  },
+  {
+    "file_id": "archive-02-member-0619",
+    "kind": "ui_stat_configuration_not_measurements",
+    "values": {}
+  },
+  {
+    "file_id": "archive-02-member-0620",
+    "kind": "ui_stat_configuration_not_measurements",
+    "values": {
+      "EAresIntSettingName::PlayerPerfShowPacketLossPercentage": 1,
+      "EAresIntSettingName::PlayerPerfShowPacketsLostTotal": 1,
+      "EAresIntSettingName::PlayerPerfShowIncomingPacketLossPercentage": 1,
+      "EAresIntSettingName::PlayerPerfShowOutgoingPacketLossPercentage": 1,
+      "EAresIntSettingName::PlayerPerfShowNetworkRtt": 1
+    }
+  },
+  {
+    "file_id": "archive-02-member-0622",
+    "kind": "ui_stat_configuration_not_measurements",
+    "values": {}
+  },
+  {
+    "file_id": "archive-02-member-0630",
+    "kind": "ui_stat_configuration_not_measurements",
+    "values": {}
+  },
+  {
+    "file_id": "archive-02-member-0791",
+    "kind": "client_or_cef",
+    "lines": 4555,
+    "bootstrap_already_running": false,
+    "cef_network_histograms": [
+      {
+        "line": 1845,
+        "metric": "Net.AlternativeServiceTypeForRequest",
+        "samples": 116,
+        "mean": 0.0
+      },
+      {
+        "line": 1849,
+        "metric": "Net.CertVerifier_First_Job_Latency",
+        "samples": 1,
+        "mean": 1399.0
+      },
+      {
+        "line": 1854,
+        "metric": "Net.CertVerifier_Job_Latency",
+        "samples": 12,
+        "mean": 923.4
+      },
+      {
+        "line": 1870,
+        "metric": "Net.Certificate.IgnoreCertificateErrorsSPKIListPresent",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1874,
+        "metric": "Net.Certificate.IgnoreErrors",
+        "samples": 2,
+        "mean": 0.0
+      },
+      {
+        "line": 1878,
+        "metric": "Net.Certificate.TrustAnchor.Request",
+        "samples": 116,
+        "mean": null
+      },
+      {
+        "line": 1882,
+        "metric": "Net.CertificateTransparency.ConnectionComplianceStatus2.SSL",
+        "samples": 18,
+        "mean": 3.0
+      },
+      {
+        "line": 1887,
+        "metric": "Net.CertificateTransparency.RequestComplianceStatus",
+        "samples": 116,
+        "mean": 3.0
+      },
+      {
+        "line": 1892,
+        "metric": "Net.Cors.AccessCheckResult",
+        "samples": 8,
+        "mean": 0.0
+      },
+      {
+        "line": 1896,
+        "metric": "Net.CountOfQuicServerInfos",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1900,
+        "metric": "Net.DNS.Request.TotalTime",
+        "samples": 350,
+        "mean": 6.4
+      },
+      {
+        "line": 1920,
+        "metric": "Net.DNS.Request.TotalTimeAsync",
+        "samples": 32,
+        "mean": 70.2
+      },
+      {
+        "line": 1940,
+        "metric": "Net.DNS.ResolveCategory",
+        "samples": 28,
+        "mean": 0.7
+      },
+      {
+        "line": 1945,
+        "metric": "Net.DNS.ResolveError.Fast",
+        "samples": 1,
+        "mean": null
+      },
+      {
+        "line": 1948,
+        "metric": "Net.DNS.ResolveError.Slow",
+        "samples": 19,
+        "mean": null
+      },
+      {
+        "line": 1951,
+        "metric": "Net.DNS.ResolveFailureTime",
+        "samples": 20,
+        "mean": 84.6
+      },
+      {
+        "line": 1976,
+        "metric": "Net.DNS.ResolveSuccessTime",
+        "samples": 8,
+        "mean": 58.2
+      },
+      {
+        "line": 1992,
+        "metric": "Net.DNS.SecureDnsMode.Automatic.ResolveTime",
+        "samples": 12,
+        "mean": 42.7
+      },
+      {
+        "line": 2010,
+        "metric": "Net.DNS.SecureDnsMode.Off.ResolveTime",
+        "samples": 16,
+        "mean": 102.8
+      },
+      {
+        "line": 2025,
+        "metric": "Net.DNS.UpgradeConfig.HasPublicInsecureNameserver",
+        "samples": 383,
+        "mean": 0.0
+      },
+      {
+        "line": 2029,
+        "metric": "Net.DNS.UpgradeConfig.Ineligible.DohSpecified",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 2033,
+        "metric": "Net.DNS.UpgradeConfig.Ineligible.UnhandledOptions",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 2037,
+        "metric": "Net.DNS.UpgradeConfig.InsecureUpgradeSucceeded",
+        "samples": 383,
+        "mean": 0.0
+      },
+      {
+        "line": 2041,
+        "metric": "Net.DNS_Resolution_And_TCP_Connection_Latency2",
+        "samples": 18,
+        "mean": 164.3
+      },
+      {
+        "line": 2056,
+        "metric": "Net.DataPipeUseForUrlLoader.Max",
+        "samples": 53,
+        "mean": 0.4
+      },
+      {
+        "line": 2064,
+        "metric": "Net.DataPipeUseForUrlLoader.Min",
+        "samples": 53,
+        "mean": 0.0
+      },
+      {
+        "line": 2068,
+        "metric": "Net.DataPipeUseForWebSocket.Max",
+        "samples": 53,
+        "mean": 0.0
+      },
+      {
+        "line": 2072,
+        "metric": "Net.DataPipeUseForWebSocket.Min",
+        "samples": 53,
+        "mean": 0.0
+      },
+      {
+        "line": 2076,
+        "metric": "Net.ExpectCT.EntriesOnLoad",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 2080,
+        "metric": "Net.HttpJob.PrefilterBytesRead",
+        "samples": 160,
+        "mean": 19039.9
+      },
+      {
+        "line": 2102,
+        "metric": "Net.HttpJob.PrefilterBytesRead.Cache",
+        "samples": 53,
+        "mean": 10889.8
+      },
+      {
+        "line": 2113,
+        "metric": "Net.HttpJob.PrefilterBytesRead.Net",
+        "samples": 107,
+        "mean": 23076.9
+      },
+      {
+        "line": 2133,
+        "metric": "Net.HttpJob.TotalTime",
+        "samples": 160,
+        "mean": 659.4
+      },
+      {
+        "line": 2166,
+        "metric": "Net.HttpJob.TotalTimeCached",
+        "samples": 53,
+        "mean": 161.2
+      },
+      {
+        "line": 2181,
+        "metric": "Net.HttpJob.TotalTimeCancel",
+        "samples": 8,
+        "mean": 0.2
+      },
+      {
+        "line": 2187,
+        "metric": "Net.HttpJob.TotalTimeNotCached",
+        "samples": 107,
+        "mean": 906.2
+      },
+      {
+        "line": 2213,
+        "metric": "Net.HttpJob.TotalTimeSuccess",
+        "samples": 152,
+        "mean": 694.1
+      },
+      {
+        "line": 2246,
+        "metric": "Net.HttpJob.TotalTimeSuccess.Priority2",
+        "samples": 32,
+        "mean": 70.6
+      },
+      {
+        "line": 2266,
+        "metric": "Net.HttpJob.TotalTimeSuccess.Priority4",
+        "samples": 88,
+        "mean": 772.4
+      },
+      {
+        "line": 2288,
+        "metric": "Net.HttpJob.TotalTimeSuccess.Priority5",
+        "samples": 32,
+        "mean": 1102.3
+      },
+      {
+        "line": 2301,
+        "metric": "Net.HttpResponseCode",
+        "samples": 116,
+        "mean": 208.1
+      },
+      {
+        "line": 2308,
+        "metric": "Net.HttpServerProperties.CountOfServers",
+        "samples": 1,
+        "mean": 17.0
+      },
+      {
+        "line": 2313,
+        "metric": "Net.HttpTimeToFirstByte",
+        "samples": 160,
+        "mean": 638.6
+      },
+      {
+        "line": 2336,
+        "metric": "Net.KeepaliveStatisticsRecorder.PeakInflightRequests2",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 2340,
+        "metric": "Net.KeepaliveStatisticsRecorder.PeakInflightRequestsPerTopLevelFrame",
+        "samples": 30,
+        "mean": 0.0
+      },
+      {
+        "line": 2344,
+        "metric": "Net.MainFrameNoStore",
+        "samples": 8,
+        "mean": 0.0
+      },
+      {
+        "line": 2348,
+        "metric": "Net.NetworkChangeNotifier.NewConnectionType",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 2352,
+        "metric": "Net.NotifyAddrChangeFailures",
+        "samples": 2,
+        "mean": 0.0
+      },
+      {
+        "line": 2356,
+        "metric": "Net.NumQuicSessionsAtShutdown",
+        "samples": 2,
+        "mean": 0.0
+      },
+      {
+        "line": 2360,
+        "metric": "Net.Port.SlipstreamRestricted",
+        "samples": 116,
+        "mean": 0.0
+      },
+      {
+        "line": 2364,
+        "metric": "Net.QuicSession.CloseAllSessionsError",
+        "samples": 2,
+        "mean": null
+      },
+      {
+        "line": 2367,
+        "metric": "Net.QuicSession.FinchConfigIsValid",
+        "samples": 2,
+        "mean": 1.0
+      },
+      {
+        "line": 2372,
+        "metric": "Net.RedirectChainLength",
+        "samples": 160,
+        "mean": 0.0
+      },
+      {
+        "line": 2376,
+        "metric": "Net.RestrictedCookieManager.SiteForCookiesOK",
+        "samples": 128563,
+        "mean": 1.0
+      },
+      {
+        "line": 2381,
+        "metric": "Net.RestrictedCookieManager.TopFrameOriginOK",
+        "samples": 128563,
+        "mean": 1.0
+      },
+      {
+        "line": 2386,
+        "metric": "Net.SSLCertVerificationTime",
+        "samples": 18,
+        "mean": 850.2
+      },
+      {
+        "line": 2404,
+        "metric": "Net.SSLHandshakeDetails",
+        "samples": 18,
+        "mean": 6.7
+      },
+      {
+        "line": 2410,
+        "metric": "Net.SSLLegacyCryptoFallback",
+        "samples": 18,
+        "mean": 0.0
+      },
+      {
+        "line": 2414,
+        "metric": "Net.SSLNegotiatedAlpnProtocol",
+        "samples": 18,
+        "mean": 1.3
+      },
+      {
+        "line": 2420,
+        "metric": "Net.SSLSignatureAlgorithm",
+        "samples": 18,
+        "mean": null
+      },
+      {
+        "line": 2424,
+        "metric": "Net.SSLVersion",
+        "samples": 18,
+        "mean": 6.0
+      },
+      {
+        "line": 2429,
+        "metric": "Net.SSL_CipherSuite",
+        "samples": 18,
+        "mean": null
+      },
+      {
+        "line": 2432,
+        "metric": "Net.SSL_Connection_Error",
+        "samples": 18,
+        "mean": null
+      },
+      {
+        "line": 2435,
+        "metric": "Net.SSL_Connection_Latency_2",
+        "samples": 18,
+        "mean": 972.2
+      },
+      {
+        "line": 2452,
+        "metric": "Net.SSL_KeyExchange.ECDHE",
+        "samples": 18,
+        "mean": null
+      },
+      {
+        "line": 2455,
+        "metric": "Net.SiteDomainIsSafe",
+        "samples": 819650,
+        "mean": 1.0
+      },
+      {
+        "line": 2460,
+        "metric": "Net.SpdyHeadersCompressionPercentage",
+        "samples": 104,
+        "mean": 88.7
+      },
+      {
+        "line": 2479,
+        "metric": "Net.SpdyResponseCode",
+        "samples": 104,
+        "mean": null
+      },
+      {
+        "line": 2482,
+        "metric": "Net.SpdySession.ClosedOnError",
+        "samples": 4,
+        "mean": null
+      },
+      {
+        "line": 2486,
+        "metric": "Net.SpdySession.CreateStreamWithSocketConnected",
+        "samples": 104,
+        "mean": 1.0
+      },
+      {
+        "line": 2491,
+        "metric": "Net.SpdySession.PushedAndUnclaimedBytes",
+        "samples": 4,
+        "mean": 0.0
+      },
+      {
+        "line": 2495,
+        "metric": "Net.SpdySession.PushedBytes",
+        "samples": 4,
+        "mean": 0.0
+      },
+      {
+        "line": 2499,
+        "metric": "Net.SpdySession.ServerSupportsWebSocket",
+        "samples": 4,
+        "mean": 0.0
+      },
+      {
+        "line": 2503,
+        "metric": "Net.SpdySessionGet",
+        "samples": 104,
+        "mean": 1.1
+      },
+      {
+        "line": 2510,
+        "metric": "Net.SpdyStreamsAbandonedPerSession",
+        "samples": 4,
+        "mean": 0.0
+      },
+      {
+        "line": 2514,
+        "metric": "Net.SpdyStreamsPerSession",
+        "samples": 4,
+        "mean": 26.0
+      },
+      {
+        "line": 2519,
+        "metric": "Net.SpdyStreamsPushedAndClaimedPerSession",
+        "samples": 4,
+        "mean": 0.0
+      },
+      {
+        "line": 2523,
+        "metric": "Net.SpdyStreamsPushedPerSession",
+        "samples": 4,
+        "mean": 0.0
+      },
+      {
+        "line": 2527,
+        "metric": "Net.TCP_Connection_Latency",
+        "samples": 18,
+        "mean": 133.7
+      },
+      {
+        "line": 2539,
+        "metric": "Net.TCP_Connection_Latency_IPv4_No_Race",
+        "samples": 18,
+        "mean": 133.7
+      },
+      {
+        "line": 2551,
+        "metric": "Net.TcpConnectAttempt.Latency.Success",
+        "samples": 18,
+        "mean": 133.6
+      },
+      {
+        "line": 2560,
+        "metric": "Net.TcpConnectAttempt.LatencyPercentRTT.Success",
+        "samples": 18,
+        "mean": 106.7
+      },
+      {
+        "line": 2569,
+        "metric": "Net.UDPSocketWinClose",
+        "samples": 22,
+        "mean": 0.0
+      },
+      {
+        "line": 2573,
+        "metric": "Net.URLRequest.ReferrerHasInformativePath.CrossOrigin",
+        "samples": 48,
+        "mean": 0.0
+      },
+      {
+        "line": 2577,
+        "metric": "Net.URLRequest.ReferrerHasInformativePath.SameOrigin",
+        "samples": 112,
+        "mean": 1.0
+      },
+      {
+        "line": 2582,
+        "metric": "Net.URLRequest.ReferrerPolicyForRequest.CrossOrigin",
+        "samples": 48,
+        "mean": 1.0
+      },
+      {
+        "line": 2587,
+        "metric": "Net.URLRequest.ReferrerPolicyForRequest.SameOrigin",
+        "samples": 112,
+        "mean": 1.0
+      },
+      {
+        "line": 4059,
+        "metric": "Net.Certificate.TrustAnchor.Verify",
+        "samples": 12,
+        "mean": null
+      },
+      {
+        "line": 4063,
+        "metric": "Net.DNS.DnsConfig.SecureDnsMode",
+        "samples": 1,
+        "mean": 4.0
+      },
+      {
+        "line": 4068,
+        "metric": "Net.HttpResponseCode",
+        "samples": 152,
+        "mean": 200.0
+      },
+      {
+        "line": 4073,
+        "metric": "Net.NetworkChangeNotifier.NewConnectionType",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 4077,
+        "metric": "Net.NotifyAddrChangeFailures",
+        "samples": 2,
+        "mean": 0.0
+      },
+      {
+        "line": 4081,
+        "metric": "Net.SiteDomainIsSafe",
+        "samples": 129786,
+        "mean": 1.0
+      },
+      {
+        "line": 4086,
+        "metric": "Net.URLLoaderThrottleExecutionTime.BeforeWillProcessResponse",
+        "samples": 24,
+        "mean": 0.0
+      },
+      {
+        "line": 4090,
+        "metric": "Net.URLLoaderThrottleExecutionTime.WillProcessResponse",
+        "samples": 24,
+        "mean": 0.0
+      },
+      {
+        "line": 4094,
+        "metric": "Net.URLLoaderThrottleExecutionTime.WillStartRequest",
+        "samples": 24,
+        "mean": 0.0
+      }
+    ],
+    "explicit_browser_error_counts": {
+      "ERR_CONNECTION_RESET": 0,
+      "ERR_CONNECTION_TIMED_OUT": 0,
+      "ERR_NAME_NOT_RESOLVED": 0,
+      "ERR_INTERNET_DISCONNECTED": 0
+    },
+    "has_internal_2026_11_14": false,
+    "has_internal_2026_11_15": false
+  },
+  {
+    "file_id": "archive-02-member-0792",
+    "kind": "client_or_cef",
+    "lines": 3503,
+    "bootstrap_already_running": false,
+    "cef_network_histograms": [
+      {
+        "line": 1004,
+        "metric": "Net.AlternativeServiceTypeForRequest",
+        "samples": 58,
+        "mean": 0.0
+      },
+      {
+        "line": 1008,
+        "metric": "Net.CertVerifier_First_Job_Latency",
+        "samples": 1,
+        "mean": 1535.0
+      },
+      {
+        "line": 1013,
+        "metric": "Net.CertVerifier_Job_Latency",
+        "samples": 5,
+        "mean": 787.0
+      },
+      {
+        "line": 1024,
+        "metric": "Net.Certificate.IgnoreCertificateErrorsSPKIListPresent",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1028,
+        "metric": "Net.Certificate.IgnoreErrors",
+        "samples": 2,
+        "mean": 0.0
+      },
+      {
+        "line": 1032,
+        "metric": "Net.Certificate.TrustAnchor.Request",
+        "samples": 58,
+        "mean": null
+      },
+      {
+        "line": 1036,
+        "metric": "Net.CertificateTransparency.ConnectionComplianceStatus2.SSL",
+        "samples": 8,
+        "mean": 3.0
+      },
+      {
+        "line": 1041,
+        "metric": "Net.CertificateTransparency.RequestComplianceStatus",
+        "samples": 58,
+        "mean": 3.0
+      },
+      {
+        "line": 1046,
+        "metric": "Net.Cors.AccessCheckResult",
+        "samples": 4,
+        "mean": 0.0
+      },
+      {
+        "line": 1050,
+        "metric": "Net.CountOfQuicServerInfos",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1054,
+        "metric": "Net.DNS.Request.TotalTime",
+        "samples": 172,
+        "mean": 7.1
+      },
+      {
+        "line": 1069,
+        "metric": "Net.DNS.Request.TotalTimeAsync",
+        "samples": 14,
+        "mean": 86.6
+      },
+      {
+        "line": 1084,
+        "metric": "Net.DNS.ResolveCategory",
+        "samples": 12,
+        "mean": 0.7
+      },
+      {
+        "line": 1089,
+        "metric": "Net.DNS.ResolveError.Fast",
+        "samples": 3,
+        "mean": null
+      },
+      {
+        "line": 1092,
+        "metric": "Net.DNS.ResolveError.Slow",
+        "samples": 5,
+        "mean": null
+      },
+      {
+        "line": 1095,
+        "metric": "Net.DNS.ResolveFailureTime",
+        "samples": 8,
+        "mean": 94.2
+      },
+      {
+        "line": 1109,
+        "metric": "Net.DNS.ResolveSuccessTime",
+        "samples": 4,
+        "mean": 99.0
+      },
+      {
+        "line": 1120,
+        "metric": "Net.DNS.SecureDnsMode.Automatic.ResolveTime",
+        "samples": 8,
+        "mean": 57.8
+      },
+      {
+        "line": 1133,
+        "metric": "Net.DNS.SecureDnsMode.Off.ResolveTime",
+        "samples": 4,
+        "mean": 172.0
+      },
+      {
+        "line": 1141,
+        "metric": "Net.DNS.UpgradeConfig.HasPublicInsecureNameserver",
+        "samples": 46,
+        "mean": 0.0
+      },
+      {
+        "line": 1145,
+        "metric": "Net.DNS.UpgradeConfig.InsecureUpgradeSucceeded",
+        "samples": 46,
+        "mean": 0.0
+      },
+      {
+        "line": 1149,
+        "metric": "Net.DNS_Resolution_And_TCP_Connection_Latency2",
+        "samples": 8,
+        "mean": 174.5
+      },
+      {
+        "line": 1160,
+        "metric": "Net.DataPipeUseForUrlLoader.Max",
+        "samples": 8,
+        "mean": 1.1
+      },
+      {
+        "line": 1167,
+        "metric": "Net.DataPipeUseForUrlLoader.Min",
+        "samples": 8,
+        "mean": 0.0
+      },
+      {
+        "line": 1171,
+        "metric": "Net.DataPipeUseForWebSocket.Max",
+        "samples": 8,
+        "mean": 0.0
+      },
+      {
+        "line": 1175,
+        "metric": "Net.DataPipeUseForWebSocket.Min",
+        "samples": 8,
+        "mean": 0.0
+      },
+      {
+        "line": 1179,
+        "metric": "Net.ExpectCT.EntriesOnLoad",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1183,
+        "metric": "Net.HttpJob.PrefilterBytesRead",
+        "samples": 80,
+        "mean": 19028.8
+      },
+      {
+        "line": 1205,
+        "metric": "Net.HttpJob.PrefilterBytesRead.Cache",
+        "samples": 28,
+        "mean": 11065.1
+      },
+      {
+        "line": 1216,
+        "metric": "Net.HttpJob.PrefilterBytesRead.Net",
+        "samples": 52,
+        "mean": 23316.9
+      },
+      {
+        "line": 1234,
+        "metric": "Net.HttpJob.TotalTime",
+        "samples": 80,
+        "mean": 302.9
+      },
+      {
+        "line": 1262,
+        "metric": "Net.HttpJob.TotalTimeCached",
+        "samples": 28,
+        "mean": 198.0
+      },
+      {
+        "line": 1280,
+        "metric": "Net.HttpJob.TotalTimeCancel",
+        "samples": 4,
+        "mean": 0.0
+      },
+      {
+        "line": 1284,
+        "metric": "Net.HttpJob.TotalTimeNotCached",
+        "samples": 52,
+        "mean": 359.4
+      },
+      {
+        "line": 1304,
+        "metric": "Net.HttpJob.TotalTimeSuccess",
+        "samples": 76,
+        "mean": 318.8
+      },
+      {
+        "line": 1331,
+        "metric": "Net.HttpJob.TotalTimeSuccess.Priority2",
+        "samples": 16,
+        "mean": 38.2
+      },
+      {
+        "line": 1347,
+        "metric": "Net.HttpJob.TotalTimeSuccess.Priority4",
+        "samples": 44,
+        "mean": 253.3
+      },
+      {
+        "line": 1362,
+        "metric": "Net.HttpJob.TotalTimeSuccess.Priority5",
+        "samples": 16,
+        "mean": 779.6
+      },
+      {
+        "line": 1375,
+        "metric": "Net.HttpResponseCode",
+        "samples": 58,
+        "mean": 210.8
+      },
+      {
+        "line": 1382,
+        "metric": "Net.HttpServerProperties.CountOfServers",
+        "samples": 1,
+        "mean": 17.0
+      },
+      {
+        "line": 1387,
+        "metric": "Net.HttpTimeToFirstByte",
+        "samples": 80,
+        "mean": 293.9
+      },
+      {
+        "line": 1406,
+        "metric": "Net.KeepaliveStatisticsRecorder.PeakInflightRequests2",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1410,
+        "metric": "Net.KeepaliveStatisticsRecorder.PeakInflightRequestsPerTopLevelFrame",
+        "samples": 18,
+        "mean": 0.0
+      },
+      {
+        "line": 1414,
+        "metric": "Net.MainFrameNoStore",
+        "samples": 4,
+        "mean": 0.0
+      },
+      {
+        "line": 1418,
+        "metric": "Net.NotifyAddrChangeFailures",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1422,
+        "metric": "Net.NumQuicSessionsAtShutdown",
+        "samples": 2,
+        "mean": 0.0
+      },
+      {
+        "line": 1426,
+        "metric": "Net.Port.SlipstreamRestricted",
+        "samples": 58,
+        "mean": 0.0
+      },
+      {
+        "line": 1430,
+        "metric": "Net.QuicSession.CloseAllSessionsError",
+        "samples": 2,
+        "mean": null
+      },
+      {
+        "line": 1433,
+        "metric": "Net.QuicSession.FinchConfigIsValid",
+        "samples": 2,
+        "mean": 1.0
+      },
+      {
+        "line": 1438,
+        "metric": "Net.RedirectChainLength",
+        "samples": 80,
+        "mean": 0.0
+      },
+      {
+        "line": 1442,
+        "metric": "Net.RestrictedCookieManager.SiteForCookiesOK",
+        "samples": 16507,
+        "mean": 1.0
+      },
+      {
+        "line": 1447,
+        "metric": "Net.RestrictedCookieManager.TopFrameOriginOK",
+        "samples": 16507,
+        "mean": 1.0
+      },
+      {
+        "line": 1452,
+        "metric": "Net.SSLCertVerificationTime",
+        "samples": 8,
+        "mean": 497.0
+      },
+      {
+        "line": 1464,
+        "metric": "Net.SSLHandshakeDetails",
+        "samples": 8,
+        "mean": 6.5
+      },
+      {
+        "line": 1470,
+        "metric": "Net.SSLLegacyCryptoFallback",
+        "samples": 8,
+        "mean": 0.0
+      },
+      {
+        "line": 1474,
+        "metric": "Net.SSLNegotiatedAlpnProtocol",
+        "samples": 8,
+        "mean": 1.2
+      },
+      {
+        "line": 1480,
+        "metric": "Net.SSLSignatureAlgorithm",
+        "samples": 8,
+        "mean": null
+      },
+      {
+        "line": 1484,
+        "metric": "Net.SSLVersion",
+        "samples": 8,
+        "mean": 6.0
+      },
+      {
+        "line": 1489,
+        "metric": "Net.SSL_CipherSuite",
+        "samples": 8,
+        "mean": null
+      },
+      {
+        "line": 1492,
+        "metric": "Net.SSL_Connection_Error",
+        "samples": 8,
+        "mean": null
+      },
+      {
+        "line": 1495,
+        "metric": "Net.SSL_Connection_Latency_2",
+        "samples": 8,
+        "mean": 608.0
+      },
+      {
+        "line": 1510,
+        "metric": "Net.SSL_KeyExchange.ECDHE",
+        "samples": 8,
+        "mean": null
+      },
+      {
+        "line": 1513,
+        "metric": "Net.SiteDomainIsSafe",
+        "samples": 106438,
+        "mean": 1.0
+      },
+      {
+        "line": 1518,
+        "metric": "Net.SpdyHeadersCompressionPercentage",
+        "samples": 52,
+        "mean": 88.8
+      },
+      {
+        "line": 1538,
+        "metric": "Net.SpdyResponseCode",
+        "samples": 52,
+        "mean": null
+      },
+      {
+        "line": 1541,
+        "metric": "Net.SpdySession.ClosedOnError",
+        "samples": 2,
+        "mean": null
+      },
+      {
+        "line": 1544,
+        "metric": "Net.SpdySession.CreateStreamWithSocketConnected",
+        "samples": 52,
+        "mean": 1.0
+      },
+      {
+        "line": 1549,
+        "metric": "Net.SpdySession.PushedAndUnclaimedBytes",
+        "samples": 2,
+        "mean": 0.0
+      },
+      {
+        "line": 1553,
+        "metric": "Net.SpdySession.PushedBytes",
+        "samples": 2,
+        "mean": 0.0
+      },
+      {
+        "line": 1557,
+        "metric": "Net.SpdySession.ServerSupportsWebSocket",
+        "samples": 2,
+        "mean": 0.0
+      },
+      {
+        "line": 1561,
+        "metric": "Net.SpdySessionGet",
+        "samples": 52,
+        "mean": 1.1
+      },
+      {
+        "line": 1568,
+        "metric": "Net.SpdyStreamsAbandonedPerSession",
+        "samples": 2,
+        "mean": 0.0
+      },
+      {
+        "line": 1572,
+        "metric": "Net.SpdyStreamsPerSession",
+        "samples": 2,
+        "mean": 26.0
+      },
+      {
+        "line": 1577,
+        "metric": "Net.SpdyStreamsPushedAndClaimedPerSession",
+        "samples": 2,
+        "mean": 0.0
+      },
+      {
+        "line": 1581,
+        "metric": "Net.SpdyStreamsPushedPerSession",
+        "samples": 2,
+        "mean": 0.0
+      },
+      {
+        "line": 1585,
+        "metric": "Net.TCP_Connection_Latency",
+        "samples": 8,
+        "mean": 119.1
+      },
+      {
+        "line": 1594,
+        "metric": "Net.TCP_Connection_Latency_IPv4_No_Race",
+        "samples": 8,
+        "mean": 119.1
+      },
+      {
+        "line": 1603,
+        "metric": "Net.TcpConnectAttempt.Latency.Success",
+        "samples": 8,
+        "mean": 118.9
+      },
+      {
+        "line": 1610,
+        "metric": "Net.TcpConnectAttempt.LatencyPercentRTT.Success",
+        "samples": 8,
+        "mean": 29.4
+      },
+      {
+        "line": 1617,
+        "metric": "Net.UDPSocketWinClose",
+        "samples": 13,
+        "mean": 0.0
+      },
+      {
+        "line": 1621,
+        "metric": "Net.URLRequest.ReferrerHasInformativePath.CrossOrigin",
+        "samples": 24,
+        "mean": 0.0
+      },
+      {
+        "line": 1625,
+        "metric": "Net.URLRequest.ReferrerHasInformativePath.SameOrigin",
+        "samples": 56,
+        "mean": 1.0
+      },
+      {
+        "line": 1630,
+        "metric": "Net.URLRequest.ReferrerPolicyForRequest.CrossOrigin",
+        "samples": 24,
+        "mean": 1.0
+      },
+      {
+        "line": 1635,
+        "metric": "Net.URLRequest.ReferrerPolicyForRequest.SameOrigin",
+        "samples": 56,
+        "mean": 1.0
+      },
+      {
+        "line": 3043,
+        "metric": "Net.Certificate.TrustAnchor.Verify",
+        "samples": 5,
+        "mean": null
+      },
+      {
+        "line": 3047,
+        "metric": "Net.DNS.DnsConfig.SecureDnsMode",
+        "samples": 1,
+        "mean": 4.0
+      },
+      {
+        "line": 3052,
+        "metric": "Net.HttpResponseCode",
+        "samples": 76,
+        "mean": 200.0
+      },
+      {
+        "line": 3057,
+        "metric": "Net.NotifyAddrChangeFailures",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 3061,
+        "metric": "Net.SiteDomainIsSafe",
+        "samples": 17118,
+        "mean": 1.0
+      },
+      {
+        "line": 3066,
+        "metric": "Net.URLLoaderThrottleExecutionTime.BeforeWillProcessResponse",
+        "samples": 12,
+        "mean": 0.0
+      },
+      {
+        "line": 3070,
+        "metric": "Net.URLLoaderThrottleExecutionTime.WillProcessResponse",
+        "samples": 12,
+        "mean": 0.0
+      },
+      {
+        "line": 3074,
+        "metric": "Net.URLLoaderThrottleExecutionTime.WillStartRequest",
+        "samples": 12,
+        "mean": 0.0
+      }
+    ],
+    "explicit_browser_error_counts": {
+      "ERR_CONNECTION_RESET": 0,
+      "ERR_CONNECTION_TIMED_OUT": 0,
+      "ERR_NAME_NOT_RESOLVED": 0,
+      "ERR_INTERNET_DISCONNECTED": 0
+    },
+    "has_internal_2026_11_14": false,
+    "has_internal_2026_11_15": false
+  },
+  {
+    "file_id": "archive-02-member-0793",
+    "kind": "client_or_cef",
+    "lines": 3597,
+    "bootstrap_already_running": false,
+    "cef_network_histograms": [
+      {
+        "line": 1087,
+        "metric": "Net.AlternativeServiceTypeForRequest",
+        "samples": 57,
+        "mean": 0.0
+      },
+      {
+        "line": 1091,
+        "metric": "Net.CertVerifier_First_Job_Latency",
+        "samples": 1,
+        "mean": 1779.0
+      },
+      {
+        "line": 1096,
+        "metric": "Net.CertVerifier_Job_Latency",
+        "samples": 2,
+        "mean": 912.5
+      },
+      {
+        "line": 1103,
+        "metric": "Net.Certificate.IgnoreCertificateErrorsSPKIListPresent",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1107,
+        "metric": "Net.Certificate.IgnoreErrors",
+        "samples": 2,
+        "mean": 0.0
+      },
+      {
+        "line": 1111,
+        "metric": "Net.Certificate.TrustAnchor.Request",
+        "samples": 57,
+        "mean": null
+      },
+      {
+        "line": 1115,
+        "metric": "Net.CertificateTransparency.ConnectionComplianceStatus2.SSL",
+        "samples": 4,
+        "mean": 3.0
+      },
+      {
+        "line": 1120,
+        "metric": "Net.CertificateTransparency.RequestComplianceStatus",
+        "samples": 57,
+        "mean": 3.0
+      },
+      {
+        "line": 1125,
+        "metric": "Net.Cors.AccessCheckResult",
+        "samples": 4,
+        "mean": 0.0
+      },
+      {
+        "line": 1129,
+        "metric": "Net.CountOfQuicServerInfos",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1133,
+        "metric": "Net.DNS.Request.TotalTime",
+        "samples": 177,
+        "mean": 6.3
+      },
+      {
+        "line": 1143,
+        "metric": "Net.DNS.Request.TotalTimeAsync",
+        "samples": 20,
+        "mean": 55.6
+      },
+      {
+        "line": 1153,
+        "metric": "Net.DNS.ResolveCategory",
+        "samples": 19,
+        "mean": 0.9
+      },
+      {
+        "line": 1158,
+        "metric": "Net.DNS.ResolveError.Fast",
+        "samples": 14,
+        "mean": null
+      },
+      {
+        "line": 1161,
+        "metric": "Net.DNS.ResolveError.Slow",
+        "samples": 3,
+        "mean": null
+      },
+      {
+        "line": 1164,
+        "metric": "Net.DNS.ResolveFailureTime",
+        "samples": 17,
+        "mean": 62.8
+      },
+      {
+        "line": 1176,
+        "metric": "Net.DNS.ResolveSuccessTime",
+        "samples": 2,
+        "mean": 11.0
+      },
+      {
+        "line": 1183,
+        "metric": "Net.DNS.SecureDnsMode.Automatic.ResolveTime",
+        "samples": 19,
+        "mean": 57.3
+      },
+      {
+        "line": 1199,
+        "metric": "Net.DNS.UpgradeConfig.HasPublicInsecureNameserver",
+        "samples": 5,
+        "mean": 0.0
+      },
+      {
+        "line": 1203,
+        "metric": "Net.DNS.UpgradeConfig.InsecureUpgradeSucceeded",
+        "samples": 5,
+        "mean": 0.0
+      },
+      {
+        "line": 1207,
+        "metric": "Net.DNS_Resolution_And_TCP_Connection_Latency2",
+        "samples": 4,
+        "mean": 116.2
+      },
+      {
+        "line": 1214,
+        "metric": "Net.DataPipeUseForUrlLoader.Max",
+        "samples": 4,
+        "mean": 1.2
+      },
+      {
+        "line": 1220,
+        "metric": "Net.DataPipeUseForUrlLoader.Min",
+        "samples": 4,
+        "mean": 0.0
+      },
+      {
+        "line": 1224,
+        "metric": "Net.DataPipeUseForWebSocket.Max",
+        "samples": 4,
+        "mean": 0.0
+      },
+      {
+        "line": 1228,
+        "metric": "Net.DataPipeUseForWebSocket.Min",
+        "samples": 4,
+        "mean": 0.0
+      },
+      {
+        "line": 1232,
+        "metric": "Net.ExpectCT.EntriesOnLoad",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1236,
+        "metric": "Net.HttpJob.PrefilterBytesRead",
+        "samples": 80,
+        "mean": 19013.7
+      },
+      {
+        "line": 1258,
+        "metric": "Net.HttpJob.PrefilterBytesRead.Cache",
+        "samples": 28,
+        "mean": 11065.1
+      },
+      {
+        "line": 1269,
+        "metric": "Net.HttpJob.PrefilterBytesRead.Net",
+        "samples": 52,
+        "mean": 23293.6
+      },
+      {
+        "line": 1287,
+        "metric": "Net.HttpJob.TotalTime",
+        "samples": 80,
+        "mean": 243.7
+      },
+      {
+        "line": 1314,
+        "metric": "Net.HttpJob.TotalTimeCached",
+        "samples": 28,
+        "mean": 91.2
+      },
+      {
+        "line": 1335,
+        "metric": "Net.HttpJob.TotalTimeCancel",
+        "samples": 4,
+        "mean": 2.2
+      },
+      {
+        "line": 1343,
+        "metric": "Net.HttpJob.TotalTimeNotCached",
+        "samples": 52,
+        "mean": 325.8
+      },
+      {
+        "line": 1360,
+        "metric": "Net.HttpJob.TotalTimeSuccess",
+        "samples": 76,
+        "mean": 256.4
+      },
+      {
+        "line": 1385,
+        "metric": "Net.HttpJob.TotalTimeSuccess.Priority2",
+        "samples": 16,
+        "mean": 40.1
+      },
+      {
+        "line": 1395,
+        "metric": "Net.HttpJob.TotalTimeSuccess.Priority4",
+        "samples": 44,
+        "mean": 266.5
+      },
+      {
+        "line": 1409,
+        "metric": "Net.HttpJob.TotalTimeSuccess.Priority5",
+        "samples": 16,
+        "mean": 445.1
+      },
+      {
+        "line": 1430,
+        "metric": "Net.HttpResponseCode",
+        "samples": 57,
+        "mean": 209.1
+      },
+      {
+        "line": 1437,
+        "metric": "Net.HttpServerProperties.CountOfServers",
+        "samples": 1,
+        "mean": 17.0
+      },
+      {
+        "line": 1442,
+        "metric": "Net.HttpTimeToFirstByte",
+        "samples": 80,
+        "mean": 241.1
+      },
+      {
+        "line": 1459,
+        "metric": "Net.KeepaliveStatisticsRecorder.PeakInflightRequests2",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1463,
+        "metric": "Net.KeepaliveStatisticsRecorder.PeakInflightRequestsPerTopLevelFrame",
+        "samples": 18,
+        "mean": 0.0
+      },
+      {
+        "line": 1467,
+        "metric": "Net.MainFrameNoStore",
+        "samples": 4,
+        "mean": 0.0
+      },
+      {
+        "line": 1471,
+        "metric": "Net.NetworkChangeNotifier.NewConnectionType",
+        "samples": 2,
+        "mean": 0.0
+      },
+      {
+        "line": 1475,
+        "metric": "Net.NotifyAddrChangeFailures",
+        "samples": 3,
+        "mean": 0.0
+      },
+      {
+        "line": 1479,
+        "metric": "Net.NumQuicSessionsAtShutdown",
+        "samples": 2,
+        "mean": 0.0
+      },
+      {
+        "line": 1483,
+        "metric": "Net.Port.SlipstreamRestricted",
+        "samples": 57,
+        "mean": 0.0
+      },
+      {
+        "line": 1487,
+        "metric": "Net.QuicSession.CloseAllSessionsError",
+        "samples": 2,
+        "mean": null
+      },
+      {
+        "line": 1490,
+        "metric": "Net.QuicSession.FinchConfigIsValid",
+        "samples": 2,
+        "mean": 1.0
+      },
+      {
+        "line": 1495,
+        "metric": "Net.RedirectChainLength",
+        "samples": 80,
+        "mean": 0.0
+      },
+      {
+        "line": 1499,
+        "metric": "Net.RestrictedCookieManager.SiteForCookiesOK",
+        "samples": 10700,
+        "mean": 1.0
+      },
+      {
+        "line": 1504,
+        "metric": "Net.RestrictedCookieManager.TopFrameOriginOK",
+        "samples": 10700,
+        "mean": 1.0
+      },
+      {
+        "line": 1509,
+        "metric": "Net.SSLCertVerificationTime",
+        "samples": 4,
+        "mean": 462.2
+      },
+      {
+        "line": 1519,
+        "metric": "Net.SSLHandshakeDetails",
+        "samples": 4,
+        "mean": 6.0
+      },
+      {
+        "line": 1524,
+        "metric": "Net.SSLLegacyCryptoFallback",
+        "samples": 4,
+        "mean": 0.0
+      },
+      {
+        "line": 1528,
+        "metric": "Net.SSLNegotiatedAlpnProtocol",
+        "samples": 4,
+        "mean": 1.2
+      },
+      {
+        "line": 1534,
+        "metric": "Net.SSLSignatureAlgorithm",
+        "samples": 4,
+        "mean": null
+      },
+      {
+        "line": 1538,
+        "metric": "Net.SSLVersion",
+        "samples": 4,
+        "mean": 6.0
+      },
+      {
+        "line": 1543,
+        "metric": "Net.SSL_CipherSuite",
+        "samples": 4,
+        "mean": null
+      },
+      {
+        "line": 1546,
+        "metric": "Net.SSL_Connection_Error",
+        "samples": 4,
+        "mean": null
+      },
+      {
+        "line": 1549,
+        "metric": "Net.SSL_Connection_Latency_2",
+        "samples": 4,
+        "mean": 574.0
+      },
+      {
+        "line": 1559,
+        "metric": "Net.SSL_KeyExchange.ECDHE",
+        "samples": 4,
+        "mean": null
+      },
+      {
+        "line": 1562,
+        "metric": "Net.SiteDomainIsSafe",
+        "samples": 68308,
+        "mean": 1.0
+      },
+      {
+        "line": 1567,
+        "metric": "Net.SpdyHeadersCompressionPercentage",
+        "samples": 52,
+        "mean": 90.8
+      },
+      {
+        "line": 1586,
+        "metric": "Net.SpdyResponseCode",
+        "samples": 52,
+        "mean": null
+      },
+      {
+        "line": 1589,
+        "metric": "Net.SpdySession.ClosedOnError",
+        "samples": 1,
+        "mean": null
+      },
+      {
+        "line": 1592,
+        "metric": "Net.SpdySession.CreateStreamWithSocketConnected",
+        "samples": 52,
+        "mean": 1.0
+      },
+      {
+        "line": 1597,
+        "metric": "Net.SpdySession.PushedAndUnclaimedBytes",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1601,
+        "metric": "Net.SpdySession.PushedBytes",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1605,
+        "metric": "Net.SpdySession.ServerSupportsWebSocket",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1609,
+        "metric": "Net.SpdySessionGet",
+        "samples": 52,
+        "mean": 1.0
+      },
+      {
+        "line": 1616,
+        "metric": "Net.SpdyStreamsAbandonedPerSession",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1620,
+        "metric": "Net.SpdyStreamsPerSession",
+        "samples": 1,
+        "mean": 52.0
+      },
+      {
+        "line": 1625,
+        "metric": "Net.SpdyStreamsPushedAndClaimedPerSession",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1629,
+        "metric": "Net.SpdyStreamsPushedPerSession",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1633,
+        "metric": "Net.TCP_Connection_Latency",
+        "samples": 4,
+        "mean": 107.2
+      },
+      {
+        "line": 1639,
+        "metric": "Net.TCP_Connection_Latency_IPv4_No_Race",
+        "samples": 4,
+        "mean": 107.2
+      },
+      {
+        "line": 1645,
+        "metric": "Net.TcpConnectAttempt.Latency.Success",
+        "samples": 4,
+        "mean": 107.0
+      },
+      {
+        "line": 1651,
+        "metric": "Net.TcpConnectAttempt.LatencyPercentRTT.Success",
+        "samples": 4,
+        "mean": 85.5
+      },
+      {
+        "line": 1657,
+        "metric": "Net.UDPSocketWinClose",
+        "samples": 16,
+        "mean": 0.0
+      },
+      {
+        "line": 1661,
+        "metric": "Net.URLRequest.ReferrerHasInformativePath.CrossOrigin",
+        "samples": 24,
+        "mean": 0.0
+      },
+      {
+        "line": 1665,
+        "metric": "Net.URLRequest.ReferrerHasInformativePath.SameOrigin",
+        "samples": 56,
+        "mean": 1.0
+      },
+      {
+        "line": 1670,
+        "metric": "Net.URLRequest.ReferrerPolicyForRequest.CrossOrigin",
+        "samples": 24,
+        "mean": 1.0
+      },
+      {
+        "line": 1675,
+        "metric": "Net.URLRequest.ReferrerPolicyForRequest.SameOrigin",
+        "samples": 56,
+        "mean": 1.0
+      },
+      {
+        "line": 3124,
+        "metric": "Net.Certificate.TrustAnchor.Verify",
+        "samples": 2,
+        "mean": null
+      },
+      {
+        "line": 3128,
+        "metric": "Net.DNS.DnsConfig.SecureDnsMode",
+        "samples": 1,
+        "mean": 4.0
+      },
+      {
+        "line": 3133,
+        "metric": "Net.HttpResponseCode",
+        "samples": 76,
+        "mean": 200.0
+      },
+      {
+        "line": 3138,
+        "metric": "Net.NetworkChangeNotifier.NewConnectionType",
+        "samples": 3,
+        "mean": 0.0
+      },
+      {
+        "line": 3142,
+        "metric": "Net.NotifyAddrChangeFailures",
+        "samples": 3,
+        "mean": 0.0
+      },
+      {
+        "line": 3146,
+        "metric": "Net.SiteDomainIsSafe",
+        "samples": 11311,
+        "mean": 1.0
+      },
+      {
+        "line": 3151,
+        "metric": "Net.URLLoaderThrottleExecutionTime.BeforeWillProcessResponse",
+        "samples": 12,
+        "mean": 0.0
+      },
+      {
+        "line": 3155,
+        "metric": "Net.URLLoaderThrottleExecutionTime.WillProcessResponse",
+        "samples": 12,
+        "mean": 0.0
+      },
+      {
+        "line": 3159,
+        "metric": "Net.URLLoaderThrottleExecutionTime.WillStartRequest",
+        "samples": 12,
+        "mean": 0.0
+      }
+    ],
+    "explicit_browser_error_counts": {
+      "ERR_CONNECTION_RESET": 0,
+      "ERR_CONNECTION_TIMED_OUT": 0,
+      "ERR_NAME_NOT_RESOLVED": 0,
+      "ERR_INTERNET_DISCONNECTED": 0
+    },
+    "has_internal_2026_11_14": false,
+    "has_internal_2026_11_15": false
+  },
+  {
+    "file_id": "archive-02-member-0794",
+    "kind": "client_or_cef",
+    "lines": 4324,
+    "bootstrap_already_running": false,
+    "cef_network_histograms": [
+      {
+        "line": 1618,
+        "metric": "Net.AlternativeServiceTypeForRequest",
+        "samples": 117,
+        "mean": 0.0
+      },
+      {
+        "line": 1622,
+        "metric": "Net.CertVerifier_First_Job_Latency",
+        "samples": 1,
+        "mean": 1726.0
+      },
+      {
+        "line": 1627,
+        "metric": "Net.CertVerifier_Job_Latency",
+        "samples": 10,
+        "mean": 895.0
+      },
+      {
+        "line": 1647,
+        "metric": "Net.Certificate.IgnoreCertificateErrorsSPKIListPresent",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1651,
+        "metric": "Net.Certificate.IgnoreErrors",
+        "samples": 2,
+        "mean": 0.0
+      },
+      {
+        "line": 1655,
+        "metric": "Net.Certificate.TrustAnchor.Request",
+        "samples": 117,
+        "mean": null
+      },
+      {
+        "line": 1660,
+        "metric": "Net.CertificateTransparency.ConnectionComplianceStatus2.SSL",
+        "samples": 18,
+        "mean": 3.0
+      },
+      {
+        "line": 1665,
+        "metric": "Net.CertificateTransparency.RequestComplianceStatus",
+        "samples": 117,
+        "mean": 3.0
+      },
+      {
+        "line": 1670,
+        "metric": "Net.Cors.AccessCheckResult",
+        "samples": 9,
+        "mean": 0.0
+      },
+      {
+        "line": 1674,
+        "metric": "Net.CountOfQuicServerInfos",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1678,
+        "metric": "Net.DNS.Request.TotalTime",
+        "samples": 379,
+        "mean": 5.1
+      },
+      {
+        "line": 1695,
+        "metric": "Net.DNS.Request.TotalTimeAsync",
+        "samples": 60,
+        "mean": 32.5
+      },
+      {
+        "line": 1712,
+        "metric": "Net.DNS.ResolveCategory",
+        "samples": 56,
+        "mean": 0.9
+      },
+      {
+        "line": 1719,
+        "metric": "Net.DNS.ResolveError.Fast",
+        "samples": 41,
+        "mean": null
+      },
+      {
+        "line": 1722,
+        "metric": "Net.DNS.ResolveError.Slow",
+        "samples": 6,
+        "mean": null
+      },
+      {
+        "line": 1726,
+        "metric": "Net.DNS.ResolveFailureTime",
+        "samples": 46,
+        "mean": 5.8
+      },
+      {
+        "line": 1745,
+        "metric": "Net.DNS.ResolveSuccessTime",
+        "samples": 9,
+        "mean": 169.8
+      },
+      {
+        "line": 1760,
+        "metric": "Net.DNS.SecureDnsMode.Automatic.ResolveTime",
+        "samples": 56,
+        "mean": 32.9
+      },
+      {
+        "line": 1782,
+        "metric": "Net.DNS.UpgradeConfig.HasPublicInsecureNameserver",
+        "samples": 15,
+        "mean": 0.0
+      },
+      {
+        "line": 1786,
+        "metric": "Net.DNS.UpgradeConfig.InsecureUpgradeSucceeded",
+        "samples": 15,
+        "mean": 0.0
+      },
+      {
+        "line": 1790,
+        "metric": "Net.DNS_Resolution_And_TCP_Connection_Latency2",
+        "samples": 18,
+        "mean": 208.4
+      },
+      {
+        "line": 1803,
+        "metric": "Net.DataPipeUseForUrlLoader.Max",
+        "samples": 14,
+        "mean": 0.9
+      },
+      {
+        "line": 1809,
+        "metric": "Net.DataPipeUseForUrlLoader.Min",
+        "samples": 14,
+        "mean": 0.0
+      },
+      {
+        "line": 1813,
+        "metric": "Net.DataPipeUseForWebSocket.Max",
+        "samples": 14,
+        "mean": 0.0
+      },
+      {
+        "line": 1817,
+        "metric": "Net.DataPipeUseForWebSocket.Min",
+        "samples": 14,
+        "mean": 0.0
+      },
+      {
+        "line": 1821,
+        "metric": "Net.ExpectCT.EntriesOnLoad",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1825,
+        "metric": "Net.HttpJob.PrefilterBytesRead",
+        "samples": 161,
+        "mean": 18902.8
+      },
+      {
+        "line": 1848,
+        "metric": "Net.HttpJob.PrefilterBytesRead.Cache",
+        "samples": 56,
+        "mean": 11065.1
+      },
+      {
+        "line": 1859,
+        "metric": "Net.HttpJob.PrefilterBytesRead.Net",
+        "samples": 105,
+        "mean": 23082.9
+      },
+      {
+        "line": 1878,
+        "metric": "Net.HttpJob.TotalTime",
+        "samples": 161,
+        "mean": 405.0
+      },
+      {
+        "line": 1909,
+        "metric": "Net.HttpJob.TotalTimeCached",
+        "samples": 56,
+        "mean": 337.0
+      },
+      {
+        "line": 1927,
+        "metric": "Net.HttpJob.TotalTimeCancel",
+        "samples": 8,
+        "mean": 0.2
+      },
+      {
+        "line": 1932,
+        "metric": "Net.HttpJob.TotalTimeNotCached",
+        "samples": 105,
+        "mean": 441.3
+      },
+      {
+        "line": 1954,
+        "metric": "Net.HttpJob.TotalTimeSuccess",
+        "samples": 153,
+        "mean": 426.2
+      },
+      {
+        "line": 1985,
+        "metric": "Net.HttpJob.TotalTimeSuccess.Priority2",
+        "samples": 32,
+        "mean": 43.8
+      },
+      {
+        "line": 2000,
+        "metric": "Net.HttpJob.TotalTimeSuccess.Priority4",
+        "samples": 89,
+        "mean": 372.6
+      },
+      {
+        "line": 2017,
+        "metric": "Net.HttpJob.TotalTimeSuccess.Priority5",
+        "samples": 32,
+        "mean": 957.8
+      },
+      {
+        "line": 2036,
+        "metric": "Net.HttpResponseCode",
+        "samples": 117,
+        "mean": 210.7
+      },
+      {
+        "line": 2045,
+        "metric": "Net.HttpServerProperties.CountOfServers",
+        "samples": 1,
+        "mean": 17.0
+      },
+      {
+        "line": 2050,
+        "metric": "Net.HttpTimeToFirstByte",
+        "samples": 161,
+        "mean": 394.3
+      },
+      {
+        "line": 2074,
+        "metric": "Net.KeepaliveStatisticsRecorder.PeakInflightRequests2",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 2078,
+        "metric": "Net.KeepaliveStatisticsRecorder.PeakInflightRequestsPerTopLevelFrame",
+        "samples": 30,
+        "mean": 0.0
+      },
+      {
+        "line": 2082,
+        "metric": "Net.MainFrameNoStore",
+        "samples": 8,
+        "mean": 0.0
+      },
+      {
+        "line": 2086,
+        "metric": "Net.NetworkChangeNotifier.NewConnectionType",
+        "samples": 14,
+        "mean": 0.2
+      },
+      {
+        "line": 2091,
+        "metric": "Net.NotifyAddrChangeFailures",
+        "samples": 20,
+        "mean": 0.0
+      },
+      {
+        "line": 2095,
+        "metric": "Net.NumQuicSessionsAtShutdown",
+        "samples": 2,
+        "mean": 0.0
+      },
+      {
+        "line": 2099,
+        "metric": "Net.Port.SlipstreamRestricted",
+        "samples": 117,
+        "mean": 0.0
+      },
+      {
+        "line": 2103,
+        "metric": "Net.QuicSession.CloseAllSessionsError",
+        "samples": 2,
+        "mean": null
+      },
+      {
+        "line": 2106,
+        "metric": "Net.QuicSession.FinchConfigIsValid",
+        "samples": 2,
+        "mean": 1.0
+      },
+      {
+        "line": 2111,
+        "metric": "Net.RedirectChainLength",
+        "samples": 161,
+        "mean": 0.0
+      },
+      {
+        "line": 2115,
+        "metric": "Net.RestrictedCookieManager.SiteForCookiesOK",
+        "samples": 26045,
+        "mean": 1.0
+      },
+      {
+        "line": 2120,
+        "metric": "Net.RestrictedCookieManager.TopFrameOriginOK",
+        "samples": 26045,
+        "mean": 1.0
+      },
+      {
+        "line": 2125,
+        "metric": "Net.SSLCertVerificationTime",
+        "samples": 18,
+        "mean": 811.0
+      },
+      {
+        "line": 2149,
+        "metric": "Net.SSLHandshakeDetails",
+        "samples": 18,
+        "mean": 6.7
+      },
+      {
+        "line": 2155,
+        "metric": "Net.SSLLegacyCryptoFallback",
+        "samples": 18,
+        "mean": 0.0
+      },
+      {
+        "line": 2159,
+        "metric": "Net.SSLNegotiatedAlpnProtocol",
+        "samples": 18,
+        "mean": 1.2
+      },
+      {
+        "line": 2165,
+        "metric": "Net.SSLSignatureAlgorithm",
+        "samples": 18,
+        "mean": null
+      },
+      {
+        "line": 2169,
+        "metric": "Net.SSLVersion",
+        "samples": 18,
+        "mean": 6.0
+      },
+      {
+        "line": 2174,
+        "metric": "Net.SSL_CipherSuite",
+        "samples": 18,
+        "mean": null
+      },
+      {
+        "line": 2178,
+        "metric": "Net.SSL_Connection_Error",
+        "samples": 18,
+        "mean": null
+      },
+      {
+        "line": 2181,
+        "metric": "Net.SSL_Connection_Latency_2",
+        "samples": 18,
+        "mean": 937.4
+      },
+      {
+        "line": 2202,
+        "metric": "Net.SSL_KeyExchange.ECDHE",
+        "samples": 18,
+        "mean": null
+      },
+      {
+        "line": 2205,
+        "metric": "Net.SiteDomainIsSafe",
+        "samples": 168542,
+        "mean": 1.0
+      },
+      {
+        "line": 2210,
+        "metric": "Net.SpdyHeadersCompressionPercentage",
+        "samples": 104,
+        "mean": 88.6
+      },
+      {
+        "line": 2230,
+        "metric": "Net.SpdyResponseCode",
+        "samples": 104,
+        "mean": null
+      },
+      {
+        "line": 2233,
+        "metric": "Net.SpdySession.ClosedOnError",
+        "samples": 4,
+        "mean": null
+      },
+      {
+        "line": 2237,
+        "metric": "Net.SpdySession.CreateStreamWithSocketConnected",
+        "samples": 104,
+        "mean": 1.0
+      },
+      {
+        "line": 2242,
+        "metric": "Net.SpdySession.PushedAndUnclaimedBytes",
+        "samples": 4,
+        "mean": 0.0
+      },
+      {
+        "line": 2246,
+        "metric": "Net.SpdySession.PushedBytes",
+        "samples": 4,
+        "mean": 0.0
+      },
+      {
+        "line": 2250,
+        "metric": "Net.SpdySession.ServerSupportsWebSocket",
+        "samples": 4,
+        "mean": 0.0
+      },
+      {
+        "line": 2254,
+        "metric": "Net.SpdySessionGet",
+        "samples": 104,
+        "mean": 1.1
+      },
+      {
+        "line": 2261,
+        "metric": "Net.SpdyStreamsAbandonedPerSession",
+        "samples": 4,
+        "mean": 0.0
+      },
+      {
+        "line": 2265,
+        "metric": "Net.SpdyStreamsPerSession",
+        "samples": 4,
+        "mean": 26.0
+      },
+      {
+        "line": 2270,
+        "metric": "Net.SpdyStreamsPushedAndClaimedPerSession",
+        "samples": 4,
+        "mean": 0.0
+      },
+      {
+        "line": 2274,
+        "metric": "Net.SpdyStreamsPushedPerSession",
+        "samples": 4,
+        "mean": 0.0
+      },
+      {
+        "line": 2278,
+        "metric": "Net.TCP_Connection_Latency",
+        "samples": 18,
+        "mean": 121.5
+      },
+      {
+        "line": 2288,
+        "metric": "Net.TCP_Connection_Latency_IPv4_No_Race",
+        "samples": 18,
+        "mean": 121.5
+      },
+      {
+        "line": 2298,
+        "metric": "Net.TcpConnectAttempt.Latency.Success",
+        "samples": 18,
+        "mean": 121.4
+      },
+      {
+        "line": 2306,
+        "metric": "Net.TcpConnectAttempt.LatencyPercentRTT.Success",
+        "samples": 18,
+        "mean": 96.9
+      },
+      {
+        "line": 2315,
+        "metric": "Net.UDPSocketWinClose",
+        "samples": 42,
+        "mean": 0.0
+      },
+      {
+        "line": 2320,
+        "metric": "Net.URLRequest.ReferrerHasInformativePath.CrossOrigin",
+        "samples": 49,
+        "mean": 0.0
+      },
+      {
+        "line": 2324,
+        "metric": "Net.URLRequest.ReferrerHasInformativePath.SameOrigin",
+        "samples": 112,
+        "mean": 1.0
+      },
+      {
+        "line": 2329,
+        "metric": "Net.URLRequest.ReferrerPolicyForRequest.CrossOrigin",
+        "samples": 49,
+        "mean": 1.0
+      },
+      {
+        "line": 2334,
+        "metric": "Net.URLRequest.ReferrerPolicyForRequest.SameOrigin",
+        "samples": 112,
+        "mean": 1.0
+      },
+      {
+        "line": 3825,
+        "metric": "Net.Certificate.TrustAnchor.Verify",
+        "samples": 10,
+        "mean": null
+      },
+      {
+        "line": 3830,
+        "metric": "Net.DNS.DnsConfig.SecureDnsMode",
+        "samples": 1,
+        "mean": 4.0
+      },
+      {
+        "line": 3835,
+        "metric": "Net.HttpResponseCode",
+        "samples": 153,
+        "mean": 200.0
+      },
+      {
+        "line": 3842,
+        "metric": "Net.NetworkChangeNotifier.NewConnectionType",
+        "samples": 18,
+        "mean": 0.2
+      },
+      {
+        "line": 3847,
+        "metric": "Net.NotifyAddrChangeFailures",
+        "samples": 21,
+        "mean": 0.0
+      },
+      {
+        "line": 3851,
+        "metric": "Net.SiteDomainIsSafe",
+        "samples": 27255,
+        "mean": 1.0
+      },
+      {
+        "line": 3856,
+        "metric": "Net.URLLoaderThrottleExecutionTime.BeforeWillProcessResponse",
+        "samples": 24,
+        "mean": 0.0
+      },
+      {
+        "line": 3860,
+        "metric": "Net.URLLoaderThrottleExecutionTime.WillProcessResponse",
+        "samples": 24,
+        "mean": 0.0
+      },
+      {
+        "line": 3864,
+        "metric": "Net.URLLoaderThrottleExecutionTime.WillStartRequest",
+        "samples": 24,
+        "mean": 0.0
+      }
+    ],
+    "explicit_browser_error_counts": {
+      "ERR_CONNECTION_RESET": 0,
+      "ERR_CONNECTION_TIMED_OUT": 0,
+      "ERR_NAME_NOT_RESOLVED": 0,
+      "ERR_INTERNET_DISCONNECTED": 0
+    },
+    "has_internal_2026_11_14": false,
+    "has_internal_2026_11_15": false
+  },
+  {
+    "file_id": "archive-02-member-0795",
+    "kind": "client_or_cef",
+    "lines": 2957,
+    "bootstrap_already_running": false,
+    "cef_network_histograms": [
+      {
+        "line": 726,
+        "metric": "Net.AlternativeServiceTypeForRequest",
+        "samples": 29,
+        "mean": 0.0
+      },
+      {
+        "line": 730,
+        "metric": "Net.CertVerifier_First_Job_Latency",
+        "samples": 1,
+        "mean": 1515.0
+      },
+      {
+        "line": 735,
+        "metric": "Net.CertVerifier_Job_Latency",
+        "samples": 3,
+        "mean": 513.0
+      },
+      {
+        "line": 742,
+        "metric": "Net.Certificate.IgnoreCertificateErrorsSPKIListPresent",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 746,
+        "metric": "Net.Certificate.IgnoreErrors",
+        "samples": 2,
+        "mean": 0.0
+      },
+      {
+        "line": 750,
+        "metric": "Net.Certificate.TrustAnchor.Request",
+        "samples": 29,
+        "mean": null
+      },
+      {
+        "line": 754,
+        "metric": "Net.CertificateTransparency.ConnectionComplianceStatus2.SSL",
+        "samples": 4,
+        "mean": 3.0
+      },
+      {
+        "line": 759,
+        "metric": "Net.CertificateTransparency.RequestComplianceStatus",
+        "samples": 29,
+        "mean": 3.0
+      },
+      {
+        "line": 764,
+        "metric": "Net.Cors.AccessCheckResult",
+        "samples": 2,
+        "mean": 0.0
+      },
+      {
+        "line": 768,
+        "metric": "Net.CountOfQuicServerInfos",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 772,
+        "metric": "Net.DNS.Request.TotalTime",
+        "samples": 86,
+        "mean": 0.6
+      },
+      {
+        "line": 778,
+        "metric": "Net.DNS.Request.TotalTimeAsync",
+        "samples": 7,
+        "mean": 7.3
+      },
+      {
+        "line": 784,
+        "metric": "Net.DNS.ResolveCategory",
+        "samples": 6,
+        "mean": 0.7
+      },
+      {
+        "line": 789,
+        "metric": "Net.DNS.ResolveError.Fast",
+        "samples": 3,
+        "mean": null
+      },
+      {
+        "line": 792,
+        "metric": "Net.DNS.ResolveError.Slow",
+        "samples": 1,
+        "mean": null
+      },
+      {
+        "line": 795,
+        "metric": "Net.DNS.ResolveFailureTime",
+        "samples": 4,
+        "mean": 6.2
+      },
+      {
+        "line": 803,
+        "metric": "Net.DNS.ResolveSuccessTime",
+        "samples": 2,
+        "mean": 7.0
+      },
+      {
+        "line": 810,
+        "metric": "Net.DNS.SecureDnsMode.Automatic.ResolveTime",
+        "samples": 6,
+        "mean": 6.5
+      },
+      {
+        "line": 821,
+        "metric": "Net.DNS.UpgradeConfig.HasPublicInsecureNameserver",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 825,
+        "metric": "Net.DNS.UpgradeConfig.InsecureUpgradeSucceeded",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 829,
+        "metric": "Net.DNS_Resolution_And_TCP_Connection_Latency2",
+        "samples": 4,
+        "mean": 112.8
+      },
+      {
+        "line": 836,
+        "metric": "Net.ExpectCT.EntriesOnLoad",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 840,
+        "metric": "Net.HttpJob.PrefilterBytesRead",
+        "samples": 40,
+        "mean": 19013.8
+      },
+      {
+        "line": 862,
+        "metric": "Net.HttpJob.PrefilterBytesRead.Cache",
+        "samples": 14,
+        "mean": 11065.1
+      },
+      {
+        "line": 873,
+        "metric": "Net.HttpJob.PrefilterBytesRead.Net",
+        "samples": 26,
+        "mean": 23293.8
+      },
+      {
+        "line": 891,
+        "metric": "Net.HttpJob.TotalTime",
+        "samples": 40,
+        "mean": 397.5
+      },
+      {
+        "line": 909,
+        "metric": "Net.HttpJob.TotalTimeCached",
+        "samples": 14,
+        "mean": 166.2
+      },
+      {
+        "line": 919,
+        "metric": "Net.HttpJob.TotalTimeCancel",
+        "samples": 2,
+        "mean": 0.0
+      },
+      {
+        "line": 923,
+        "metric": "Net.HttpJob.TotalTimeNotCached",
+        "samples": 26,
+        "mean": 522.1
+      },
+      {
+        "line": 937,
+        "metric": "Net.HttpJob.TotalTimeSuccess",
+        "samples": 38,
+        "mean": 418.5
+      },
+      {
+        "line": 955,
+        "metric": "Net.HttpJob.TotalTimeSuccess.Priority2",
+        "samples": 8,
+        "mean": 44.6
+      },
+      {
+        "line": 966,
+        "metric": "Net.HttpJob.TotalTimeSuccess.Priority4",
+        "samples": 22,
+        "mean": 427.1
+      },
+      {
+        "line": 976,
+        "metric": "Net.HttpJob.TotalTimeSuccess.Priority5",
+        "samples": 8,
+        "mean": 768.5
+      },
+      {
+        "line": 984,
+        "metric": "Net.HttpResponseCode",
+        "samples": 29,
+        "mean": 210.8
+      },
+      {
+        "line": 991,
+        "metric": "Net.HttpServerProperties.CountOfServers",
+        "samples": 1,
+        "mean": 17.0
+      },
+      {
+        "line": 996,
+        "metric": "Net.HttpTimeToFirstByte",
+        "samples": 40,
+        "mean": 387.3
+      },
+      {
+        "line": 1012,
+        "metric": "Net.KeepaliveStatisticsRecorder.PeakInflightRequests2",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1016,
+        "metric": "Net.KeepaliveStatisticsRecorder.PeakInflightRequestsPerTopLevelFrame",
+        "samples": 12,
+        "mean": 0.0
+      },
+      {
+        "line": 1020,
+        "metric": "Net.MainFrameNoStore",
+        "samples": 2,
+        "mean": 0.0
+      },
+      {
+        "line": 1024,
+        "metric": "Net.NotifyAddrChangeFailures",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1028,
+        "metric": "Net.NumQuicSessionsAtShutdown",
+        "samples": 2,
+        "mean": 0.0
+      },
+      {
+        "line": 1032,
+        "metric": "Net.Port.SlipstreamRestricted",
+        "samples": 29,
+        "mean": 0.0
+      },
+      {
+        "line": 1036,
+        "metric": "Net.QuicSession.CloseAllSessionsError",
+        "samples": 2,
+        "mean": null
+      },
+      {
+        "line": 1039,
+        "metric": "Net.QuicSession.FinchConfigIsValid",
+        "samples": 2,
+        "mean": 1.0
+      },
+      {
+        "line": 1044,
+        "metric": "Net.RedirectChainLength",
+        "samples": 40,
+        "mean": 0.0
+      },
+      {
+        "line": 1048,
+        "metric": "Net.RestrictedCookieManager.SiteForCookiesOK",
+        "samples": 64,
+        "mean": 1.0
+      },
+      {
+        "line": 1053,
+        "metric": "Net.RestrictedCookieManager.TopFrameOriginOK",
+        "samples": 64,
+        "mean": 1.0
+      },
+      {
+        "line": 1058,
+        "metric": "Net.SSLCertVerificationTime",
+        "samples": 4,
+        "mean": 384.8
+      },
+      {
+        "line": 1066,
+        "metric": "Net.SSLHandshakeDetails",
+        "samples": 4,
+        "mean": 6.0
+      },
+      {
+        "line": 1071,
+        "metric": "Net.SSLLegacyCryptoFallback",
+        "samples": 4,
+        "mean": 0.0
+      },
+      {
+        "line": 1075,
+        "metric": "Net.SSLNegotiatedAlpnProtocol",
+        "samples": 4,
+        "mean": 1.2
+      },
+      {
+        "line": 1081,
+        "metric": "Net.SSLSignatureAlgorithm",
+        "samples": 4,
+        "mean": null
+      },
+      {
+        "line": 1085,
+        "metric": "Net.SSLVersion",
+        "samples": 4,
+        "mean": 6.0
+      },
+      {
+        "line": 1090,
+        "metric": "Net.SSL_CipherSuite",
+        "samples": 4,
+        "mean": null
+      },
+      {
+        "line": 1093,
+        "metric": "Net.SSL_Connection_Error",
+        "samples": 4,
+        "mean": null
+      },
+      {
+        "line": 1096,
+        "metric": "Net.SSL_Connection_Latency_2",
+        "samples": 4,
+        "mean": 1536.0
+      },
+      {
+        "line": 1107,
+        "metric": "Net.SSL_KeyExchange.ECDHE",
+        "samples": 4,
+        "mean": null
+      },
+      {
+        "line": 1110,
+        "metric": "Net.SiteDomainIsSafe",
+        "samples": 1154,
+        "mean": 1.0
+      },
+      {
+        "line": 1115,
+        "metric": "Net.SpdyHeadersCompressionPercentage",
+        "samples": 26,
+        "mean": 88.9
+      },
+      {
+        "line": 1134,
+        "metric": "Net.SpdyResponseCode",
+        "samples": 26,
+        "mean": null
+      },
+      {
+        "line": 1137,
+        "metric": "Net.SpdySession.ClosedOnError",
+        "samples": 1,
+        "mean": null
+      },
+      {
+        "line": 1140,
+        "metric": "Net.SpdySession.CreateStreamWithSocketConnected",
+        "samples": 26,
+        "mean": 1.0
+      },
+      {
+        "line": 1145,
+        "metric": "Net.SpdySession.PushedAndUnclaimedBytes",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1149,
+        "metric": "Net.SpdySession.PushedBytes",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1153,
+        "metric": "Net.SpdySession.ServerSupportsWebSocket",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1157,
+        "metric": "Net.SpdySessionGet",
+        "samples": 26,
+        "mean": 1.1
+      },
+      {
+        "line": 1164,
+        "metric": "Net.SpdyStreamsAbandonedPerSession",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1168,
+        "metric": "Net.SpdyStreamsPerSession",
+        "samples": 1,
+        "mean": 26.0
+      },
+      {
+        "line": 1173,
+        "metric": "Net.SpdyStreamsPushedAndClaimedPerSession",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1177,
+        "metric": "Net.SpdyStreamsPushedPerSession",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1181,
+        "metric": "Net.TCP_Connection_Latency",
+        "samples": 4,
+        "mean": 107.0
+      },
+      {
+        "line": 1189,
+        "metric": "Net.TCP_Connection_Latency_IPv4_No_Race",
+        "samples": 4,
+        "mean": 107.0
+      },
+      {
+        "line": 1197,
+        "metric": "Net.TcpConnectAttempt.Latency.Success",
+        "samples": 4,
+        "mean": 107.0
+      },
+      {
+        "line": 1203,
+        "metric": "Net.TcpConnectAttempt.LatencyPercentRTT.Success",
+        "samples": 4,
+        "mean": 85.5
+      },
+      {
+        "line": 1209,
+        "metric": "Net.UDPSocketWinClose",
+        "samples": 6,
+        "mean": 0.0
+      },
+      {
+        "line": 1213,
+        "metric": "Net.URLRequest.ReferrerHasInformativePath.CrossOrigin",
+        "samples": 12,
+        "mean": 0.0
+      },
+      {
+        "line": 1217,
+        "metric": "Net.URLRequest.ReferrerHasInformativePath.SameOrigin",
+        "samples": 28,
+        "mean": 1.0
+      },
+      {
+        "line": 1222,
+        "metric": "Net.URLRequest.ReferrerPolicyForRequest.CrossOrigin",
+        "samples": 12,
+        "mean": 1.0
+      },
+      {
+        "line": 1227,
+        "metric": "Net.URLRequest.ReferrerPolicyForRequest.SameOrigin",
+        "samples": 28,
+        "mean": 1.0
+      },
+      {
+        "line": 2535,
+        "metric": "Net.Certificate.TrustAnchor.Verify",
+        "samples": 3,
+        "mean": null
+      },
+      {
+        "line": 2539,
+        "metric": "Net.DNS.DnsConfig.SecureDnsMode",
+        "samples": 1,
+        "mean": 4.0
+      },
+      {
+        "line": 2544,
+        "metric": "Net.HttpResponseCode",
+        "samples": 38,
+        "mean": 200.0
+      },
+      {
+        "line": 2549,
+        "metric": "Net.NotifyAddrChangeFailures",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 2553,
+        "metric": "Net.SiteDomainIsSafe",
+        "samples": 370,
+        "mean": 1.0
+      },
+      {
+        "line": 2558,
+        "metric": "Net.URLLoaderThrottleExecutionTime.BeforeWillProcessResponse",
+        "samples": 6,
+        "mean": 0.0
+      },
+      {
+        "line": 2562,
+        "metric": "Net.URLLoaderThrottleExecutionTime.WillProcessResponse",
+        "samples": 6,
+        "mean": 0.0
+      },
+      {
+        "line": 2566,
+        "metric": "Net.URLLoaderThrottleExecutionTime.WillStartRequest",
+        "samples": 6,
+        "mean": 0.0
+      }
+    ],
+    "explicit_browser_error_counts": {
+      "ERR_CONNECTION_RESET": 0,
+      "ERR_CONNECTION_TIMED_OUT": 0,
+      "ERR_NAME_NOT_RESOLVED": 0,
+      "ERR_INTERNET_DISCONNECTED": 0
+    },
+    "has_internal_2026_11_14": false,
+    "has_internal_2026_11_15": false
+  },
+  {
+    "file_id": "archive-02-member-0796",
+    "kind": "client_or_cef",
+    "lines": 2873,
+    "bootstrap_already_running": false,
+    "cef_network_histograms": [
+      {
+        "line": 755,
+        "metric": "Net.AlternativeServiceTypeForRequest",
+        "samples": 29,
+        "mean": 0.0
+      },
+      {
+        "line": 759,
+        "metric": "Net.CertVerifier_First_Job_Latency",
+        "samples": 1,
+        "mean": 1703.0
+      },
+      {
+        "line": 764,
+        "metric": "Net.CertVerifier_Job_Latency",
+        "samples": 3,
+        "mean": 575.7
+      },
+      {
+        "line": 771,
+        "metric": "Net.Certificate.IgnoreCertificateErrorsSPKIListPresent",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 775,
+        "metric": "Net.Certificate.IgnoreErrors",
+        "samples": 2,
+        "mean": 0.0
+      },
+      {
+        "line": 779,
+        "metric": "Net.Certificate.TrustAnchor.Request",
+        "samples": 29,
+        "mean": null
+      },
+      {
+        "line": 783,
+        "metric": "Net.CertificateTransparency.ConnectionComplianceStatus2.SSL",
+        "samples": 4,
+        "mean": 3.0
+      },
+      {
+        "line": 788,
+        "metric": "Net.CertificateTransparency.RequestComplianceStatus",
+        "samples": 29,
+        "mean": 3.0
+      },
+      {
+        "line": 793,
+        "metric": "Net.Cors.AccessCheckResult",
+        "samples": 2,
+        "mean": 0.0
+      },
+      {
+        "line": 797,
+        "metric": "Net.CountOfQuicServerInfos",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 801,
+        "metric": "Net.DNS.Request.TotalTime",
+        "samples": 86,
+        "mean": 2.2
+      },
+      {
+        "line": 809,
+        "metric": "Net.DNS.Request.TotalTimeAsync",
+        "samples": 7,
+        "mean": 27.4
+      },
+      {
+        "line": 817,
+        "metric": "Net.DNS.ResolveCategory",
+        "samples": 6,
+        "mean": 0.7
+      },
+      {
+        "line": 822,
+        "metric": "Net.DNS.ResolveError.Fast",
+        "samples": 4,
+        "mean": null
+      },
+      {
+        "line": 825,
+        "metric": "Net.DNS.ResolveFailureTime",
+        "samples": 4,
+        "mean": 3.0
+      },
+      {
+        "line": 830,
+        "metric": "Net.DNS.ResolveSuccessTime",
+        "samples": 2,
+        "mean": 68.5
+      },
+      {
+        "line": 837,
+        "metric": "Net.DNS.SecureDnsMode.Automatic.ResolveTime",
+        "samples": 6,
+        "mean": 24.8
+      },
+      {
+        "line": 846,
+        "metric": "Net.DNS.UpgradeConfig.HasPublicInsecureNameserver",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 850,
+        "metric": "Net.DNS.UpgradeConfig.InsecureUpgradeSucceeded",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 854,
+        "metric": "Net.DNS_Resolution_And_TCP_Connection_Latency2",
+        "samples": 4,
+        "mean": 145.2
+      },
+      {
+        "line": 863,
+        "metric": "Net.ExpectCT.EntriesOnLoad",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 867,
+        "metric": "Net.HttpJob.PrefilterBytesRead",
+        "samples": 40,
+        "mean": 19016.5
+      },
+      {
+        "line": 889,
+        "metric": "Net.HttpJob.PrefilterBytesRead.Cache",
+        "samples": 14,
+        "mean": 11065.1
+      },
+      {
+        "line": 900,
+        "metric": "Net.HttpJob.PrefilterBytesRead.Net",
+        "samples": 26,
+        "mean": 23298.0
+      },
+      {
+        "line": 918,
+        "metric": "Net.HttpJob.TotalTime",
+        "samples": 40,
+        "mean": 358.8
+      },
+      {
+        "line": 937,
+        "metric": "Net.HttpJob.TotalTimeCached",
+        "samples": 14,
+        "mean": 150.4
+      },
+      {
+        "line": 945,
+        "metric": "Net.HttpJob.TotalTimeCancel",
+        "samples": 2,
+        "mean": 0.0
+      },
+      {
+        "line": 949,
+        "metric": "Net.HttpJob.TotalTimeNotCached",
+        "samples": 26,
+        "mean": 471.1
+      },
+      {
+        "line": 965,
+        "metric": "Net.HttpJob.TotalTimeSuccess",
+        "samples": 38,
+        "mean": 377.7
+      },
+      {
+        "line": 984,
+        "metric": "Net.HttpJob.TotalTimeSuccess.Priority2",
+        "samples": 8,
+        "mean": 36.9
+      },
+      {
+        "line": 994,
+        "metric": "Net.HttpJob.TotalTimeSuccess.Priority4",
+        "samples": 22,
+        "mean": 347.6
+      },
+      {
+        "line": 1005,
+        "metric": "Net.HttpJob.TotalTimeSuccess.Priority5",
+        "samples": 8,
+        "mean": 801.4
+      },
+      {
+        "line": 1013,
+        "metric": "Net.HttpResponseCode",
+        "samples": 29,
+        "mean": 210.8
+      },
+      {
+        "line": 1020,
+        "metric": "Net.HttpServerProperties.CountOfServers",
+        "samples": 1,
+        "mean": 17.0
+      },
+      {
+        "line": 1025,
+        "metric": "Net.HttpTimeToFirstByte",
+        "samples": 40,
+        "mean": 349.8
+      },
+      {
+        "line": 1040,
+        "metric": "Net.KeepaliveStatisticsRecorder.PeakInflightRequests2",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1044,
+        "metric": "Net.KeepaliveStatisticsRecorder.PeakInflightRequestsPerTopLevelFrame",
+        "samples": 12,
+        "mean": 0.0
+      },
+      {
+        "line": 1048,
+        "metric": "Net.MainFrameNoStore",
+        "samples": 2,
+        "mean": 0.0
+      },
+      {
+        "line": 1052,
+        "metric": "Net.NotifyAddrChangeFailures",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1056,
+        "metric": "Net.NumQuicSessionsAtShutdown",
+        "samples": 2,
+        "mean": 0.0
+      },
+      {
+        "line": 1060,
+        "metric": "Net.Port.SlipstreamRestricted",
+        "samples": 29,
+        "mean": 0.0
+      },
+      {
+        "line": 1064,
+        "metric": "Net.QuicSession.CloseAllSessionsError",
+        "samples": 2,
+        "mean": null
+      },
+      {
+        "line": 1067,
+        "metric": "Net.QuicSession.FinchConfigIsValid",
+        "samples": 2,
+        "mean": 1.0
+      },
+      {
+        "line": 1072,
+        "metric": "Net.RedirectChainLength",
+        "samples": 40,
+        "mean": 0.0
+      },
+      {
+        "line": 1076,
+        "metric": "Net.RestrictedCookieManager.SiteForCookiesOK",
+        "samples": 75,
+        "mean": 1.0
+      },
+      {
+        "line": 1081,
+        "metric": "Net.RestrictedCookieManager.TopFrameOriginOK",
+        "samples": 75,
+        "mean": 1.0
+      },
+      {
+        "line": 1086,
+        "metric": "Net.SSLCertVerificationTime",
+        "samples": 4,
+        "mean": 431.8
+      },
+      {
+        "line": 1094,
+        "metric": "Net.SSLHandshakeDetails",
+        "samples": 4,
+        "mean": 6.0
+      },
+      {
+        "line": 1099,
+        "metric": "Net.SSLLegacyCryptoFallback",
+        "samples": 4,
+        "mean": 0.0
+      },
+      {
+        "line": 1103,
+        "metric": "Net.SSLNegotiatedAlpnProtocol",
+        "samples": 4,
+        "mean": 1.2
+      },
+      {
+        "line": 1109,
+        "metric": "Net.SSLSignatureAlgorithm",
+        "samples": 4,
+        "mean": null
+      },
+      {
+        "line": 1113,
+        "metric": "Net.SSLVersion",
+        "samples": 4,
+        "mean": 6.0
+      },
+      {
+        "line": 1118,
+        "metric": "Net.SSL_CipherSuite",
+        "samples": 4,
+        "mean": null
+      },
+      {
+        "line": 1121,
+        "metric": "Net.SSL_Connection_Error",
+        "samples": 4,
+        "mean": null
+      },
+      {
+        "line": 1124,
+        "metric": "Net.SSL_Connection_Latency_2",
+        "samples": 4,
+        "mean": 540.8
+      },
+      {
+        "line": 1131,
+        "metric": "Net.SSL_KeyExchange.ECDHE",
+        "samples": 4,
+        "mean": null
+      },
+      {
+        "line": 1134,
+        "metric": "Net.SiteDomainIsSafe",
+        "samples": 1244,
+        "mean": 1.0
+      },
+      {
+        "line": 1139,
+        "metric": "Net.SpdyHeadersCompressionPercentage",
+        "samples": 26,
+        "mean": 88.7
+      },
+      {
+        "line": 1157,
+        "metric": "Net.SpdyResponseCode",
+        "samples": 26,
+        "mean": null
+      },
+      {
+        "line": 1160,
+        "metric": "Net.SpdySession.ClosedOnError",
+        "samples": 1,
+        "mean": null
+      },
+      {
+        "line": 1163,
+        "metric": "Net.SpdySession.CreateStreamWithSocketConnected",
+        "samples": 26,
+        "mean": 1.0
+      },
+      {
+        "line": 1168,
+        "metric": "Net.SpdySession.PushedAndUnclaimedBytes",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1172,
+        "metric": "Net.SpdySession.PushedBytes",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1176,
+        "metric": "Net.SpdySession.ServerSupportsWebSocket",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1180,
+        "metric": "Net.SpdySessionGet",
+        "samples": 26,
+        "mean": 1.1
+      },
+      {
+        "line": 1187,
+        "metric": "Net.SpdyStreamsAbandonedPerSession",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1191,
+        "metric": "Net.SpdyStreamsPerSession",
+        "samples": 1,
+        "mean": 26.0
+      },
+      {
+        "line": 1196,
+        "metric": "Net.SpdyStreamsPushedAndClaimedPerSession",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1200,
+        "metric": "Net.SpdyStreamsPushedPerSession",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1204,
+        "metric": "Net.TCP_Connection_Latency",
+        "samples": 4,
+        "mean": 100.8
+      },
+      {
+        "line": 1210,
+        "metric": "Net.TCP_Connection_Latency_IPv4_No_Race",
+        "samples": 4,
+        "mean": 100.8
+      },
+      {
+        "line": 1216,
+        "metric": "Net.TcpConnectAttempt.Latency.Success",
+        "samples": 4,
+        "mean": 100.8
+      },
+      {
+        "line": 1222,
+        "metric": "Net.TcpConnectAttempt.LatencyPercentRTT.Success",
+        "samples": 4,
+        "mean": 24.8
+      },
+      {
+        "line": 1228,
+        "metric": "Net.UDPSocketWinClose",
+        "samples": 7,
+        "mean": 0.0
+      },
+      {
+        "line": 1232,
+        "metric": "Net.URLRequest.ReferrerHasInformativePath.CrossOrigin",
+        "samples": 12,
+        "mean": 0.0
+      },
+      {
+        "line": 1236,
+        "metric": "Net.URLRequest.ReferrerHasInformativePath.SameOrigin",
+        "samples": 28,
+        "mean": 1.0
+      },
+      {
+        "line": 1241,
+        "metric": "Net.URLRequest.ReferrerPolicyForRequest.CrossOrigin",
+        "samples": 12,
+        "mean": 1.0
+      },
+      {
+        "line": 1246,
+        "metric": "Net.URLRequest.ReferrerPolicyForRequest.SameOrigin",
+        "samples": 28,
+        "mean": 1.0
+      },
+      {
+        "line": 2463,
+        "metric": "Net.Certificate.TrustAnchor.Verify",
+        "samples": 3,
+        "mean": null
+      },
+      {
+        "line": 2467,
+        "metric": "Net.DNS.DnsConfig.SecureDnsMode",
+        "samples": 1,
+        "mean": 4.0
+      },
+      {
+        "line": 2472,
+        "metric": "Net.HttpResponseCode",
+        "samples": 38,
+        "mean": 200.0
+      },
+      {
+        "line": 2477,
+        "metric": "Net.NotifyAddrChangeFailures",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 2481,
+        "metric": "Net.SiteDomainIsSafe",
+        "samples": 381,
+        "mean": 1.0
+      },
+      {
+        "line": 2486,
+        "metric": "Net.URLLoaderThrottleExecutionTime.BeforeWillProcessResponse",
+        "samples": 6,
+        "mean": 0.0
+      },
+      {
+        "line": 2490,
+        "metric": "Net.URLLoaderThrottleExecutionTime.WillProcessResponse",
+        "samples": 6,
+        "mean": 0.0
+      },
+      {
+        "line": 2494,
+        "metric": "Net.URLLoaderThrottleExecutionTime.WillStartRequest",
+        "samples": 6,
+        "mean": 0.0
+      }
+    ],
+    "explicit_browser_error_counts": {
+      "ERR_CONNECTION_RESET": 0,
+      "ERR_CONNECTION_TIMED_OUT": 0,
+      "ERR_NAME_NOT_RESOLVED": 0,
+      "ERR_INTERNET_DISCONNECTED": 0
+    },
+    "has_internal_2026_11_14": false,
+    "has_internal_2026_11_15": false
+  },
+  {
+    "file_id": "archive-02-member-0797",
+    "kind": "client_or_cef",
+    "lines": 3869,
+    "bootstrap_already_running": false,
+    "cef_network_histograms": [
+      {
+        "line": 1324,
+        "metric": "Net.AlternativeServiceTypeForRequest",
+        "samples": 87,
+        "mean": 0.0
+      },
+      {
+        "line": 1328,
+        "metric": "Net.CertVerifier_First_Job_Latency",
+        "samples": 1,
+        "mean": 1589.0
+      },
+      {
+        "line": 1333,
+        "metric": "Net.CertVerifier_Job_Latency",
+        "samples": 7,
+        "mean": 1138.4
+      },
+      {
+        "line": 1343,
+        "metric": "Net.Certificate.IgnoreCertificateErrorsSPKIListPresent",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1347,
+        "metric": "Net.Certificate.IgnoreErrors",
+        "samples": 2,
+        "mean": 0.0
+      },
+      {
+        "line": 1351,
+        "metric": "Net.Certificate.TrustAnchor.Request",
+        "samples": 87,
+        "mean": null
+      },
+      {
+        "line": 1355,
+        "metric": "Net.CertificateTransparency.ConnectionComplianceStatus2.SSL",
+        "samples": 12,
+        "mean": 3.0
+      },
+      {
+        "line": 1360,
+        "metric": "Net.CertificateTransparency.RequestComplianceStatus",
+        "samples": 87,
+        "mean": 3.0
+      },
+      {
+        "line": 1365,
+        "metric": "Net.Cors.AccessCheckResult",
+        "samples": 6,
+        "mean": 0.0
+      },
+      {
+        "line": 1369,
+        "metric": "Net.CountOfQuicServerInfos",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1373,
+        "metric": "Net.DNS.Request.TotalTime",
+        "samples": 252,
+        "mean": 2.1
+      },
+      {
+        "line": 1386,
+        "metric": "Net.DNS.Request.TotalTimeAsync",
+        "samples": 15,
+        "mean": 34.7
+      },
+      {
+        "line": 1399,
+        "metric": "Net.DNS.ResolveCategory",
+        "samples": 12,
+        "mean": 0.5
+      },
+      {
+        "line": 1404,
+        "metric": "Net.DNS.ResolveError.Fast",
+        "samples": 4,
+        "mean": null
+      },
+      {
+        "line": 1407,
+        "metric": "Net.DNS.ResolveError.Slow",
+        "samples": 2,
+        "mean": null
+      },
+      {
+        "line": 1410,
+        "metric": "Net.DNS.ResolveFailureTime",
+        "samples": 6,
+        "mean": 12.7
+      },
+      {
+        "line": 1420,
+        "metric": "Net.DNS.ResolveSuccessTime",
+        "samples": 6,
+        "mean": 67.5
+      },
+      {
+        "line": 1432,
+        "metric": "Net.DNS.SecureDnsMode.Automatic.ResolveTime",
+        "samples": 12,
+        "mean": 40.1
+      },
+      {
+        "line": 1449,
+        "metric": "Net.DNS.UpgradeConfig.HasPublicInsecureNameserver",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1453,
+        "metric": "Net.DNS.UpgradeConfig.InsecureUpgradeSucceeded",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1457,
+        "metric": "Net.DNS_Resolution_And_TCP_Connection_Latency2",
+        "samples": 12,
+        "mean": 134.6
+      },
+      {
+        "line": 1469,
+        "metric": "Net.DataPipeUseForUrlLoader.Max",
+        "samples": 10,
+        "mean": 1.3
+      },
+      {
+        "line": 1477,
+        "metric": "Net.DataPipeUseForUrlLoader.Min",
+        "samples": 10,
+        "mean": 0.0
+      },
+      {
+        "line": 1481,
+        "metric": "Net.DataPipeUseForWebSocket.Max",
+        "samples": 10,
+        "mean": 0.0
+      },
+      {
+        "line": 1485,
+        "metric": "Net.DataPipeUseForWebSocket.Min",
+        "samples": 10,
+        "mean": 0.0
+      },
+      {
+        "line": 1489,
+        "metric": "Net.ExpectCT.EntriesOnLoad",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1493,
+        "metric": "Net.HttpJob.PrefilterBytesRead",
+        "samples": 120,
+        "mean": 19016.3
+      },
+      {
+        "line": 1515,
+        "metric": "Net.HttpJob.PrefilterBytesRead.Cache",
+        "samples": 42,
+        "mean": 11065.1
+      },
+      {
+        "line": 1526,
+        "metric": "Net.HttpJob.PrefilterBytesRead.Net",
+        "samples": 78,
+        "mean": 23297.7
+      },
+      {
+        "line": 1544,
+        "metric": "Net.HttpJob.TotalTime",
+        "samples": 120,
+        "mean": 408.3
+      },
+      {
+        "line": 1568,
+        "metric": "Net.HttpJob.TotalTimeCached",
+        "samples": 42,
+        "mean": 150.4
+      },
+      {
+        "line": 1582,
+        "metric": "Net.HttpJob.TotalTimeCancel",
+        "samples": 6,
+        "mean": 1.2
+      },
+      {
+        "line": 1589,
+        "metric": "Net.HttpJob.TotalTimeNotCached",
+        "samples": 78,
+        "mean": 547.1
+      },
+      {
+        "line": 1607,
+        "metric": "Net.HttpJob.TotalTimeSuccess",
+        "samples": 114,
+        "mean": 429.7
+      },
+      {
+        "line": 1631,
+        "metric": "Net.HttpJob.TotalTimeSuccess.Priority2",
+        "samples": 23,
+        "mean": 44.2
+      },
+      {
+        "line": 1645,
+        "metric": "Net.HttpJob.TotalTimeSuccess.Priority4",
+        "samples": 67,
+        "mean": 350.1
+      },
+      {
+        "line": 1660,
+        "metric": "Net.HttpJob.TotalTimeSuccess.Priority5",
+        "samples": 24,
+        "mean": 1021.4
+      },
+      {
+        "line": 1672,
+        "metric": "Net.HttpResponseCode",
+        "samples": 87,
+        "mean": 210.8
+      },
+      {
+        "line": 1679,
+        "metric": "Net.HttpServerProperties.CountOfServers",
+        "samples": 1,
+        "mean": 17.0
+      },
+      {
+        "line": 1684,
+        "metric": "Net.HttpTimeToFirstByte",
+        "samples": 120,
+        "mean": 400.8
+      },
+      {
+        "line": 1701,
+        "metric": "Net.KeepaliveStatisticsRecorder.PeakInflightRequests2",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1705,
+        "metric": "Net.KeepaliveStatisticsRecorder.PeakInflightRequestsPerTopLevelFrame",
+        "samples": 24,
+        "mean": 0.0
+      },
+      {
+        "line": 1709,
+        "metric": "Net.MainFrameNoStore",
+        "samples": 6,
+        "mean": 0.0
+      },
+      {
+        "line": 1713,
+        "metric": "Net.NotifyAddrChangeFailures",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1717,
+        "metric": "Net.NumQuicSessionsAtShutdown",
+        "samples": 2,
+        "mean": 0.0
+      },
+      {
+        "line": 1721,
+        "metric": "Net.Port.SlipstreamRestricted",
+        "samples": 87,
+        "mean": 0.0
+      },
+      {
+        "line": 1725,
+        "metric": "Net.QuicSession.CloseAllSessionsError",
+        "samples": 2,
+        "mean": null
+      },
+      {
+        "line": 1728,
+        "metric": "Net.QuicSession.FinchConfigIsValid",
+        "samples": 2,
+        "mean": 1.0
+      },
+      {
+        "line": 1733,
+        "metric": "Net.RedirectChainLength",
+        "samples": 120,
+        "mean": 0.0
+      },
+      {
+        "line": 1737,
+        "metric": "Net.RestrictedCookieManager.SiteForCookiesOK",
+        "samples": 17685,
+        "mean": 1.0
+      },
+      {
+        "line": 1742,
+        "metric": "Net.RestrictedCookieManager.TopFrameOriginOK",
+        "samples": 17685,
+        "mean": 1.0
+      },
+      {
+        "line": 1747,
+        "metric": "Net.SSLCertVerificationTime",
+        "samples": 12,
+        "mean": 671.6
+      },
+      {
+        "line": 1761,
+        "metric": "Net.SSLHandshakeDetails",
+        "samples": 12,
+        "mean": 6.7
+      },
+      {
+        "line": 1767,
+        "metric": "Net.SSLLegacyCryptoFallback",
+        "samples": 12,
+        "mean": 0.0
+      },
+      {
+        "line": 1771,
+        "metric": "Net.SSLNegotiatedAlpnProtocol",
+        "samples": 12,
+        "mean": 1.2
+      },
+      {
+        "line": 1777,
+        "metric": "Net.SSLSignatureAlgorithm",
+        "samples": 12,
+        "mean": null
+      },
+      {
+        "line": 1781,
+        "metric": "Net.SSLVersion",
+        "samples": 12,
+        "mean": 6.0
+      },
+      {
+        "line": 1786,
+        "metric": "Net.SSL_CipherSuite",
+        "samples": 12,
+        "mean": null
+      },
+      {
+        "line": 1789,
+        "metric": "Net.SSL_Connection_Error",
+        "samples": 12,
+        "mean": null
+      },
+      {
+        "line": 1792,
+        "metric": "Net.SSL_Connection_Latency_2",
+        "samples": 12,
+        "mean": 775.5
+      },
+      {
+        "line": 1808,
+        "metric": "Net.SSL_KeyExchange.ECDHE",
+        "samples": 12,
+        "mean": null
+      },
+      {
+        "line": 1811,
+        "metric": "Net.SiteDomainIsSafe",
+        "samples": 114708,
+        "mean": 1.0
+      },
+      {
+        "line": 1816,
+        "metric": "Net.SpdyHeadersCompressionPercentage",
+        "samples": 78,
+        "mean": 88.8
+      },
+      {
+        "line": 1834,
+        "metric": "Net.SpdyResponseCode",
+        "samples": 78,
+        "mean": null
+      },
+      {
+        "line": 1837,
+        "metric": "Net.SpdySession.ClosedOnError",
+        "samples": 3,
+        "mean": null
+      },
+      {
+        "line": 1840,
+        "metric": "Net.SpdySession.CreateStreamWithSocketConnected",
+        "samples": 78,
+        "mean": 1.0
+      },
+      {
+        "line": 1845,
+        "metric": "Net.SpdySession.PushedAndUnclaimedBytes",
+        "samples": 3,
+        "mean": 0.0
+      },
+      {
+        "line": 1849,
+        "metric": "Net.SpdySession.PushedBytes",
+        "samples": 3,
+        "mean": 0.0
+      },
+      {
+        "line": 1853,
+        "metric": "Net.SpdySession.ServerSupportsWebSocket",
+        "samples": 3,
+        "mean": 0.0
+      },
+      {
+        "line": 1857,
+        "metric": "Net.SpdySessionGet",
+        "samples": 78,
+        "mean": 1.1
+      },
+      {
+        "line": 1864,
+        "metric": "Net.SpdyStreamsAbandonedPerSession",
+        "samples": 3,
+        "mean": 0.0
+      },
+      {
+        "line": 1868,
+        "metric": "Net.SpdyStreamsPerSession",
+        "samples": 3,
+        "mean": 26.0
+      },
+      {
+        "line": 1873,
+        "metric": "Net.SpdyStreamsPushedAndClaimedPerSession",
+        "samples": 3,
+        "mean": 0.0
+      },
+      {
+        "line": 1877,
+        "metric": "Net.SpdyStreamsPushedPerSession",
+        "samples": 3,
+        "mean": 0.0
+      },
+      {
+        "line": 1881,
+        "metric": "Net.TCP_Connection_Latency",
+        "samples": 12,
+        "mean": 97.4
+      },
+      {
+        "line": 1888,
+        "metric": "Net.TCP_Connection_Latency_IPv4_No_Race",
+        "samples": 12,
+        "mean": 97.4
+      },
+      {
+        "line": 1895,
+        "metric": "Net.TcpConnectAttempt.Latency.Success",
+        "samples": 12,
+        "mean": 97.3
+      },
+      {
+        "line": 1902,
+        "metric": "Net.TcpConnectAttempt.LatencyPercentRTT.Success",
+        "samples": 12,
+        "mean": 77.8
+      },
+      {
+        "line": 1908,
+        "metric": "Net.UDPSocketWinClose",
+        "samples": 15,
+        "mean": 0.0
+      },
+      {
+        "line": 1912,
+        "metric": "Net.URLRequest.ReferrerHasInformativePath.CrossOrigin",
+        "samples": 36,
+        "mean": 0.0
+      },
+      {
+        "line": 1916,
+        "metric": "Net.URLRequest.ReferrerHasInformativePath.SameOrigin",
+        "samples": 84,
+        "mean": 1.0
+      },
+      {
+        "line": 1921,
+        "metric": "Net.URLRequest.ReferrerPolicyForRequest.CrossOrigin",
+        "samples": 36,
+        "mean": 1.0
+      },
+      {
+        "line": 1926,
+        "metric": "Net.URLRequest.ReferrerPolicyForRequest.SameOrigin",
+        "samples": 84,
+        "mean": 1.0
+      },
+      {
+        "line": 3392,
+        "metric": "Net.Certificate.TrustAnchor.Verify",
+        "samples": 7,
+        "mean": null
+      },
+      {
+        "line": 3396,
+        "metric": "Net.DNS.DnsConfig.SecureDnsMode",
+        "samples": 1,
+        "mean": 4.0
+      },
+      {
+        "line": 3401,
+        "metric": "Net.HttpResponseCode",
+        "samples": 114,
+        "mean": 200.0
+      },
+      {
+        "line": 3406,
+        "metric": "Net.NotifyAddrChangeFailures",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 3410,
+        "metric": "Net.SiteDomainIsSafe",
+        "samples": 18603,
+        "mean": 1.0
+      },
+      {
+        "line": 3415,
+        "metric": "Net.URLLoaderThrottleExecutionTime.BeforeWillProcessResponse",
+        "samples": 18,
+        "mean": 0.0
+      },
+      {
+        "line": 3419,
+        "metric": "Net.URLLoaderThrottleExecutionTime.WillProcessResponse",
+        "samples": 18,
+        "mean": 0.0
+      },
+      {
+        "line": 3423,
+        "metric": "Net.URLLoaderThrottleExecutionTime.WillStartRequest",
+        "samples": 18,
+        "mean": 0.0
+      }
+    ],
+    "explicit_browser_error_counts": {
+      "ERR_CONNECTION_RESET": 0,
+      "ERR_CONNECTION_TIMED_OUT": 0,
+      "ERR_NAME_NOT_RESOLVED": 0,
+      "ERR_INTERNET_DISCONNECTED": 0
+    },
+    "has_internal_2026_11_14": false,
+    "has_internal_2026_11_15": false
+  },
+  {
+    "file_id": "archive-02-member-0798",
+    "kind": "client_or_cef",
+    "lines": 6015,
+    "bootstrap_already_running": false,
+    "cef_network_histograms": [
+      {
+        "line": 3150,
+        "metric": "Net.AlternativeServiceTypeForRequest",
+        "samples": 291,
+        "mean": 0.0
+      },
+      {
+        "line": 3154,
+        "metric": "Net.CertVerifier_First_Job_Latency",
+        "samples": 1,
+        "mean": 1559.0
+      },
+      {
+        "line": 3159,
+        "metric": "Net.CertVerifier_Job_Latency",
+        "samples": 11,
+        "mean": 1214.7
+      },
+      {
+        "line": 3180,
+        "metric": "Net.Certificate.IgnoreCertificateErrorsSPKIListPresent",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 3184,
+        "metric": "Net.Certificate.IgnoreErrors",
+        "samples": 2,
+        "mean": 0.0
+      },
+      {
+        "line": 3188,
+        "metric": "Net.Certificate.TrustAnchor.Request",
+        "samples": 291,
+        "mean": null
+      },
+      {
+        "line": 3193,
+        "metric": "Net.CertificateTransparency.ConnectionComplianceStatus2.SSL",
+        "samples": 41,
+        "mean": 3.0
+      },
+      {
+        "line": 3198,
+        "metric": "Net.CertificateTransparency.RequestComplianceStatus",
+        "samples": 291,
+        "mean": 3.0
+      },
+      {
+        "line": 3203,
+        "metric": "Net.Cors.AccessCheckResult",
+        "samples": 21,
+        "mean": 0.0
+      },
+      {
+        "line": 3207,
+        "metric": "Net.CountOfQuicServerInfos",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 3211,
+        "metric": "Net.DNS.Request.TotalTime",
+        "samples": 829,
+        "mean": 1.0
+      },
+      {
+        "line": 3224,
+        "metric": "Net.DNS.Request.TotalTimeAsync",
+        "samples": 37,
+        "mean": 21.5
+      },
+      {
+        "line": 3237,
+        "metric": "Net.DNS.ResolveCategory",
+        "samples": 27,
+        "mean": 0.2
+      },
+      {
+        "line": 3242,
+        "metric": "Net.DNS.ResolveError.Fast",
+        "samples": 3,
+        "mean": null
+      },
+      {
+        "line": 3245,
+        "metric": "Net.DNS.ResolveError.Slow",
+        "samples": 3,
+        "mean": null
+      },
+      {
+        "line": 3248,
+        "metric": "Net.DNS.ResolveFailureTime",
+        "samples": 6,
+        "mean": 11.5
+      },
+      {
+        "line": 3261,
+        "metric": "Net.DNS.ResolveSuccessTime",
+        "samples": 21,
+        "mean": 31.0
+      },
+      {
+        "line": 3279,
+        "metric": "Net.DNS.SecureDnsMode.Automatic.ResolveTime",
+        "samples": 27,
+        "mean": 26.7
+      },
+      {
+        "line": 3298,
+        "metric": "Net.DNS.UpgradeConfig.HasPublicInsecureNameserver",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 3302,
+        "metric": "Net.DNS.UpgradeConfig.InsecureUpgradeSucceeded",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 3306,
+        "metric": "Net.DNS_Resolution_And_TCP_Connection_Latency2",
+        "samples": 41,
+        "mean": 189.7
+      },
+      {
+        "line": 3321,
+        "metric": "Net.DataPipeUseForUrlLoader.Max",
+        "samples": 8,
+        "mean": 3.1
+      },
+      {
+        "line": 3329,
+        "metric": "Net.DataPipeUseForUrlLoader.Min",
+        "samples": 8,
+        "mean": 0.0
+      },
+      {
+        "line": 3333,
+        "metric": "Net.DataPipeUseForWebSocket.Max",
+        "samples": 8,
+        "mean": 0.0
+      },
+      {
+        "line": 3337,
+        "metric": "Net.DataPipeUseForWebSocket.Min",
+        "samples": 8,
+        "mean": 0.0
+      },
+      {
+        "line": 3341,
+        "metric": "Net.ExpectCT.EntriesOnLoad",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 3345,
+        "metric": "Net.HttpJob.PrefilterBytesRead",
+        "samples": 401,
+        "mean": 18968.7
+      },
+      {
+        "line": 3368,
+        "metric": "Net.HttpJob.PrefilterBytesRead.Cache",
+        "samples": 140,
+        "mean": 11065.1
+      },
+      {
+        "line": 3379,
+        "metric": "Net.HttpJob.PrefilterBytesRead.Net",
+        "samples": 261,
+        "mean": 23208.2
+      },
+      {
+        "line": 3398,
+        "metric": "Net.HttpJob.TotalTime",
+        "samples": 401,
+        "mean": 366.2
+      },
+      {
+        "line": 3431,
+        "metric": "Net.HttpJob.TotalTimeCached",
+        "samples": 140,
+        "mean": 276.0
+      },
+      {
+        "line": 3452,
+        "metric": "Net.HttpJob.TotalTimeCancel",
+        "samples": 20,
+        "mean": 0.2
+      },
+      {
+        "line": 3458,
+        "metric": "Net.HttpJob.TotalTimeNotCached",
+        "samples": 261,
+        "mean": 414.6
+      },
+      {
+        "line": 3482,
+        "metric": "Net.HttpJob.TotalTimeSuccess",
+        "samples": 381,
+        "mean": 385.4
+      },
+      {
+        "line": 3515,
+        "metric": "Net.HttpJob.TotalTimeSuccess.Priority2",
+        "samples": 80,
+        "mean": 41.1
+      },
+      {
+        "line": 3530,
+        "metric": "Net.HttpJob.TotalTimeSuccess.Priority4",
+        "samples": 221,
+        "mean": 348.6
+      },
+      {
+        "line": 3547,
+        "metric": "Net.HttpJob.TotalTimeSuccess.Priority5",
+        "samples": 80,
+        "mean": 831.5
+      },
+      {
+        "line": 3573,
+        "metric": "Net.HttpResponseCode",
+        "samples": 291,
+        "mean": 210.7
+      },
+      {
+        "line": 3582,
+        "metric": "Net.HttpServerProperties.CountOfServers",
+        "samples": 1,
+        "mean": 17.0
+      },
+      {
+        "line": 3587,
+        "metric": "Net.HttpTimeToFirstByte",
+        "samples": 401,
+        "mean": 356.1
+      },
+      {
+        "line": 3612,
+        "metric": "Net.KeepaliveStatisticsRecorder.PeakInflightRequests2",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 3616,
+        "metric": "Net.KeepaliveStatisticsRecorder.PeakInflightRequestsPerTopLevelFrame",
+        "samples": 66,
+        "mean": 0.0
+      },
+      {
+        "line": 3620,
+        "metric": "Net.MainFrameNoStore",
+        "samples": 20,
+        "mean": 0.0
+      },
+      {
+        "line": 3624,
+        "metric": "Net.NotifyAddrChangeFailures",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 3628,
+        "metric": "Net.NumQuicSessionsAtShutdown",
+        "samples": 2,
+        "mean": 0.0
+      },
+      {
+        "line": 3632,
+        "metric": "Net.Port.SlipstreamRestricted",
+        "samples": 291,
+        "mean": 0.0
+      },
+      {
+        "line": 3636,
+        "metric": "Net.QuicSession.CloseAllSessionsError",
+        "samples": 2,
+        "mean": null
+      },
+      {
+        "line": 3639,
+        "metric": "Net.QuicSession.FinchConfigIsValid",
+        "samples": 2,
+        "mean": 1.0
+      },
+      {
+        "line": 3644,
+        "metric": "Net.RedirectChainLength",
+        "samples": 401,
+        "mean": 0.0
+      },
+      {
+        "line": 3648,
+        "metric": "Net.RestrictedCookieManager.SiteForCookiesOK",
+        "samples": 2198,
+        "mean": 1.0
+      },
+      {
+        "line": 3653,
+        "metric": "Net.RestrictedCookieManager.TopFrameOriginOK",
+        "samples": 2198,
+        "mean": 1.0
+      },
+      {
+        "line": 3658,
+        "metric": "Net.SSLCertVerificationTime",
+        "samples": 41,
+        "mean": 385.3
+      },
+      {
+        "line": 3678,
+        "metric": "Net.SSLHandshakeDetails",
+        "samples": 41,
+        "mean": 6.9
+      },
+      {
+        "line": 3684,
+        "metric": "Net.SSLLegacyCryptoFallback",
+        "samples": 41,
+        "mean": 0.0
+      },
+      {
+        "line": 3688,
+        "metric": "Net.SSLNegotiatedAlpnProtocol",
+        "samples": 41,
+        "mean": 1.2
+      },
+      {
+        "line": 3694,
+        "metric": "Net.SSLSignatureAlgorithm",
+        "samples": 41,
+        "mean": null
+      },
+      {
+        "line": 3698,
+        "metric": "Net.SSLVersion",
+        "samples": 41,
+        "mean": 6.0
+      },
+      {
+        "line": 3703,
+        "metric": "Net.SSL_CipherSuite",
+        "samples": 41,
+        "mean": null
+      },
+      {
+        "line": 3707,
+        "metric": "Net.SSL_Connection_Error",
+        "samples": 41,
+        "mean": null
+      },
+      {
+        "line": 3710,
+        "metric": "Net.SSL_Connection_Latency_2",
+        "samples": 41,
+        "mean": 546.9
+      },
+      {
+        "line": 3738,
+        "metric": "Net.SSL_KeyExchange.ECDHE",
+        "samples": 41,
+        "mean": null
+      },
+      {
+        "line": 3741,
+        "metric": "Net.SiteDomainIsSafe",
+        "samples": 21275,
+        "mean": 1.0
+      },
+      {
+        "line": 3746,
+        "metric": "Net.SpdyHeadersCompressionPercentage",
+        "samples": 260,
+        "mean": 88.9
+      },
+      {
+        "line": 3766,
+        "metric": "Net.SpdyResponseCode",
+        "samples": 260,
+        "mean": null
+      },
+      {
+        "line": 3769,
+        "metric": "Net.SpdySession.ClosedOnError",
+        "samples": 10,
+        "mean": null
+      },
+      {
+        "line": 3773,
+        "metric": "Net.SpdySession.CreateStreamWithSocketConnected",
+        "samples": 260,
+        "mean": 1.0
+      },
+      {
+        "line": 3778,
+        "metric": "Net.SpdySession.PushedAndUnclaimedBytes",
+        "samples": 10,
+        "mean": 0.0
+      },
+      {
+        "line": 3782,
+        "metric": "Net.SpdySession.PushedBytes",
+        "samples": 10,
+        "mean": 0.0
+      },
+      {
+        "line": 3786,
+        "metric": "Net.SpdySession.ServerSupportsWebSocket",
+        "samples": 10,
+        "mean": 0.0
+      },
+      {
+        "line": 3790,
+        "metric": "Net.SpdySessionGet",
+        "samples": 260,
+        "mean": 1.1
+      },
+      {
+        "line": 3797,
+        "metric": "Net.SpdyStreamsAbandonedPerSession",
+        "samples": 10,
+        "mean": 0.0
+      },
+      {
+        "line": 3801,
+        "metric": "Net.SpdyStreamsPerSession",
+        "samples": 10,
+        "mean": 26.0
+      },
+      {
+        "line": 3806,
+        "metric": "Net.SpdyStreamsPushedAndClaimedPerSession",
+        "samples": 10,
+        "mean": 0.0
+      },
+      {
+        "line": 3810,
+        "metric": "Net.SpdyStreamsPushedPerSession",
+        "samples": 10,
+        "mean": 0.0
+      },
+      {
+        "line": 3814,
+        "metric": "Net.TCP_Connection_Latency",
+        "samples": 41,
+        "mean": 171.7
+      },
+      {
+        "line": 3828,
+        "metric": "Net.TCP_Connection_Latency_IPv4_No_Race",
+        "samples": 41,
+        "mean": 171.7
+      },
+      {
+        "line": 3842,
+        "metric": "Net.TcpConnectAttempt.Latency.Success",
+        "samples": 41,
+        "mean": 171.6
+      },
+      {
+        "line": 3853,
+        "metric": "Net.TcpConnectAttempt.LatencyPercentRTT.Success",
+        "samples": 41,
+        "mean": 137.2
+      },
+      {
+        "line": 3863,
+        "metric": "Net.UDPSocketWinClose",
+        "samples": 47,
+        "mean": 0.0
+      },
+      {
+        "line": 3867,
+        "metric": "Net.URLRequest.ReferrerHasInformativePath.CrossOrigin",
+        "samples": 121,
+        "mean": 0.0
+      },
+      {
+        "line": 3871,
+        "metric": "Net.URLRequest.ReferrerHasInformativePath.SameOrigin",
+        "samples": 280,
+        "mean": 1.0
+      },
+      {
+        "line": 3876,
+        "metric": "Net.URLRequest.ReferrerPolicyForRequest.CrossOrigin",
+        "samples": 121,
+        "mean": 1.0
+      },
+      {
+        "line": 3881,
+        "metric": "Net.URLRequest.ReferrerPolicyForRequest.SameOrigin",
+        "samples": 280,
+        "mean": 1.0
+      },
+      {
+        "line": 5509,
+        "metric": "Net.Certificate.TrustAnchor.Verify",
+        "samples": 11,
+        "mean": null
+      },
+      {
+        "line": 5514,
+        "metric": "Net.DNS.DnsConfig.SecureDnsMode",
+        "samples": 1,
+        "mean": 4.0
+      },
+      {
+        "line": 5519,
+        "metric": "Net.HttpResponseCode",
+        "samples": 381,
+        "mean": 200.0
+      },
+      {
+        "line": 5526,
+        "metric": "Net.NotifyAddrChangeFailures",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 5530,
+        "metric": "Net.SiteDomainIsSafe",
+        "samples": 5255,
+        "mean": 1.0
+      },
+      {
+        "line": 5535,
+        "metric": "Net.URLLoaderThrottleExecutionTime.BeforeWillProcessResponse",
+        "samples": 60,
+        "mean": 0.0
+      },
+      {
+        "line": 5539,
+        "metric": "Net.URLLoaderThrottleExecutionTime.WillProcessResponse",
+        "samples": 60,
+        "mean": 0.0
+      },
+      {
+        "line": 5543,
+        "metric": "Net.URLLoaderThrottleExecutionTime.WillStartRequest",
+        "samples": 60,
+        "mean": 0.0
+      }
+    ],
+    "explicit_browser_error_counts": {
+      "ERR_CONNECTION_RESET": 0,
+      "ERR_CONNECTION_TIMED_OUT": 0,
+      "ERR_NAME_NOT_RESOLVED": 0,
+      "ERR_INTERNET_DISCONNECTED": 0
+    },
+    "has_internal_2026_11_14": false,
+    "has_internal_2026_11_15": false
+  },
+  {
+    "file_id": "archive-02-member-0799",
+    "kind": "client_or_cef",
+    "lines": 3175,
+    "bootstrap_already_running": false,
+    "cef_network_histograms": [
+      {
+        "line": 845,
+        "metric": "Net.AlternativeServiceTypeForRequest",
+        "samples": 29,
+        "mean": 0.0
+      },
+      {
+        "line": 849,
+        "metric": "Net.CertVerifier_First_Job_Latency",
+        "samples": 1,
+        "mean": 1670.0
+      },
+      {
+        "line": 854,
+        "metric": "Net.CertVerifier_Job_Latency",
+        "samples": 2,
+        "mean": 854.0
+      },
+      {
+        "line": 861,
+        "metric": "Net.Certificate.IgnoreCertificateErrorsSPKIListPresent",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 865,
+        "metric": "Net.Certificate.IgnoreErrors",
+        "samples": 2,
+        "mean": 0.0
+      },
+      {
+        "line": 869,
+        "metric": "Net.Certificate.TrustAnchor.Request",
+        "samples": 29,
+        "mean": null
+      },
+      {
+        "line": 873,
+        "metric": "Net.CertificateTransparency.ConnectionComplianceStatus2.SSL",
+        "samples": 4,
+        "mean": 3.0
+      },
+      {
+        "line": 878,
+        "metric": "Net.CertificateTransparency.RequestComplianceStatus",
+        "samples": 29,
+        "mean": 3.0
+      },
+      {
+        "line": 883,
+        "metric": "Net.Cors.AccessCheckResult",
+        "samples": 2,
+        "mean": 0.0
+      },
+      {
+        "line": 887,
+        "metric": "Net.CountOfQuicServerInfos",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 891,
+        "metric": "Net.DNS.Request.TotalTime",
+        "samples": 86,
+        "mean": 2.6
+      },
+      {
+        "line": 901,
+        "metric": "Net.DNS.Request.TotalTimeAsync",
+        "samples": 7,
+        "mean": 32.4
+      },
+      {
+        "line": 911,
+        "metric": "Net.DNS.ResolveCategory",
+        "samples": 6,
+        "mean": 0.7
+      },
+      {
+        "line": 916,
+        "metric": "Net.DNS.ResolveError.Fast",
+        "samples": 1,
+        "mean": null
+      },
+      {
+        "line": 919,
+        "metric": "Net.DNS.ResolveError.Slow",
+        "samples": 3,
+        "mean": null
+      },
+      {
+        "line": 922,
+        "metric": "Net.DNS.ResolveFailureTime",
+        "samples": 4,
+        "mean": 26.2
+      },
+      {
+        "line": 933,
+        "metric": "Net.DNS.ResolveSuccessTime",
+        "samples": 2,
+        "mean": 53.5
+      },
+      {
+        "line": 940,
+        "metric": "Net.DNS.SecureDnsMode.Automatic.ResolveTime",
+        "samples": 6,
+        "mean": 35.3
+      },
+      {
+        "line": 953,
+        "metric": "Net.DNS.UpgradeConfig.HasPublicInsecureNameserver",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 957,
+        "metric": "Net.DNS.UpgradeConfig.InsecureUpgradeSucceeded",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 961,
+        "metric": "Net.DNS_Resolution_And_TCP_Connection_Latency2",
+        "samples": 4,
+        "mean": 134.5
+      },
+      {
+        "line": 969,
+        "metric": "Net.DataPipeUseForUrlLoader.Max",
+        "samples": 1,
+        "mean": 3.0
+      },
+      {
+        "line": 974,
+        "metric": "Net.DataPipeUseForUrlLoader.Min",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 978,
+        "metric": "Net.DataPipeUseForWebSocket.Max",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 982,
+        "metric": "Net.DataPipeUseForWebSocket.Min",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 986,
+        "metric": "Net.ExpectCT.EntriesOnLoad",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 990,
+        "metric": "Net.HttpJob.PrefilterBytesRead",
+        "samples": 40,
+        "mean": 19013.7
+      },
+      {
+        "line": 1012,
+        "metric": "Net.HttpJob.PrefilterBytesRead.Cache",
+        "samples": 14,
+        "mean": 11065.1
+      },
+      {
+        "line": 1023,
+        "metric": "Net.HttpJob.PrefilterBytesRead.Net",
+        "samples": 26,
+        "mean": 23293.7
+      },
+      {
+        "line": 1041,
+        "metric": "Net.HttpJob.TotalTime",
+        "samples": 40,
+        "mean": 370.5
+      },
+      {
+        "line": 1057,
+        "metric": "Net.HttpJob.TotalTimeCached",
+        "samples": 14,
+        "mean": 142.7
+      },
+      {
+        "line": 1065,
+        "metric": "Net.HttpJob.TotalTimeCancel",
+        "samples": 2,
+        "mean": 1.0
+      },
+      {
+        "line": 1070,
+        "metric": "Net.HttpJob.TotalTimeNotCached",
+        "samples": 26,
+        "mean": 493.1
+      },
+      {
+        "line": 1084,
+        "metric": "Net.HttpJob.TotalTimeSuccess",
+        "samples": 38,
+        "mean": 389.9
+      },
+      {
+        "line": 1100,
+        "metric": "Net.HttpJob.TotalTimeSuccess.Priority2",
+        "samples": 8,
+        "mean": 38.6
+      },
+      {
+        "line": 1109,
+        "metric": "Net.HttpJob.TotalTimeSuccess.Priority4",
+        "samples": 22,
+        "mean": 364.6
+      },
+      {
+        "line": 1121,
+        "metric": "Net.HttpJob.TotalTimeSuccess.Priority5",
+        "samples": 8,
+        "mean": 810.8
+      },
+      {
+        "line": 1129,
+        "metric": "Net.HttpResponseCode",
+        "samples": 29,
+        "mean": 210.8
+      },
+      {
+        "line": 1136,
+        "metric": "Net.HttpServerProperties.CountOfServers",
+        "samples": 1,
+        "mean": 17.0
+      },
+      {
+        "line": 1141,
+        "metric": "Net.HttpTimeToFirstByte",
+        "samples": 40,
+        "mean": 361.0
+      },
+      {
+        "line": 1157,
+        "metric": "Net.KeepaliveStatisticsRecorder.PeakInflightRequests2",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1161,
+        "metric": "Net.KeepaliveStatisticsRecorder.PeakInflightRequestsPerTopLevelFrame",
+        "samples": 12,
+        "mean": 0.0
+      },
+      {
+        "line": 1165,
+        "metric": "Net.MainFrameNoStore",
+        "samples": 2,
+        "mean": 0.0
+      },
+      {
+        "line": 1169,
+        "metric": "Net.NotifyAddrChangeFailures",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1173,
+        "metric": "Net.NumQuicSessionsAtShutdown",
+        "samples": 2,
+        "mean": 0.0
+      },
+      {
+        "line": 1177,
+        "metric": "Net.Port.SlipstreamRestricted",
+        "samples": 29,
+        "mean": 0.0
+      },
+      {
+        "line": 1181,
+        "metric": "Net.QuicSession.CloseAllSessionsError",
+        "samples": 2,
+        "mean": null
+      },
+      {
+        "line": 1184,
+        "metric": "Net.QuicSession.FinchConfigIsValid",
+        "samples": 2,
+        "mean": 1.0
+      },
+      {
+        "line": 1189,
+        "metric": "Net.RedirectChainLength",
+        "samples": 40,
+        "mean": 0.0
+      },
+      {
+        "line": 1193,
+        "metric": "Net.RestrictedCookieManager.SiteForCookiesOK",
+        "samples": 692,
+        "mean": 1.0
+      },
+      {
+        "line": 1198,
+        "metric": "Net.RestrictedCookieManager.TopFrameOriginOK",
+        "samples": 692,
+        "mean": 1.0
+      },
+      {
+        "line": 1203,
+        "metric": "Net.SSLCertVerificationTime",
+        "samples": 4,
+        "mean": 434.8
+      },
+      {
+        "line": 1212,
+        "metric": "Net.SSLHandshakeDetails",
+        "samples": 4,
+        "mean": 6.0
+      },
+      {
+        "line": 1217,
+        "metric": "Net.SSLLegacyCryptoFallback",
+        "samples": 4,
+        "mean": 0.0
+      },
+      {
+        "line": 1221,
+        "metric": "Net.SSLNegotiatedAlpnProtocol",
+        "samples": 4,
+        "mean": 1.2
+      },
+      {
+        "line": 1227,
+        "metric": "Net.SSLSignatureAlgorithm",
+        "samples": 4,
+        "mean": null
+      },
+      {
+        "line": 1231,
+        "metric": "Net.SSLVersion",
+        "samples": 4,
+        "mean": 6.0
+      },
+      {
+        "line": 1236,
+        "metric": "Net.SSL_CipherSuite",
+        "samples": 4,
+        "mean": null
+      },
+      {
+        "line": 1239,
+        "metric": "Net.SSL_Connection_Error",
+        "samples": 4,
+        "mean": null
+      },
+      {
+        "line": 1242,
+        "metric": "Net.SSL_Connection_Latency_2",
+        "samples": 4,
+        "mean": 560.2
+      },
+      {
+        "line": 1251,
+        "metric": "Net.SSL_KeyExchange.ECDHE",
+        "samples": 4,
+        "mean": null
+      },
+      {
+        "line": 1254,
+        "metric": "Net.SiteDomainIsSafe",
+        "samples": 5114,
+        "mean": 1.0
+      },
+      {
+        "line": 1259,
+        "metric": "Net.SpdyHeadersCompressionPercentage",
+        "samples": 26,
+        "mean": 88.7
+      },
+      {
+        "line": 1277,
+        "metric": "Net.SpdyResponseCode",
+        "samples": 26,
+        "mean": null
+      },
+      {
+        "line": 1280,
+        "metric": "Net.SpdySession.ClosedOnError",
+        "samples": 1,
+        "mean": null
+      },
+      {
+        "line": 1283,
+        "metric": "Net.SpdySession.CreateStreamWithSocketConnected",
+        "samples": 26,
+        "mean": 1.0
+      },
+      {
+        "line": 1288,
+        "metric": "Net.SpdySession.PushedAndUnclaimedBytes",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1292,
+        "metric": "Net.SpdySession.PushedBytes",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1296,
+        "metric": "Net.SpdySession.ServerSupportsWebSocket",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1300,
+        "metric": "Net.SpdySessionGet",
+        "samples": 26,
+        "mean": 1.1
+      },
+      {
+        "line": 1307,
+        "metric": "Net.SpdyStreamsAbandonedPerSession",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1311,
+        "metric": "Net.SpdyStreamsPerSession",
+        "samples": 1,
+        "mean": 26.0
+      },
+      {
+        "line": 1316,
+        "metric": "Net.SpdyStreamsPushedAndClaimedPerSession",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1320,
+        "metric": "Net.SpdyStreamsPushedPerSession",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1324,
+        "metric": "Net.TCP_Connection_Latency",
+        "samples": 4,
+        "mean": 104.8
+      },
+      {
+        "line": 1331,
+        "metric": "Net.TCP_Connection_Latency_IPv4_No_Race",
+        "samples": 4,
+        "mean": 104.8
+      },
+      {
+        "line": 1338,
+        "metric": "Net.TcpConnectAttempt.Latency.Success",
+        "samples": 4,
+        "mean": 104.8
+      },
+      {
+        "line": 1344,
+        "metric": "Net.TcpConnectAttempt.LatencyPercentRTT.Success",
+        "samples": 4,
+        "mean": 83.8
+      },
+      {
+        "line": 1350,
+        "metric": "Net.UDPSocketWinClose",
+        "samples": 7,
+        "mean": 0.0
+      },
+      {
+        "line": 1354,
+        "metric": "Net.URLRequest.ReferrerHasInformativePath.CrossOrigin",
+        "samples": 12,
+        "mean": 0.0
+      },
+      {
+        "line": 1358,
+        "metric": "Net.URLRequest.ReferrerHasInformativePath.SameOrigin",
+        "samples": 28,
+        "mean": 1.0
+      },
+      {
+        "line": 1363,
+        "metric": "Net.URLRequest.ReferrerPolicyForRequest.CrossOrigin",
+        "samples": 12,
+        "mean": 1.0
+      },
+      {
+        "line": 1368,
+        "metric": "Net.URLRequest.ReferrerPolicyForRequest.SameOrigin",
+        "samples": 28,
+        "mean": 1.0
+      },
+      {
+        "line": 2719,
+        "metric": "Net.Certificate.TrustAnchor.Verify",
+        "samples": 2,
+        "mean": null
+      },
+      {
+        "line": 2723,
+        "metric": "Net.DNS.DnsConfig.SecureDnsMode",
+        "samples": 1,
+        "mean": 4.0
+      },
+      {
+        "line": 2728,
+        "metric": "Net.HttpResponseCode",
+        "samples": 38,
+        "mean": 200.0
+      },
+      {
+        "line": 2733,
+        "metric": "Net.NotifyAddrChangeFailures",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 2737,
+        "metric": "Net.SiteDomainIsSafe",
+        "samples": 998,
+        "mean": 1.0
+      },
+      {
+        "line": 2742,
+        "metric": "Net.URLLoaderThrottleExecutionTime.BeforeWillProcessResponse",
+        "samples": 6,
+        "mean": 0.0
+      },
+      {
+        "line": 2746,
+        "metric": "Net.URLLoaderThrottleExecutionTime.WillProcessResponse",
+        "samples": 6,
+        "mean": 0.0
+      },
+      {
+        "line": 2750,
+        "metric": "Net.URLLoaderThrottleExecutionTime.WillStartRequest",
+        "samples": 6,
+        "mean": 0.0
+      }
+    ],
+    "explicit_browser_error_counts": {
+      "ERR_CONNECTION_RESET": 0,
+      "ERR_CONNECTION_TIMED_OUT": 0,
+      "ERR_NAME_NOT_RESOLVED": 0,
+      "ERR_INTERNET_DISCONNECTED": 0
+    },
+    "has_internal_2026_11_14": false,
+    "has_internal_2026_11_15": false
+  },
+  {
+    "file_id": "archive-02-member-0800",
+    "kind": "client_or_cef",
+    "lines": 3772,
+    "bootstrap_already_running": false,
+    "cef_network_histograms": [
+      {
+        "line": 1308,
+        "metric": "Net.AlternativeServiceTypeForRequest",
+        "samples": 58,
+        "mean": 0.0
+      },
+      {
+        "line": 1312,
+        "metric": "Net.CertVerifier_First_Job_Latency",
+        "samples": 1,
+        "mean": 3229.0
+      },
+      {
+        "line": 1317,
+        "metric": "Net.CertVerifier_Job_Latency",
+        "samples": 5,
+        "mean": 942.6
+      },
+      {
+        "line": 1329,
+        "metric": "Net.Certificate.IgnoreCertificateErrorsSPKIListPresent",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1333,
+        "metric": "Net.Certificate.IgnoreErrors",
+        "samples": 2,
+        "mean": 0.0
+      },
+      {
+        "line": 1337,
+        "metric": "Net.Certificate.TrustAnchor.Request",
+        "samples": 58,
+        "mean": null
+      },
+      {
+        "line": 1341,
+        "metric": "Net.CertificateTransparency.ConnectionComplianceStatus2.SSL",
+        "samples": 8,
+        "mean": 3.0
+      },
+      {
+        "line": 1346,
+        "metric": "Net.CertificateTransparency.RequestComplianceStatus",
+        "samples": 58,
+        "mean": 3.0
+      },
+      {
+        "line": 1351,
+        "metric": "Net.Cors.AccessCheckResult",
+        "samples": 4,
+        "mean": 0.0
+      },
+      {
+        "line": 1355,
+        "metric": "Net.CountOfQuicServerInfos",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1359,
+        "metric": "Net.DNS.Request.TotalTime",
+        "samples": 169,
+        "mean": 1.0
+      },
+      {
+        "line": 1366,
+        "metric": "Net.DNS.Request.TotalTimeAsync",
+        "samples": 11,
+        "mean": 14.9
+      },
+      {
+        "line": 1373,
+        "metric": "Net.DNS.ResolveCategory",
+        "samples": 9,
+        "mean": 0.6
+      },
+      {
+        "line": 1378,
+        "metric": "Net.DNS.ResolveError.Fast",
+        "samples": 4,
+        "mean": null
+      },
+      {
+        "line": 1381,
+        "metric": "Net.DNS.ResolveError.Slow",
+        "samples": 1,
+        "mean": null
+      },
+      {
+        "line": 1384,
+        "metric": "Net.DNS.ResolveFailureTime",
+        "samples": 5,
+        "mean": 6.0
+      },
+      {
+        "line": 1396,
+        "metric": "Net.DNS.ResolveSuccessTime",
+        "samples": 4,
+        "mean": 28.5
+      },
+      {
+        "line": 1405,
+        "metric": "Net.DNS.SecureDnsMode.Automatic.ResolveTime",
+        "samples": 9,
+        "mean": 16.0
+      },
+      {
+        "line": 1418,
+        "metric": "Net.DNS.UpgradeConfig.HasPublicInsecureNameserver",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1422,
+        "metric": "Net.DNS.UpgradeConfig.InsecureUpgradeSucceeded",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1426,
+        "metric": "Net.DNS_Resolution_And_TCP_Connection_Latency2",
+        "samples": 8,
+        "mean": 123.6
+      },
+      {
+        "line": 1435,
+        "metric": "Net.DataPipeUseForUrlLoader.Max",
+        "samples": 6,
+        "mean": 0.7
+      },
+      {
+        "line": 1441,
+        "metric": "Net.DataPipeUseForUrlLoader.Min",
+        "samples": 6,
+        "mean": 0.0
+      },
+      {
+        "line": 1445,
+        "metric": "Net.DataPipeUseForWebSocket.Max",
+        "samples": 6,
+        "mean": 0.0
+      },
+      {
+        "line": 1449,
+        "metric": "Net.DataPipeUseForWebSocket.Min",
+        "samples": 6,
+        "mean": 0.0
+      },
+      {
+        "line": 1453,
+        "metric": "Net.ExpectCT.EntriesOnLoad",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1457,
+        "metric": "Net.HttpJob.PrefilterBytesRead",
+        "samples": 80,
+        "mean": 19018.0
+      },
+      {
+        "line": 1479,
+        "metric": "Net.HttpJob.PrefilterBytesRead.Cache",
+        "samples": 28,
+        "mean": 11065.1
+      },
+      {
+        "line": 1490,
+        "metric": "Net.HttpJob.PrefilterBytesRead.Net",
+        "samples": 52,
+        "mean": 23300.3
+      },
+      {
+        "line": 1508,
+        "metric": "Net.HttpJob.TotalTime",
+        "samples": 80,
+        "mean": 393.3
+      },
+      {
+        "line": 1533,
+        "metric": "Net.HttpJob.TotalTimeCached",
+        "samples": 28,
+        "mean": 149.1
+      },
+      {
+        "line": 1545,
+        "metric": "Net.HttpJob.TotalTimeCancel",
+        "samples": 4,
+        "mean": 0.2
+      },
+      {
+        "line": 1550,
+        "metric": "Net.HttpJob.TotalTimeNotCached",
+        "samples": 52,
+        "mean": 524.8
+      },
+      {
+        "line": 1569,
+        "metric": "Net.HttpJob.TotalTimeSuccess",
+        "samples": 76,
+        "mean": 414.0
+      },
+      {
+        "line": 1594,
+        "metric": "Net.HttpJob.TotalTimeSuccess.Priority2",
+        "samples": 16,
+        "mean": 41.0
+      },
+      {
+        "line": 1608,
+        "metric": "Net.HttpJob.TotalTimeSuccess.Priority4",
+        "samples": 44,
+        "mean": 358.8
+      },
+      {
+        "line": 1620,
+        "metric": "Net.HttpJob.TotalTimeSuccess.Priority5",
+        "samples": 16,
+        "mean": 938.8
+      },
+      {
+        "line": 1631,
+        "metric": "Net.HttpResponseCode",
+        "samples": 58,
+        "mean": 210.8
+      },
+      {
+        "line": 1638,
+        "metric": "Net.HttpServerProperties.CountOfServers",
+        "samples": 1,
+        "mean": 17.0
+      },
+      {
+        "line": 1643,
+        "metric": "Net.HttpTimeToFirstByte",
+        "samples": 80,
+        "mean": 385.5
+      },
+      {
+        "line": 1659,
+        "metric": "Net.KeepaliveStatisticsRecorder.PeakInflightRequests2",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1663,
+        "metric": "Net.KeepaliveStatisticsRecorder.PeakInflightRequestsPerTopLevelFrame",
+        "samples": 18,
+        "mean": 0.0
+      },
+      {
+        "line": 1667,
+        "metric": "Net.MainFrameNoStore",
+        "samples": 4,
+        "mean": 0.0
+      },
+      {
+        "line": 1671,
+        "metric": "Net.NotifyAddrChangeFailures",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 1675,
+        "metric": "Net.NumQuicSessionsAtShutdown",
+        "samples": 2,
+        "mean": 0.0
+      },
+      {
+        "line": 1679,
+        "metric": "Net.Port.SlipstreamRestricted",
+        "samples": 58,
+        "mean": 0.0
+      },
+      {
+        "line": 1683,
+        "metric": "Net.QuicSession.CloseAllSessionsError",
+        "samples": 2,
+        "mean": null
+      },
+      {
+        "line": 1686,
+        "metric": "Net.QuicSession.FinchConfigIsValid",
+        "samples": 2,
+        "mean": 1.0
+      },
+      {
+        "line": 1691,
+        "metric": "Net.RedirectChainLength",
+        "samples": 80,
+        "mean": 0.0
+      },
+      {
+        "line": 1695,
+        "metric": "Net.RestrictedCookieManager.SiteForCookiesOK",
+        "samples": 14999,
+        "mean": 1.0
+      },
+      {
+        "line": 1700,
+        "metric": "Net.RestrictedCookieManager.TopFrameOriginOK",
+        "samples": 14999,
+        "mean": 1.0
+      },
+      {
+        "line": 1705,
+        "metric": "Net.SSLCertVerificationTime",
+        "samples": 8,
+        "mean": 591.5
+      },
+      {
+        "line": 1719,
+        "metric": "Net.SSLHandshakeDetails",
+        "samples": 8,
+        "mean": 6.5
+      },
+      {
+        "line": 1725,
+        "metric": "Net.SSLLegacyCryptoFallback",
+        "samples": 8,
+        "mean": 0.0
+      },
+      {
+        "line": 1729,
+        "metric": "Net.SSLNegotiatedAlpnProtocol",
+        "samples": 8,
+        "mean": 1.2
+      },
+      {
+        "line": 1735,
+        "metric": "Net.SSLSignatureAlgorithm",
+        "samples": 8,
+        "mean": null
+      },
+      {
+        "line": 1739,
+        "metric": "Net.SSLVersion",
+        "samples": 8,
+        "mean": 6.0
+      },
+      {
+        "line": 1744,
+        "metric": "Net.SSL_CipherSuite",
+        "samples": 8,
+        "mean": null
+      },
+      {
+        "line": 1747,
+        "metric": "Net.SSL_Connection_Error",
+        "samples": 8,
+        "mean": null
+      },
+      {
+        "line": 1750,
+        "metric": "Net.SSL_Connection_Latency_2",
+        "samples": 8,
+        "mean": 701.0
+      },
+      {
+        "line": 1763,
+        "metric": "Net.SSL_KeyExchange.ECDHE",
+        "samples": 8,
+        "mean": null
+      },
+      {
+        "line": 1766,
+        "metric": "Net.SiteDomainIsSafe",
+        "samples": 96814,
+        "mean": 1.0
+      },
+      {
+        "line": 1771,
+        "metric": "Net.SpdyHeadersCompressionPercentage",
+        "samples": 52,
+        "mean": 88.8
+      },
+      {
+        "line": 1790,
+        "metric": "Net.SpdyResponseCode",
+        "samples": 52,
+        "mean": null
+      },
+      {
+        "line": 1793,
+        "metric": "Net.SpdySession.ClosedOnError",
+        "samples": 2,
+        "mean": null
+      },
+      {
+        "line": 1796,
+        "metric": "Net.SpdySession.CreateStreamWithSocketConnected",
+        "samples": 52,
+        "mean": 1.0
+      },
+      {
+        "line": 1801,
+        "metric": "Net.SpdySession.PushedAndUnclaimedBytes",
+        "samples": 2,
+        "mean": 0.0
+      },
+      {
+        "line": 1805,
+        "metric": "Net.SpdySession.PushedBytes",
+        "samples": 2,
+        "mean": 0.0
+      },
+      {
+        "line": 1809,
+        "metric": "Net.SpdySession.ServerSupportsWebSocket",
+        "samples": 2,
+        "mean": 0.0
+      },
+      {
+        "line": 1813,
+        "metric": "Net.SpdySessionGet",
+        "samples": 52,
+        "mean": 1.1
+      },
+      {
+        "line": 1820,
+        "metric": "Net.SpdyStreamsAbandonedPerSession",
+        "samples": 2,
+        "mean": 0.0
+      },
+      {
+        "line": 1824,
+        "metric": "Net.SpdyStreamsPerSession",
+        "samples": 2,
+        "mean": 26.0
+      },
+      {
+        "line": 1829,
+        "metric": "Net.SpdyStreamsPushedAndClaimedPerSession",
+        "samples": 2,
+        "mean": 0.0
+      },
+      {
+        "line": 1833,
+        "metric": "Net.SpdyStreamsPushedPerSession",
+        "samples": 2,
+        "mean": 0.0
+      },
+      {
+        "line": 1837,
+        "metric": "Net.TCP_Connection_Latency",
+        "samples": 8,
+        "mean": 106.9
+      },
+      {
+        "line": 1844,
+        "metric": "Net.TCP_Connection_Latency_IPv4_No_Race",
+        "samples": 8,
+        "mean": 106.9
+      },
+      {
+        "line": 1851,
+        "metric": "Net.TcpConnectAttempt.Latency.Success",
+        "samples": 8,
+        "mean": 106.8
+      },
+      {
+        "line": 1857,
+        "metric": "Net.TcpConnectAttempt.LatencyPercentRTT.Success",
+        "samples": 8,
+        "mean": 26.2
+      },
+      {
+        "line": 1863,
+        "metric": "Net.UDPSocketWinClose",
+        "samples": 10,
+        "mean": 0.0
+      },
+      {
+        "line": 1867,
+        "metric": "Net.URLRequest.ReferrerHasInformativePath.CrossOrigin",
+        "samples": 24,
+        "mean": 0.0
+      },
+      {
+        "line": 1871,
+        "metric": "Net.URLRequest.ReferrerHasInformativePath.SameOrigin",
+        "samples": 56,
+        "mean": 1.0
+      },
+      {
+        "line": 1876,
+        "metric": "Net.URLRequest.ReferrerPolicyForRequest.CrossOrigin",
+        "samples": 24,
+        "mean": 1.0
+      },
+      {
+        "line": 1881,
+        "metric": "Net.URLRequest.ReferrerPolicyForRequest.SameOrigin",
+        "samples": 56,
+        "mean": 1.0
+      },
+      {
+        "line": 3309,
+        "metric": "Net.Certificate.TrustAnchor.Verify",
+        "samples": 5,
+        "mean": null
+      },
+      {
+        "line": 3313,
+        "metric": "Net.DNS.DnsConfig.SecureDnsMode",
+        "samples": 1,
+        "mean": 4.0
+      },
+      {
+        "line": 3318,
+        "metric": "Net.HttpResponseCode",
+        "samples": 76,
+        "mean": 200.0
+      },
+      {
+        "line": 3323,
+        "metric": "Net.NotifyAddrChangeFailures",
+        "samples": 1,
+        "mean": 0.0
+      },
+      {
+        "line": 3327,
+        "metric": "Net.SiteDomainIsSafe",
+        "samples": 15611,
+        "mean": 1.0
+      },
+      {
+        "line": 3332,
+        "metric": "Net.URLLoaderThrottleExecutionTime.BeforeWillProcessResponse",
+        "samples": 12,
+        "mean": 0.0
+      },
+      {
+        "line": 3336,
+        "metric": "Net.URLLoaderThrottleExecutionTime.WillProcessResponse",
+        "samples": 12,
+        "mean": 0.0
+      },
+      {
+        "line": 3340,
+        "metric": "Net.URLLoaderThrottleExecutionTime.WillStartRequest",
+        "samples": 12,
+        "mean": 0.0
+      }
+    ],
+    "explicit_browser_error_counts": {
+      "ERR_CONNECTION_RESET": 0,
+      "ERR_CONNECTION_TIMED_OUT": 0,
+      "ERR_NAME_NOT_RESOLVED": 0,
+      "ERR_INTERNET_DISCONNECTED": 0
+    },
+    "has_internal_2026_11_14": false,
+    "has_internal_2026_11_15": false
+  },
+  {
+    "file_id": "archive-02-member-0801",
+    "kind": "client_or_cef",
+    "lines": 415,
+    "bootstrap_already_running": false,
+    "cef_network_histograms": [],
+    "explicit_browser_error_counts": {
+      "ERR_CONNECTION_RESET": 0,
+      "ERR_CONNECTION_TIMED_OUT": 0,
+      "ERR_NAME_NOT_RESOLVED": 0,
+      "ERR_INTERNET_DISCONNECTED": 0
+    },
+    "has_internal_2026_11_14": false,
+    "has_internal_2026_11_15": false
+  },
+  {
+    "file_id": "archive-02-member-0802",
+    "kind": "client_or_cef",
+    "lines": 1422,
+    "bootstrap_already_running": false,
+    "cef_network_histograms": [],
+    "explicit_browser_error_counts": {
+      "ERR_CONNECTION_RESET": 0,
+      "ERR_CONNECTION_TIMED_OUT": 0,
+      "ERR_NAME_NOT_RESOLVED": 0,
+      "ERR_INTERNET_DISCONNECTED": 0
+    },
+    "has_internal_2026_11_14": false,
+    "has_internal_2026_11_15": false
+  }
+]
