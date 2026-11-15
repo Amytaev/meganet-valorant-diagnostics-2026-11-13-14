@@ -1,5 +1,7 @@
 # Meganet × Valorant / CS2 — диагностика 13–15 ноября 2026
 
+**Краткий пакет для инженеров Riot и Meganet:** [START-HERE-RIOT-MEGANET.md](START-HERE-RIOT-MEGANET.md) — приоритетные интервалы UTC/+05, графики, технические сводки, открытые вопросы и ограничения.
+
 **Новейшая независимая перепроверка:** [самостоятельный отчёт по всем 291 игровым точкам](investigation/reports/VALORANT-RTT-OPEN-INVESTIGATION.md) · [HTML с восемью встроенными графиками](investigation/reports/VALORANT-RTT-OPEN-INVESTIGATION.html) · [хронология](investigation/reports/VALORANT-RTT-OPEN-CHRONOLOGY.md) · [проверяемые гипотезы](investigation/reports/VALORANT-RTT-OPEN-HYPOTHESES.md).
 
 Исправлены пропуски значений выше 180 в прежних иллюстрациях: полный эпизод 00:58 содержит **162,91 → 206,84 → 172,31 → 226,09 мс**. Все 263 прежние band-точки и 58/13 контрольных классов воспроизведены. Новые проверки кластеров, временных сдвигов, фаз раунда, FPS/ресурсов и часов не выявили единой причины всех колебаний. В частности, количественная связь с RETN неустойчива без одного подключения; есть игровые ~200 при спокойных контролях. [Riot brief](investigation/reports/RIOT-SUPPORT-RTT-OPEN-BRIEF.md) · [Meganet brief](investigation/reports/MEGANET-RTT-OPEN-BRIEF.md) · [отдельный полный ZIP](downloads/VALORANT-RTT-Open-Investigation-2026-11-15.zip).
