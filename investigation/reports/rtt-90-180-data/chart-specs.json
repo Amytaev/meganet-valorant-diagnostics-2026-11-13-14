@@ -1462,11 +1462,11 @@
   },
   {
     "name": "shared-retn-0058.png",
-    "title": "Game 162.91 / 172.31 ms with elevated RETN controls",
+    "title": "Full episode: game 162.91 / 206.84 / 172.31 / 226.09 ms",
     "x_label": "Local UTC+05:00; red points are game records, lines are ICMP only",
     "y_label": "RTT (ms)",
     "y_min": 0,
-    "y_max": 200,
+    "y_max": 250,
     "series": [
       {
         "name": "192.168.123.1",
@@ -1688,8 +1688,16 @@
             "y": 162.91
           },
           {
+            "x": "2026-11-13T19:58:10.737+00:00",
+            "y": 206.84
+          },
+          {
             "x": "2026-11-13T19:58:11.966+00:00",
             "y": 172.31
+          },
+          {
+            "x": "2026-11-13T19:58:14.554+00:00",
+            "y": 226.09
           }
         ]
       }

@@ -6,7 +6,7 @@ import html
 import re
 from pathlib import Path
 
-REPOSITORY_BASE = 'https://github.com/Amytaev/amir-workspace/blob/codex/valorant-network-investigation/valorant-network-investigation'
+REPOSITORY_BASE = 'https://github.com/Amytaev/meganet-valorant-diagnostics-2026-11-13-14/blob/main/investigation'
 
 def inline(text,source,project):
     text=html.escape(text,quote=False)

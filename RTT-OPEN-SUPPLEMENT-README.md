@@ -1,0 +1,13 @@
+# Независимое открытое исследование RTT Valorant, 13–15 ноября 2026
+
+[Полный Markdown](investigation/reports/VALORANT-RTT-OPEN-INVESTIGATION.md) · [HTML, восемь встроенных графиков](investigation/reports/VALORANT-RTT-OPEN-INVESTIGATION.html) · [хронология](investigation/reports/VALORANT-RTT-OPEN-CHRONOLOGY.md) · [гипотезы и различающие проверки](investigation/reports/VALORANT-RTT-OPEN-HYPOTHESES.md) · [Riot](investigation/reports/RIOT-SUPPORT-RTT-OPEN-BRIEF.md) · [Meganet](investigation/reports/MEGANET-RTT-OPEN-BRIEF.md).
+
+291 реальная игровая threshold строка, 263 в band и 28 выше180. Старые числа263/58/13 проверены, но примеры полной хронологии исправлены: в них исчезали промежуточные217,28/202,80/206,84/226,09. Перепроверены временные связи, кластеры, фазовые и ресурсные события, часы/API и контрпримеры. Единственная причина всех эпизодов не доказана.
+
+Новые inputs: `investigation/reports/evidence/rtt-open-2026-11-15/` — 540 типизированных phase/resource событий, 846 performance metrics, ещё27690 ICMP строк и обезличенные снимки, watermark/integrity/clock/source provenance. Новый срез продолжающегося run доseq126931, последняя отправка06:23:28.056+05; монитор не остановлен. Повторно используемые прежние inputs находятся в `investigation/reports/evidence/rtt-90-180-2026-11-15/inputs/`; они включены в новый ZIP без повторного учёта проб. Результаты — `investigation/reports/rtt-open-data/`.
+
+Из investigation: `python scripts/analyze_rtt_open.py analyze`, затем `python scripts/write_rtt_open_report.py`. Анализ офлайн, Python stdlib; `prepare` не нужен для повторения опубликованного среза. Headless PNG можно пересоздать штатным .NET renderer на Windows, HTML — `export_final_html.py`. Синтетические тесты: `python -m unittest discover -s scripts -p test_rtt_open.py -v`. Никаких сетевых API эти команды анализа/тестов не вызывают.
+
+JSON/CSV, временные метки, IP:порт, контрольные узлы, все числовые события и PNG сохранены. Ни непрерывная серия90–119,99, ни baseline/duration не придуманы. Оригиналы RRT/ShooterGame, авторизация, account/match IDs, имена игроков, MAC/SSID/GUID, клиентскиеLAN/WAN и личные пути не публикуются. Новые игры/активные тесты/настройки/UDP capture и обращения поддержке не выполнялись.
+
+Старые ZIP/technical-package не изменены. Корневые SHA manifests относятся к текущим файлам; старые ZIP сохраняют manifests своего исторического среза. Некоторые ссылки на прежние отчёты требуют полного репозитория, автономный HTML содержит прямые GitHub-ссылки и встроенные изображения. Новый ZIP содержит также исправленный band-отчёт и числовые зависимости для replay.

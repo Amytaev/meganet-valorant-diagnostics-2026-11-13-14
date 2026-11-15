@@ -1,10 +1,12 @@
 # VALORANT × Meganet — network investigation
 
+**Открытая перепроверка 15 ноября:** [самостоятельный отчёт по всем 291 числовым точкам](reports/VALORANT-RTT-OPEN-INVESTIGATION.md) · [HTML, 8 графиков](reports/VALORANT-RTT-OPEN-INVESTIGATION.html) · [хронология](reports/VALORANT-RTT-OPEN-CHRONOLOGY.md) · [различающие проверки](reports/VALORANT-RTT-OPEN-HYPOTHESES.md). Исправлены пропуски >180 в прежних примерах; 00:58 достигает 226,09. 263/58/13 воспроизведены, но связь величин с RETN неустойчива без одного подключения. Причина всех колебаний не установлена; работающий монитор не остановлен.
+
 **RTT 90–180, 15 ноября:** [новый отдельный полный анализ](reports/VALORANT-RTT-90-180-ANALYSIS.md), все 263 числовых события, 6 графиков, контрольные/FPS/нагрузочные сопоставления и ограничения Beeline/Meganet. Новые локальные источники расширяют RRT.
 
-**Дополнение 15 ноября:** [RRT-анализ](reports/RIOT-RRT-LOG-ANALYSIS.md), числовые игровые события и контрольные окна, отдельные [Meganet](reports/MEGANET-RRT-BRIEF.md) / [Riot](reports/RIOT-SUPPORT-RRT-BRIEF.md) сводки. Исходники RRT и чувствительные поля не публикуются; конкретная причина не установлена.
+**New evidence, 15 November:** [Riot RRT analysis](reports/RIOT-RRT-LOG-ANALYSIS.md) confirms logged game Average Ping 328.12–383.31 ms and repeated input replication/queue errors during stable control ICMP. See [Riot](reports/RIOT-SUPPORT-RRT-BRIEF.md) and [Meganet](reports/MEGANET-RRT-BRIEF.md) briefs. Root cause remains unresolved; raw RRT sources stay local and private.
 
-**Private-source follow-up (public data is a frozen snapshot):** a new user-started match is being monitored continuously from 16:32:40 (+05:00), 14 November; run `20261114-163240-f28706ce`. The previous daytime run below is finalized. A separate [Meganet engineer package](reports/meganet-package-2026-11-14/README.md) contains completed finite ping/tracert results and Anycast/SDR limitations.
+**Active follow-up:** a new user-started match is being monitored continuously from 16:32:40 (+05:00), 14 November; run `20261114-163240-f28706ce`. The previous daytime run below is finalized. A separate [Meganet engineer package](reports/meganet-package-2026-11-14/README.md) contains completed finite ping/tracert results and Anycast/SDR limitations.
 
 **Status:** first local investigation stage completed on 13–14 November 2026. Quiet collectors, reviewed evidence and reproducible analysis are available. An in-game 185/189 ms RTT episode is confirmed; root cause remains unverified. See [incident](reports/INCIDENT-2026-11-14.md), [collector runbook](docs/COLLECTOR-RUNBOOK.md), [tasks](TASKS.md) and [investigation results](reports/INVESTIGATION-RESULTS.md).
 
@@ -30,6 +32,3 @@ Read [AGENTS.md](AGENTS.md) for strict operating instructions, then [docs/BASELI
 
 ## Suggested local output
 Use a folder outside the repository such as `%LOCALAPPDATA%\ValorantNetDiag\` for high-volume raw logs while capturing. Keep raw capture files ignored by default; commit detailed, intentionally selected datasets and technical reports to this private branch after checking for secrets. Privacy of the repository is not a reason to omit useful routing evidence.
-
-
-Публичный экспорт находится в investigation/. Коллектор, о котором говорится в исторических заметках, работает только в прежней приватной рабочей папке. Срез текущей серии: reports/evidence/follow-up-2026-11-14-snapshot/snapshot.json; это незавершённый committed prefix без DONE. Сведения об обезличивании и целостности — в PUBLIC-EXPORT-VALIDATION.json и корневом PUBLICATION-NOTES.md.

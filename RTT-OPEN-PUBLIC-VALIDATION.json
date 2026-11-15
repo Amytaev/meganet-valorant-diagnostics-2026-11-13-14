@@ -1,0 +1,408 @@
+{
+  "full_reports_preserved": true,
+  "numerical_derivatives_byte_identical": [
+    "investigation/reports/rtt-open-data/alignment-blocks.json",
+    "investigation/reports/rtt-open-data/all-291-points-phase-context.json",
+    "investigation/reports/rtt-open-data/all-game-points-context.json",
+    "investigation/reports/rtt-open-data/chart-specs.json",
+    "investigation/reports/rtt-open-data/classification-replay.json",
+    "investigation/reports/rtt-open-data/connection-tail-process.json",
+    "investigation/reports/rtt-open-data/control-alignment-shift-reference.json",
+    "investigation/reports/rtt-open-data/hourly-control-distributions.json",
+    "investigation/reports/rtt-open-data/lagged-control-window-overlap.json",
+    "investigation/reports/rtt-open-data/logged-point-transitions.json",
+    "investigation/reports/rtt-open-data/minute-control-series.json",
+    "investigation/reports/rtt-open-data/phase-exposure.json",
+    "investigation/reports/rtt-open-data/point-clusters-10s.json",
+    "investigation/reports/rtt-open-data/point-control-features.json",
+    "investigation/reports/rtt-open-data/SHA256SUMS.txt",
+    "investigation/reports/rtt-open-data/summary.json",
+    "investigation/reports/rtt-open-data/tail-correlations.json",
+    "investigation/reports/evidence/rtt-open-2026-11-15/additional-control-probes.csv",
+    "investigation/reports/evidence/rtt-open-2026-11-15/additional-snapshots.json",
+    "investigation/reports/evidence/rtt-open-2026-11-15/INTEGRITY-AUDIT.json",
+    "investigation/reports/evidence/rtt-open-2026-11-15/monitor-boundaries.json",
+    "investigation/reports/evidence/rtt-open-2026-11-15/native-clock-audit.json",
+    "investigation/reports/evidence/rtt-open-2026-11-15/NUMERICAL-VERIFICATION.json",
+    "investigation/reports/evidence/rtt-open-2026-11-15/performance-summaries.json",
+    "investigation/reports/evidence/rtt-open-2026-11-15/phase-events.json",
+    "investigation/reports/evidence/rtt-open-2026-11-15/SHA256SUMS.txt",
+    "investigation/reports/evidence/rtt-open-2026-11-15/source-lineage.json",
+    "investigation/reports/evidence/rtt-open-2026-11-15/VALIDATION.json"
+  ],
+  "privacy_findings": [],
+  "secret_checks_passed": true,
+  "source_history_copied": false,
+  "raw_sources_published": false,
+  "old_downloads_preserved": true,
+  "package_files_without_manifest": 85,
+  "source_previous_private_commit": "ad131138d5d14acb9a2673ca04b2aba75a7abd9a",
+  "files": [
+    {
+      "path": "investigation/.gitattributes",
+      "source_sha256": "b4c6fa767fdcd5d579e33571e78b849df7a86ffa89b74a8ee64b7852894044a1",
+      "public_sha256": "b4c6fa767fdcd5d579e33571e78b849df7a86ffa89b74a8ee64b7852894044a1",
+      "changed": false
+    },
+    {
+      "path": "investigation/README.md",
+      "source_sha256": "0d945b17c0e1dbe9123d2ca644a73e37e49c6e845ed543994425da22ca5aedc4",
+      "public_sha256": "0d945b17c0e1dbe9123d2ca644a73e37e49c6e845ed543994425da22ca5aedc4",
+      "changed": false
+    },
+    {
+      "path": "investigation/TASKS.md",
+      "source_sha256": "57336164407628348225bb2dcc80a6bb116e4b11e9955fb4d51065e88deb0292",
+      "public_sha256": "57336164407628348225bb2dcc80a6bb116e4b11e9955fb4d51065e88deb0292",
+      "changed": false
+    },
+    {
+      "path": "investigation/reports/INVESTIGATION-RESULTS.html",
+      "source_sha256": "0b2838dd40c1661e2865e6eb744f934786cbb573a722c5516dd623289c81b034",
+      "public_sha256": "4ffeb2464ed0e2bf62686328e4b6d17dcbac5789837a96bd89001482b39181ed",
+      "changed": true
+    },
+    {
+      "path": "investigation/reports/INVESTIGATION-RESULTS.md",
+      "source_sha256": "db02803769c2f927c7956d21c32a637a1206ba2cc7797c2b710965f3d149a1cc",
+      "public_sha256": "13e6c690c0c912e801decacdea9d16d72c6e4a70a4f7d74563d6716ae52320f3",
+      "changed": true
+    },
+    {
+      "path": "investigation/reports/ISP-SUPPORT-DRAFT.md",
+      "source_sha256": "28f281c7254aad3dd114c9a3a8dd2822a15dec02b0fb9cdd4529ec0c05d36190",
+      "public_sha256": "28f281c7254aad3dd114c9a3a8dd2822a15dec02b0fb9cdd4529ec0c05d36190",
+      "changed": false
+    },
+    {
+      "path": "investigation/reports/MEGANET-RTT-OPEN-BRIEF.md",
+      "source_sha256": "2b6b38f27fd904c59eab4b5f8ea03c85be5f91e147500ef28c8a253abc6162bb",
+      "public_sha256": "2b6b38f27fd904c59eab4b5f8ea03c85be5f91e147500ef28c8a253abc6162bb",
+      "changed": false
+    },
+    {
+      "path": "investigation/reports/RIOT-SUPPORT-RTT-OPEN-BRIEF.md",
+      "source_sha256": "69a137ea6d68b76e75f8c378e328c3a0599b0b09f008688699c58a62aa533b7a",
+      "public_sha256": "69a137ea6d68b76e75f8c378e328c3a0599b0b09f008688699c58a62aa533b7a",
+      "changed": false
+    },
+    {
+      "path": "investigation/reports/VALORANT-RTT-90-180-ANALYSIS.html",
+      "source_sha256": "d4831ba29f9d51ebd8b8a146eda50a22dd1a23de8a52511a19d910eb4fb4b9f4",
+      "public_sha256": "27e85302ca40a97d14fdb5ffdd966adcce54a3f9db278f535210e67864634478",
+      "changed": true
+    },
+    {
+      "path": "investigation/reports/VALORANT-RTT-90-180-ANALYSIS.md",
+      "source_sha256": "bbdc07f61ae442e95437055f939569c4aa59f256d63b19c38557138537d5c87d",
+      "public_sha256": "bbdc07f61ae442e95437055f939569c4aa59f256d63b19c38557138537d5c87d",
+      "changed": false
+    },
+    {
+      "path": "investigation/reports/VALORANT-RTT-OPEN-CHRONOLOGY.md",
+      "source_sha256": "1947639ab93a87cb6fcf42fabc5f074e2c06d5a758958ee60e99b5dc831cad25",
+      "public_sha256": "1947639ab93a87cb6fcf42fabc5f074e2c06d5a758958ee60e99b5dc831cad25",
+      "changed": false
+    },
+    {
+      "path": "investigation/reports/VALORANT-RTT-OPEN-HYPOTHESES.md",
+      "source_sha256": "2e557287c69e934b4408ff0edadfb1b83f76cff34b70cd6c41430e57e012f427",
+      "public_sha256": "2e557287c69e934b4408ff0edadfb1b83f76cff34b70cd6c41430e57e012f427",
+      "changed": false
+    },
+    {
+      "path": "investigation/reports/VALORANT-RTT-OPEN-INVESTIGATION.html",
+      "source_sha256": "031828e0dcdd2e9dd6f8400c56e4a465853d6070f6cb83d2911d1bc6e87d1329",
+      "public_sha256": "d89753e60f34e1229eb611b2a56ca52866cb64a353fcf4448eb569487a314fb4",
+      "changed": true
+    },
+    {
+      "path": "investigation/reports/VALORANT-RTT-OPEN-INVESTIGATION.md",
+      "source_sha256": "ab27dc7a801417ea355782343dee0e86efaf5110e5d34f69202dad014dba7d5b",
+      "public_sha256": "ab27dc7a801417ea355782343dee0e86efaf5110e5d34f69202dad014dba7d5b",
+      "changed": false
+    },
+    {
+      "path": "investigation/reports/evidence/SHA256SUMS.txt",
+      "source_sha256": "d335b46be3e4793a4fa196ff471d64c1eadf08ec7f65704cdafb766349ac1c22",
+      "public_sha256": "d335b46be3e4793a4fa196ff471d64c1eadf08ec7f65704cdafb766349ac1c22",
+      "changed": false
+    },
+    {
+      "path": "investigation/reports/evidence/rtt-open-2026-11-15/INTEGRITY-AUDIT.json",
+      "source_sha256": "61c260f0ec6aaefba489625189015d9ac571aa193ca432b8569eed3df6c1a6da",
+      "public_sha256": "61c260f0ec6aaefba489625189015d9ac571aa193ca432b8569eed3df6c1a6da",
+      "changed": false
+    },
+    {
+      "path": "investigation/reports/evidence/rtt-open-2026-11-15/NUMERICAL-VERIFICATION.json",
+      "source_sha256": "416ba921aeb317fccf47e978a8b6cbce9e9c729909331967961a9151374e55d0",
+      "public_sha256": "416ba921aeb317fccf47e978a8b6cbce9e9c729909331967961a9151374e55d0",
+      "changed": false
+    },
+    {
+      "path": "investigation/reports/evidence/rtt-open-2026-11-15/SHA256SUMS.txt",
+      "source_sha256": "52ec050f733f9c175bf84076c8b83d7d94209518d6b925cb54192212a6ab3e9f",
+      "public_sha256": "52ec050f733f9c175bf84076c8b83d7d94209518d6b925cb54192212a6ab3e9f",
+      "changed": false
+    },
+    {
+      "path": "investigation/reports/evidence/rtt-open-2026-11-15/VALIDATION.json",
+      "source_sha256": "0672c340e235c84d6dea530e3c543c2a3d49c0402c14352ead96c8318574530a",
+      "public_sha256": "0672c340e235c84d6dea530e3c543c2a3d49c0402c14352ead96c8318574530a",
+      "changed": false
+    },
+    {
+      "path": "investigation/reports/evidence/rtt-open-2026-11-15/additional-control-probes.csv",
+      "source_sha256": "ab769f1e6cca2b617f85ee3adce0ef45beaea1c3d471366d09d6aed3076c84d0",
+      "public_sha256": "ab769f1e6cca2b617f85ee3adce0ef45beaea1c3d471366d09d6aed3076c84d0",
+      "changed": false
+    },
+    {
+      "path": "investigation/reports/evidence/rtt-open-2026-11-15/additional-snapshots.json",
+      "source_sha256": "065b76885f9e3cb6c0c7b8d39b45f6aa021de83fb752712c520ec045fbcd2d38",
+      "public_sha256": "065b76885f9e3cb6c0c7b8d39b45f6aa021de83fb752712c520ec045fbcd2d38",
+      "changed": false
+    },
+    {
+      "path": "investigation/reports/evidence/rtt-open-2026-11-15/monitor-boundaries.json",
+      "source_sha256": "1076cbff3a2119dc4dcf48625dedb696bf24215732186726fb95b9179d3e55da",
+      "public_sha256": "1076cbff3a2119dc4dcf48625dedb696bf24215732186726fb95b9179d3e55da",
+      "changed": false
+    },
+    {
+      "path": "investigation/reports/evidence/rtt-open-2026-11-15/native-clock-audit.json",
+      "source_sha256": "2ad2793b418435864f4b3aaa01c1e9eea53f0fba72db2e55ab5d34554d8945df",
+      "public_sha256": "2ad2793b418435864f4b3aaa01c1e9eea53f0fba72db2e55ab5d34554d8945df",
+      "changed": false
+    },
+    {
+      "path": "investigation/reports/evidence/rtt-open-2026-11-15/performance-summaries.json",
+      "source_sha256": "dff0b9e09bfa62e2f75a2e322d992ef3300823e655fa0747913c6ce5b3a6d247",
+      "public_sha256": "dff0b9e09bfa62e2f75a2e322d992ef3300823e655fa0747913c6ce5b3a6d247",
+      "changed": false
+    },
+    {
+      "path": "investigation/reports/evidence/rtt-open-2026-11-15/phase-events.json",
+      "source_sha256": "fb51b518d9d6a18eb8d2e84821c56ae2c65f61b0603a69c8dd9a1c30ab71b309",
+      "public_sha256": "fb51b518d9d6a18eb8d2e84821c56ae2c65f61b0603a69c8dd9a1c30ab71b309",
+      "changed": false
+    },
+    {
+      "path": "investigation/reports/evidence/rtt-open-2026-11-15/source-lineage.json",
+      "source_sha256": "1c336e9c3d1c0575ea4b2bbb590fead603967ccc46bb1948e5742cb444950bb7",
+      "public_sha256": "1c336e9c3d1c0575ea4b2bbb590fead603967ccc46bb1948e5742cb444950bb7",
+      "changed": false
+    },
+    {
+      "path": "investigation/reports/figures/open-0007-quiet.png",
+      "source_sha256": "f09ce01579703aa19db8f403902b0945d4a8ea65917bd3c52942455651334031",
+      "public_sha256": "f09ce01579703aa19db8f403902b0945d4a8ea65917bd3c52942455651334031",
+      "changed": false
+    },
+    {
+      "path": "investigation/reports/figures/open-0058-complete.png",
+      "source_sha256": "3045fb88d630f23c001b4e50d48dcec0422710ea2df82a1b92f958928ccfd9d9",
+      "public_sha256": "3045fb88d630f23c001b4e50d48dcec0422710ea2df82a1b92f958928ccfd9d9",
+      "changed": false
+    },
+    {
+      "path": "investigation/reports/figures/open-1536-complete.png",
+      "source_sha256": "80eae75b9f8f21775ab84b3c6398e5639120fe63db93daf51e3d5f047375943e",
+      "public_sha256": "80eae75b9f8f21775ab84b3c6398e5639120fe63db93daf51e3d5f047375943e",
+      "changed": false
+    },
+    {
+      "path": "investigation/reports/figures/open-all-points.png",
+      "source_sha256": "b1c68c57d9c9a922e072348ce3d015eeb9fa68cac87f967d780c50c69ac2aff4",
+      "public_sha256": "b1c68c57d9c9a922e072348ce3d015eeb9fa68cac87f967d780c50c69ac2aff4",
+      "changed": false
+    },
+    {
+      "path": "investigation/reports/figures/open-lag-overlap.png",
+      "source_sha256": "13fb3c202afd36ce698d71120346a8a10ca7b5706a65b1aa21d3f38f8550aa3a",
+      "public_sha256": "13fb3c202afd36ce698d71120346a8a10ca7b5706a65b1aa21d3f38f8550aa3a",
+      "changed": false
+    },
+    {
+      "path": "investigation/reports/figures/open-minute-medians.png",
+      "source_sha256": "a09cd08cdb4cb428367f0acaaebd147fd58b1d70adfc051db4b46221fd22d762",
+      "public_sha256": "a09cd08cdb4cb428367f0acaaebd147fd58b1d70adfc051db4b46221fd22d762",
+      "changed": false
+    },
+    {
+      "path": "investigation/reports/figures/open-shift-reference.png",
+      "source_sha256": "b80ece1afe2294e5673c03e96ee7f2afc495b7f18c22d160c7207a00e2805a45",
+      "public_sha256": "b80ece1afe2294e5673c03e96ee7f2afc495b7f18c22d160c7207a00e2805a45",
+      "changed": false
+    },
+    {
+      "path": "investigation/reports/figures/open-tail-scatter.png",
+      "source_sha256": "26b63948073996f72157a792f648d363fcd42f712b495640d29d43bcc1539cb7",
+      "public_sha256": "26b63948073996f72157a792f648d363fcd42f712b495640d29d43bcc1539cb7",
+      "changed": false
+    },
+    {
+      "path": "investigation/reports/figures/rtt-90-180/shared-retn-0058.png",
+      "source_sha256": "f8b8dd12c8b58bef46dac107f2d3652494a1e017220bafadd737a11f8936d54b",
+      "public_sha256": "f8b8dd12c8b58bef46dac107f2d3652494a1e017220bafadd737a11f8936d54b",
+      "changed": false
+    },
+    {
+      "path": "investigation/reports/rtt-90-180-data/SHA256SUMS.txt",
+      "source_sha256": "d7791efa4549a9a1fd002c3d613bbad3a02658b8fb8239d5d7d67c02df3d20b5",
+      "public_sha256": "d7791efa4549a9a1fd002c3d613bbad3a02658b8fb8239d5d7d67c02df3d20b5",
+      "changed": false
+    },
+    {
+      "path": "investigation/reports/rtt-90-180-data/chart-specs.json",
+      "source_sha256": "20c73833d788d6cd5531a1af795f9d3af6f7c966fc4f1416a6a7cb5eb17d746a",
+      "public_sha256": "20c73833d788d6cd5531a1af795f9d3af6f7c966fc4f1416a6a7cb5eb17d746a",
+      "changed": false
+    },
+    {
+      "path": "investigation/reports/rtt-open-data/SHA256SUMS.txt",
+      "source_sha256": "62dfec04a2ef66f3a1de360a284c92141e34321deced0796f1bb978ce88df8ca",
+      "public_sha256": "62dfec04a2ef66f3a1de360a284c92141e34321deced0796f1bb978ce88df8ca",
+      "changed": false
+    },
+    {
+      "path": "investigation/reports/rtt-open-data/alignment-blocks.json",
+      "source_sha256": "6110aceba2071a5b1d58bfc69d8db17bd004622335a501cb8125afd15d58cd71",
+      "public_sha256": "6110aceba2071a5b1d58bfc69d8db17bd004622335a501cb8125afd15d58cd71",
+      "changed": false
+    },
+    {
+      "path": "investigation/reports/rtt-open-data/all-291-points-phase-context.json",
+      "source_sha256": "7a8f96e988bffaba8790206242480f31ebbedd898d25496feb0c64bb856173d1",
+      "public_sha256": "7a8f96e988bffaba8790206242480f31ebbedd898d25496feb0c64bb856173d1",
+      "changed": false
+    },
+    {
+      "path": "investigation/reports/rtt-open-data/all-game-points-context.json",
+      "source_sha256": "46c87a91dc53b2313fe2a3b440062b1b5e3c29ef338f0d4da9b7262de572b06a",
+      "public_sha256": "46c87a91dc53b2313fe2a3b440062b1b5e3c29ef338f0d4da9b7262de572b06a",
+      "changed": false
+    },
+    {
+      "path": "investigation/reports/rtt-open-data/chart-specs.json",
+      "source_sha256": "0ad3da5c48d3d398f44c8ca4a522f6ae475d9f1798121436406cbd01bcd36ed1",
+      "public_sha256": "0ad3da5c48d3d398f44c8ca4a522f6ae475d9f1798121436406cbd01bcd36ed1",
+      "changed": false
+    },
+    {
+      "path": "investigation/reports/rtt-open-data/classification-replay.json",
+      "source_sha256": "25087ee91407b7f33e96c8059b52ce6090ee33df93dfa82d18a49b801a299f27",
+      "public_sha256": "25087ee91407b7f33e96c8059b52ce6090ee33df93dfa82d18a49b801a299f27",
+      "changed": false
+    },
+    {
+      "path": "investigation/reports/rtt-open-data/connection-tail-process.json",
+      "source_sha256": "b62c47f4636585994c27b12a47b02934025d51c7f9627f72738b6e0a5b9f4c21",
+      "public_sha256": "b62c47f4636585994c27b12a47b02934025d51c7f9627f72738b6e0a5b9f4c21",
+      "changed": false
+    },
+    {
+      "path": "investigation/reports/rtt-open-data/control-alignment-shift-reference.json",
+      "source_sha256": "50e5075d38fae8c6cabe921a7bbdd56851b5e0da0ef49dd9ae4a41cd880f6cfc",
+      "public_sha256": "50e5075d38fae8c6cabe921a7bbdd56851b5e0da0ef49dd9ae4a41cd880f6cfc",
+      "changed": false
+    },
+    {
+      "path": "investigation/reports/rtt-open-data/hourly-control-distributions.json",
+      "source_sha256": "e843de1979e9d5afd4c0b2f5625173b6f85364015688e3870502aac81a54ad7b",
+      "public_sha256": "e843de1979e9d5afd4c0b2f5625173b6f85364015688e3870502aac81a54ad7b",
+      "changed": false
+    },
+    {
+      "path": "investigation/reports/rtt-open-data/lagged-control-window-overlap.json",
+      "source_sha256": "8dd2766e31d7aa652bcfdd3cfb339b5f44e9bd6a380260a62b2f0ccfad346b90",
+      "public_sha256": "8dd2766e31d7aa652bcfdd3cfb339b5f44e9bd6a380260a62b2f0ccfad346b90",
+      "changed": false
+    },
+    {
+      "path": "investigation/reports/rtt-open-data/logged-point-transitions.json",
+      "source_sha256": "3f2a5e81d13c2c3c222e70632c66f5895261f5f661dca7b2260ae8c05f22a9a4",
+      "public_sha256": "3f2a5e81d13c2c3c222e70632c66f5895261f5f661dca7b2260ae8c05f22a9a4",
+      "changed": false
+    },
+    {
+      "path": "investigation/reports/rtt-open-data/minute-control-series.json",
+      "source_sha256": "50267be665e2aec8177cec7779ee664c1bcd172c95cd42e359e7cc61a59cb250",
+      "public_sha256": "50267be665e2aec8177cec7779ee664c1bcd172c95cd42e359e7cc61a59cb250",
+      "changed": false
+    },
+    {
+      "path": "investigation/reports/rtt-open-data/phase-exposure.json",
+      "source_sha256": "327077c807bb32479a035a90fc47afa746376e79b12b86c628c393f3c6400c92",
+      "public_sha256": "327077c807bb32479a035a90fc47afa746376e79b12b86c628c393f3c6400c92",
+      "changed": false
+    },
+    {
+      "path": "investigation/reports/rtt-open-data/point-clusters-10s.json",
+      "source_sha256": "c93da43b7026bdd46362ba4555f6e05e4c33f9be794dd6e650bbb6fac90945a9",
+      "public_sha256": "c93da43b7026bdd46362ba4555f6e05e4c33f9be794dd6e650bbb6fac90945a9",
+      "changed": false
+    },
+    {
+      "path": "investigation/reports/rtt-open-data/point-control-features.json",
+      "source_sha256": "b39c9b21cbb747dac7f95fe7a2b4430fff76e3be3cf43cf4915ce7031c0ddf36",
+      "public_sha256": "b39c9b21cbb747dac7f95fe7a2b4430fff76e3be3cf43cf4915ce7031c0ddf36",
+      "changed": false
+    },
+    {
+      "path": "investigation/reports/rtt-open-data/summary.json",
+      "source_sha256": "22249475b68d6d936a800ab2c4d45618efba8ed4f5c6e204b59c3c357eb45333",
+      "public_sha256": "22249475b68d6d936a800ab2c4d45618efba8ed4f5c6e204b59c3c357eb45333",
+      "changed": false
+    },
+    {
+      "path": "investigation/reports/rtt-open-data/tail-correlations.json",
+      "source_sha256": "1fd533fc5b5c3e5a8eac6b045348567e13e4f8aa4604d92a791670ef0753eb9a",
+      "public_sha256": "1fd533fc5b5c3e5a8eac6b045348567e13e4f8aa4604d92a791670ef0753eb9a",
+      "changed": false
+    },
+    {
+      "path": "investigation/scripts/Render-InvestigationCharts.ps1",
+      "source_sha256": "26062eb9a412cc59110b7bafdeee10030b6ebd59653c0815c9292ab3b9949841",
+      "public_sha256": "26062eb9a412cc59110b7bafdeee10030b6ebd59653c0815c9292ab3b9949841",
+      "changed": false
+    },
+    {
+      "path": "investigation/scripts/analyze_rtt_open.py",
+      "source_sha256": "6a0666e28c6043ab8e2366566f75b7b329f314fd82438328c73cafa056f45613",
+      "public_sha256": "6a0666e28c6043ab8e2366566f75b7b329f314fd82438328c73cafa056f45613",
+      "changed": false
+    },
+    {
+      "path": "investigation/scripts/audit_rtt_open.py",
+      "source_sha256": "7518cb4a9b167a14df07e494598a7837b2522b4fe11509ee32b701a7bed9c5f0",
+      "public_sha256": "7518cb4a9b167a14df07e494598a7837b2522b4fe11509ee32b701a7bed9c5f0",
+      "changed": false
+    },
+    {
+      "path": "investigation/scripts/test_rtt_open.py",
+      "source_sha256": "477e97e4d89b1994779c55c25f21ffaf4d96ef8921a8a34fc21e115e3661c7fe",
+      "public_sha256": "477e97e4d89b1994779c55c25f21ffaf4d96ef8921a8a34fc21e115e3661c7fe",
+      "changed": false
+    },
+    {
+      "path": "investigation/scripts/validate_rtt_open.py",
+      "source_sha256": "756ab574e82997ab5a4b16e4fc2ce7f5978c8abc3ec362d47dfe8dc754b2be29",
+      "public_sha256": "756ab574e82997ab5a4b16e4fc2ce7f5978c8abc3ec362d47dfe8dc754b2be29",
+      "changed": false
+    },
+    {
+      "path": "investigation/scripts/write_rtt_90_180_report.py",
+      "source_sha256": "28b4086d24abb33bcc48fc647b6c4d152bf098bdb880c418f8d7165f30c5e383",
+      "public_sha256": "28b4086d24abb33bcc48fc647b6c4d152bf098bdb880c418f8d7165f30c5e383",
+      "changed": false
+    },
+    {
+      "path": "investigation/scripts/write_rtt_open_report.py",
+      "source_sha256": "2779ae29781d293fcbe1204afca2af2bea35a209909e72cff1b0f55a5e0ea46b",
+      "public_sha256": "2779ae29781d293fcbe1204afca2af2bea35a209909e72cff1b0f55a5e0ea46b",
+      "changed": false
+    }
+  ]
+}

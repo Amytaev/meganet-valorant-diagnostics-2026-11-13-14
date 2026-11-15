@@ -5,3 +5,4 @@ reports/meganet-package-*/** -text whitespace=blank-at-eol,blank-at-eof,space-be
 reports/meganet-package-*/measurements/*.txt -text whitespace=-blank-at-eol,-blank-at-eof,-space-before-tab,cr-at-eol
 # Preserve derived numerical bytes for SHA-256 and public/private offline replay.
 reports/rtt-90-180-data/** -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
+reports/rtt-open-data/** -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol

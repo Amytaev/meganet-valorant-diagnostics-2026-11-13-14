@@ -1,0 +1,17 @@
+{
+  "replayed_band_points": 263,
+  "all_match": true,
+  "full_classes": {
+    "uncovered_or_incomplete": 206,
+    "all_controls_below_threshold": 69,
+    "gateway_control_anomaly": 6,
+    "retn_only_control_anomaly": 7,
+    "near_without_gateway_anomaly": 3
+  },
+  "outside_band_classes": {
+    "uncovered_or_incomplete": 14,
+    "all_controls_below_threshold": 11,
+    "gateway_control_anomaly": 1,
+    "near_without_gateway_anomaly": 2
+  }
+}

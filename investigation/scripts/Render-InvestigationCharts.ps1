@@ -24,8 +24,12 @@ foreach($spec in $specs){
             $axis.MajorGrid.LineColor=[Drawing.Color]::FromArgb(220,226,234)
             $axis.LineColor=[Drawing.Color]::SlateGray
         }
-        $area.AxisX.LabelStyle.Format=if($spec.x_format){[string]$spec.x_format}else{'HH:mm:ss'};$area.AxisX.Title=$spec.x_label
+        $area.AxisX.LabelStyle.Format=if($spec.x_format){[string]$spec.x_format}elseif($spec.x_numeric){'0.##'}else{'HH:mm:ss'};$area.AxisX.Title=$spec.x_label
         $area.AxisX.IsMarginVisible=$false;$area.AxisY.Title=$spec.y_label
+        if($null -ne $spec.x_min){$area.AxisX.Minimum=[double]$spec.x_min}
+        if($null -ne $spec.x_max){$area.AxisX.Maximum=[double]$spec.x_max}
+        if($null -ne $spec.x_interval){$area.AxisX.Interval=[double]$spec.x_interval}
+        if($null -ne $spec.x_interval_offset){$area.AxisX.LabelStyle.IntervalOffset=[double]$spec.x_interval_offset;$area.AxisX.MajorGrid.IntervalOffset=[double]$spec.x_interval_offset}
         if($null -ne $spec.y_interval){$area.AxisY.Interval=[double]$spec.y_interval;$area.AxisY.LabelStyle.Interval=[double]$spec.y_interval}
         $area.AxisY.Minimum=[double]$spec.y_min
         if($null -ne $spec.y_max){$area.AxisY.Maximum=[double]$spec.y_max}
@@ -41,13 +45,17 @@ foreach($spec in $specs){
             $series=New-Object System.Windows.Forms.DataVisualization.Charting.Series([string]$item.name)
             $series.ChartType='Line';$series.BorderWidth=2;$series.Color=[Drawing.ColorTranslator]::FromHtml($item.color)
             if($item.chart_type){$series.ChartType=[string]$item.chart_type;$series.MarkerStyle='Circle';$series.MarkerSize=7}
-            $series.XValueType='DateTime';$series.ChartArea='data';$series.Legend='targets'
+            $series.XValueType=if($spec.x_numeric){'Double'}else{'DateTime'};$series.ChartArea='data';$series.Legend='targets'
+            if($null -ne $item.show_legend){$series.IsVisibleInLegend=[bool]$item.show_legend}
             if($spec.name -eq 'rtt-local-zoom.png'){
                 $series.MarkerStyle='Circle';$series.MarkerSize=4
                 if($item.name -eq $spec.series[0].name){$series.MarkerStyle='Square';$series.MarkerSize=8;$series.BorderWidth=3}
             }
             if($item.secondary){$series.YAxisType='Secondary'}
-            foreach($point in $item.points){$null=$series.Points.AddXY((X-Value $point.x),[double]$point.y)}
+            foreach($point in $item.points){
+                $x=if($spec.x_numeric){[double]$point.x}else{X-Value $point.x}
+                $null=$series.Points.AddXY($x,[double]$point.y)
+            }
             $chart.Series.Add($series)
         }
         if($spec.marker){
@@ -56,6 +64,10 @@ foreach($spec in $specs){
             $line.BorderColor=[Drawing.Color]::Gray;$line.BorderDashStyle='Dash';$line.Text=$spec.marker_text
             $area.AxisX.StripLines.Add($line)
         }
+        # The first paint can lay out wrapped legends after computing point pixels.
+        # Prime headless layout in memory, then export consistent axis/point positions.
+        $warmup=New-Object IO.MemoryStream
+        try{$chart.SaveImage($warmup,[System.Windows.Forms.DataVisualization.Charting.ChartImageFormat]::Png)}finally{$warmup.Dispose()}
         $chart.SaveImage((Join-Path $OutputDirectory $spec.name),[System.Windows.Forms.DataVisualization.Charting.ChartImageFormat]::Png)
         Write-Output $spec.name
     }finally{$chart.Dispose()}

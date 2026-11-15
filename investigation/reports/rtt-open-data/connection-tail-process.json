@@ -1,0 +1,544 @@
+[
+  {
+    "connection_id": "C001",
+    "file": "ShooterGame-backup-2026.11.13-11.18.28.log",
+    "ip": "185.40.64.1",
+    "port": 7394,
+    "start_utc": "2026-11-13T08:09:08.764+00:00",
+    "end_utc": "2026-11-13T08:44:33.086+00:00",
+    "end_basis": "netdriver_stats",
+    "travel_line": 2869,
+    "map_ready_utc": "2026-11-13T08:09:23.919+00:00",
+    "received_packet_utc": null,
+    "received_packet_line": null,
+    "n": 9,
+    "tail_rtt_ms": {
+      "n": 9,
+      "min": 120.43,
+      "median": 125.49,
+      "p95": 129.67,
+      "max": 129.67
+    },
+    "first_ping_utc": "2026-11-13T08:29:14.721+00:00",
+    "first_ping_after_map_ready_seconds": 1190.802,
+    "bands": {
+      "120-<130": 9
+    },
+    "cluster_counts": {
+      "5": 8,
+      "10": 8,
+      "30": 3,
+      "60": 2
+    }
+  },
+  {
+    "connection_id": "C002",
+    "file": "ShooterGame-backup-2026.11.13-11.18.28.log",
+    "ip": "185.40.64.1",
+    "port": 7149,
+    "start_utc": "2026-11-13T10:23:01.919+00:00",
+    "end_utc": "2026-11-13T11:05:14.928+00:00",
+    "end_basis": "netdriver_stats",
+    "travel_line": 22990,
+    "map_ready_utc": "2026-11-13T10:23:17.183+00:00",
+    "received_packet_utc": null,
+    "received_packet_line": null,
+    "n": 139,
+    "tail_rtt_ms": {
+      "n": 139,
+      "min": 120.0,
+      "median": 124.44,
+      "p95": 204.12,
+      "max": 217.28
+    },
+    "first_ping_utc": "2026-11-13T10:28:12.775+00:00",
+    "first_ping_after_map_ready_seconds": 295.592,
+    "bands": {
+      "120-<130": 108,
+      "130-<150": 16,
+      "200-<300": 8,
+      "150-180": 2,
+      ">180-<200": 5
+    },
+    "cluster_counts": {
+      "5": 76,
+      "10": 52,
+      "30": 18,
+      "60": 14
+    }
+  },
+  {
+    "connection_id": "C003",
+    "file": "ShooterGame-backup-2026.11.13-20.08.16.log",
+    "ip": "185.40.64.1",
+    "port": 7125,
+    "start_utc": "2026-11-13T17:25:45.729+00:00",
+    "end_utc": "2026-11-13T17:51:22.797+00:00",
+    "end_basis": "netdriver_stats",
+    "travel_line": 2453,
+    "map_ready_utc": "2026-11-13T17:25:59.556+00:00",
+    "received_packet_utc": null,
+    "received_packet_line": null,
+    "n": 31,
+    "tail_rtt_ms": {
+      "n": 31,
+      "min": 120.25,
+      "median": 124.9,
+      "p95": 161.94,
+      "max": 202.8
+    },
+    "first_ping_utc": "2026-11-13T17:26:06.160+00:00",
+    "first_ping_after_map_ready_seconds": 6.604,
+    "bands": {
+      "120-<130": 21,
+      "150-180": 2,
+      "200-<300": 1,
+      "130-<150": 7
+    },
+    "cluster_counts": {
+      "5": 21,
+      "10": 14,
+      "30": 9,
+      "60": 7
+    }
+  },
+  {
+    "connection_id": "C004",
+    "file": "ShooterGame-backup-2026.11.13-20.08.16.log",
+    "ip": "185.40.64.1",
+    "port": 7499,
+    "start_utc": "2026-11-13T17:58:54.355+00:00",
+    "end_utc": "2026-11-13T18:04:24.490+00:00",
+    "end_basis": "netdriver_stats",
+    "travel_line": 13223,
+    "map_ready_utc": "2026-11-13T17:58:57.464+00:00",
+    "received_packet_utc": null,
+    "received_packet_line": null,
+    "n": 12,
+    "tail_rtt_ms": {
+      "n": 12,
+      "min": 123.05,
+      "median": 133.485,
+      "p95": 151.98,
+      "max": 151.98
+    },
+    "first_ping_utc": "2026-11-13T17:59:15.918+00:00",
+    "first_ping_after_map_ready_seconds": 18.454,
+    "bands": {
+      "130-<150": 7,
+      "120-<130": 4,
+      "150-180": 1
+    },
+    "cluster_counts": {
+      "5": 9,
+      "10": 6,
+      "30": 2,
+      "60": 2
+    }
+  },
+  {
+    "connection_id": "C005",
+    "file": "ShooterGame-backup-2026.11.13-20.08.16.log",
+    "ip": "185.40.64.1",
+    "port": 7496,
+    "start_utc": "2026-11-13T18:05:04.371+00:00",
+    "end_utc": "2026-11-13T18:11:09.289+00:00",
+    "end_basis": "netdriver_stats",
+    "travel_line": 17328,
+    "map_ready_utc": "2026-11-13T18:05:11.709+00:00",
+    "received_packet_utc": null,
+    "received_packet_line": null,
+    "n": 0,
+    "tail_rtt_ms": {
+      "n": 0
+    },
+    "first_ping_utc": null,
+    "first_ping_after_map_ready_seconds": null,
+    "bands": {},
+    "cluster_counts": {
+      "5": 0,
+      "10": 0,
+      "30": 0,
+      "60": 0
+    }
+  },
+  {
+    "connection_id": "C006",
+    "file": "ShooterGame-backup-2026.11.13-20.08.16.log",
+    "ip": "185.40.64.1",
+    "port": 7048,
+    "start_utc": "2026-11-13T18:11:34.945+00:00",
+    "end_utc": "2026-11-13T18:50:22.507+00:00",
+    "end_basis": "netdriver_stats",
+    "travel_line": 22508,
+    "map_ready_utc": "2026-11-13T18:11:47.125+00:00",
+    "received_packet_utc": null,
+    "received_packet_line": null,
+    "n": 1,
+    "tail_rtt_ms": {
+      "n": 1,
+      "min": 124.24,
+      "median": 124.24,
+      "p95": 124.24,
+      "max": 124.24
+    },
+    "first_ping_utc": "2026-11-13T18:20:00.020+00:00",
+    "first_ping_after_map_ready_seconds": 492.895,
+    "bands": {
+      "120-<130": 1
+    },
+    "cluster_counts": {
+      "5": 1,
+      "10": 1,
+      "30": 1,
+      "60": 1
+    }
+  },
+  {
+    "connection_id": "C007",
+    "file": "ShooterGame-backup-2026.11.13-20.08.16.log",
+    "ip": "185.40.64.1",
+    "port": 7039,
+    "start_utc": "2026-11-13T18:51:55.749+00:00",
+    "end_utc": "2026-11-13T19:29:52.139+00:00",
+    "end_basis": "netdriver_stats",
+    "travel_line": 55150,
+    "map_ready_utc": "2026-11-13T18:52:10.837+00:00",
+    "received_packet_utc": null,
+    "received_packet_line": null,
+    "n": 19,
+    "tail_rtt_ms": {
+      "n": 19,
+      "min": 120.69,
+      "median": 124.33,
+      "p95": 201.7,
+      "max": 201.7
+    },
+    "first_ping_utc": "2026-11-13T18:53:03.170+00:00",
+    "first_ping_after_map_ready_seconds": 52.333,
+    "bands": {
+      "120-<130": 14,
+      "150-180": 1,
+      "130-<150": 1,
+      "200-<300": 2,
+      ">180-<200": 1
+    },
+    "cluster_counts": {
+      "5": 13,
+      "10": 9,
+      "30": 5,
+      "60": 4
+    }
+  },
+  {
+    "connection_id": "C008",
+    "file": "ShooterGame-backup-2026.11.13-20.08.16.log",
+    "ip": "185.40.64.1",
+    "port": 7329,
+    "start_utc": "2026-11-13T19:30:35.124+00:00",
+    "end_utc": "2026-11-13T19:37:43.082+00:00",
+    "end_basis": "netdriver_stats",
+    "travel_line": 79958,
+    "map_ready_utc": "2026-11-13T19:30:38.186+00:00",
+    "received_packet_utc": "2026-11-13T19:30:38.159+00:00",
+    "received_packet_line": 80934,
+    "n": 2,
+    "tail_rtt_ms": {
+      "n": 2,
+      "min": 124.76,
+      "median": 125.52000000000001,
+      "p95": 126.28,
+      "max": 126.28
+    },
+    "first_ping_utc": "2026-11-13T19:30:55.753+00:00",
+    "first_ping_after_map_ready_seconds": 17.567,
+    "bands": {
+      "120-<130": 2
+    },
+    "cluster_counts": {
+      "5": 1,
+      "10": 1,
+      "30": 1,
+      "60": 1
+    }
+  },
+  {
+    "connection_id": "C009",
+    "file": "ShooterGame-backup-2026.11.13-20.08.16.log",
+    "ip": "185.40.64.1",
+    "port": 7415,
+    "start_utc": "2026-11-13T19:38:26.070+00:00",
+    "end_utc": "2026-11-13T19:46:01.354+00:00",
+    "end_basis": "netdriver_stats",
+    "travel_line": 86168,
+    "map_ready_utc": "2026-11-13T19:38:32.658+00:00",
+    "received_packet_utc": null,
+    "received_packet_line": null,
+    "n": 0,
+    "tail_rtt_ms": {
+      "n": 0
+    },
+    "first_ping_utc": null,
+    "first_ping_after_map_ready_seconds": null,
+    "bands": {},
+    "cluster_counts": {
+      "5": 0,
+      "10": 0,
+      "30": 0,
+      "60": 0
+    }
+  },
+  {
+    "connection_id": "C010",
+    "file": "ShooterGame-backup-2026.11.13-20.08.16.log",
+    "ip": "185.40.64.1",
+    "port": 7382,
+    "start_utc": "2026-11-13T19:46:47.123+00:00",
+    "end_utc": "2026-11-13T19:52:07.972+00:00",
+    "end_basis": "netdriver_stats",
+    "travel_line": 93136,
+    "map_ready_utc": "2026-11-13T19:46:52.704+00:00",
+    "received_packet_utc": null,
+    "received_packet_line": null,
+    "n": 0,
+    "tail_rtt_ms": {
+      "n": 0
+    },
+    "first_ping_utc": null,
+    "first_ping_after_map_ready_seconds": null,
+    "bands": {},
+    "cluster_counts": {
+      "5": 0,
+      "10": 0,
+      "30": 0,
+      "60": 0
+    }
+  },
+  {
+    "connection_id": "C011",
+    "file": "ShooterGame-backup-2026.11.13-20.08.16.log",
+    "ip": "185.40.64.1",
+    "port": 7354,
+    "start_utc": "2026-11-13T19:53:41.234+00:00",
+    "end_utc": "2026-11-13T20:06:30.140+00:00",
+    "end_basis": "netdriver_stats",
+    "travel_line": 99255,
+    "map_ready_utc": "2026-11-13T19:53:56.535+00:00",
+    "received_packet_utc": null,
+    "received_packet_line": null,
+    "n": 9,
+    "tail_rtt_ms": {
+      "n": 9,
+      "min": 120.74,
+      "median": 162.91,
+      "p95": 226.09,
+      "max": 226.09
+    },
+    "first_ping_utc": "2026-11-13T19:55:30.012+00:00",
+    "first_ping_after_map_ready_seconds": 93.477,
+    "bands": {
+      ">180-<200": 1,
+      "120-<130": 2,
+      "130-<150": 2,
+      "150-180": 2,
+      "200-<300": 2
+    },
+    "cluster_counts": {
+      "5": 4,
+      "10": 4,
+      "30": 2,
+      "60": 2
+    }
+  },
+  {
+    "connection_id": "C012",
+    "file": "ShooterGame-backup-2026.11.14-09.30.10.log",
+    "ip": "185.40.64.1",
+    "port": 7004,
+    "start_utc": "2026-11-14T09:08:49.238+00:00",
+    "end_utc": "2026-11-14T09:30:09.253+00:00",
+    "end_basis": "netdriver_stats",
+    "travel_line": 2379,
+    "map_ready_utc": "2026-11-14T09:09:04.314+00:00",
+    "received_packet_utc": null,
+    "received_packet_line": null,
+    "n": 34,
+    "tail_rtt_ms": {
+      "n": 34,
+      "min": 120.36,
+      "median": 125.05000000000001,
+      "p95": 374.19,
+      "max": 383.31
+    },
+    "first_ping_utc": "2026-11-14T09:10:07.478+00:00",
+    "first_ping_after_map_ready_seconds": 63.164,
+    "bands": {
+      "130-<150": 4,
+      "120-<130": 22,
+      "300+": 8
+    },
+    "cluster_counts": {
+      "5": 23,
+      "10": 19,
+      "30": 9,
+      "60": 7
+    }
+  },
+  {
+    "connection_id": "C013",
+    "file": "ShooterGame-backup-2026.11.14-11.51.12.log",
+    "ip": "162.249.72.1",
+    "port": 7004,
+    "start_utc": "2026-11-14T09:31:45.206+00:00",
+    "end_utc": "2026-11-14T09:49:28.428+00:00",
+    "end_basis": "netdriver_stats",
+    "travel_line": 1446,
+    "map_ready_utc": "2026-11-14T09:31:50.008+00:00",
+    "received_packet_utc": "2026-11-14T09:31:48.987+00:00",
+    "received_packet_line": 1626,
+    "n": 19,
+    "tail_rtt_ms": {
+      "n": 19,
+      "min": 120.61,
+      "median": 124.28,
+      "p95": 129.04,
+      "max": 129.04
+    },
+    "first_ping_utc": "2026-11-14T09:34:59.958+00:00",
+    "first_ping_after_map_ready_seconds": 189.95,
+    "bands": {
+      "120-<130": 19
+    },
+    "cluster_counts": {
+      "5": 12,
+      "10": 9,
+      "30": 4,
+      "60": 4
+    }
+  },
+  {
+    "connection_id": "C014",
+    "file": "ShooterGame-backup-2026.11.14-11.51.12.log",
+    "ip": "185.40.64.1",
+    "port": 7158,
+    "start_utc": "2026-11-14T11:29:32.496+00:00",
+    "end_utc": "2026-11-14T11:38:21.321+00:00",
+    "end_basis": "netdriver_stats",
+    "travel_line": 10340,
+    "map_ready_utc": "2026-11-14T11:29:47.082+00:00",
+    "received_packet_utc": null,
+    "received_packet_line": null,
+    "n": 10,
+    "tail_rtt_ms": {
+      "n": 10,
+      "min": 120.57,
+      "median": 127.21000000000001,
+      "p95": 132.2,
+      "max": 132.2
+    },
+    "first_ping_utc": "2026-11-14T11:32:14.509+00:00",
+    "first_ping_after_map_ready_seconds": 147.427,
+    "bands": {
+      "120-<130": 8,
+      "130-<150": 2
+    },
+    "cluster_counts": {
+      "5": 8,
+      "10": 5,
+      "30": 4,
+      "60": 3
+    }
+  },
+  {
+    "connection_id": "C015",
+    "file": "ShooterGame.log",
+    "ip": "185.40.64.1",
+    "port": 7216,
+    "start_utc": "2026-11-14T20:05:52.823+00:00",
+    "end_utc": "2026-11-14T20:16:54.448+00:00",
+    "end_basis": "netdriver_stats",
+    "travel_line": 3894,
+    "map_ready_utc": "2026-11-14T20:06:25.759+00:00",
+    "received_packet_utc": null,
+    "received_packet_line": null,
+    "n": 4,
+    "tail_rtt_ms": {
+      "n": 4,
+      "min": 120.02,
+      "median": 123.75999999999999,
+      "p95": 155.46,
+      "max": 155.46
+    },
+    "first_ping_utc": "2026-11-14T20:08:44.282+00:00",
+    "first_ping_after_map_ready_seconds": 138.523,
+    "bands": {
+      "150-180": 1,
+      "120-<130": 3
+    },
+    "cluster_counts": {
+      "5": 4,
+      "10": 2,
+      "30": 2,
+      "60": 2
+    }
+  },
+  {
+    "connection_id": "C016",
+    "file": "ShooterGame.log",
+    "ip": "185.40.64.1",
+    "port": 7102,
+    "start_utc": "2026-11-14T20:21:06.070+00:00",
+    "end_utc": "2026-11-14T20:33:20.136+00:00",
+    "end_basis": "netdriver_stats",
+    "travel_line": 9899,
+    "map_ready_utc": "2026-11-14T20:21:21.397+00:00",
+    "received_packet_utc": null,
+    "received_packet_line": null,
+    "n": 2,
+    "tail_rtt_ms": {
+      "n": 2,
+      "min": 128.74,
+      "median": 129.69,
+      "p95": 130.64,
+      "max": 130.64
+    },
+    "first_ping_utc": "2026-11-14T20:23:11.740+00:00",
+    "first_ping_after_map_ready_seconds": 110.343,
+    "bands": {
+      "130-<150": 1,
+      "120-<130": 1
+    },
+    "cluster_counts": {
+      "5": 1,
+      "10": 1,
+      "30": 1,
+      "60": 1
+    }
+  },
+  {
+    "connection_id": "C017",
+    "file": "ShooterGame.log",
+    "ip": "185.40.64.1",
+    "port": 7361,
+    "start_utc": "2026-11-14T20:35:18.454+00:00",
+    "end_utc": "2026-11-14T20:47:08.971+00:00",
+    "end_basis": "netdriver_stats",
+    "travel_line": 15147,
+    "map_ready_utc": "2026-11-14T20:35:32.910+00:00",
+    "received_packet_utc": null,
+    "received_packet_line": null,
+    "n": 0,
+    "tail_rtt_ms": {
+      "n": 0
+    },
+    "first_ping_utc": null,
+    "first_ping_after_map_ready_seconds": null,
+    "bands": {},
+    "cluster_counts": {
+      "5": 0,
+      "10": 0,
+      "30": 0,
+      "60": 0
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "source": "20261114-004711-625146fb",
+    "previous_frozen_seq": 3299,
+    "current_frozen_seq": 3299,
+    "consumed_prefix_sha256": "1a7fea24452a4990c06f3e25a4cd9005c58693f832c4771f1d8487b983ac854b",
+    "state": "stopped",
+    "heartbeat_at_freeze": "2026-11-13T20:08:36.534+00:00"
+  },
+  {
+    "source": "20261114-141126-ee9e460b",
+    "previous_frozen_seq": 5988,
+    "current_frozen_seq": 5988,
+    "consumed_prefix_sha256": "7ecd6e91f315961012a0be95e1935e6fb53b1476f6fb368f1ce4b9597259cd48",
+    "state": "stopped",
+    "heartbeat_at_freeze": "2026-11-14T09:49:44.198+00:00"
+  },
+  {
+    "source": "20261114-163240-f28706ce",
+    "previous_frozen_seq": 98771,
+    "current_frozen_seq": 126931,
+    "consumed_prefix_sha256": "bcca0cb2521c0d11f59f3fdf5d31bba0970a5f1792f51929df86260ab451aa6f",
+    "state": "running",
+    "heartbeat_at_freeze": "2026-11-15T01:23:28.369+00:00"
+  }
+]

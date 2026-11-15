@@ -1,0 +1,1865 @@
+[
+  {
+    "connection_id": "C001",
+    "n": 1,
+    "first_utc": "2026-11-13T08:29:14.721+00:00",
+    "last_utc": "2026-11-13T08:29:14.721+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 127.51,
+    "max_ms": 127.51,
+    "lines": [
+      11428
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C001",
+    "n": 1,
+    "first_utc": "2026-11-13T08:29:31.336+00:00",
+    "last_utc": "2026-11-13T08:29:31.336+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 121.6,
+    "max_ms": 121.6,
+    "lines": [
+      11466
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C001",
+    "n": 1,
+    "first_utc": "2026-11-13T08:29:49.170+00:00",
+    "last_utc": "2026-11-13T08:29:49.170+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 125.49,
+    "max_ms": 125.49,
+    "lines": [
+      11490
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C001",
+    "n": 1,
+    "first_utc": "2026-11-13T08:30:02.781+00:00",
+    "last_utc": "2026-11-13T08:30:02.781+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 129.67,
+    "max_ms": 129.67,
+    "lines": [
+      11690
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C001",
+    "n": 1,
+    "first_utc": "2026-11-13T08:30:12.944+00:00",
+    "last_utc": "2026-11-13T08:30:12.944+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 122.71,
+    "max_ms": 122.71,
+    "lines": [
+      11715
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C001",
+    "n": 2,
+    "first_utc": "2026-11-13T08:30:51.077+00:00",
+    "last_utc": "2026-11-13T08:30:52.097+00:00",
+    "observed_span_seconds": 1.02,
+    "min_ms": 124.27,
+    "max_ms": 128.61,
+    "lines": [
+      12228,
+      12261
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C001",
+    "n": 1,
+    "first_utc": "2026-11-13T08:31:02.739+00:00",
+    "last_utc": "2026-11-13T08:31:02.739+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 128.46,
+    "max_ms": 128.46,
+    "lines": [
+      12274
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C001",
+    "n": 1,
+    "first_utc": "2026-11-13T08:37:36.747+00:00",
+    "last_utc": "2026-11-13T08:37:36.747+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 120.43,
+    "max_ms": 120.43,
+    "lines": [
+      14526
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 3,
+    "first_utc": "2026-11-13T10:28:12.775+00:00",
+    "last_utc": "2026-11-13T10:28:21.855+00:00",
+    "observed_span_seconds": 9.08,
+    "min_ms": 124.4,
+    "max_ms": 127.38,
+    "lines": [
+      24619,
+      24621,
+      24627
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 3,
+    "first_utc": "2026-11-13T10:30:02.838+00:00",
+    "last_utc": "2026-11-13T10:30:10.474+00:00",
+    "observed_span_seconds": 7.636,
+    "min_ms": 120.81,
+    "max_ms": 123.79,
+    "lines": [
+      24966,
+      24980,
+      24990
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 4,
+    "first_utc": "2026-11-13T10:31:31.140+00:00",
+    "last_utc": "2026-11-13T10:31:43.870+00:00",
+    "observed_span_seconds": 12.73,
+    "min_ms": 120.35,
+    "max_ms": 127.6,
+    "lines": [
+      25391,
+      25394,
+      25395,
+      25399
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 4,
+    "first_utc": "2026-11-13T10:33:15.930+00:00",
+    "last_utc": "2026-11-13T10:33:25.556+00:00",
+    "observed_span_seconds": 9.626,
+    "min_ms": 121.44,
+    "max_ms": 142.23,
+    "lines": [
+      25863,
+      25865,
+      25870,
+      25872
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 1,
+    "first_utc": "2026-11-13T10:33:41.750+00:00",
+    "last_utc": "2026-11-13T10:33:41.750+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 126.01,
+    "max_ms": 126.01,
+    "lines": [
+      25914
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 3,
+    "first_utc": "2026-11-13T10:33:55.955+00:00",
+    "last_utc": "2026-11-13T10:34:05.692+00:00",
+    "observed_span_seconds": 9.737,
+    "min_ms": 124.44,
+    "max_ms": 131.39,
+    "lines": [
+      26038,
+      26054,
+      26055
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 3,
+    "first_utc": "2026-11-13T10:34:17.601+00:00",
+    "last_utc": "2026-11-13T10:34:27.299+00:00",
+    "observed_span_seconds": 9.698,
+    "min_ms": 120.02,
+    "max_ms": 142.8,
+    "lines": [
+      26057,
+      26058,
+      26060
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 1,
+    "first_utc": "2026-11-13T10:34:40.651+00:00",
+    "last_utc": "2026-11-13T10:34:40.651+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 122.03,
+    "max_ms": 122.03,
+    "lines": [
+      26087
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 6,
+    "first_utc": "2026-11-13T10:34:58.216+00:00",
+    "last_utc": "2026-11-13T10:35:18.243+00:00",
+    "observed_span_seconds": 20.027,
+    "min_ms": 120.93,
+    "max_ms": 136.82,
+    "lines": [
+      26095,
+      26098,
+      26109,
+      26144,
+      26147,
+      26186
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 3,
+    "first_utc": "2026-11-13T10:36:24.702+00:00",
+    "last_utc": "2026-11-13T10:36:28.444+00:00",
+    "observed_span_seconds": 3.742,
+    "min_ms": 126.95,
+    "max_ms": 217.28,
+    "lines": [
+      26683,
+      26689,
+      26691
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 4,
+    "first_utc": "2026-11-13T10:37:35.253+00:00",
+    "last_utc": "2026-11-13T10:37:43.053+00:00",
+    "observed_span_seconds": 7.8,
+    "min_ms": 120.0,
+    "max_ms": 128.77,
+    "lines": [
+      27151,
+      27155,
+      27161,
+      27172
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 1,
+    "first_utc": "2026-11-13T10:37:57.661+00:00",
+    "last_utc": "2026-11-13T10:37:57.661+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 121.3,
+    "max_ms": 121.3,
+    "lines": [
+      27183
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 3,
+    "first_utc": "2026-11-13T10:38:10.396+00:00",
+    "last_utc": "2026-11-13T10:38:20.720+00:00",
+    "observed_span_seconds": 10.324,
+    "min_ms": 121.46,
+    "max_ms": 137.19,
+    "lines": [
+      27279,
+      27383,
+      27388
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 1,
+    "first_utc": "2026-11-13T10:38:37.139+00:00",
+    "last_utc": "2026-11-13T10:38:37.139+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 125.1,
+    "max_ms": 125.1,
+    "lines": [
+      27650
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 4,
+    "first_utc": "2026-11-13T10:38:47.808+00:00",
+    "last_utc": "2026-11-13T10:38:57.990+00:00",
+    "observed_span_seconds": 10.182,
+    "min_ms": 127.01,
+    "max_ms": 136.46,
+    "lines": [
+      27657,
+      27659,
+      27668,
+      27670
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 3,
+    "first_utc": "2026-11-13T10:39:12.751+00:00",
+    "last_utc": "2026-11-13T10:39:23.332+00:00",
+    "observed_span_seconds": 10.581,
+    "min_ms": 121.08,
+    "max_ms": 126.12,
+    "lines": [
+      27691,
+      27816,
+      27824
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 2,
+    "first_utc": "2026-11-13T10:39:39.273+00:00",
+    "last_utc": "2026-11-13T10:39:43.706+00:00",
+    "observed_span_seconds": 4.433,
+    "min_ms": 120.02,
+    "max_ms": 127.7,
+    "lines": [
+      27913,
+      27914
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 9,
+    "first_utc": "2026-11-13T10:43:25.305+00:00",
+    "last_utc": "2026-11-13T10:43:43.097+00:00",
+    "observed_span_seconds": 17.792,
+    "min_ms": 123.16,
+    "max_ms": 207.62,
+    "lines": [
+      29047,
+      29048,
+      29049,
+      29052,
+      29055,
+      29058,
+      29061,
+      29090,
+      29097
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 3,
+    "first_utc": "2026-11-13T10:44:17.539+00:00",
+    "last_utc": "2026-11-13T10:44:25.360+00:00",
+    "observed_span_seconds": 7.821,
+    "min_ms": 120.58,
+    "max_ms": 138.69,
+    "lines": [
+      29180,
+      29207,
+      29213
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 2,
+    "first_utc": "2026-11-13T10:44:38.094+00:00",
+    "last_utc": "2026-11-13T10:44:39.319+00:00",
+    "observed_span_seconds": 1.225,
+    "min_ms": 123.76,
+    "max_ms": 124.81,
+    "lines": [
+      29245,
+      29246
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 2,
+    "first_utc": "2026-11-13T10:44:57.829+00:00",
+    "last_utc": "2026-11-13T10:44:59.876+00:00",
+    "observed_span_seconds": 2.047,
+    "min_ms": 120.37,
+    "max_ms": 129.54,
+    "lines": [
+      29469,
+      29470
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 2,
+    "first_utc": "2026-11-13T10:45:13.127+00:00",
+    "last_utc": "2026-11-13T10:45:14.658+00:00",
+    "observed_span_seconds": 1.531,
+    "min_ms": 120.54,
+    "max_ms": 122.01,
+    "lines": [
+      29480,
+      29493
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 1,
+    "first_utc": "2026-11-13T10:45:42.515+00:00",
+    "last_utc": "2026-11-13T10:45:42.515+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 121.71,
+    "max_ms": 121.71,
+    "lines": [
+      29620
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 2,
+    "first_utc": "2026-11-13T10:46:57.201+00:00",
+    "last_utc": "2026-11-13T10:46:59.720+00:00",
+    "observed_span_seconds": 2.519,
+    "min_ms": 120.84,
+    "max_ms": 141.98,
+    "lines": [
+      30323,
+      30329
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 2,
+    "first_utc": "2026-11-13T10:48:10.060+00:00",
+    "last_utc": "2026-11-13T10:48:11.071+00:00",
+    "observed_span_seconds": 1.011,
+    "min_ms": 121.54,
+    "max_ms": 124.29,
+    "lines": [
+      30760,
+      30761
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 1,
+    "first_utc": "2026-11-13T10:49:24.710+00:00",
+    "last_utc": "2026-11-13T10:49:24.710+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 124.31,
+    "max_ms": 124.31,
+    "lines": [
+      31103
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 2,
+    "first_utc": "2026-11-13T10:49:45.098+00:00",
+    "last_utc": "2026-11-13T10:49:49.711+00:00",
+    "observed_span_seconds": 4.613,
+    "min_ms": 122.3,
+    "max_ms": 123.99,
+    "lines": [
+      31410,
+      31453
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 2,
+    "first_utc": "2026-11-13T10:50:39.346+00:00",
+    "last_utc": "2026-11-13T10:50:43.890+00:00",
+    "observed_span_seconds": 4.544,
+    "min_ms": 123.94,
+    "max_ms": 128.1,
+    "lines": [
+      31588,
+      31591
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 2,
+    "first_utc": "2026-11-13T10:51:59.498+00:00",
+    "last_utc": "2026-11-13T10:52:00.822+00:00",
+    "observed_span_seconds": 1.324,
+    "min_ms": 121.47,
+    "max_ms": 127.08,
+    "lines": [
+      31985,
+      31986
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 1,
+    "first_utc": "2026-11-13T10:52:14.205+00:00",
+    "last_utc": "2026-11-13T10:52:14.205+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 127.41,
+    "max_ms": 127.41,
+    "lines": [
+      32121
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 1,
+    "first_utc": "2026-11-13T10:52:25.070+00:00",
+    "last_utc": "2026-11-13T10:52:25.070+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 124.66,
+    "max_ms": 124.66,
+    "lines": [
+      32236
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 1,
+    "first_utc": "2026-11-13T10:52:47.933+00:00",
+    "last_utc": "2026-11-13T10:52:47.933+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 120.28,
+    "max_ms": 120.28,
+    "lines": [
+      32274
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 4,
+    "first_utc": "2026-11-13T10:52:58.605+00:00",
+    "last_utc": "2026-11-13T10:53:18.183+00:00",
+    "observed_span_seconds": 19.578,
+    "min_ms": 121.9,
+    "max_ms": 127.51,
+    "lines": [
+      32481,
+      32487,
+      32491,
+      32498
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 1,
+    "first_utc": "2026-11-13T10:54:37.474+00:00",
+    "last_utc": "2026-11-13T10:54:37.474+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 120.72,
+    "max_ms": 120.72,
+    "lines": [
+      32675
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 4,
+    "first_utc": "2026-11-13T10:54:58.596+00:00",
+    "last_utc": "2026-11-13T10:55:06.277+00:00",
+    "observed_span_seconds": 7.681,
+    "min_ms": 120.79,
+    "max_ms": 126.24,
+    "lines": [
+      32680,
+      32682,
+      32683,
+      32684
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 1,
+    "first_utc": "2026-11-13T10:55:41.019+00:00",
+    "last_utc": "2026-11-13T10:55:41.019+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 122.45,
+    "max_ms": 122.45,
+    "lines": [
+      33644
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 7,
+    "first_utc": "2026-11-13T10:55:54.675+00:00",
+    "last_utc": "2026-11-13T10:56:09.816+00:00",
+    "observed_span_seconds": 15.141,
+    "min_ms": 120.52,
+    "max_ms": 126.83,
+    "lines": [
+      33675,
+      33678,
+      33888,
+      33889,
+      33898,
+      33907,
+      33912
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 2,
+    "first_utc": "2026-11-13T10:56:22.538+00:00",
+    "last_utc": "2026-11-13T10:56:23.592+00:00",
+    "observed_span_seconds": 1.054,
+    "min_ms": 121.45,
+    "max_ms": 135.08,
+    "lines": [
+      33951,
+      33952
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 1,
+    "first_utc": "2026-11-13T10:56:41.403+00:00",
+    "last_utc": "2026-11-13T10:56:41.403+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 133.02,
+    "max_ms": 133.02,
+    "lines": [
+      34181
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 4,
+    "first_utc": "2026-11-13T10:58:20.753+00:00",
+    "last_utc": "2026-11-13T10:58:40.865+00:00",
+    "observed_span_seconds": 20.112,
+    "min_ms": 123.66,
+    "max_ms": 134.25,
+    "lines": [
+      35040,
+      35050,
+      35259,
+      35266
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 1,
+    "first_utc": "2026-11-13T10:58:51.019+00:00",
+    "last_utc": "2026-11-13T10:58:51.019+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 120.51,
+    "max_ms": 120.51,
+    "lines": [
+      35275
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 6,
+    "first_utc": "2026-11-13T10:59:06.735+00:00",
+    "last_utc": "2026-11-13T10:59:19.872+00:00",
+    "observed_span_seconds": 13.137,
+    "min_ms": 191.35,
+    "max_ms": 206.55,
+    "lines": [
+      35292,
+      35305,
+      35366,
+      35367,
+      35375,
+      35384
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 3,
+    "first_utc": "2026-11-13T10:59:46.222+00:00",
+    "last_utc": "2026-11-13T10:59:51.009+00:00",
+    "observed_span_seconds": 4.787,
+    "min_ms": 123.2,
+    "max_ms": 131.28,
+    "lines": [
+      35467,
+      35481,
+      35485
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 1,
+    "first_utc": "2026-11-13T11:00:04.554+00:00",
+    "last_utc": "2026-11-13T11:00:04.554+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 128.39,
+    "max_ms": 128.39,
+    "lines": [
+      35701
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 3,
+    "first_utc": "2026-11-13T11:00:15.199+00:00",
+    "last_utc": "2026-11-13T11:00:18.235+00:00",
+    "observed_span_seconds": 3.036,
+    "min_ms": 120.81,
+    "max_ms": 124.8,
+    "lines": [
+      35707,
+      35710,
+      35711
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 2,
+    "first_utc": "2026-11-13T11:00:31.448+00:00",
+    "last_utc": "2026-11-13T11:00:33.479+00:00",
+    "observed_span_seconds": 2.031,
+    "min_ms": 123.6,
+    "max_ms": 124.95,
+    "lines": [
+      35731,
+      35745
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 3,
+    "first_utc": "2026-11-13T11:00:46.150+00:00",
+    "last_utc": "2026-11-13T11:00:55.801+00:00",
+    "observed_span_seconds": 9.651,
+    "min_ms": 121.42,
+    "max_ms": 127.65,
+    "lines": [
+      35837,
+      35851,
+      35871
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 1,
+    "first_utc": "2026-11-13T11:01:22.699+00:00",
+    "last_utc": "2026-11-13T11:01:22.699+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 120.81,
+    "max_ms": 120.81,
+    "lines": [
+      35894
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 4,
+    "first_utc": "2026-11-13T11:02:38.408+00:00",
+    "last_utc": "2026-11-13T11:02:46.224+00:00",
+    "observed_span_seconds": 7.816,
+    "min_ms": 120.95,
+    "max_ms": 123.62,
+    "lines": [
+      36559,
+      36563,
+      36568,
+      36571
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 4,
+    "first_utc": "2026-11-13T11:03:08.670+00:00",
+    "last_utc": "2026-11-13T11:03:23.672+00:00",
+    "observed_span_seconds": 15.002,
+    "min_ms": 122.33,
+    "max_ms": 128.64,
+    "lines": [
+      36710,
+      37054,
+      37061,
+      37067
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 2,
+    "first_utc": "2026-11-13T11:04:20.059+00:00",
+    "last_utc": "2026-11-13T11:04:22.078+00:00",
+    "observed_span_seconds": 2.019,
+    "min_ms": 121.78,
+    "max_ms": 128.13,
+    "lines": [
+      37243,
+      37252
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C002",
+    "n": 3,
+    "first_utc": "2026-11-13T11:04:48.452+00:00",
+    "last_utc": "2026-11-13T11:04:50.976+00:00",
+    "observed_span_seconds": 2.524,
+    "min_ms": 120.26,
+    "max_ms": 120.95,
+    "lines": [
+      37267,
+      37268,
+      37269
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C003",
+    "n": 1,
+    "first_utc": "2026-11-13T17:26:06.160+00:00",
+    "last_utc": "2026-11-13T17:26:06.160+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 125.35,
+    "max_ms": 125.35,
+    "lines": [
+      2957
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C003",
+    "n": 4,
+    "first_utc": "2026-11-13T17:26:44.304+00:00",
+    "last_utc": "2026-11-13T17:26:48.737+00:00",
+    "observed_span_seconds": 4.433,
+    "min_ms": 129.34,
+    "max_ms": 202.8,
+    "lines": [
+      2984,
+      2992,
+      2995,
+      3002
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C003",
+    "n": 1,
+    "first_utc": "2026-11-13T17:27:37.164+00:00",
+    "last_utc": "2026-11-13T17:27:37.164+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 138.97,
+    "max_ms": 138.97,
+    "lines": [
+      3303
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C003",
+    "n": 1,
+    "first_utc": "2026-11-13T17:27:58.217+00:00",
+    "last_utc": "2026-11-13T17:27:58.217+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 127.44,
+    "max_ms": 127.44,
+    "lines": [
+      3363
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C003",
+    "n": 8,
+    "first_utc": "2026-11-13T17:29:08.563+00:00",
+    "last_utc": "2026-11-13T17:29:46.964+00:00",
+    "observed_span_seconds": 38.401,
+    "min_ms": 120.27,
+    "max_ms": 138.74,
+    "lines": [
+      3736,
+      3745,
+      3755,
+      3770,
+      3792,
+      3799,
+      3825,
+      3827
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C003",
+    "n": 1,
+    "first_utc": "2026-11-13T17:31:34.193+00:00",
+    "last_utc": "2026-11-13T17:31:34.193+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 122.43,
+    "max_ms": 122.43,
+    "lines": [
+      4267
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C003",
+    "n": 1,
+    "first_utc": "2026-11-13T17:31:48.325+00:00",
+    "last_utc": "2026-11-13T17:31:48.325+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 130.6,
+    "max_ms": 130.6,
+    "lines": [
+      4276
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C003",
+    "n": 2,
+    "first_utc": "2026-11-13T17:34:05.813+00:00",
+    "last_utc": "2026-11-13T17:34:07.846+00:00",
+    "observed_span_seconds": 2.033,
+    "min_ms": 120.31,
+    "max_ms": 129.93,
+    "lines": [
+      5053,
+      5058
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C003",
+    "n": 2,
+    "first_utc": "2026-11-13T17:34:17.966+00:00",
+    "last_utc": "2026-11-13T17:34:23.071+00:00",
+    "observed_span_seconds": 5.105,
+    "min_ms": 122.49,
+    "max_ms": 124.9,
+    "lines": [
+      5106,
+      5110
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C003",
+    "n": 3,
+    "first_utc": "2026-11-13T17:36:26.421+00:00",
+    "last_utc": "2026-11-13T17:36:32.514+00:00",
+    "observed_span_seconds": 6.093,
+    "min_ms": 120.25,
+    "max_ms": 123.6,
+    "lines": [
+      5832,
+      5839,
+      5840
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C003",
+    "n": 1,
+    "first_utc": "2026-11-13T17:36:51.588+00:00",
+    "last_utc": "2026-11-13T17:36:51.588+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 130.53,
+    "max_ms": 130.53,
+    "lines": [
+      5928
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C003",
+    "n": 3,
+    "first_utc": "2026-11-13T17:39:16.721+00:00",
+    "last_utc": "2026-11-13T17:39:28.243+00:00",
+    "observed_span_seconds": 11.522,
+    "min_ms": 122.02,
+    "max_ms": 136.26,
+    "lines": [
+      6753,
+      6763,
+      6768
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C003",
+    "n": 1,
+    "first_utc": "2026-11-13T17:49:18.096+00:00",
+    "last_utc": "2026-11-13T17:49:18.096+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 122.97,
+    "max_ms": 122.97,
+    "lines": [
+      9820
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C003",
+    "n": 2,
+    "first_utc": "2026-11-13T17:49:33.774+00:00",
+    "last_utc": "2026-11-13T17:49:35.795+00:00",
+    "observed_span_seconds": 2.021,
+    "min_ms": 121.89,
+    "max_ms": 124.15,
+    "lines": [
+      9841,
+      9844
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C004",
+    "n": 1,
+    "first_utc": "2026-11-13T17:59:15.918+00:00",
+    "last_utc": "2026-11-13T17:59:15.918+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 130.68,
+    "max_ms": 130.68,
+    "lines": [
+      13753
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C004",
+    "n": 3,
+    "first_utc": "2026-11-13T18:01:16.305+00:00",
+    "last_utc": "2026-11-13T18:01:24.881+00:00",
+    "observed_span_seconds": 8.576,
+    "min_ms": 126.28,
+    "max_ms": 151.98,
+    "lines": [
+      13782,
+      13799,
+      13820
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C004",
+    "n": 5,
+    "first_utc": "2026-11-13T18:01:51.647+00:00",
+    "last_utc": "2026-11-13T18:02:12.875+00:00",
+    "observed_span_seconds": 21.228,
+    "min_ms": 123.05,
+    "max_ms": 141.39,
+    "lines": [
+      14734,
+      14735,
+      14736,
+      14737,
+      15499
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C004",
+    "n": 1,
+    "first_utc": "2026-11-13T18:02:23.573+00:00",
+    "last_utc": "2026-11-13T18:02:23.573+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 134.36,
+    "max_ms": 134.36,
+    "lines": [
+      15519
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C004",
+    "n": 1,
+    "first_utc": "2026-11-13T18:02:53.065+00:00",
+    "last_utc": "2026-11-13T18:02:53.065+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 127.24,
+    "max_ms": 127.24,
+    "lines": [
+      15538
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C004",
+    "n": 1,
+    "first_utc": "2026-11-13T18:03:09.241+00:00",
+    "last_utc": "2026-11-13T18:03:09.241+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 129.46,
+    "max_ms": 129.46,
+    "lines": [
+      15557
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C006",
+    "n": 1,
+    "first_utc": "2026-11-13T18:20:00.020+00:00",
+    "last_utc": "2026-11-13T18:20:00.020+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 124.24,
+    "max_ms": 124.24,
+    "lines": [
+      25092
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C007",
+    "n": 1,
+    "first_utc": "2026-11-13T18:53:03.170+00:00",
+    "last_utc": "2026-11-13T18:53:03.170+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 122.23,
+    "max_ms": 122.23,
+    "lines": [
+      59842
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C007",
+    "n": 1,
+    "first_utc": "2026-11-13T18:53:31.184+00:00",
+    "last_utc": "2026-11-13T18:53:31.184+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 126.24,
+    "max_ms": 126.24,
+    "lines": [
+      59919
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C007",
+    "n": 3,
+    "first_utc": "2026-11-13T18:54:17.588+00:00",
+    "last_utc": "2026-11-13T18:54:24.874+00:00",
+    "observed_span_seconds": 7.286,
+    "min_ms": 121.78,
+    "max_ms": 124.33,
+    "lines": [
+      60023,
+      60040,
+      60042
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C007",
+    "n": 2,
+    "first_utc": "2026-11-13T19:04:10.795+00:00",
+    "last_utc": "2026-11-13T19:04:13.878+00:00",
+    "observed_span_seconds": 3.083,
+    "min_ms": 121.68,
+    "max_ms": 124.95,
+    "lines": [
+      69369,
+      69374
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C007",
+    "n": 2,
+    "first_utc": "2026-11-13T19:04:34.283+00:00",
+    "last_utc": "2026-11-13T19:04:42.361+00:00",
+    "observed_span_seconds": 8.078,
+    "min_ms": 120.69,
+    "max_ms": 152.67,
+    "lines": [
+      69428,
+      69503
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C007",
+    "n": 3,
+    "first_utc": "2026-11-13T19:05:07.201+00:00",
+    "last_utc": "2026-11-13T19:05:21.387+00:00",
+    "observed_span_seconds": 14.186,
+    "min_ms": 124.74,
+    "max_ms": 130.3,
+    "lines": [
+      69631,
+      69652,
+      69667
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C007",
+    "n": 3,
+    "first_utc": "2026-11-13T19:06:39.838+00:00",
+    "last_utc": "2026-11-13T19:06:49.971+00:00",
+    "observed_span_seconds": 10.133,
+    "min_ms": 120.76,
+    "max_ms": 121.59,
+    "lines": [
+      70133,
+      70147,
+      70148
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C007",
+    "n": 3,
+    "first_utc": "2026-11-13T19:07:16.121+00:00",
+    "last_utc": "2026-11-13T19:07:16.626+00:00",
+    "observed_span_seconds": 0.505,
+    "min_ms": 198.45,
+    "max_ms": 201.7,
+    "lines": [
+      70394,
+      70395,
+      70397
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C007",
+    "n": 1,
+    "first_utc": "2026-11-13T19:15:33.785+00:00",
+    "last_utc": "2026-11-13T19:15:33.785+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 123.14,
+    "max_ms": 123.14,
+    "lines": [
+      73169
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C008",
+    "n": 2,
+    "first_utc": "2026-11-13T19:30:55.753+00:00",
+    "last_utc": "2026-11-13T19:30:56.906+00:00",
+    "observed_span_seconds": 1.153,
+    "min_ms": 124.76,
+    "max_ms": 126.28,
+    "lines": [
+      81139,
+      81143
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C011",
+    "n": 1,
+    "first_utc": "2026-11-13T19:55:30.012+00:00",
+    "last_utc": "2026-11-13T19:55:30.012+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 183.84,
+    "max_ms": 183.84,
+    "lines": [
+      100878
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C011",
+    "n": 3,
+    "first_utc": "2026-11-13T19:55:44.503+00:00",
+    "last_utc": "2026-11-13T19:55:48.589+00:00",
+    "observed_span_seconds": 4.086,
+    "min_ms": 122.8,
+    "max_ms": 134.64,
+    "lines": [
+      100895,
+      100896,
+      100897
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C011",
+    "n": 1,
+    "first_utc": "2026-11-13T19:55:59.863+00:00",
+    "last_utc": "2026-11-13T19:55:59.863+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 120.74,
+    "max_ms": 120.74,
+    "lines": [
+      100914
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C011",
+    "n": 4,
+    "first_utc": "2026-11-13T19:58:09.942+00:00",
+    "last_utc": "2026-11-13T19:58:14.554+00:00",
+    "observed_span_seconds": 4.612,
+    "min_ms": 162.91,
+    "max_ms": 226.09,
+    "lines": [
+      101441,
+      101449,
+      101453,
+      101459
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C012",
+    "n": 3,
+    "first_utc": "2026-11-14T09:10:07.478+00:00",
+    "last_utc": "2026-11-14T09:10:14.134+00:00",
+    "observed_span_seconds": 6.656,
+    "min_ms": 120.43,
+    "max_ms": 132.36,
+    "lines": [
+      2838,
+      2840,
+      2846
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C012",
+    "n": 1,
+    "first_utc": "2026-11-14T09:11:30.049+00:00",
+    "last_utc": "2026-11-14T09:11:30.049+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 124.4,
+    "max_ms": 124.4,
+    "lines": [
+      3174
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C012",
+    "n": 1,
+    "first_utc": "2026-11-14T09:14:07.881+00:00",
+    "last_utc": "2026-11-14T09:14:07.881+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 129.57,
+    "max_ms": 129.57,
+    "lines": [
+      3813
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C012",
+    "n": 1,
+    "first_utc": "2026-11-14T09:18:23.774+00:00",
+    "last_utc": "2026-11-14T09:18:23.774+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 122.52,
+    "max_ms": 122.52,
+    "lines": [
+      4960
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C012",
+    "n": 1,
+    "first_utc": "2026-11-14T09:18:35.593+00:00",
+    "last_utc": "2026-11-14T09:18:35.593+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 121.75,
+    "max_ms": 121.75,
+    "lines": [
+      4973
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C012",
+    "n": 3,
+    "first_utc": "2026-11-14T09:19:16.120+00:00",
+    "last_utc": "2026-11-14T09:19:25.938+00:00",
+    "observed_span_seconds": 9.818,
+    "min_ms": 124.18,
+    "max_ms": 131.98,
+    "lines": [
+      5113,
+      5152,
+      5153
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C012",
+    "n": 1,
+    "first_utc": "2026-11-14T09:19:36.020+00:00",
+    "last_utc": "2026-11-14T09:19:36.020+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 134.65,
+    "max_ms": 134.65,
+    "lines": [
+      5167
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C012",
+    "n": 3,
+    "first_utc": "2026-11-14T09:20:03.785+00:00",
+    "last_utc": "2026-11-14T09:20:08.893+00:00",
+    "observed_span_seconds": 5.108,
+    "min_ms": 121.15,
+    "max_ms": 124.16,
+    "lines": [
+      5469,
+      5471,
+      5472
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C012",
+    "n": 1,
+    "first_utc": "2026-11-14T09:20:26.762+00:00",
+    "last_utc": "2026-11-14T09:20:26.762+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 120.36,
+    "max_ms": 120.36,
+    "lines": [
+      5529
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C012",
+    "n": 1,
+    "first_utc": "2026-11-14T09:20:48.016+00:00",
+    "last_utc": "2026-11-14T09:20:48.016+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 123.12,
+    "max_ms": 123.12,
+    "lines": [
+      5605
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C012",
+    "n": 3,
+    "first_utc": "2026-11-14T09:21:05.706+00:00",
+    "last_utc": "2026-11-14T09:21:13.845+00:00",
+    "observed_span_seconds": 8.139,
+    "min_ms": 122.58,
+    "max_ms": 125.48,
+    "lines": [
+      5618,
+      5620,
+      5628
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C012",
+    "n": 3,
+    "first_utc": "2026-11-14T09:21:35.635+00:00",
+    "last_utc": "2026-11-14T09:21:44.274+00:00",
+    "observed_span_seconds": 8.639,
+    "min_ms": 120.62,
+    "max_ms": 125.31,
+    "lines": [
+      5857,
+      5860,
+      5861
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C012",
+    "n": 1,
+    "first_utc": "2026-11-14T09:21:57.038+00:00",
+    "last_utc": "2026-11-14T09:21:57.038+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 125.9,
+    "max_ms": 125.9,
+    "lines": [
+      5912
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C012",
+    "n": 1,
+    "first_utc": "2026-11-14T09:24:57.359+00:00",
+    "last_utc": "2026-11-14T09:24:57.359+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 121.82,
+    "max_ms": 121.82,
+    "lines": [
+      6961
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C012",
+    "n": 1,
+    "first_utc": "2026-11-14T09:25:13.214+00:00",
+    "last_utc": "2026-11-14T09:25:13.214+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 124.79,
+    "max_ms": 124.79,
+    "lines": [
+      7078
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C012",
+    "n": 1,
+    "first_utc": "2026-11-14T09:25:25.546+00:00",
+    "last_utc": "2026-11-14T09:25:25.546+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 121.56,
+    "max_ms": 121.56,
+    "lines": [
+      7086
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C012",
+    "n": 2,
+    "first_utc": "2026-11-14T09:27:45.760+00:00",
+    "last_utc": "2026-11-14T09:27:46.264+00:00",
+    "observed_span_seconds": 0.504,
+    "min_ms": 348.0,
+    "max_ms": 383.31,
+    "lines": [
+      7914,
+      7915
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C012",
+    "n": 4,
+    "first_utc": "2026-11-14T09:28:54.594+00:00",
+    "last_utc": "2026-11-14T09:29:03.134+00:00",
+    "observed_span_seconds": 8.54,
+    "min_ms": 343.94,
+    "max_ms": 374.19,
+    "lines": [
+      8196,
+      8197,
+      8418,
+      8422
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C012",
+    "n": 2,
+    "first_utc": "2026-11-14T09:29:58.309+00:00",
+    "last_utc": "2026-11-14T09:29:58.816+00:00",
+    "observed_span_seconds": 0.507,
+    "min_ms": 328.12,
+    "max_ms": 334.44,
+    "lines": [
+      8686,
+      8695
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C013",
+    "n": 3,
+    "first_utc": "2026-11-14T09:34:59.958+00:00",
+    "last_utc": "2026-11-14T09:35:10.445+00:00",
+    "observed_span_seconds": 10.487,
+    "min_ms": 123.38,
+    "max_ms": 125.63,
+    "lines": [
+      2577,
+      2582,
+      2803
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C013",
+    "n": 1,
+    "first_utc": "2026-11-14T09:39:51.608+00:00",
+    "last_utc": "2026-11-14T09:39:51.608+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 122.57,
+    "max_ms": 122.57,
+    "lines": [
+      4495
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C013",
+    "n": 1,
+    "first_utc": "2026-11-14T09:40:05.833+00:00",
+    "last_utc": "2026-11-14T09:40:05.833+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 125.58,
+    "max_ms": 125.58,
+    "lines": [
+      4517
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C013",
+    "n": 1,
+    "first_utc": "2026-11-14T09:45:23.617+00:00",
+    "last_utc": "2026-11-14T09:45:23.617+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 125.86,
+    "max_ms": 125.86,
+    "lines": [
+      6145
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C013",
+    "n": 3,
+    "first_utc": "2026-11-14T09:46:41.520+00:00",
+    "last_utc": "2026-11-14T09:46:52.253+00:00",
+    "observed_span_seconds": 10.733,
+    "min_ms": 125.65,
+    "max_ms": 129.04,
+    "lines": [
+      6516,
+      6530,
+      6533
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C013",
+    "n": 1,
+    "first_utc": "2026-11-14T09:47:18.007+00:00",
+    "last_utc": "2026-11-14T09:47:18.007+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 125.97,
+    "max_ms": 125.97,
+    "lines": [
+      6739
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C013",
+    "n": 1,
+    "first_utc": "2026-11-14T09:47:34.447+00:00",
+    "last_utc": "2026-11-14T09:47:34.447+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 128.06,
+    "max_ms": 128.06,
+    "lines": [
+      6784
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C013",
+    "n": 6,
+    "first_utc": "2026-11-14T09:47:57.312+00:00",
+    "last_utc": "2026-11-14T09:48:14.544+00:00",
+    "observed_span_seconds": 17.232,
+    "min_ms": 120.61,
+    "max_ms": 125.62,
+    "lines": [
+      6797,
+      6801,
+      6804,
+      6805,
+      7040,
+      7049
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C013",
+    "n": 2,
+    "first_utc": "2026-11-14T09:48:35.829+00:00",
+    "last_utc": "2026-11-14T09:48:39.416+00:00",
+    "observed_span_seconds": 3.587,
+    "min_ms": 121.59,
+    "max_ms": 124.1,
+    "lines": [
+      7074,
+      7076
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C014",
+    "n": 1,
+    "first_utc": "2026-11-14T11:32:14.509+00:00",
+    "last_utc": "2026-11-14T11:32:14.509+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 120.57,
+    "max_ms": 120.57,
+    "lines": [
+      12201
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C014",
+    "n": 4,
+    "first_utc": "2026-11-14T11:34:23.036+00:00",
+    "last_utc": "2026-11-14T11:34:37.665+00:00",
+    "observed_span_seconds": 14.629,
+    "min_ms": 120.64,
+    "max_ms": 128.77,
+    "lines": [
+      12792,
+      12806,
+      12812,
+      12835
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C014",
+    "n": 2,
+    "first_utc": "2026-11-14T11:36:41.222+00:00",
+    "last_utc": "2026-11-14T11:36:44.771+00:00",
+    "observed_span_seconds": 3.549,
+    "min_ms": 125.11,
+    "max_ms": 128.05,
+    "lines": [
+      13354,
+      13362
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C014",
+    "n": 1,
+    "first_utc": "2026-11-14T11:36:56.331+00:00",
+    "last_utc": "2026-11-14T11:36:56.331+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 128.12,
+    "max_ms": 128.12,
+    "lines": [
+      13409
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C014",
+    "n": 2,
+    "first_utc": "2026-11-14T11:37:27.304+00:00",
+    "last_utc": "2026-11-14T11:37:34.296+00:00",
+    "observed_span_seconds": 6.992,
+    "min_ms": 131.12,
+    "max_ms": 132.2,
+    "lines": [
+      13651,
+      13660
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C015",
+    "n": 1,
+    "first_utc": "2026-11-14T20:08:44.282+00:00",
+    "last_utc": "2026-11-14T20:08:44.282+00:00",
+    "observed_span_seconds": 0.0,
+    "min_ms": 155.46,
+    "max_ms": 155.46,
+    "lines": [
+      4699
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C015",
+    "n": 3,
+    "first_utc": "2026-11-14T20:13:33.911+00:00",
+    "last_utc": "2026-11-14T20:13:49.776+00:00",
+    "observed_span_seconds": 15.865,
+    "min_ms": 120.02,
+    "max_ms": 125.89,
+    "lines": [
+      6057,
+      6060,
+      6063
+    ],
+    "continuous_duration_seconds": null
+  },
+  {
+    "connection_id": "C016",
+    "n": 2,
+    "first_utc": "2026-11-14T20:23:11.740+00:00",
+    "last_utc": "2026-11-14T20:23:14.793+00:00",
+    "observed_span_seconds": 3.053,
+    "min_ms": 128.74,
+    "max_ms": 130.64,
+    "lines": [
+      10904,
+      10905
+    ],
+    "continuous_duration_seconds": null
+  }
+]

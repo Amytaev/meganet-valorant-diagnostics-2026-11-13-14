@@ -1,0 +1,32 @@
+{
+  "independently_parsed_game_lines": 291,
+  "independently_checked_sql_target_windows": 425,
+  "independently_checked_sql_game_classes": 291,
+  "classes": {
+    "uncovered_or_incomplete": 206,
+    "all_controls_below_threshold": 69,
+    "gateway_control_anomaly": 6,
+    "retn_only_control_anomaly": 7,
+    "near_without_gateway_anomaly": 3
+  },
+  "eligible_probes": 137495,
+  "byte_identical_offline_replayed_results": [
+    "alignment-blocks.json",
+    "all-291-points-phase-context.json",
+    "all-game-points-context.json",
+    "classification-replay.json",
+    "connection-tail-process.json",
+    "control-alignment-shift-reference.json",
+    "hourly-control-distributions.json",
+    "lagged-control-window-overlap.json",
+    "logged-point-transitions.json",
+    "minute-control-series.json",
+    "phase-exposure.json",
+    "point-clusters-10s.json",
+    "point-control-features.json",
+    "summary.json",
+    "tail-correlations.json"
+  ],
+  "full_report_table_rows": 291,
+  "no_game_values_below_threshold_invented": true
+}

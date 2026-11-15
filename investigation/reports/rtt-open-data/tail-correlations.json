@@ -1,0 +1,132 @@
+{
+  "n": 71,
+  "all": {
+    "common_local_excess_ms": {
+      "pearson": 0.070343,
+      "spearman": 0.123828
+    },
+    "far_excess_ms": {
+      "pearson": 0.312951,
+      "spearman": 0.020647
+    },
+    "far_minus_common_ms": {
+      "pearson": 0.448745,
+      "spearman": 0.02934
+    }
+  },
+  "within_connection_centered": {
+    "common_local_excess_ms": {
+      "pearson": -0.159712,
+      "spearman": -0.03662
+    },
+    "far_excess_ms": {
+      "pearson": -0.005983,
+      "spearman": -0.126729
+    },
+    "far_minus_common_ms": {
+      "pearson": 0.180655,
+      "spearman": -0.052915
+    }
+  },
+  "leave_one_connection_out": {
+    "C007": {
+      "common_local_excess_ms": {
+        "pearson": 0.05713,
+        "spearman": 0.067051
+      },
+      "far_excess_ms": {
+        "pearson": 0.301874,
+        "spearman": -0.014756
+      },
+      "far_minus_common_ms": {
+        "pearson": 0.442365,
+        "spearman": 0.019382
+      }
+    },
+    "C011": {
+      "common_local_excess_ms": {
+        "pearson": -0.054369,
+        "spearman": -0.041305
+      },
+      "far_excess_ms": {
+        "pearson": -0.058552,
+        "spearman": -0.137397
+      },
+      "far_minus_common_ms": {
+        "pearson": -0.049375,
+        "spearman": -0.112694
+      }
+    },
+    "C012": {
+      "common_local_excess_ms": {
+        "pearson": 0.050496,
+        "spearman": 0.136784
+      },
+      "far_excess_ms": {
+        "pearson": 0.298423,
+        "spearman": 0.046706
+      },
+      "far_minus_common_ms": {
+        "pearson": 0.444835,
+        "spearman": 0.144683
+      }
+    },
+    "C013": {
+      "common_local_excess_ms": {
+        "pearson": 0.120534,
+        "spearman": 0.210289
+      },
+      "far_excess_ms": {
+        "pearson": 0.397218,
+        "spearman": 0.056332
+      },
+      "far_minus_common_ms": {
+        "pearson": 0.506125,
+        "spearman": 0.030028
+      }
+    },
+    "C014": {
+      "common_local_excess_ms": {
+        "pearson": 0.073925,
+        "spearman": 0.195485
+      },
+      "far_excess_ms": {
+        "pearson": 0.321336,
+        "spearman": 0.047705
+      },
+      "far_minus_common_ms": {
+        "pearson": 0.458456,
+        "spearman": 0.003895
+      }
+    },
+    "C015": {
+      "common_local_excess_ms": {
+        "pearson": 0.086338,
+        "spearman": 0.144974
+      },
+      "far_excess_ms": {
+        "pearson": 0.357052,
+        "spearman": 0.07136
+      },
+      "far_minus_common_ms": {
+        "pearson": 0.506047,
+        "spearman": 0.072635
+      }
+    },
+    "C016": {
+      "common_local_excess_ms": {
+        "pearson": 0.073369,
+        "spearman": 0.153875
+      },
+      "far_excess_ms": {
+        "pearson": 0.3179,
+        "spearman": 0.064637
+      },
+      "far_minus_common_ms": {
+        "pearson": 0.453914,
+        "spearman": 0.051321
+      }
+    }
+  },
+  "limit": "Conditional on threshold-selected points; noisy, dependent and not a causal effect."
+}

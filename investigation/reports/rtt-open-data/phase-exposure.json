@@ -1,0 +1,1550 @@
+[
+  {
+    "kind": "gameplay_zero",
+    "window_seconds": 1,
+    "point_hits": 9,
+    "total_points": 291,
+    "exposure_seconds": 274.0,
+    "total_connection_seconds": 18234.995,
+    "by_connection": [
+      {
+        "connection_id": "C001",
+        "hits": 0,
+        "game_points": 9,
+        "window_exposure_seconds": 42.0,
+        "connection_seconds": 2109.167
+      },
+      {
+        "connection_id": "C002",
+        "hits": 3,
+        "game_points": 139,
+        "window_exposure_seconds": 44.0,
+        "connection_seconds": 2517.745
+      },
+      {
+        "connection_id": "C003",
+        "hits": 1,
+        "game_points": 31,
+        "window_exposure_seconds": 30.0,
+        "connection_seconds": 1523.241
+      },
+      {
+        "connection_id": "C004",
+        "hits": 0,
+        "game_points": 12,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 327.026
+      },
+      {
+        "connection_id": "C005",
+        "hits": 0,
+        "game_points": 0,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 357.58
+      },
+      {
+        "connection_id": "C006",
+        "hits": 0,
+        "game_points": 1,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 2315.382
+      },
+      {
+        "connection_id": "C007",
+        "hits": 0,
+        "game_points": 19,
+        "window_exposure_seconds": 44.0,
+        "connection_seconds": 2261.302
+      },
+      {
+        "connection_id": "C008",
+        "hits": 0,
+        "game_points": 2,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 424.896
+      },
+      {
+        "connection_id": "C009",
+        "hits": 0,
+        "game_points": 0,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 448.696
+      },
+      {
+        "connection_id": "C010",
+        "hits": 0,
+        "game_points": 0,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 315.268
+      },
+      {
+        "connection_id": "C011",
+        "hits": 1,
+        "game_points": 9,
+        "window_exposure_seconds": 14.0,
+        "connection_seconds": 753.605
+      },
+      {
+        "connection_id": "C012",
+        "hits": 2,
+        "game_points": 34,
+        "window_exposure_seconds": 26.0,
+        "connection_seconds": 1264.939
+      },
+      {
+        "connection_id": "C013",
+        "hits": 2,
+        "game_points": 19,
+        "window_exposure_seconds": 22.0,
+        "connection_seconds": 1058.42
+      },
+      {
+        "connection_id": "C014",
+        "hits": 0,
+        "game_points": 10,
+        "window_exposure_seconds": 10.0,
+        "connection_seconds": 514.239
+      },
+      {
+        "connection_id": "C015",
+        "hits": 0,
+        "game_points": 4,
+        "window_exposure_seconds": 14.0,
+        "connection_seconds": 628.689
+      },
+      {
+        "connection_id": "C016",
+        "hits": 0,
+        "game_points": 2,
+        "window_exposure_seconds": 14.0,
+        "connection_seconds": 718.739
+      },
+      {
+        "connection_id": "C017",
+        "hits": 0,
+        "game_points": 0,
+        "window_exposure_seconds": 14.0,
+        "connection_seconds": 696.061
+      }
+    ]
+  },
+  {
+    "kind": "gameplay_zero",
+    "window_seconds": 5,
+    "point_hits": 17,
+    "total_points": 291,
+    "exposure_seconds": 1370.0,
+    "total_connection_seconds": 18234.995,
+    "by_connection": [
+      {
+        "connection_id": "C001",
+        "hits": 1,
+        "game_points": 9,
+        "window_exposure_seconds": 210.0,
+        "connection_seconds": 2109.167
+      },
+      {
+        "connection_id": "C002",
+        "hits": 7,
+        "game_points": 139,
+        "window_exposure_seconds": 220.0,
+        "connection_seconds": 2517.745
+      },
+      {
+        "connection_id": "C003",
+        "hits": 1,
+        "game_points": 31,
+        "window_exposure_seconds": 150.0,
+        "connection_seconds": 1523.241
+      },
+      {
+        "connection_id": "C004",
+        "hits": 0,
+        "game_points": 12,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 327.026
+      },
+      {
+        "connection_id": "C005",
+        "hits": 0,
+        "game_points": 0,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 357.58
+      },
+      {
+        "connection_id": "C006",
+        "hits": 0,
+        "game_points": 1,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 2315.382
+      },
+      {
+        "connection_id": "C007",
+        "hits": 0,
+        "game_points": 19,
+        "window_exposure_seconds": 220.0,
+        "connection_seconds": 2261.302
+      },
+      {
+        "connection_id": "C008",
+        "hits": 0,
+        "game_points": 2,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 424.896
+      },
+      {
+        "connection_id": "C009",
+        "hits": 0,
+        "game_points": 0,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 448.696
+      },
+      {
+        "connection_id": "C010",
+        "hits": 0,
+        "game_points": 0,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 315.268
+      },
+      {
+        "connection_id": "C011",
+        "hits": 1,
+        "game_points": 9,
+        "window_exposure_seconds": 70.0,
+        "connection_seconds": 753.605
+      },
+      {
+        "connection_id": "C012",
+        "hits": 4,
+        "game_points": 34,
+        "window_exposure_seconds": 130.0,
+        "connection_seconds": 1264.939
+      },
+      {
+        "connection_id": "C013",
+        "hits": 3,
+        "game_points": 19,
+        "window_exposure_seconds": 110.0,
+        "connection_seconds": 1058.42
+      },
+      {
+        "connection_id": "C014",
+        "hits": 0,
+        "game_points": 10,
+        "window_exposure_seconds": 50.0,
+        "connection_seconds": 514.239
+      },
+      {
+        "connection_id": "C015",
+        "hits": 0,
+        "game_points": 4,
+        "window_exposure_seconds": 70.0,
+        "connection_seconds": 628.689
+      },
+      {
+        "connection_id": "C016",
+        "hits": 0,
+        "game_points": 2,
+        "window_exposure_seconds": 70.0,
+        "connection_seconds": 718.739
+      },
+      {
+        "connection_id": "C017",
+        "hits": 0,
+        "game_points": 0,
+        "window_exposure_seconds": 70.0,
+        "connection_seconds": 696.061
+      }
+    ]
+  },
+  {
+    "kind": "gameplay_zero",
+    "window_seconds": 10,
+    "point_hits": 41,
+    "total_points": 291,
+    "exposure_seconds": 2740.0,
+    "total_connection_seconds": 18234.995,
+    "by_connection": [
+      {
+        "connection_id": "C001",
+        "hits": 1,
+        "game_points": 9,
+        "window_exposure_seconds": 420.0,
+        "connection_seconds": 2109.167
+      },
+      {
+        "connection_id": "C002",
+        "hits": 20,
+        "game_points": 139,
+        "window_exposure_seconds": 440.0,
+        "connection_seconds": 2517.745
+      },
+      {
+        "connection_id": "C003",
+        "hits": 2,
+        "game_points": 31,
+        "window_exposure_seconds": 300.0,
+        "connection_seconds": 1523.241
+      },
+      {
+        "connection_id": "C004",
+        "hits": 0,
+        "game_points": 12,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 327.026
+      },
+      {
+        "connection_id": "C005",
+        "hits": 0,
+        "game_points": 0,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 357.58
+      },
+      {
+        "connection_id": "C006",
+        "hits": 0,
+        "game_points": 1,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 2315.382
+      },
+      {
+        "connection_id": "C007",
+        "hits": 2,
+        "game_points": 19,
+        "window_exposure_seconds": 440.0,
+        "connection_seconds": 2261.302
+      },
+      {
+        "connection_id": "C008",
+        "hits": 0,
+        "game_points": 2,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 424.896
+      },
+      {
+        "connection_id": "C009",
+        "hits": 0,
+        "game_points": 0,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 448.696
+      },
+      {
+        "connection_id": "C010",
+        "hits": 0,
+        "game_points": 0,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 315.268
+      },
+      {
+        "connection_id": "C011",
+        "hits": 1,
+        "game_points": 9,
+        "window_exposure_seconds": 140.0,
+        "connection_seconds": 753.605
+      },
+      {
+        "connection_id": "C012",
+        "hits": 8,
+        "game_points": 34,
+        "window_exposure_seconds": 260.0,
+        "connection_seconds": 1264.939
+      },
+      {
+        "connection_id": "C013",
+        "hits": 6,
+        "game_points": 19,
+        "window_exposure_seconds": 220.0,
+        "connection_seconds": 1058.42
+      },
+      {
+        "connection_id": "C014",
+        "hits": 0,
+        "game_points": 10,
+        "window_exposure_seconds": 100.0,
+        "connection_seconds": 514.239
+      },
+      {
+        "connection_id": "C015",
+        "hits": 1,
+        "game_points": 4,
+        "window_exposure_seconds": 140.0,
+        "connection_seconds": 628.689
+      },
+      {
+        "connection_id": "C016",
+        "hits": 0,
+        "game_points": 2,
+        "window_exposure_seconds": 140.0,
+        "connection_seconds": 718.739
+      },
+      {
+        "connection_id": "C017",
+        "hits": 0,
+        "game_points": 0,
+        "window_exposure_seconds": 140.0,
+        "connection_seconds": 696.061
+      }
+    ]
+  },
+  {
+    "kind": "gameplay_nonzero",
+    "window_seconds": 1,
+    "point_hits": 7,
+    "total_points": 291,
+    "exposure_seconds": 298.571,
+    "total_connection_seconds": 18234.995,
+    "by_connection": [
+      {
+        "connection_id": "C001",
+        "hits": 0,
+        "game_points": 9,
+        "window_exposure_seconds": 44.0,
+        "connection_seconds": 2109.167
+      },
+      {
+        "connection_id": "C002",
+        "hits": 3,
+        "game_points": 139,
+        "window_exposure_seconds": 46.0,
+        "connection_seconds": 2517.745
+      },
+      {
+        "connection_id": "C003",
+        "hits": 2,
+        "game_points": 31,
+        "window_exposure_seconds": 32.0,
+        "connection_seconds": 1523.241
+      },
+      {
+        "connection_id": "C004",
+        "hits": 0,
+        "game_points": 12,
+        "window_exposure_seconds": 1.07,
+        "connection_seconds": 327.026
+      },
+      {
+        "connection_id": "C005",
+        "hits": 0,
+        "game_points": 0,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 357.58
+      },
+      {
+        "connection_id": "C006",
+        "hits": 0,
+        "game_points": 1,
+        "window_exposure_seconds": 1.294,
+        "connection_seconds": 2315.382
+      },
+      {
+        "connection_id": "C007",
+        "hits": 1,
+        "game_points": 19,
+        "window_exposure_seconds": 46.0,
+        "connection_seconds": 2261.302
+      },
+      {
+        "connection_id": "C008",
+        "hits": 0,
+        "game_points": 2,
+        "window_exposure_seconds": 1.316,
+        "connection_seconds": 424.896
+      },
+      {
+        "connection_id": "C009",
+        "hits": 0,
+        "game_points": 0,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 448.696
+      },
+      {
+        "connection_id": "C010",
+        "hits": 0,
+        "game_points": 0,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 315.268
+      },
+      {
+        "connection_id": "C011",
+        "hits": 1,
+        "game_points": 9,
+        "window_exposure_seconds": 16.0,
+        "connection_seconds": 753.605
+      },
+      {
+        "connection_id": "C012",
+        "hits": 0,
+        "game_points": 34,
+        "window_exposure_seconds": 28.0,
+        "connection_seconds": 1264.939
+      },
+      {
+        "connection_id": "C013",
+        "hits": 0,
+        "game_points": 19,
+        "window_exposure_seconds": 22.891,
+        "connection_seconds": 1058.42
+      },
+      {
+        "connection_id": "C014",
+        "hits": 0,
+        "game_points": 10,
+        "window_exposure_seconds": 12.0,
+        "connection_seconds": 514.239
+      },
+      {
+        "connection_id": "C015",
+        "hits": 0,
+        "game_points": 4,
+        "window_exposure_seconds": 16.0,
+        "connection_seconds": 628.689
+      },
+      {
+        "connection_id": "C016",
+        "hits": 0,
+        "game_points": 2,
+        "window_exposure_seconds": 16.0,
+        "connection_seconds": 718.739
+      },
+      {
+        "connection_id": "C017",
+        "hits": 0,
+        "game_points": 0,
+        "window_exposure_seconds": 16.0,
+        "connection_seconds": 696.061
+      }
+    ]
+  },
+  {
+    "kind": "gameplay_nonzero",
+    "window_seconds": 5,
+    "point_hits": 25,
+    "total_points": 291,
+    "exposure_seconds": 1490.571,
+    "total_connection_seconds": 18234.995,
+    "by_connection": [
+      {
+        "connection_id": "C001",
+        "hits": 1,
+        "game_points": 9,
+        "window_exposure_seconds": 220.0,
+        "connection_seconds": 2109.167
+      },
+      {
+        "connection_id": "C002",
+        "hits": 10,
+        "game_points": 139,
+        "window_exposure_seconds": 230.0,
+        "connection_seconds": 2517.745
+      },
+      {
+        "connection_id": "C003",
+        "hits": 6,
+        "game_points": 31,
+        "window_exposure_seconds": 160.0,
+        "connection_seconds": 1523.241
+      },
+      {
+        "connection_id": "C004",
+        "hits": 0,
+        "game_points": 12,
+        "window_exposure_seconds": 5.07,
+        "connection_seconds": 327.026
+      },
+      {
+        "connection_id": "C005",
+        "hits": 0,
+        "game_points": 0,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 357.58
+      },
+      {
+        "connection_id": "C006",
+        "hits": 0,
+        "game_points": 1,
+        "window_exposure_seconds": 5.294,
+        "connection_seconds": 2315.382
+      },
+      {
+        "connection_id": "C007",
+        "hits": 2,
+        "game_points": 19,
+        "window_exposure_seconds": 230.0,
+        "connection_seconds": 2261.302
+      },
+      {
+        "connection_id": "C008",
+        "hits": 0,
+        "game_points": 2,
+        "window_exposure_seconds": 5.316,
+        "connection_seconds": 424.896
+      },
+      {
+        "connection_id": "C009",
+        "hits": 0,
+        "game_points": 0,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 448.696
+      },
+      {
+        "connection_id": "C010",
+        "hits": 0,
+        "game_points": 0,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 315.268
+      },
+      {
+        "connection_id": "C011",
+        "hits": 1,
+        "game_points": 9,
+        "window_exposure_seconds": 80.0,
+        "connection_seconds": 753.605
+      },
+      {
+        "connection_id": "C012",
+        "hits": 2,
+        "game_points": 34,
+        "window_exposure_seconds": 140.0,
+        "connection_seconds": 1264.939
+      },
+      {
+        "connection_id": "C013",
+        "hits": 1,
+        "game_points": 19,
+        "window_exposure_seconds": 114.891,
+        "connection_seconds": 1058.42
+      },
+      {
+        "connection_id": "C014",
+        "hits": 2,
+        "game_points": 10,
+        "window_exposure_seconds": 60.0,
+        "connection_seconds": 514.239
+      },
+      {
+        "connection_id": "C015",
+        "hits": 0,
+        "game_points": 4,
+        "window_exposure_seconds": 80.0,
+        "connection_seconds": 628.689
+      },
+      {
+        "connection_id": "C016",
+        "hits": 0,
+        "game_points": 2,
+        "window_exposure_seconds": 80.0,
+        "connection_seconds": 718.739
+      },
+      {
+        "connection_id": "C017",
+        "hits": 0,
+        "game_points": 0,
+        "window_exposure_seconds": 80.0,
+        "connection_seconds": 696.061
+      }
+    ]
+  },
+  {
+    "kind": "gameplay_nonzero",
+    "window_seconds": 10,
+    "point_hits": 47,
+    "total_points": 291,
+    "exposure_seconds": 2980.571,
+    "total_connection_seconds": 18234.995,
+    "by_connection": [
+      {
+        "connection_id": "C001",
+        "hits": 1,
+        "game_points": 9,
+        "window_exposure_seconds": 440.0,
+        "connection_seconds": 2109.167
+      },
+      {
+        "connection_id": "C002",
+        "hits": 19,
+        "game_points": 139,
+        "window_exposure_seconds": 460.0,
+        "connection_seconds": 2517.745
+      },
+      {
+        "connection_id": "C003",
+        "hits": 9,
+        "game_points": 31,
+        "window_exposure_seconds": 320.0,
+        "connection_seconds": 1523.241
+      },
+      {
+        "connection_id": "C004",
+        "hits": 0,
+        "game_points": 12,
+        "window_exposure_seconds": 10.07,
+        "connection_seconds": 327.026
+      },
+      {
+        "connection_id": "C005",
+        "hits": 0,
+        "game_points": 0,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 357.58
+      },
+      {
+        "connection_id": "C006",
+        "hits": 0,
+        "game_points": 1,
+        "window_exposure_seconds": 10.294,
+        "connection_seconds": 2315.382
+      },
+      {
+        "connection_id": "C007",
+        "hits": 3,
+        "game_points": 19,
+        "window_exposure_seconds": 460.0,
+        "connection_seconds": 2261.302
+      },
+      {
+        "connection_id": "C008",
+        "hits": 0,
+        "game_points": 2,
+        "window_exposure_seconds": 10.316,
+        "connection_seconds": 424.896
+      },
+      {
+        "connection_id": "C009",
+        "hits": 0,
+        "game_points": 0,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 448.696
+      },
+      {
+        "connection_id": "C010",
+        "hits": 0,
+        "game_points": 0,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 315.268
+      },
+      {
+        "connection_id": "C011",
+        "hits": 1,
+        "game_points": 9,
+        "window_exposure_seconds": 160.0,
+        "connection_seconds": 753.605
+      },
+      {
+        "connection_id": "C012",
+        "hits": 5,
+        "game_points": 34,
+        "window_exposure_seconds": 280.0,
+        "connection_seconds": 1264.939
+      },
+      {
+        "connection_id": "C013",
+        "hits": 3,
+        "game_points": 19,
+        "window_exposure_seconds": 229.891,
+        "connection_seconds": 1058.42
+      },
+      {
+        "connection_id": "C014",
+        "hits": 4,
+        "game_points": 10,
+        "window_exposure_seconds": 120.0,
+        "connection_seconds": 514.239
+      },
+      {
+        "connection_id": "C015",
+        "hits": 2,
+        "game_points": 4,
+        "window_exposure_seconds": 160.0,
+        "connection_seconds": 628.689
+      },
+      {
+        "connection_id": "C016",
+        "hits": 0,
+        "game_points": 2,
+        "window_exposure_seconds": 160.0,
+        "connection_seconds": 718.739
+      },
+      {
+        "connection_id": "C017",
+        "hits": 0,
+        "game_points": 0,
+        "window_exposure_seconds": 160.0,
+        "connection_seconds": 696.061
+      }
+    ]
+  },
+  {
+    "kind": "round_end",
+    "window_seconds": 1,
+    "point_hits": 8,
+    "total_points": 291,
+    "exposure_seconds": 282.0,
+    "total_connection_seconds": 18234.995,
+    "by_connection": [
+      {
+        "connection_id": "C001",
+        "hits": 0,
+        "game_points": 9,
+        "window_exposure_seconds": 42.0,
+        "connection_seconds": 2109.167
+      },
+      {
+        "connection_id": "C002",
+        "hits": 2,
+        "game_points": 139,
+        "window_exposure_seconds": 44.0,
+        "connection_seconds": 2517.745
+      },
+      {
+        "connection_id": "C003",
+        "hits": 1,
+        "game_points": 31,
+        "window_exposure_seconds": 30.0,
+        "connection_seconds": 1523.241
+      },
+      {
+        "connection_id": "C004",
+        "hits": 0,
+        "game_points": 12,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 327.026
+      },
+      {
+        "connection_id": "C005",
+        "hits": 0,
+        "game_points": 0,
+        "window_exposure_seconds": 2.0,
+        "connection_seconds": 357.58
+      },
+      {
+        "connection_id": "C006",
+        "hits": 0,
+        "game_points": 1,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 2315.382
+      },
+      {
+        "connection_id": "C007",
+        "hits": 0,
+        "game_points": 19,
+        "window_exposure_seconds": 44.0,
+        "connection_seconds": 2261.302
+      },
+      {
+        "connection_id": "C008",
+        "hits": 0,
+        "game_points": 2,
+        "window_exposure_seconds": 2.0,
+        "connection_seconds": 424.896
+      },
+      {
+        "connection_id": "C009",
+        "hits": 0,
+        "game_points": 0,
+        "window_exposure_seconds": 2.0,
+        "connection_seconds": 448.696
+      },
+      {
+        "connection_id": "C010",
+        "hits": 0,
+        "game_points": 0,
+        "window_exposure_seconds": 2.0,
+        "connection_seconds": 315.268
+      },
+      {
+        "connection_id": "C011",
+        "hits": 1,
+        "game_points": 9,
+        "window_exposure_seconds": 14.0,
+        "connection_seconds": 753.605
+      },
+      {
+        "connection_id": "C012",
+        "hits": 2,
+        "game_points": 34,
+        "window_exposure_seconds": 26.0,
+        "connection_seconds": 1264.939
+      },
+      {
+        "connection_id": "C013",
+        "hits": 2,
+        "game_points": 19,
+        "window_exposure_seconds": 22.0,
+        "connection_seconds": 1058.42
+      },
+      {
+        "connection_id": "C014",
+        "hits": 0,
+        "game_points": 10,
+        "window_exposure_seconds": 10.0,
+        "connection_seconds": 514.239
+      },
+      {
+        "connection_id": "C015",
+        "hits": 0,
+        "game_points": 4,
+        "window_exposure_seconds": 14.0,
+        "connection_seconds": 628.689
+      },
+      {
+        "connection_id": "C016",
+        "hits": 0,
+        "game_points": 2,
+        "window_exposure_seconds": 14.0,
+        "connection_seconds": 718.739
+      },
+      {
+        "connection_id": "C017",
+        "hits": 0,
+        "game_points": 0,
+        "window_exposure_seconds": 14.0,
+        "connection_seconds": 696.061
+      }
+    ]
+  },
+  {
+    "kind": "round_end",
+    "window_seconds": 5,
+    "point_hits": 17,
+    "total_points": 291,
+    "exposure_seconds": 1410.0,
+    "total_connection_seconds": 18234.995,
+    "by_connection": [
+      {
+        "connection_id": "C001",
+        "hits": 1,
+        "game_points": 9,
+        "window_exposure_seconds": 210.0,
+        "connection_seconds": 2109.167
+      },
+      {
+        "connection_id": "C002",
+        "hits": 7,
+        "game_points": 139,
+        "window_exposure_seconds": 220.0,
+        "connection_seconds": 2517.745
+      },
+      {
+        "connection_id": "C003",
+        "hits": 1,
+        "game_points": 31,
+        "window_exposure_seconds": 150.0,
+        "connection_seconds": 1523.241
+      },
+      {
+        "connection_id": "C004",
+        "hits": 0,
+        "game_points": 12,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 327.026
+      },
+      {
+        "connection_id": "C005",
+        "hits": 0,
+        "game_points": 0,
+        "window_exposure_seconds": 10.0,
+        "connection_seconds": 357.58
+      },
+      {
+        "connection_id": "C006",
+        "hits": 0,
+        "game_points": 1,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 2315.382
+      },
+      {
+        "connection_id": "C007",
+        "hits": 0,
+        "game_points": 19,
+        "window_exposure_seconds": 220.0,
+        "connection_seconds": 2261.302
+      },
+      {
+        "connection_id": "C008",
+        "hits": 0,
+        "game_points": 2,
+        "window_exposure_seconds": 10.0,
+        "connection_seconds": 424.896
+      },
+      {
+        "connection_id": "C009",
+        "hits": 0,
+        "game_points": 0,
+        "window_exposure_seconds": 10.0,
+        "connection_seconds": 448.696
+      },
+      {
+        "connection_id": "C010",
+        "hits": 0,
+        "game_points": 0,
+        "window_exposure_seconds": 10.0,
+        "connection_seconds": 315.268
+      },
+      {
+        "connection_id": "C011",
+        "hits": 1,
+        "game_points": 9,
+        "window_exposure_seconds": 70.0,
+        "connection_seconds": 753.605
+      },
+      {
+        "connection_id": "C012",
+        "hits": 4,
+        "game_points": 34,
+        "window_exposure_seconds": 130.0,
+        "connection_seconds": 1264.939
+      },
+      {
+        "connection_id": "C013",
+        "hits": 3,
+        "game_points": 19,
+        "window_exposure_seconds": 110.0,
+        "connection_seconds": 1058.42
+      },
+      {
+        "connection_id": "C014",
+        "hits": 0,
+        "game_points": 10,
+        "window_exposure_seconds": 50.0,
+        "connection_seconds": 514.239
+      },
+      {
+        "connection_id": "C015",
+        "hits": 0,
+        "game_points": 4,
+        "window_exposure_seconds": 70.0,
+        "connection_seconds": 628.689
+      },
+      {
+        "connection_id": "C016",
+        "hits": 0,
+        "game_points": 2,
+        "window_exposure_seconds": 70.0,
+        "connection_seconds": 718.739
+      },
+      {
+        "connection_id": "C017",
+        "hits": 0,
+        "game_points": 0,
+        "window_exposure_seconds": 70.0,
+        "connection_seconds": 696.061
+      }
+    ]
+  },
+  {
+    "kind": "round_end",
+    "window_seconds": 10,
+    "point_hits": 41,
+    "total_points": 291,
+    "exposure_seconds": 2810.845,
+    "total_connection_seconds": 18234.995,
+    "by_connection": [
+      {
+        "connection_id": "C001",
+        "hits": 1,
+        "game_points": 9,
+        "window_exposure_seconds": 420.0,
+        "connection_seconds": 2109.167
+      },
+      {
+        "connection_id": "C002",
+        "hits": 21,
+        "game_points": 139,
+        "window_exposure_seconds": 440.0,
+        "connection_seconds": 2517.745
+      },
+      {
+        "connection_id": "C003",
+        "hits": 2,
+        "game_points": 31,
+        "window_exposure_seconds": 300.0,
+        "connection_seconds": 1523.241
+      },
+      {
+        "connection_id": "C004",
+        "hits": 0,
+        "game_points": 12,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 327.026
+      },
+      {
+        "connection_id": "C005",
+        "hits": 0,
+        "game_points": 0,
+        "window_exposure_seconds": 17.491,
+        "connection_seconds": 357.58
+      },
+      {
+        "connection_id": "C006",
+        "hits": 0,
+        "game_points": 1,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 2315.382
+      },
+      {
+        "connection_id": "C007",
+        "hits": 2,
+        "game_points": 19,
+        "window_exposure_seconds": 440.0,
+        "connection_seconds": 2261.302
+      },
+      {
+        "connection_id": "C008",
+        "hits": 0,
+        "game_points": 2,
+        "window_exposure_seconds": 17.935,
+        "connection_seconds": 424.896
+      },
+      {
+        "connection_id": "C009",
+        "hits": 0,
+        "game_points": 0,
+        "window_exposure_seconds": 17.706,
+        "connection_seconds": 448.696
+      },
+      {
+        "connection_id": "C010",
+        "hits": 0,
+        "game_points": 0,
+        "window_exposure_seconds": 17.713,
+        "connection_seconds": 315.268
+      },
+      {
+        "connection_id": "C011",
+        "hits": 1,
+        "game_points": 9,
+        "window_exposure_seconds": 140.0,
+        "connection_seconds": 753.605
+      },
+      {
+        "connection_id": "C012",
+        "hits": 7,
+        "game_points": 34,
+        "window_exposure_seconds": 260.0,
+        "connection_seconds": 1264.939
+      },
+      {
+        "connection_id": "C013",
+        "hits": 6,
+        "game_points": 19,
+        "window_exposure_seconds": 220.0,
+        "connection_seconds": 1058.42
+      },
+      {
+        "connection_id": "C014",
+        "hits": 0,
+        "game_points": 10,
+        "window_exposure_seconds": 100.0,
+        "connection_seconds": 514.239
+      },
+      {
+        "connection_id": "C015",
+        "hits": 1,
+        "game_points": 4,
+        "window_exposure_seconds": 140.0,
+        "connection_seconds": 628.689
+      },
+      {
+        "connection_id": "C016",
+        "hits": 0,
+        "game_points": 2,
+        "window_exposure_seconds": 140.0,
+        "connection_seconds": 718.739
+      },
+      {
+        "connection_id": "C017",
+        "hits": 0,
+        "game_points": 0,
+        "window_exposure_seconds": 140.0,
+        "connection_seconds": 696.061
+      }
+    ]
+  },
+  {
+    "kind": "asset_preload_warning",
+    "window_seconds": 1,
+    "point_hits": 0,
+    "total_points": 291,
+    "exposure_seconds": 36.605,
+    "total_connection_seconds": 18234.995,
+    "by_connection": [
+      {
+        "connection_id": "C001",
+        "hits": 0,
+        "game_points": 9,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 2109.167
+      },
+      {
+        "connection_id": "C002",
+        "hits": 0,
+        "game_points": 139,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 2517.745
+      },
+      {
+        "connection_id": "C003",
+        "hits": 0,
+        "game_points": 31,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 1523.241
+      },
+      {
+        "connection_id": "C004",
+        "hits": 0,
+        "game_points": 12,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 327.026
+      },
+      {
+        "connection_id": "C005",
+        "hits": 0,
+        "game_points": 0,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 357.58
+      },
+      {
+        "connection_id": "C006",
+        "hits": 0,
+        "game_points": 1,
+        "window_exposure_seconds": 23.172,
+        "connection_seconds": 2315.382
+      },
+      {
+        "connection_id": "C007",
+        "hits": 0,
+        "game_points": 19,
+        "window_exposure_seconds": 4.005,
+        "connection_seconds": 2261.302
+      },
+      {
+        "connection_id": "C008",
+        "hits": 0,
+        "game_points": 2,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 424.896
+      },
+      {
+        "connection_id": "C009",
+        "hits": 0,
+        "game_points": 0,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 448.696
+      },
+      {
+        "connection_id": "C010",
+        "hits": 0,
+        "game_points": 0,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 315.268
+      },
+      {
+        "connection_id": "C011",
+        "hits": 0,
+        "game_points": 9,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 753.605
+      },
+      {
+        "connection_id": "C012",
+        "hits": 0,
+        "game_points": 34,
+        "window_exposure_seconds": 4.017,
+        "connection_seconds": 1264.939
+      },
+      {
+        "connection_id": "C013",
+        "hits": 0,
+        "game_points": 19,
+        "window_exposure_seconds": 5.411,
+        "connection_seconds": 1058.42
+      },
+      {
+        "connection_id": "C014",
+        "hits": 0,
+        "game_points": 10,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 514.239
+      },
+      {
+        "connection_id": "C015",
+        "hits": 0,
+        "game_points": 4,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 628.689
+      },
+      {
+        "connection_id": "C016",
+        "hits": 0,
+        "game_points": 2,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 718.739
+      },
+      {
+        "connection_id": "C017",
+        "hits": 0,
+        "game_points": 0,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 696.061
+      }
+    ]
+  },
+  {
+    "kind": "asset_preload_warning",
+    "window_seconds": 5,
+    "point_hits": 0,
+    "total_points": 291,
+    "exposure_seconds": 159.034,
+    "total_connection_seconds": 18234.995,
+    "by_connection": [
+      {
+        "connection_id": "C001",
+        "hits": 0,
+        "game_points": 9,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 2109.167
+      },
+      {
+        "connection_id": "C002",
+        "hits": 0,
+        "game_points": 139,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 2517.745
+      },
+      {
+        "connection_id": "C003",
+        "hits": 0,
+        "game_points": 31,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 1523.241
+      },
+      {
+        "connection_id": "C004",
+        "hits": 0,
+        "game_points": 12,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 327.026
+      },
+      {
+        "connection_id": "C005",
+        "hits": 0,
+        "game_points": 0,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 357.58
+      },
+      {
+        "connection_id": "C006",
+        "hits": 0,
+        "game_points": 1,
+        "window_exposure_seconds": 101.601,
+        "connection_seconds": 2315.382
+      },
+      {
+        "connection_id": "C007",
+        "hits": 0,
+        "game_points": 19,
+        "window_exposure_seconds": 20.005,
+        "connection_seconds": 2261.302
+      },
+      {
+        "connection_id": "C008",
+        "hits": 0,
+        "game_points": 2,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 424.896
+      },
+      {
+        "connection_id": "C009",
+        "hits": 0,
+        "game_points": 0,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 448.696
+      },
+      {
+        "connection_id": "C010",
+        "hits": 0,
+        "game_points": 0,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 315.268
+      },
+      {
+        "connection_id": "C011",
+        "hits": 0,
+        "game_points": 9,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 753.605
+      },
+      {
+        "connection_id": "C012",
+        "hits": 0,
+        "game_points": 34,
+        "window_exposure_seconds": 12.017,
+        "connection_seconds": 1264.939
+      },
+      {
+        "connection_id": "C013",
+        "hits": 0,
+        "game_points": 19,
+        "window_exposure_seconds": 25.411,
+        "connection_seconds": 1058.42
+      },
+      {
+        "connection_id": "C014",
+        "hits": 0,
+        "game_points": 10,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 514.239
+      },
+      {
+        "connection_id": "C015",
+        "hits": 0,
+        "game_points": 4,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 628.689
+      },
+      {
+        "connection_id": "C016",
+        "hits": 0,
+        "game_points": 2,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 718.739
+      },
+      {
+        "connection_id": "C017",
+        "hits": 0,
+        "game_points": 0,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 696.061
+      }
+    ]
+  },
+  {
+    "kind": "asset_preload_warning",
+    "window_seconds": 10,
+    "point_hits": 1,
+    "total_points": 291,
+    "exposure_seconds": 281.418,
+    "total_connection_seconds": 18234.995,
+    "by_connection": [
+      {
+        "connection_id": "C001",
+        "hits": 0,
+        "game_points": 9,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 2109.167
+      },
+      {
+        "connection_id": "C002",
+        "hits": 0,
+        "game_points": 139,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 2517.745
+      },
+      {
+        "connection_id": "C003",
+        "hits": 0,
+        "game_points": 31,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 1523.241
+      },
+      {
+        "connection_id": "C004",
+        "hits": 0,
+        "game_points": 12,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 327.026
+      },
+      {
+        "connection_id": "C005",
+        "hits": 0,
+        "game_points": 0,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 357.58
+      },
+      {
+        "connection_id": "C006",
+        "hits": 0,
+        "game_points": 1,
+        "window_exposure_seconds": 168.985,
+        "connection_seconds": 2315.382
+      },
+      {
+        "connection_id": "C007",
+        "hits": 0,
+        "game_points": 19,
+        "window_exposure_seconds": 40.005,
+        "connection_seconds": 2261.302
+      },
+      {
+        "connection_id": "C008",
+        "hits": 0,
+        "game_points": 2,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 424.896
+      },
+      {
+        "connection_id": "C009",
+        "hits": 0,
+        "game_points": 0,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 448.696
+      },
+      {
+        "connection_id": "C010",
+        "hits": 0,
+        "game_points": 0,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 315.268
+      },
+      {
+        "connection_id": "C011",
+        "hits": 0,
+        "game_points": 9,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 753.605
+      },
+      {
+        "connection_id": "C012",
+        "hits": 1,
+        "game_points": 34,
+        "window_exposure_seconds": 22.017,
+        "connection_seconds": 1264.939
+      },
+      {
+        "connection_id": "C013",
+        "hits": 0,
+        "game_points": 19,
+        "window_exposure_seconds": 50.411,
+        "connection_seconds": 1058.42
+      },
+      {
+        "connection_id": "C014",
+        "hits": 0,
+        "game_points": 10,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 514.239
+      },
+      {
+        "connection_id": "C015",
+        "hits": 0,
+        "game_points": 4,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 628.689
+      },
+      {
+        "connection_id": "C016",
+        "hits": 0,
+        "game_points": 2,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 718.739
+      },
+      {
+        "connection_id": "C017",
+        "hits": 0,
+        "game_points": 0,
+        "window_exposure_seconds": 0,
+        "connection_seconds": 696.061
+      }
+    ]
+  }
+]

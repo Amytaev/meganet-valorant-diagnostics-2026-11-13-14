@@ -1,0 +1,37 @@
+{
+  "game_points": 291,
+  "band_points": 263,
+  "bands": {
+    "120-<130": 214,
+    "130-<150": 40,
+    "200-<300": 13,
+    "150-180": 9,
+    ">180-<200": 7,
+    "300+": 8
+  },
+  "point_clusters": {
+    "5": 181,
+    "10": 131,
+    "30": 61,
+    "60": 50
+  },
+  "repeated_equal_consecutive_points": 3,
+  "short_logged_differences": {
+    "n": 160,
+    "min": 0.0,
+    "median": 4.184999999999995,
+    "p95": 34.53,
+    "max": 90.33
+  },
+  "phase_event_counts": {
+    "configured_server_tickrate": 17,
+    "gameplay_nonzero": 151,
+    "round_end": 141,
+    "gameplay_zero": 137,
+    "asset_preload_warning": 94
+  },
+  "qualified_controls": 137495,
+  "control_end_utc": "2026-11-15T01:23:28.056+00:00",
+  "observed_game_min_ms": 120.0,
+  "observed_game_max_ms": 383.31
+}

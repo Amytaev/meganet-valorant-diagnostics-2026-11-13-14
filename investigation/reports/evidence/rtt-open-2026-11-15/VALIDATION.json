@@ -1,0 +1,71 @@
+{
+  "schema": 1,
+  "analysis": "Open temporal investigation, 13–15 November 2026",
+  "previous_private_commit": "ad131138d5d14acb9a2673ca04b2aba75a7abd9a",
+  "numerical_verification": {
+    "independently_parsed_game_lines": 291,
+    "independently_checked_sql_target_windows": 425,
+    "independently_checked_sql_game_classes": 291,
+    "classes": {
+      "uncovered_or_incomplete": 206,
+      "all_controls_below_threshold": 69,
+      "gateway_control_anomaly": 6,
+      "retn_only_control_anomaly": 7,
+      "near_without_gateway_anomaly": 3
+    },
+    "eligible_probes": 137495,
+    "byte_identical_offline_replayed_results": [
+      "alignment-blocks.json",
+      "all-291-points-phase-context.json",
+      "all-game-points-context.json",
+      "classification-replay.json",
+      "connection-tail-process.json",
+      "control-alignment-shift-reference.json",
+      "hourly-control-distributions.json",
+      "lagged-control-window-overlap.json",
+      "logged-point-transitions.json",
+      "minute-control-series.json",
+      "phase-exposure.json",
+      "point-clusters-10s.json",
+      "point-control-features.json",
+      "summary.json",
+      "tail-correlations.json"
+    ],
+    "full_report_table_rows": 291,
+    "no_game_values_below_threshold_invented": true
+  },
+  "unit_tests_passed": 6,
+  "new_figures_visually_reviewed": 8,
+  "original_rrt_archive_checks": [
+    {
+      "archive": "SystemLogs-2026-11-14.zip",
+      "sha256": "177b7a7b19428d1d86574c10a1cea8ee855851e8d58037fa22e1f85c895fd015",
+      "unchanged": true
+    },
+    {
+      "archive": "VAL-2026-11-14-1 of 2.zip",
+      "sha256": "e5bc76282feb04369d1b9bc87b1f7b6e4217aadb2fad2635cd7b53e9f4517f23",
+      "unchanged": true
+    },
+    {
+      "archive": "VAL-2026-11-14-2 of 2.zip",
+      "sha256": "e5bc76282feb04369d1b9bc87b1f7b6e4217aadb2fad2635cd7b53e9f4517f23",
+      "unchanged": true
+    }
+  ],
+  "game_original_prefixes_verified": 7,
+  "continuous_prefixes_verified": 3,
+  "upper_band_narrative_exclusions_corrected": [
+    217.28,
+    202.8,
+    206.84,
+    226.09
+  ],
+  "renderer_first_paint_layout_fixed": true,
+  "privacy_findings": [],
+  "raw_game_or_rrt_published": false,
+  "new_game_or_network_tests": false,
+  "settings_changed": false,
+  "monitor_stopped": false,
+  "support_messages_sent": false
+}

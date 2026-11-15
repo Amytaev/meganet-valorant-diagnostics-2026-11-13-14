@@ -1,0 +1,56 @@
+[
+  {
+    "control_lag_seconds": -10,
+    "event_window_cycles": 216,
+    "bad_cycles": 9,
+    "limit": "Descriptive 2-second cycle offsets; overlapping windows and adjacent lag bins are dependent. Positive lag means later controls."
+  },
+  {
+    "control_lag_seconds": -6,
+    "event_window_cycles": 219,
+    "bad_cycles": 10,
+    "limit": "Descriptive 2-second cycle offsets; overlapping windows and adjacent lag bins are dependent. Positive lag means later controls."
+  },
+  {
+    "control_lag_seconds": -4,
+    "event_window_cycles": 221,
+    "bad_cycles": 14,
+    "limit": "Descriptive 2-second cycle offsets; overlapping windows and adjacent lag bins are dependent. Positive lag means later controls."
+  },
+  {
+    "control_lag_seconds": -2,
+    "event_window_cycles": 222,
+    "bad_cycles": 16,
+    "limit": "Descriptive 2-second cycle offsets; overlapping windows and adjacent lag bins are dependent. Positive lag means later controls."
+  },
+  {
+    "control_lag_seconds": 0,
+    "event_window_cycles": 223,
+    "bad_cycles": 16,
+    "limit": "Descriptive 2-second cycle offsets; overlapping windows and adjacent lag bins are dependent. Positive lag means later controls."
+  },
+  {
+    "control_lag_seconds": 2,
+    "event_window_cycles": 223,
+    "bad_cycles": 15,
+    "limit": "Descriptive 2-second cycle offsets; overlapping windows and adjacent lag bins are dependent. Positive lag means later controls."
+  },
+  {
+    "control_lag_seconds": 4,
+    "event_window_cycles": 223,
+    "bad_cycles": 13,
+    "limit": "Descriptive 2-second cycle offsets; overlapping windows and adjacent lag bins are dependent. Positive lag means later controls."
+  },
+  {
+    "control_lag_seconds": 6,
+    "event_window_cycles": 223,
+    "bad_cycles": 9,
+    "limit": "Descriptive 2-second cycle offsets; overlapping windows and adjacent lag bins are dependent. Positive lag means later controls."
+  },
+  {
+    "control_lag_seconds": 10,
+    "event_window_cycles": 223,
+    "bad_cycles": 2,
+    "limit": "Descriptive 2-second cycle offsets; overlapping windows and adjacent lag bins are dependent. Positive lag means later controls."
+  }
+]

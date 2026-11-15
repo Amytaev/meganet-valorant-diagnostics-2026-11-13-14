@@ -1,0 +1,191 @@
+{
+  "audit_time_utc": "2026-11-15T01:44:17.912790+00:00",
+  "original_sources_modified": false,
+  "game_original_prefix_checks": [
+    {
+      "file": "ShooterGame-backup-2026.11.13-04.25.29.log",
+      "checked_bytes": 248821,
+      "prefix_sha256": "a1afc7cb440d7168b0a94acb68eb1ebf77618e32f12ffffb6273461d6c278771",
+      "prefix_matches": true,
+      "current_bytes": 248821,
+      "additional_ping_threshold_lines": 0,
+      "additional_game_travel_lines": 0
+    },
+    {
+      "file": "ShooterGame-backup-2026.11.13-11.18.28.log",
+      "checked_bytes": 5380380,
+      "prefix_sha256": "2b1d19c2d20c98aba978b6a267ddbd69da545fb686d7db326abc57e6439f657d",
+      "prefix_matches": true,
+      "current_bytes": 5380380,
+      "additional_ping_threshold_lines": 0,
+      "additional_game_travel_lines": 0
+    },
+    {
+      "file": "ShooterGame-backup-2026.11.13-20.08.16.log",
+      "checked_bytes": 12132681,
+      "prefix_sha256": "d3da527ca746182d2472238b023ef906ee8639f91a685038bf86e2d21e4104c2",
+      "prefix_matches": true,
+      "current_bytes": 12132681,
+      "additional_ping_threshold_lines": 0,
+      "additional_game_travel_lines": 0
+    },
+    {
+      "file": "ShooterGame-backup-2026.11.14-09.30.10.log",
+      "checked_bytes": 1228936,
+      "prefix_sha256": "394100531772b766087f69c903cfb93dfbc3b7df5b0e626e70f1004a8f492c46",
+      "prefix_matches": true,
+      "current_bytes": 1228936,
+      "additional_ping_threshold_lines": 0,
+      "additional_game_travel_lines": 0
+    },
+    {
+      "file": "ShooterGame-backup-2026.11.14-11.51.12.log",
+      "checked_bytes": 2178707,
+      "prefix_sha256": "f34799f9fa1de5deb189c527bdb48e026286bcfde139e315f04ff20020503748",
+      "prefix_matches": true,
+      "current_bytes": 2178707,
+      "additional_ping_threshold_lines": 0,
+      "additional_game_travel_lines": 0
+    },
+    {
+      "file": "ShooterGame-backup-2026.11.14-20.02.40.log",
+      "checked_bytes": 212738,
+      "prefix_sha256": "e17b004354af087991c1b6ca3bc28f06dd82dbe0b9d5ca8bccb5a93b71db2862",
+      "prefix_matches": true,
+      "current_bytes": 212738,
+      "additional_ping_threshold_lines": 0,
+      "additional_game_travel_lines": 0
+    },
+    {
+      "file": "ShooterGame.log",
+      "checked_bytes": 3287060,
+      "prefix_sha256": "3812c32bdcf35777ce90ea95bb0664cad7f8efd334f35ebf18c35690dd7b2d3c",
+      "prefix_matches": true,
+      "current_bytes": 3721847,
+      "additional_ping_threshold_lines": 0,
+      "additional_game_travel_lines": 0
+    }
+  ],
+  "monitors": [
+    {
+      "source": "20261114-004711-625146fb",
+      "last_seq": 3299,
+      "sha_matches": true,
+      "sequence_contiguous": true,
+      "wall_minus_monotonic_extrema": [
+        {
+          "residual_ms": -0.029,
+          "time_utc": "2026-11-13T19:49:13.951+00:00"
+        },
+        {
+          "residual_ms": 0.97,
+          "time_utc": "2026-11-13T19:48:57.946+00:00"
+        }
+      ],
+      "adjacent_clock_steps_over_5ms": [],
+      "largest_write_delay": {
+        "time_utc": "2026-11-13T19:50:39.973+00:00",
+        "delay_ms": 171.99993133544922
+      },
+      "first_sent_cycle_gap_seconds": {
+        "n": 642,
+        "min": 1.9350001811981201,
+        "median": 1.9930000305175781,
+        "p95": 2.053999900817871,
+        "max": 2.061999797821045
+      },
+      "cycle_gaps_over_2_5s": [],
+      "status_counts": {
+        "Success": 3215
+      }
+    },
+    {
+      "source": "20261114-141126-ee9e460b",
+      "last_seq": 5988,
+      "sha_matches": true,
+      "sequence_contiguous": true,
+      "wall_minus_monotonic_extrema": [
+        {
+          "residual_ms": -0.4,
+          "time_utc": "2026-11-14T09:44:44.520+00:00"
+        },
+        {
+          "residual_ms": 0.602,
+          "time_utc": "2026-11-14T09:27:18.515+00:00"
+        }
+      ],
+      "adjacent_clock_steps_over_5ms": [],
+      "largest_write_delay": {
+        "time_utc": "2026-11-14T09:31:22.558+00:00",
+        "delay_ms": 146.00014686584473
+      },
+      "first_sent_cycle_gap_seconds": {
+        "n": 1148,
+        "min": 1.8659999370574951,
+        "median": 1.9920001029968262,
+        "p95": 2.052000045776367,
+        "max": 2.1449999809265137
+      },
+      "cycle_gaps_over_2_5s": [],
+      "status_counts": {
+        "Success": 5745
+      }
+    },
+    {
+      "source": "20261114-163240-f28706ce",
+      "last_seq": 126931,
+      "sha_matches": true,
+      "sequence_contiguous": true,
+      "wall_minus_monotonic_extrema": [
+        {
+          "residual_ms": -28.078,
+          "time_utc": "2026-11-14T20:12:36.089+00:00"
+        },
+        {
+          "residual_ms": 0.687,
+          "time_utc": "2026-11-14T16:36:26.058+00:00"
+        }
+      ],
+      "adjacent_clock_steps_over_5ms": [
+        {
+          "time_utc": "2026-11-14T16:18:12.099+00:00",
+          "delta_ms": -6.535
+        },
+        {
+          "time_utc": "2026-11-14T16:18:12.088+00:00",
+          "delta_ms": 6.472
+        },
+        {
+          "time_utc": "2026-11-14T20:12:36.089+00:00",
+          "delta_ms": -28.746
+        },
+        {
+          "time_utc": "2026-11-14T20:12:36.145+00:00",
+          "delta_ms": 28.621
+        }
+      ],
+      "largest_write_delay": {
+        "time_utc": "2026-11-14T20:28:46.166+00:00",
+        "delay_ms": 236.9999885559082
+      },
+      "first_sent_cycle_gap_seconds": {
+        "n": 24924,
+        "min": 1.2130000591278076,
+        "median": 1.99399995803833,
+        "p95": 2.052999973297119,
+        "max": 2.735999822616577
+      },
+      "cycle_gaps_over_2_5s": [
+        {
+          "time_utc": "2026-11-14T21:45:10.837+00:00",
+          "gap_seconds": 2.736
+        }
+      ],
+      "status_counts": {
+        "Success": 124584,
+        "TimedOut": 41
+      }
+    }
+  ],
+  "limits": "Only frozen committed prefixes are audited. Live append after the cap is not a missing record; game tail counters are not a full new source parse."
+}
