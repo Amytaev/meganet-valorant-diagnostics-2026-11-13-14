@@ -3,7 +3,7 @@ import argparse
 from collections import Counter
 import csv
 from pathlib import Path
-from analyze_rtt_90_180 import read_json, write_json, epoch, TARGETS
+from analyze_rtt_90_180 import read_json, write_json, epoch, TARGETS, EARLY_RETN
 from write_rtt_90_180_report import stamp, num, COLORS, CLASS
 
 
@@ -23,7 +23,7 @@ def charts(project,data,inputs):
         ('open-0007-quiet.png','2026-11-13T19:07:05+00:00','2026-11-13T19:07:30+00:00',230,'00:07: logged ~200 ms while measured ICMP controls stay low'),
         ('open-1536-complete.png','2026-11-13T10:36:18+00:00','2026-11-13T10:37:40+00:00',240,'Same connection :7149: 126.95 / 217.28 / 154.44 / 120.00 ms')]:
         lo,hi=epoch(start),epoch(end)
-        series=[dict(name=t,color=c,points=[dict(x=r['sent_utc'],y=r['rtt_ms']) for r in probes if r['target']==t and r['status']=='Success' and lo<=epoch(r['sent_utc'])<=hi]) for t,c in zip(TARGETS,COLORS)]
+        series=[dict(name=t,color=c,points=[dict(x=r['sent_utc'],y=r['rtt_ms']) for r in probes if r['target']==t and r['status']=='Success' and lo<=epoch(r['sent_utc'])<=hi]) for t,c in zip(TARGETS+[EARLY_RETN],COLORS+['#555555'])]
         series=[s for s in series if s['points']]
         series.append(dict(name='Game threshold points; no interpolation',color='#d62728',chart_type='Point',points=[dict(x=e['time_utc'],y=e['value']) for e in points if lo<=epoch(e['time_utc'])<=hi]))
         specs.append(dict(name=name,title=title,x_label='UTC+05:00; ICMP lines measure different destinations',y_label='RTT (ms)',y_min=0,y_max=ymax,series=series))
@@ -43,7 +43,7 @@ def charts(project,data,inputs):
                       series=[dict(name='Exploratory shifted reference',color='#1768ac',chart_type='Column',points=[dict(x=int(k),y=v) for k,v in ref['shifted_histogram'].items()]),
                               dict(name='Observed overlap: 16 cycles',color='#d62728',points=[dict(x=16,y=0),dict(x=16,y=max(ref['shifted_histogram'].values()))])]))
     minutes=read_json(data/'minute-control-series.json')
-    series=[dict(name=t+' median',color=c,points=[dict(x=r['start_utc'],y=r['rtt_ms']['median']) for r in minutes if r['target']==t and r['rtt_ms']['n']]) for t,c in zip(TARGETS,COLORS)]
+    series=[dict(name=t+' median',color=c,points=[dict(x=r['start_utc'],y=r['rtt_ms']['median']) for r in minutes if r['target']==t and r['rtt_ms']['n']]) for t,c in zip(TARGETS+[EARLY_RETN],COLORS+['#555555'])]
     specs.append(dict(name='open-minute-medians.png',title='Minute ICMP medians across saved coverage; no missing periods filled',x_format='dd.MM HH:mm',
                       x_label='UTC+05:00; line breaks at missing collection periods',y_label='ICMP RTT median (ms)',y_min=0,y_max=120,series=series))
     # Split lines at actual coverage gaps; do not draw artificial continuity across sessions.

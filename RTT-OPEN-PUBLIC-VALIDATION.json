@@ -112,8 +112,8 @@
     },
     {
       "path": "investigation/reports/VALORANT-RTT-OPEN-INVESTIGATION.html",
-      "source_sha256": "031828e0dcdd2e9dd6f8400c56e4a465853d6070f6cb83d2911d1bc6e87d1329",
-      "public_sha256": "d89753e60f34e1229eb611b2a56ca52866cb64a353fcf4448eb569487a314fb4",
+      "source_sha256": "a3960c922c7460e8aef6a6299fd12a98062aee25d178ce9173c383be46d554d6",
+      "public_sha256": "1b2ebc9ae20fccb4e01318bb199c9d150dd51fedb6bb64e97c1187c5d920483c",
       "changed": true
     },
     {
@@ -196,8 +196,8 @@
     },
     {
       "path": "investigation/reports/figures/open-0007-quiet.png",
-      "source_sha256": "f09ce01579703aa19db8f403902b0945d4a8ea65917bd3c52942455651334031",
-      "public_sha256": "f09ce01579703aa19db8f403902b0945d4a8ea65917bd3c52942455651334031",
+      "source_sha256": "676a6e1d9b48e8a790e34f6fab36c39c12238d7050179e8340710e43396c0927",
+      "public_sha256": "676a6e1d9b48e8a790e34f6fab36c39c12238d7050179e8340710e43396c0927",
       "changed": false
     },
     {
@@ -226,8 +226,8 @@
     },
     {
       "path": "investigation/reports/figures/open-minute-medians.png",
-      "source_sha256": "a09cd08cdb4cb428367f0acaaebd147fd58b1d70adfc051db4b46221fd22d762",
-      "public_sha256": "a09cd08cdb4cb428367f0acaaebd147fd58b1d70adfc051db4b46221fd22d762",
+      "source_sha256": "fc183b48229a75ed93b619a1ff7be2bfad229133d1e3d4f4bc78cc5034af7006",
+      "public_sha256": "fc183b48229a75ed93b619a1ff7be2bfad229133d1e3d4f4bc78cc5034af7006",
       "changed": false
     },
     {
@@ -262,8 +262,8 @@
     },
     {
       "path": "investigation/reports/rtt-open-data/SHA256SUMS.txt",
-      "source_sha256": "62dfec04a2ef66f3a1de360a284c92141e34321deced0796f1bb978ce88df8ca",
-      "public_sha256": "62dfec04a2ef66f3a1de360a284c92141e34321deced0796f1bb978ce88df8ca",
+      "source_sha256": "e2e628b52f35b0a570432a49ddc56d9bfb311e8ec729e9102f68b33cf2c7fe6c",
+      "public_sha256": "e2e628b52f35b0a570432a49ddc56d9bfb311e8ec729e9102f68b33cf2c7fe6c",
       "changed": false
     },
     {
@@ -286,8 +286,8 @@
     },
     {
       "path": "investigation/reports/rtt-open-data/chart-specs.json",
-      "source_sha256": "0ad3da5c48d3d398f44c8ca4a522f6ae475d9f1798121436406cbd01bcd36ed1",
-      "public_sha256": "0ad3da5c48d3d398f44c8ca4a522f6ae475d9f1798121436406cbd01bcd36ed1",
+      "source_sha256": "0f19c209a93667a59efaad1a6d9bcfb4c3a48337aab07e2a72e6db611a6d7aff",
+      "public_sha256": "0f19c209a93667a59efaad1a6d9bcfb4c3a48337aab07e2a72e6db611a6d7aff",
       "changed": false
     },
     {
@@ -400,8 +400,8 @@
     },
     {
       "path": "investigation/scripts/write_rtt_open_report.py",
-      "source_sha256": "2779ae29781d293fcbe1204afca2af2bea35a209909e72cff1b0f55a5e0ea46b",
-      "public_sha256": "2779ae29781d293fcbe1204afca2af2bea35a209909e72cff1b0f55a5e0ea46b",
+      "source_sha256": "67c05f994ebdcfb3bf22cc64d3ad9a18cbc74dab17b572bfef6841f8ede82dd3",
+      "public_sha256": "67c05f994ebdcfb3bf22cc64d3ad9a18cbc74dab17b572bfef6841f8ede82dd3",
       "changed": false
     }
   ]
